@@ -119,4 +119,4 @@ build/
 
 # ── Markdown docs (keep only STRUCTURE.md) ───────────────────
 *.md
-!STRUCTURE.md
+!README.md
