@@ -40,6 +40,14 @@ The `web/` folder contains the full-stack application (Express/TypeScript backen
 ### Wrapper A — Algerian Drug Name Resolver
 Maps Algerian/Arabic trade names to INN generic drug names (`drug_resolver.py`, `algerian_brand_map.csv`, `algerian_drugs.csv`) so users can enter local brand names.
 
+### Wrapper B — Food Decomposition Pipeline
+Resolves a food input (including complex dishes, North African foods, or branded products) into its constituent bioactive compounds so they can be queried against the knowledge graph. Runs in priority order:
+1. **NA seed lookup** — checks `data/na_dish_compounds.json` for curated Algerian/North African dishes
+2. **FooDB lookup** — queries pre-processed FooDB compound tables via `foodb_lookup.py`
+3. **LLM decompose** — falls back to LLM-based ingredient decomposition via `llm_decompose.py` if the food is not found in either database
+
+Compound IDs are then resolved to graph entities via `compound_resolver.py`. The food context parser also handles modifiers like "without cheese" or "tomato only" to suppress irrelevant compound warnings.
+
 ---
 
 ## Root-Level Files
@@ -120,13 +128,34 @@ RotatE knowledge graph embedding trained on the HKG to score novel drug-food-enz
 | `mech_train.txt`, `mech_test.txt`, `mech_valid.txt` | Train/test/validation splits |
 | `mech_train.tsv`, `mech_test.tsv`, `mech_valid.tsv` | TSV versions of the above |
 
-**Provenance:** Trained with RotatE on the HKG triplets. Training scripts are in `scripts/prepare_hkg_training.py`.
+**Training scripts:**
+- `train_mech_kge.py` — main RotatE training script for Layer 2. Trains on `data/mechanistic_kge/mech_train.txt`, saves checkpoints to `data/mechanistic_kge/mech_ep*.pt` and final best model to `mech_best.pt`.
+- `train_kge.py` — earlier/alternative KGE training script (kept for reference).
+- `modal_train.py` — version adapted for cloud training on Modal.com (used when local GPU was insufficient).
+
+**Provenance:** Trained with RotatE on the HKG triplets. Data preparation is in `scripts/prepare_hkg_training.py`.
 
 ---
 
 ## `DFinder-main/` — Module 1 Layer 3 LightGCN Base
 
 This folder contains the original open-source LightGCN codebase that Module 1's Layer 3 is built on. It is kept intact because `lightgcn_inference.py` and `drug_resolver.py` reference paths inside it directly.
+
+### `DFinder-main/code/` — Layer 3 Training Code
+
+| File | Purpose |
+|------|---------|
+| `main.py` | **Entry point for training and evaluation.** Run this to train LightGCN: `python main.py --dataset unified-DFI --layer 3 --dim 64` |
+| `model.py` | LightGCN model definition — graph convolution layers, embedding propagation |
+| `DNN.py` | Deep Neural Network baseline model — used alongside LightGCN for comparison/ablation; also contributes to the drug/food feature encoding |
+| `Procedure.py` | Training loop, BPR loss computation, evaluation procedure (Recall, NDCG) |
+| `dataloader.py` | Loads `train.txt`, `test.txt`, builds the sparse interaction graph and adjacency matrix (`s_pre_adj_mat.npz`) |
+| `parse.py` | Argument parser — all hyperparameters (layers, embedding dim, learning rate, batch size, epochs) |
+| `world.py` | Global config and device setup |
+| `register.py` | Model and dataset registry |
+| `utils.py` | Utility functions (metrics, early stopping, logging) |
+| `eval_only.py` | Runs evaluation on a saved checkpoint without retraining |
+| `save_finetune_results.py` | Saves fine-tuning results to file |
 
 ### `DFinder-main/code/checkpoints/`
 | File | Contents |
