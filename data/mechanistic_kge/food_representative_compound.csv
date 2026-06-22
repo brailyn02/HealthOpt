@@ -1,0 +1,1895 @@
+lgn_food_id,food_name,has_fp,rep_compound,rep_smiles,strategy
+0,Bilberry,True,,,original
+1,Caffeine,True,,,original
+2,Calcium,True,,,original
+3,Chamomile,False,,,no_representative_found
+4,Cheese,True,,,original
+5,Coffee,True,,,original
+6,Dairy,False,,,no_representative_found
+7,Danshen Compound,False,,,no_representative_found
+8,Echinacea,False,,,no_representative_found
+9,Fat,False,Oleic Acid,,copy_lgn:754
+10,Fiber,False,Pectin,OC(=O)[C@H]1OC(O)[C@@H](O)[C@H](O)[C@H]1O,compute_smiles
+11,Folic Acid,True,,,original
+12,Garlic Bulb,False,,,no_representative_found
+13,Ginger,True,,,original
+14,Ginkgo Biloba,False,,,no_representative_found
+15,Ginseng,True,,,original
+16,Grapefruit,True,,,original
+17,Green Tea,True,,,original
+18,Iron,True,,,original
+19,Licorice Extract,False,,,no_representative_found
+20,Magnesium,True,,,original
+21,Milk,False,,,no_representative_found
+22,Potassium,True,,,original
+23,Protein,False,L-Leucine,,copy_lgn:511
+24,Salt,True,,,original
+25,Sodium,True,,,original
+26,Vitamin B Complex,False,,,no_representative_found
+27,Vitamin C,True,,,original
+28,Vitamin D,True,,,original
+29,Vitamin E,True,,,original
+30,Vitamin K2,True,,,original
+31,Zinc,True,,,original
+32,Carvone,True,,,original
+33,Acetic Acid,True,,,original
+34,Acorn,True,,,original
+35,Shi Chang Pu,False,,,no_representative_found
+36,Bael Fruit,False,,,no_representative_found
+37,Agave,True,,,original
+38,Alaska Pollock,True,,,original
+39,Ale,False,,,no_representative_found
+40,Gracilaria Seaweed,False,,,no_representative_found
+41,Amaranth,True,,,original
+42,Amlaki,False,,,no_representative_found
+43,Dill,True,,,original
+44,Angelica Dahurica,False,,,no_representative_found
+45,Angelica Keiskei,False,,,no_representative_found
+46,Anise Myrtle,False,,,no_representative_found
+47,Anthocyanins,False,Cyanidin,,copy_lgn:124
+48,Groundnut,False,,,no_representative_found
+49,Apple,True,,,original
+50,Apple Condensed Tannin,False,,,no_representative_found
+51,Araceae,False,,,no_representative_found
+52,Bearberry,False,,,no_representative_found
+53,Black Chokeberry,True,,,original
+54,Ashwagandha,False,,,no_representative_found
+55,Asparagus,True,,,original
+56,Auraptene,True,,,original
+57,Neem,False,,,no_representative_found
+58,Desert Date,False,,,no_representative_found
+59,Banana,True,,,original
+60,Beef Tallow,False,,,no_representative_found
+61,Beer,True,,,original
+62,Berberine,True,,,original
+63,Bergamot,False,,,no_representative_found
+64,Blackcurrant,True,,,original
+65,Blueberry,False,,,no_representative_found
+66,Blueberry Anthocyanins-Enriched Extract,False,,,no_representative_found
+67,Fingerroot,False,,,no_representative_found
+68,Brassica Sprout,False,,,no_representative_found
+69,Broccoli,True,,,original
+70,Brown Algae,False,,,no_representative_found
+71,Brussels Sprouts,False,,,no_representative_found
+72,Buckwheat Protein Extract,False,,,no_representative_found
+73,Budo-No-Megumi,False,,,no_representative_found
+74,C-Phycocyanin,False,,,no_representative_found
+75,Cirsium Chanroenicum,False,,,no_representative_found
+76,Cinnamon,True,,,original
+77,Caffeic Acid,True,,,original
+78,Pigeonpea,False,,,no_representative_found
+79,Canola,True,,,original
+80,Capsaicin,True,,,original
+81,Carrageenan,False,,,no_representative_found
+82,Carrots,False,,,no_representative_found
+83,Castor,False,,,no_representative_found
+84,Celery,False,,,no_representative_found
+85,Chelerythrine,True,,,original
+86,Chelidonine,True,,,original
+87,Chenopodium,False,,,no_representative_found
+88,Cherries,False,,,no_representative_found
+89,Chicken,True,,,original
+90,Chinese Parsley,False,,,no_representative_found
+91,Chitosan,False,,,no_representative_found
+92,Chuan Lian,False,,,no_representative_found
+93,Chicory,True,,,original
+94,Thistle,False,Apigenin,,hkg_best_compound(count=8)
+95,Watermelon,True,,,original
+96,Citrus Juices,False,,,no_representative_found
+97,Citrus Leaf Extract,False,,,no_representative_found
+98,Citrus Reticulate,False,,,no_representative_found
+99,Cnidium,False,,,no_representative_found
+100,Cocoa,False,,,no_representative_found
+101,Coconut,True,,,original
+102,Coconut Flower Sap,False,,,no_representative_found
+103,Codliver,False,,,no_representative_found
+104,Coenzyme Q10,False,,,no_representative_found
+105,Cola,False,,,no_representative_found
+106,Combretaceae,False,,,no_representative_found
+107,Common Sage,False,Hesperetin,,hkg_best_compound(count=8)
+108,Common Valerian,False,,,no_representative_found
+109,Compositae,False,,,no_representative_found
+110,Cone Flower,False,,,no_representative_found
+111,Cordyceps,False,,,no_representative_found
+112,Coriandrum Sativum L. Seed Extract,False,,,no_representative_found
+113,Corilagin,True,,,original
+114,Corn Oil,False,,,no_representative_found
+115,Corni,False,,,no_representative_found
+116,Cottonseed,True,,,original
+117,Cranberries,False,,,no_representative_found
+118,Crataegi,False,,,no_representative_found
+119,Crataegus,False,,,no_representative_found
+120,Cucumis Melo,False,,,no_representative_found
+121,Cucurbita Andreana,False,,,no_representative_found
+122,Curcuminoids,False,,,no_representative_found
+123,Cuscutae,False,,,no_representative_found
+124,Cyanidin,True,,,original
+125,Cyperus Rotundus,False,,,no_representative_found
+126,D. Edulis,False,,,no_representative_found
+127,Proprietary Korean Herbal Formula,False,,,no_representative_found
+128,Daidzein,True,,,original
+129,Daikon,False,,,no_representative_found
+130,Dairy Product,False,,,no_representative_found
+131,Dairy Product Fermented By Lactobacilli,False,,,no_representative_found
+132,Damnacanthal,True,,,original
+133,Danggui,False,,,no_representative_found
+134,Daucus Carota,False,,,no_representative_found
+135,Dehydroepiandrosterone,True,,,original
+136,Delphinidin,True,,,original
+137,Dengzhan Shengmai Formula,False,,,no_representative_found
+138,Dioscin,True,,,original
+139,Dioscorea,False,,,no_representative_found
+140,Dioscorea Nipponica Makino,False,,,no_representative_found
+141,Dioscoreae Rhizoma,False,,,no_representative_found
+142,Equisetum Arvense L,False,,,no_representative_found
+143,Eucalyptus Microcorys Extract,False,,,no_representative_found
+144,Evodia Rutaecarpa,False,,,no_representative_found
+145,Falcarinol,True,,,original
+146,Fava Bean,False,,,no_representative_found
+147,Foeniculum Vulgare,False,,,no_representative_found
+148,Fenugreek,True,,,original
+149,Ff-D,False,,,no_representative_found
+150,Fish Flakes,False,,,no_representative_found
+151,Fish Flakes Supplemented With The Diatom Thalassiosira Weissflogii,False,,,no_representative_found
+152,Fish Oil,True,,,original
+153,Folic,True,,,original
+154,Folinic Acid,True,,,original
+155,Folinic Acids,False,,,no_representative_found
+156,Fortified Oil,False,,,no_representative_found
+157,Fortified Wine,False,,,no_representative_found
+158,Fresh Palm Oil,False,,,no_representative_found
+159,Galactomannan,False,,,no_representative_found
+160,Gallic Acid,True,,,original
+161,Garcinia Kola,False,,,no_representative_found
+162,Garcinol,True,,,original
+163,Garden Cress,True,,,original
+164,Gegen,False,,,no_representative_found
+165,Ginger-Green Tea Mixture,False,,,no_representative_found
+166,Ginsenoside Rg1,True,,,original
+167,Protopanaxatriol (Pt) Ginsenosides,False,,,no_representative_found
+168,Grape Seed,False,,,no_representative_found
+169,Groundnut Oils,False,,,no_representative_found
+170,Guineense Swartz,False,,,no_representative_found
+171,Guttiferae,False,,,no_representative_found
+172,Harpagophytum Procumbens Extract,False,,,no_representative_found
+173,"Herbal Mixtures Of Liriope Platyphylla, Glycyrrhiza Uralensis, And Cinnamomum Cassia",False,,,no_representative_found
+174,Hibiscus Rosa Sinensis,False,,,no_representative_found
+175,Hibiscus Sabdariffa,False,,,no_representative_found
+176,Hippophae Rhamnoides,False,,,no_representative_found
+177,Honey,True,,,original
+178,Horse Chestnut,False,,,no_representative_found
+179,Hypericum Extract Formulation,False,,,no_representative_found
+180,Indian Gooseberry,False,,,no_representative_found
+181,Kidney Beans,False,,,no_representative_found
+182,Kiwi,True,,,original
+183,Kudzu,False,,,no_representative_found
+184,L. Usitatissimum,False,,,no_representative_found
+185,Laminaria Hyperborea,False,,,no_representative_found
+186,Laurus Nobilis L,False,,,no_representative_found
+187,Lavandula Burnetii,False,,,no_representative_found
+188,Lavender,False,,,no_representative_found
+189,Soy Lecithin,False,Phosphatidylcholine,,copy_lgn:921
+190,Lemon,True,,,original
+191,Lemon Myrtle,False,,,no_representative_found
+192,Lepidium Sativum,False,,,no_representative_found
+193,Lime,True,,,original
+194,Linalool,True,,,original
+195,Linseed,False,,,no_representative_found
+196,Luffa,False,,,no_representative_found
+197,Lutein,True,,,original
+198,Lycii,False,,,no_representative_found
+199,M. Parviflora,False,,,no_representative_found
+200,Macrotyloma Uniflorum,False,,,no_representative_found
+201,Malus,False,,,no_representative_found
+202,Malva Parviflora,False,,,no_representative_found
+203,Malva Sylvestris,False,,,no_representative_found
+204,Malvidin,True,,,original
+205,Malβg,False,,,no_representative_found
+206,Manganese,True,,,original
+207,Mangifera Indica,False,,,no_representative_found
+208,Mangosteen,False,,,no_representative_found
+209,Marula,False,,,no_representative_found
+210,Melon,False,,,no_representative_found
+211,Mentha Piperita,False,,,no_representative_found
+212,Bitter Melon Leaf Extract,False,,,no_representative_found
+213,Morinda Citrifolia Linn.,False,,,no_representative_found
+214,Moringa Oleifera,False,,,no_representative_found
+215,Morus,False,,,no_representative_found
+216,Morus Alba L-H2O,False,,,no_representative_found
+217,Muscadine Grapes,False,,,no_representative_found
+218,Mustard,True,,,original
+219,Myo-Inositol,True,,,original
+220,Naoxintong Formula,False,,,no_representative_found
+221,Neferine,True,,,original
+222,Nelumbo Nucifera Gaertn,False,,,no_representative_found
+223,Nelumbonucifera,False,,,no_representative_found
+224,Nepitrin,True,,,original
+225,Niacin,True,,,original
+226,Nigella Sativa,False,,,no_representative_found
+227,Non-Alcoholic Beverage Made Of Red Wine Vinegar And Grape Juice,False,,,no_representative_found
+228,O. Basilicum,False,,,no_representative_found
+229,Oat,True,,,original
+230,Ocimum Basilicum,False,,,no_representative_found
+231,Olerciamide A,True,,,original
+232,Olive Oil,True,,,original
+233,Onion,False,,,no_representative_found
+234,Origanum Majorana,False,,,no_representative_found
+235,Oroxylum Indicum Seed Extracts,False,,,no_representative_found
+236,Oyster,False,,,no_representative_found
+237,Oyster (Ostrea Plicatula Gmelin) Polysaccharides,False,,,no_representative_found
+238,P. Dulce,False,,,no_representative_found
+239,P. Guineense,False,,,no_representative_found
+240,P. Hydropiper,False,,,no_representative_found
+241,P. Pulmonarius,False,,,no_representative_found
+242,P. Pulmonarius Glucans,False,,,no_representative_found
+243,P. Vulgaris,False,,,no_representative_found
+244,Palm Oil,False,,,no_representative_found
+245,Panax Notoginseng Ledeb,False,,,no_representative_found
+246,Parkia Speciosa,False,,,no_representative_found
+247,Parsley,True,,,original
+248,Passiflora Incarnata,False,,,no_representative_found
+249,Pectolinarigenin,True,,,original
+250,Peonidin,True,,,original
+251,Perilla,False,,,no_representative_found
+252,Perilla Frutescens Britton,False,,,no_representative_found
+253,Phaseolus Vulgaris,False,,,no_representative_found
+254,Phoenix Dactylifera,False,,,no_representative_found
+255,Phyllanthaceae,False,,,no_representative_found
+256,Phyllanthus Acidus,False,,,no_representative_found
+257,Phyllanthus Emblica Linn,False,,,no_representative_found
+258,Phyllanthus Emblica-Etoh,False,,,no_representative_found
+259,Physalis,False,,,no_representative_found
+260,Physalis Peruviana,False,,,no_representative_found
+261,Phytate,True,,,original
+262,Pinitol,True,,,original
+263,Pinus Halepensis,False,,,no_representative_found
+264,Piperine,True,,,original
+265,Pistacia Lentiscus Oil,False,,,no_representative_found
+266,Pithecellobium Dulce,False,,,no_representative_found
+267,Pleurotus Ostreatus,False,,,no_representative_found
+268,Pleurotus Pulmonarius,False,,,no_representative_found
+269,Polygonum Hydropiper,False,,,no_representative_found
+270,Polygonum Viviparum,False,,,no_representative_found
+271,Polysaccharides Extracted From The Egyptian Mango Mangifera Indica,False,,,no_representative_found
+272,Pomegranate,True,,,original
+273,Ponciri Fructus,False,,,no_representative_found
+274,Poncirus Trifoliata,False,,,no_representative_found
+275,Portulaca Oleracea L.,False,,,no_representative_found
+276,Propolis,False,,,no_representative_found
+277,Psidium Guajava,False,,,no_representative_found
+278,Pueraria Lobata,False,,,no_representative_found
+279,Quercetin,True,,,original
+280,Quercus,False,,,no_representative_found
+281,R. Hastatus,False,,,no_representative_found
+282,Rainbow Trout,False,Riboflavine,,hkg_best_compound(count=3)
+283,Raphia Hookeri,False,,,no_representative_found
+284,Raspberry,False,,,no_representative_found
+285,Red Wine,True,,,original
+286,Red Wine Vinegar And Grape Juice,False,,,no_representative_found
+287,Repeatedly Heated Palm,False,,,no_representative_found
+288,Repeatedly-Heated Vegetable,False,,,no_representative_found
+289,"3,4',5-Trihydroxystilbene",True,,,original
+290,Rhizoma,False,,,no_representative_found
+291,Rhodiola Rosea,False,,,no_representative_found
+292,Riboflavin,True,,,original
+293,Rosa Damascena,False,,,no_representative_found
+294,Rosaceae,False,,,no_representative_found
+295,Rosavin,True,,,original
+296,Rosmarinus Officinalis L.,False,,,no_representative_found
+297,Rubi,False,,,no_representative_found
+298,Rubus,False,,,no_representative_found
+299,Rubus Coreanus,False,,,no_representative_found
+300,Brassica Napus L. Var. Napobrassica,False,,,no_representative_found
+301,S. Aqueum,False,,,no_representative_found
+302,S. Aromaticum,False,,,no_representative_found
+303,S. Indicum,False,,,no_representative_found
+304,S. Limbata,False,,,no_representative_found
+305,S.Limbata,False,,,no_representative_found
+306,S.Montana Extract,False,,,no_representative_found
+307,Saffron,False,Quercetin,,hkg_best_compound(count=8)
+308,Sage,False,,,no_representative_found
+309,Salvia Przewalskii,False,,,no_representative_found
+310,Sambucus Williamsii Hance,False,,,no_representative_found
+311,Sanguinarine,True,,,original
+312,Sardine,False,,,no_representative_found
+313,Satureja Montana Extract,False,,,no_representative_found
+314,Sauchinone,True,,,original
+315,Schisandra Chinensis,False,,,no_representative_found
+316,Sclerocarya Birrea,False,,,no_representative_found
+317,Scuppernongs,False,,,no_representative_found
+318,Scutellarin,True,,,original
+319,Seaweed,False,,,no_representative_found
+320,Selenium,True,,,original
+321,Semi-Skimmed Milk,False,,,no_representative_found
+322,Sesame,True,,,original
+323,Seseli Praecox,False,,,no_representative_found
+324,Sheabutter,False,,,no_representative_found
+325,Shexiang Baoxin Formula,False,,,no_representative_found
+326,Shiitake,True,,,original
+327,Silybum Marianum,False,,,no_representative_found
+328,Sinapis Alba,False,,,no_representative_found
+329,Sodium Caseinate,False,,,no_representative_found
+330,Soft Plain Cheese,False,,,no_representative_found
+331,Sonchus Asper,False,,,no_representative_found
+332,Soyabeans,False,,,no_representative_found
+333,Sparassis Crispa,False,,,no_representative_found
+334,Spinacia Oleracea,False,,,no_representative_found
+335,Spirafolide,True,,,original
+336,Spirodela Polyrhiza,False,,,no_representative_found
+337,Spirulina,True,,,original
+338,Squash,False,,,no_representative_found
+339,St. John'S Wort,False,,,no_representative_found
+340,Sucrose,True,,,original
+341,Sucrose Fatty Acid Ester,False,,,no_representative_found
+342,Syzygium Aqueum,False,,,no_representative_found
+343,Syzygium Aromaticum,False,,,no_representative_found
+344,Syzygium Cumini Extract,False,,,no_representative_found
+345,Taraxacum Platycarpum,False,,,no_representative_found
+346,Tartary Buckwheat Sprouts,False,,,no_representative_found
+347,Tasmannia Pepper Leaf,False,,,no_representative_found
+348,Terminalia Belerica,False,,,no_representative_found
+349,Tf(Ic*As)*483/13,False,,,no_representative_found
+350,Thiamine,True,,,original
+351,Thiamine Pyrophosphate,True,,,original
+352,Thyme,False,,,no_representative_found
+353,Tormentillae,False,,,no_representative_found
+354,Tremella Fuciformis,False,,,no_representative_found
+355,Tribulus Terrestris,True,,,original
+356,Trifolium Pratense,False,,,no_representative_found
+357,Trigonelline,True,,,original
+358,Tristemma Hirtum,False,,,no_representative_found
+359,Triticum Sativum,False,,,no_representative_found
+360,Trolox,True,,,original
+361,U. Dioica,False,,,no_representative_found
+362,Uapaca Guineensis,False,,,no_representative_found
+363,Umbelliferae,True,,,original
+364,Urtica,False,,,no_representative_found
+365,Urtica Dioica Extract,False,,,no_representative_found
+366,Vaccinium Bracteatum Thunb. Fruit,False,,,no_representative_found
+367,Valerian,False,,,no_representative_found
+368,Vco,True,,,original
+369,Vegetable Juice,True,,,original
+370,Vegetol Red Grapevin,False,,,no_representative_found
+371,Virgin Coconut Oil,False,,,no_representative_found
+372,Vitamin B6,True,,,original
+373,Vitamin D3,True,,,original
+374,Wheat,True,,,original
+375,Whey Protein,False,,,no_representative_found
+376,Whey Protein Isolate,False,,,no_representative_found
+377,Wine,False,,,no_representative_found
+378,Wpi,False,,,no_representative_found
+379,Crataegi Standardized Extract,False,,,no_representative_found
+380,Yogurt Bacteria,False,,,no_representative_found
+381,Zhi-Xiong,False,,,no_representative_found
+382,Npc209773,True,,,original
+383,(+-)-Trimeprazine,True,,,original
+384,2-Amino-5-Phenyl4(5H)-Oxazolone,True,,,original
+385,Deutetrabenazine (Usan/Inn),True,,,original
+386,"(2R,4S)-Ketoconazole",True,,,original
+387,"Med.21724, Compound Benztropine",True,,,original
+388,"(1R,2S)-Tranylcypromine",True,,,original
+389,Magaldrate (Usan:Usp:Inn:Ban),True,,,original
+390,Naringin,True,,,original
+391,(+-)-Chlorpheniramine,True,,,original
+392,Ginkgo Biloba Leaf Extract,False,,,no_representative_found
+393,Vitis Vinifera Leaves Polyphenolic,False,,,no_representative_found
+394,Thymoquinone,True,,,original
+395,T. Cacao,False,,,no_representative_found
+396,Theobroma Cacao,False,,,no_representative_found
+397,Rhodiola,False,,,no_representative_found
+398,Silydianin,True,,,original
+399,Silybin,True,,,original
+400,Isosilybin,True,,,original
+401,Silychristin,True,,,original
+402,Cherry,False,,,no_representative_found
+403,Panax Notoginseng Saponins,False,,,no_representative_found
+404,Xuesaitong,False,,,no_representative_found
+405,Chocolate,True,,,original
+406,Berberis Vulgaris,False,,,no_representative_found
+407,Cocoa Powder,False,Quercetin,,hkg_best_compound(count=8)
+408,Fennel,True,,,original
+409,Nigella Sativa Oil,False,,,no_representative_found
+410,Panax Ginseng C.A. Meyer,False,,,no_representative_found
+411,Glycyrrhizic Acid,True,,,original
+412,Soybean Extract,False,,,no_representative_found
+413,Green Tea Extract,False,,,no_representative_found
+414,Arbutin,True,,,original
+415,Polysaccharide Of Spirulina Platensis,False,,,no_representative_found
+416,Pomelo Extract,False,,,no_representative_found
+417,Cranberry Juice,False,,,no_representative_found
+418,Rosa Damascena Extract,False,,,no_representative_found
+419,Fruit Juices,False,,,no_representative_found
+420,Turmeric Rhizome Powder Suspension,False,,,no_representative_found
+421,Multivitamin,False,,,no_representative_found
+422,Mandarin Juice,False,,,no_representative_found
+423,Piper Longum L.,False,,,no_representative_found
+424,Orange,False,,,no_representative_found
+425,Garcinia Mangostana,False,,,no_representative_found
+426,Glycyrrhiza Glabra Fabaceae,False,,,no_representative_found
+427,Red Spinach,False,,,no_representative_found
+428,Olive,False,Apigenin,,hkg_best_compound(count=8)
+429,Palm,True,,,original
+430,Red Ginseng,False,,,no_representative_found
+431,Mentha Spicata,False,,,no_representative_found
+432,Panax Quinquefolius,False,,,no_representative_found
+433,Grape Seed Proanthocyanidin Extract,False,,,no_representative_found
+434,Punica Granatum,False,,,no_representative_found
+435,Black Tea,True,,,original
+436,Camellia Sinensis,False,,,no_representative_found
+437,Vicia Faba,False,,,no_representative_found
+438,Thymus Vulgaris,False,,,no_representative_found
+439,Thyme (Thymus Vulgaris) Leaf Aqueous Extract,False,,,no_representative_found
+440,10-Gingerol,True,,,original
+441,Whole-Grain,False,,,no_representative_found
+442,Refined-Grain,False,,,no_representative_found
+443,Corn,True,,,original
+444,A.Atroviolaceum Extract,False,,,no_representative_found
+445,Crocus Sativus,False,,,no_representative_found
+446,Grape Juice,False,,,no_representative_found
+447,Korean Red Ginseng Total Extract,False,,,no_representative_found
+448,Salvia Miltiorrhiza,False,,,no_representative_found
+449,Citrus Unshiu,False,,,no_representative_found
+450,T. Foenum-Graecum Aqueous Extract,False,,,no_representative_found
+451,Glycyrrhetinic Acid,True,,,original
+452,Tea,True,,,original
+453,Milk Thistle,False,,,no_representative_found
+454,Crocin,True,,,original
+455,Salvia,False,,,no_representative_found
+456,Vitis Vinifera,False,,,no_representative_found
+457,Whole-Grain Cereal,False,,,no_representative_found
+458,Soybean Oil,True,,,original
+459,Grapes,False,,,no_representative_found
+460,Clementine,True,,,original
+461,Schisandra,False,,,no_representative_found
+462,Vaccinium Macrocarpon,False,,,no_representative_found
+463,Kiwifruit,False,,,no_representative_found
+464,Legume,False,,,no_representative_found
+465,Gamma-Mangostin,True,,,original
+466,Pomegranate Seeds Oil,False,,,no_representative_found
+467,Anticoagulant Herbs,False,,,no_representative_found
+468,Garlic,True,,,original
+469,Vitamin K,True,,,original
+470,Alcohol,True,,,original
+471,Calcium-Rich Foods,False,,,no_representative_found
+472,Kale,True,,,original
+473,Spinach,True,,,original
+474,Iron Supplements,False,,,no_representative_found
+475,High-Fat Foods,False,,,no_representative_found
+476,Natural Licorice,False,,,no_representative_found
+477,Potassium-Rich Foods,False,,,no_representative_found
+478,Vitamin B6 (Pyridoxine),False,,,no_representative_found
+479,Calcium Supplements,False,,,no_representative_found
+480,Fruit Juice,True,,,original
+481,Avidin (Raw Egg White),False,,,no_representative_found
+482,Citrus,True,,,original
+483,Flavonoid-Rich Foods,False,,,no_representative_found
+484,Ephedra,False,,,no_representative_found
+485,High-Salt Foods,False,,,no_representative_found
+486,Niacin (Vitamin B3),False,,,no_representative_found
+487,Avocado,True,,,original
+488,High-Fiber Foods,False,,,no_representative_found
+489,Xanthines,False,,,no_representative_found
+490,Vitamin A,True,,,original
+491,Vitamin A Supplements,False,,,no_representative_found
+492,Iodine,True,,,original
+493,Goitrogenic Foods,False,,,no_representative_found
+494,Soy/Soybean,False,,,no_representative_found
+495,Aged Cheese,False,,,no_representative_found
+496,Tyramine-Containing Foods,False,Tyramine,NCCc1ccc(O)cc1,compute_smiles
+497,Yogurt,True,,,original
+498,Fava Beans,False,,,no_representative_found
+499,Histamine-Containing Foods,False,,,no_representative_found
+500,Pickled Foods,False,,,no_representative_found
+501,Iodine-Containing Foods,False,,,no_representative_found
+502,Seville Orange,False,,,no_representative_found
+503,Melatonin,True,,,original
+504,Folic Acid/Folate,False,,,no_representative_found
+505,Vitamin B12,True,,,original
+506,Vitamin K-Rich Foods,False,,,no_representative_found
+507,D-Aspartic Acid,True,,,original
+508,Palmitic Acid,True,,,original
+509,Glucose,True,,,original
+510,Naringenin,True,,,original
+511,L-Leucine,True,,,original
+512,Arginine,True,,,original
+513,Epsilon-Polylysine,True,,,original
+514,D-Fructose,True,,,original
+515,L-Serine,True,,,original
+516,Nitrogen,True,,,original
+517,L-Proline,True,,,original
+518,Ethanol,True,,,original
+519,"1-Methyl-4-(6-Methylhept-6-En-2-Yl)Cyclohexa-1,4-Diene",True,,,original
+520,Curcumene,True,,,original
+521,Curcumenol,True,,,original
+522,Ethinylestradiol,True,,,original
+523,L-Arabinose,True,,,original
+524,(-)-Zingiberene,True,,,original
+525,Turmerone,True,,,original
+526,Curzerenone,True,,,original
+527,"1,8-Cineole",True,,,original
+528,Malic Acid,True,,,original
+529,Lactose,True,,,original
+530,Phosphine,True,,,original
+531,Deae-Cellulose,True,,,original
+532,Nitrate,True,,,original
+533,Nicotinic Acid,True,,,original
+534,Glutamic Acid,True,,,original
+535,"4-((3,3-Dimethyloxiran-2-Yl)Methoxy)Furo(3,2-G)Chromen-7-One",True,,,original
+536,Citric Acid,True,,,original
+537,L-Tryptophan,True,,,original
+538,Npc214502,True,,,original
+539,(-)-Asparagine,True,,,original
+540,Maltose,True,,,original
+541,Oxalic Acid,True,,,original
+542,Rutin,True,,,original
+543,Hydrogen Sulfide,True,,,original
+544,"2,3-Dihydroxybutanedioic Acid",True,,,original
+545,Xanthyletin,True,,,original
+546,Succinic Acid,True,,,original
+547,2-Oxoglutaric Acid,True,,,original
+548,1-Methyl-4-Prop-1-En-2-Ylcyclohexene,True,,,original
+549,Elemol,True,,,original
+550,Xanthoxyletin,True,,,original
+551,L-Lysine,True,,,original
+552,Mannan,True,,,original
+553,L-Histidine,True,,,original
+554,Pyrrolidine,True,,,original
+555,L-Threonine,True,,,original
+556,Citronellol,True,,,original
+557,Zingiberol,True,,,original
+558,L-Tyrosine,True,,,original
+559,Delphinidin 3-O-Glucoside Cation,True,,,original
+560,Decanoic Acid,True,,,original
+561,Raffinose,True,,,original
+562,"2-(3,4-Dihydroxyphenyl)-3,5,7-Trihydroxy-1-Benzopyrylium",True,,,original
+563,Beta-Sesquiphellandrene,True,,,original
+564,Delphinidin Chloride,True,,,original
+565,L-Alanine,True,,,original
+566,L-Methionine,True,,,original
+567,Petunidin 3-Glucoside,True,,,original
+568,Delphinidin 3-Galactoside,True,,,original
+569,Ursolic Acid,True,,,original
+570,L-Isoleucine,True,,,original
+571,Camphene,True,,,original
+572,Glycine,True,,,original
+573,Quinate,True,,,original
+574,Genistin,True,,,original
+575,Daidzin,True,,,original
+576,Stearic Acid,True,,,original
+577,Fluoride Ion,True,,,original
+578,Magnesium Ion,True,,,original
+579,Choline,True,,,original
+580,Catechin,True,,,original
+581,Malonylgenistin,True,,,original
+582,(-)-Beta-Sitosterol,True,,,original
+583,6'-Sialyllactose,True,,,original
+584,Sulfide Ion,True,,,original
+585,Chlorine,True,,,original
+586,Phosphate,True,,,original
+587,Copper,True,,,original
+588,Cdp-Dg(16:0/18:0),True,,,original
+589,"Disodium;[3-[2,3-Di(Octadeca-9,12-Dienoyloxy)Propoxy-Oxidophosphoryl]Oxy-2-Hydroxypropyl] 2,3-Di(Octadeca-9,12-Dienoyloxy)Propyl Phosphate",True,,,original
+590,1-Palmitoylglycerol 3-Phosphate,True,,,original
+591,Cdp-Dg(16:0/16:0),True,,,original
+592,Isoamyl Alcohol,True,,,original
+593,Glycerol,True,,,original
+594,Ethyl Acetate,True,,,original
+595,Cadaverine,True,,,original
+596,Isobutanol,True,,,original
+597,Sorbitol,True,,,original
+598,2-Methyl-2-Butanol,True,,,original
+599,Putrescine,True,,,original
+600,D-Galacturonic Acid,True,,,original
+601,Gluconic Acid,True,,,original
+602,Cholesterol,True,,,original
+603,Lignin,True,,,original
+604,(-)-Gallocatechin Gallate,True,,,original
+605,Stachyose,True,,,original
+606,"Bis((3R,4S,5S,6R)-2-[[(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-Ethyl-6-Methylheptan-2-Yl]-10,13-Dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-Dodecahydro-1H-Cyclopenta[A]Phenanthren-3-Yl]Oxy]-6-(Hydroxymethyl)Oxane-3,4,5-Triol);(3R,4S,5S,6R)-2-[[(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-Ethyl-6-Methylhept-6-En-2-Yl]-10,13-Dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-Dodecahydro-1H-Cyclopenta[A]Phenanthren-3-Yl]Oxy]-6-(Hydroxymethyl)Oxane-3,4,5-Triol",True,,,original
+607,Theaflavin (Standard),True,,,original
+608,Hexanal,True,,,original
+609,"(1R,2S,4R,5S)-6-[(2R,3R,4S,5S)-3,4,5-Trihydroxyoxan-2-Yl]Oxycyclohexane-1,2,3,4,5-Pentol",True,,,original
+610,Epigallocatechin,True,,,original
+611,Diosgenin,True,,,original
+612,Epicatechin Gallate,True,,,original
+613,Water,True,,,original
+614,Ellagic Acid,True,,,original
+615,Stachyurin,True,,,original
+616,Luteolin,True,,,original
+617,Ascorbic Acid; Biotin; Cyanocobalamin; Dexpanthenol; Ergocalciferol; Folic Acid; Niacinamide; Pyridoxine Hydrochloride; Riboflavin 5'-Phosphate Sodium; Thiamine Hydrochloride; Vitamin A; Vitamin E,True,,,original
+618,Galloylpunicalin,True,,,original
+619,Glytoucan:G35236Gy,True,,,original
+620,Benzoic Acid,True,,,original
+621,Peonidin 3-Arabinoside,True,,,original
+622,4-Hydroxybenzoic Acid,True,,,original
+623,Piperidines,True,,,original
+624,Peonidin 3-Galactoside,True,,,original
+625,Betulinic Acid,True,,,original
+626,Mannitol,True,,,original
+627,"Ethanedioic Acid, Calcium Salt (1:1)",True,,,original
+628,"3,4',5,7-Tetrahydroxy-3'-Methoxyflavylium",True,,,original
+629,Hyperoside,True,,,original
+630,4-Hydroxyglucobrassicin,True,,,original
+631,Eugenol,True,,,original
+632,Gamma-Terpinene,True,,,original
+633,Allyl Isothiocyanate,True,,,original
+634,Myrcene,True,,,original
+635,Invert Sugar,True,,,original
+636,Apiole,True,,,original
+637,Chrysoeriol 7-O-(6''-Malonyl-Apiosyl-Glucoside),True,,,original
+638,P-Cymen-8-Ol,True,,,original
+639,Psoralen,True,,,original
+640,Hesperetin,True,,,original
+641,Terpinolene,True,,,original
+642,Apigenin 7-O-(6''-Malonyl-Apiosyl-Glucoside),True,,,original
+643,Isorhamnetin,True,,,original
+644,4-Methoxyglucobrassicin,True,,,original
+645,Coumarin,True,,,original
+646,4-Vinylguaiacol,True,,,original
+647,"Rubber, Natural-Smoked Sheet And Latex Solids (Hevea Brasiliensis)",True,,,original
+648,Myristicin,True,,,original
+649,Imperatorin,True,,,original
+650,Luteolin 7-O-(2-Apiosyl-6-Malonyl)-Glucoside,True,,,original
+651,Bergapten,True,,,original
+652,"1-Allyl-2,3,4,5-Tetramethoxybenzene",True,,,original
+653,Pseudotaraxasterol,True,,,original
+654,"24-Methylene,25-Methylcholesta-5-En-3Beta-Ol",True,,,original
+655,Beta-Pinene,True,,,original
+656,Apigenin,True,,,original
+657,Xylan Sulfate,True,,,original
+658,Methylamine,True,,,original
+659,P-Cymene,True,,,original
+660,L-Glutamine,True,,,original
+661,Lauric Acid,True,,,original
+662,(-)-Cystine,True,,,original
+663,Theobromine,True,,,original
+664,Myristic Acid,True,,,original
+665,"3,3',4',5,7-Pentahydroxy-5'-Methoxyflavylium",True,,,original
+666,"Glycerophospholipids, Cephalins",True,,,original
+667,D-Xylose,True,,,original
+668,"(2R,3R,4S,5S)-2,3,4,5-Tetrahydroxyhexanal",True,,,original
+669,Heptanoic Acid,True,,,original
+670,An Inositol,True,,,original
+671,Amygdalin,True,,,original
+672,Eicosanoic Acid,True,,,original
+673,Ammonia,True,,,original
+674,Kaempferol,True,,,original
+675,"Kaempferol 3,7,4'-O-Triglucoside",True,,,original
+676,Kaempferol 3-O-Sophoroside,True,,,original
+677,Nonanoic Acid,True,,,original
+678,Hexanoic Acid,True,,,original
+679,Butyric Acid,True,,,original
+680,Octanoic Acid,True,,,original
+681,Npc212957,True,,,original
+682,Beta-D-Glucopyranuronic Acid,True,,,original
+683,Eriocitrin,True,,,original
+684,Lactic Acid,True,,,original
+685,Lonicerin,True,,,original
+686,"3,5-Dihydroxyphenyl Beta-D-Glucopyranoside",True,,,original
+687,P-Menth-4(8)-En-3-One,True,,,original
+688,D-Arabitol,True,,,original
+689,Narirutin,True,,,original
+690,Hesperidin,True,,,original
+691,Menthofuran,True,,,original
+692,Ethyl Lactate,True,,,original
+693,Erythritol,True,,,original
+694,(-)-Menthol,True,,,original
+695,Myricetin,True,,,original
+696,Pyridoxine,True,,,original
+697,Isorhoifolin,True,,,original
+698,Diosmin,True,,,original
+699,D-Galactose,True,,,original
+700,"(3B,5A,6B,25R)-3,6-Dihydroxyspirostane-2,12-Dione 3-[4'-(2''-Glucosyl-3''-Xylosyl)-Galactoside]",True,,,original
+701,"(3B,5A,25R)-3-Hydroxyspirostan-6-One 3-[2-Acetylarabinosyl-(1->6)-Glucoside]",True,,,original
+702,"(2A,3B,5A,6A,22R,25R)-Furostane-22-Methoxy-2,3,6,26-Tetrol 3-[Glucosyl-(1->2)-[Xylosyl-(1->3)]-Glucosyl-(1->4)-Galactoside] 26-Glucoside",True,,,original
+703,"(25S)-Spirostane-3B,5B,6A-Triol 3-[4''-Rhamnosylglucoside]",True,,,original
+704,"(3B,5A,6B,22A,25R)-Furostane-22-Methoxy-3,6,26-Triol 3-[Glucosyl-(1->2)-[Xylosyl-(1->3)]-Glucosyl-(1->4)-Galactoside] 26-Glucoside",True,,,original
+705,Levodopa,True,,,original
+706,Uridine,True,,,original
+707,Pipecolic Acid,True,,,original
+708,Choline Alfoscerate,True,,,original
+709,Acetylglycine,True,,,original
+710,Pyruvic Acid,True,,,original
+711,Chloride,True,,,original
+712,O-Alpha-D-Glucopyranosyl-(1->4)-O-Alpha-D-Glucopyranosyl-(1->4)-D-Glucopyranose,True,,,original
+713,Vicine,True,,,original
+714,Sulfate Ion,True,,,original
+715,Calcium Oxide,True,,,original
+716,Pantothenic Acid,True,,,original
+717,Gossypol,True,,,original
+718,Carotene,True,,,original
+719,Atropine,True,,,original
+720,Dopamine,True,,,original
+721,Bilirubin,True,,,original
+722,Serotonin,True,,,original
+723,Theophylline,True,,,original
+724,Isoflavones,False,,,no_representative_found
+725,Genistein,True,,,original
+726,Salicylates,False,,,no_representative_found
+727,Estrogen,True,,,original
+728,Creatinine,True,,,original
+729,Glycosides,False,,,no_representative_found
+730,Aldosterone,True,,,original
+731,Xanthine,True,,,original
+732,Adenosine,True,,,original
+733,Uric Acid,True,,,original
+734,Estradiol,True,,,original
+735,Ketones,False,,,no_representative_found
+736,Vasopressin,True,,,original
+737,H+,True,,,original
+738,Curcumin,True,,,original
+739,Sugars,False,,,no_representative_found
+740,Rhamnetin,True,,,original
+741,Trimethylamine,True,,,original
+742,Cortisol,True,,,original
+743,Cortisone,True,,,original
+744,Chrysin,True,,,original
+745,Superoxide,True,,,original
+746,Isoeugenol,True,,,original
+747,Testosterone,True,,,original
+748,Petunidin,True,,,original
+749,Flavonoids,False,Quercetin,,copy_lgn:279
+750,Epigallocatechin-3-Gallate,True,,,original
+751,Kaempferide,True,,,original
+752,Histamine,True,,,original
+753,Taurine,True,,,original
+754,Oleic Acid,True,,,original
+755,Nad+,True,,,original
+756,Zingerone,True,,,original
+757,Pterostilbene,True,,,original
+758,Phenylephrine,True,,,original
+759,Vanillin,True,,,original
+760,Retinoic Acid,True,,,original
+761,Sildenafil,True,,,original
+762,Phytic Acid,True,,,original
+763,Ferulic Acid,True,,,original
+764,Nitric Oxide,True,,,original
+765,Nobiletin,True,,,original
+766,Pinocembrin,True,,,original
+767,Galangin,True,,,original
+768,Ornithine,True,,,original
+769,Coumestrol,True,,,original
+770,Phosphorus,True,,,original
+771,Theaflavin,True,,,original
+772,Adenosine Triphosphate,True,,,original
+773,Isoimperatorin,True,,,original
+774,Atp,True,,,original
+775,Rosmarinic Acid,True,,,original
+776,Gelatin,True,,,original
+777,Bornyl Acetate,True,,,original
+778,Sterols,False,,,no_representative_found
+779,Arsenic,True,,,original
+780,Α-Tocopherol,True,,,original
+781,Progesterone,True,,,original
+782,Cadmium,True,,,original
+783,Retinol,True,,,original
+784,Casein,True,,,original
+785,Glutathione,True,,,original
+786,Enterolactone,True,,,original
+787,P-Coumaric Acid,True,,,original
+788,Tricin,True,,,original
+789,Phloretin,True,,,original
+790,Oxytocin,True,,,original
+791,Phenols,True,,,original
+792,Tetrahydrocortisone,True,,,original
+793,Cyanocobalamin,True,,,original
+794,2-Phenylethanol,True,,,original
+795,Na+,True,,,original
+796,Acetaldehyde,True,,,original
+797,Cinnamaldehyde,True,,,original
+798,Pectin,False,Riboflavine,,hkg_best_compound(count=3)
+799,Purine,True,,,original
+800,Punicalagin,True,,,original
+801,N-Nitrosodimethylamine,True,,,original
+802,L-Acetylcarnitine,True,,,original
+803,L-Citrulline,True,,,original
+804,Epiestradiol,True,,,original
+805,(E)-Aconitic Acid,True,,,original
+806,"(Z,Z)-9,12-Octadecadienoic Acid",True,,,original
+807,Amoxycillin,True,,,original
+808,Calcitriol,True,,,original
+809,Morphine,True,,,original
+810,17Alpha-Ethynylestradiol,True,,,original
+811,"24,25-Dihydroxyvitamin D3",True,,,original
+812,Codeine,True,,,original
+813,Carbon Monoxide,True,,,original
+814,Nicotine,True,,,original
+815,L-Theanine,True,,,original
+816,Levoglutamide,True,,,original
+817,3-Aminopropanoic Acid,True,,,original
+818,Alpha-Tocopherol,True,,,original
+819,25-Hydroxycholecalciferol,True,,,original
+820,"Ng,Ng-Dimethyl-L-Arginine",True,,,original
+821,Cobalamin,True,,,original
+822,Creatine,True,,,original
+823,L-Carnitine,True,,,original
+824,L-Cysteine,True,,,original
+825,Ozone,True,,,original
+826,Dodecanoic Acid,True,,,original
+827,Phytomenadione,True,,,original
+828,Sulforaphane,True,,,original
+829,Somatostatin,True,,,original
+830,Eicosapentaenoic Acid,True,,,original
+831,Starch,False,Amylopectin,,copy_lgn:1801
+832,5-Formyltetrahydrofolic Acid,True,,,original
+833,Eriodictyol 7-Rutinoside,True,,,original
+834,Digoxin,True,,,original
+835,(±)-Erythro-Isoleucine,True,,,original
+836,Riboflavine,True,,,original
+837,(9Z)-Lycopene,True,,,original
+838,Phosphorylcholine,True,,,original
+839,Bradykinin,True,,,original
+840,Titanium,True,,,original
+841,Arachidonic Acid,True,,,original
+842,L-Dopa,True,,,original
+843,Polyamines,True,,,original
+844,Epinephrine,True,,,original
+845,Kynurenine,True,,,original
+846,Deoxyadenosine,True,,,original
+847,S-Adenosyl-L-Methionine,True,,,original
+848,Hexyl 2-Methylpropanoate,True,,,original
+849,Benzyl Alcohol,True,,,original
+850,Sulfide,True,,,original
+851,Valproic Acid,True,,,original
+852,Lanthanum,True,,,original
+853,Boron,True,,,original
+854,Ceramide,True,,,original
+855,Calcium Oxalate,True,,,original
+856,Fluoride,True,,,original
+857,Maltodextrin,True,,,original
+858,Prostaglandin E2,True,,,original
+859,Trichloroacetic Acid,True,,,original
+860,Methylmalonic Acid,True,,,original
+861,Elaidic Acid,True,,,original
+862,Cytarabine,True,,,original
+863,Oxypurinol,True,,,original
+864,Glycerol Trioleate,True,,,original
+865,Liothyronine,True,,,original
+866,Silicon,True,,,original
+867,2-Propanol,True,,,original
+868,Urea,True,,,original
+869,Nadph,True,,,original
+870,Thromboxane B2,True,,,original
+871,Angiotensin Ii,True,,,original
+872,Trans-Resveratrol,True,,,original
+873,Acetate,True,,,original
+874,Thymidine,True,,,original
+875,Glycerol Trilinoleate,True,,,original
+876,Androstenedione,True,,,original
+877,Calamene,True,,,original
+878,Agmatine,True,,,original
+879,Loperamide,True,,,original
+880,Betaine,True,,,original
+881,Scopolamine,True,,,original
+882,Gadolinium,True,,,original
+883,Adenosine Monophosphate,True,,,original
+884,Oxalate,True,,,original
+885,Simvastatin,True,,,original
+886,(E)-2-Phenyl-2-Butenal,True,,,original
+887,Nitrous Oxide,True,,,original
+888,Cholestanol,True,,,original
+889,Methane,True,,,original
+890,Nicotinamide,True,,,original
+891,Propene,True,,,original
+892,Fluticasone,True,,,original
+893,Rebaudioside A,True,,,original
+894,Glutathione Disulfide,True,,,original
+895,Phosphocreatine,True,,,original
+896,Papaverine,True,,,original
+897,Sphingosine 1-Phosphate,True,,,original
+898,N-Acetylneuraminic Acid,True,,,original
+899,Thromboxane,True,,,original
+900,Butyrylcholine,True,,,original
+901,Ondansetron,True,,,original
+902,Mevalonic Acid,True,,,original
+903,Selenomethionine,True,,,original
+904,5-Aminolevulinic Acid,True,,,original
+905,Pravastatin,True,,,original
+906,Clopidogrel,True,,,original
+907,Aflatoxin B1,True,,,original
+908,Nickel,True,,,original
+909,3-Methoxy-4-Hydroxyphenylacetic Acid,True,,,original
+910,Dihydrotestosterone,True,,,original
+911,L-Cystathionine,True,,,original
+912,Esters,True,,,original
+913,Epicatechin 3-Gallate,True,,,original
+914,Campesterol,True,,,original
+915,Lactitol,True,,,original
+916,Syringic Acid,True,,,original
+917,Prostaglandin E1,True,,,original
+918,Vanillylmandelic Acid,True,,,original
+919,Normetanephrine,True,,,original
+920,Adp,True,,,original
+921,Phosphatidylcholine,True,,,original
+922,Xylitol,True,,,original
+923,Prostaglandin D2,True,,,original
+924,Doconexent,True,,,original
+925,"8,11,14-Eicosatrienoic Acid",True,,,original
+926,Biotin,True,,,original
+927,Leukotriene C4,True,,,original
+928,Testosterone Enanthate,True,,,original
+929,Methanol,True,,,original
+930,Diphenhydramine,True,,,original
+931,Agar,True,,,original
+932,Guanosine Triphosphate,True,,,original
+933,3-Phenyl-2-Propenal,True,,,original
+934,2-Oxopentanedioic Acid,True,,,original
+935,Mg2+,True,,,original
+936,Substance P,True,,,original
+937,Sulfate,True,,,original
+938,Citrate,True,,,original
+939,Sparteine,True,,,original
+940,Hypoxanthine,True,,,original
+941,Lactulose,True,,,original
+942,Naproxen,True,,,original
+943,Hydroxycobalamin,True,,,original
+944,"Glycerol 1,2-Di-(9Z-Octadecenoate)",True,,,original
+945,Γ-Tocopherol,True,,,original
+946,Erythroneopterin,True,,,original
+947,4-Hydroxybenzaldehyde,True,,,original
+948,3-Hydroxybutanoic Acid,True,,,original
+949,Sapropterin,True,,,original
+950,Zinc Sulfate,True,,,original
+951,Estrone,True,,,original
+952,Hydroquinone,True,,,original
+953,Beta-D-Glucuronic Acid,True,,,original
+954,Estrone Sulfate,True,,,original
+955,Guanine,True,,,original
+956,Lipoic Acid,True,,,original
+957,Lathosterol,True,,,original
+958,Pentanoic Acid,True,,,original
+959,Procyanidin,True,,,original
+960,3-Methoxy-4-Hydroxyphenylglycol,True,,,original
+961,Sulfur Dioxide,True,,,original
+962,Nitrogen Oxides,True,,,original
+963,Corticosterone,True,,,original
+964,Ergocalciferol,True,,,original
+965,Synephrine,True,,,original
+966,Uracil,True,,,original
+967,Deoxypyridinoline,True,,,original
+968,Anabasine,True,,,original
+969,Zinc Oxide,True,,,original
+970,Diethylstilbesterol,True,,,original
+971,3-Methyl-L-Histidine,True,,,original
+972,Amlodipine,True,,,original
+973,4-Hydroxyproline,True,,,original
+974,N-Acetylglucosamine,True,,,original
+975,"7Z,10Z,13Z,16Z,19Z-Docosapentaenoic Acid",True,,,original
+976,L-Homocysteine,True,,,original
+977,D-Mannose,True,,,original
+978,Phosphatidylserine,True,,,original
+979,Porphobilinogen,True,,,original
+980,"3,4-Dihydroxyphenylacetic Acid",True,,,original
+981,Phenol,True,,,original
+982,Indole,True,,,original
+983,Isocitric Acid,True,,,original
+984,Sodium Taurocholate,True,,,original
+985,11-Dehydro-Thromboxane B2,True,,,original
+986,Isodulcitol,True,,,original
+987,Cytosine,True,,,original
+988,Umbelliferone,True,,,original
+989,Tartaric Acid,True,,,original
+990,Azelaic Acid,True,,,original
+991,Estriol,True,,,original
+992,Squalene,True,,,original
+993,17-Hydroxyprogesterone,True,,,original
+994,Trimethylamine Oxide,True,,,original
+995,2-Methylpropanoic Acid,True,,,original
+996,4-Hydroxybutyric Acid,True,,,original
+997,Pseudoephedrine,True,,,original
+998,Deoxycholic Acid,True,,,original
+999,Bupropion,True,,,original
+1000,Dextrin,True,,,original
+1001,Palmidrol,True,,,original
+1002,Dimethyl Trisulfide,True,,,original
+1003,Menatetrenone,True,,,original
+1004,Vanillic Acid,True,,,original
+1005,Selenate,True,,,original
+1006,Dimethylamine,True,,,original
+1007,(Z)-Aconitic Acid,True,,,original
+1008,Cholic Acid,True,,,original
+1009,Glycocholic Acid,True,,,original
+1010,Acetovanillone,True,,,original
+1011,Allicin,True,,,original
+1012,Glucosamine,True,,,original
+1013,Canrenone,True,,,original
+1014,Dextromethorphan,True,,,original
+1015,Sertraline,True,,,original
+1016,Mangiferin,True,,,original
+1017,Calcium Carbonate,True,,,original
+1018,Spermidine,True,,,original
+1019,Bergamottin,True,,,original
+1020,Glucoraphanin,True,,,original
+1021,Gamma-Butyrolactone,True,,,original
+1022,3-Nitrotyrosine,True,,,original
+1023,12-Hepe,True,,,original
+1024,Hydroxylamine,True,,,original
+1025,Tangeritin,True,,,original
+1026,Tylosin,True,,,original
+1027,Hyperforin,True,,,original
+1028,Hypericin,True,,,original
+1029,Inosine,True,,,original
+1030,Anethole,True,,,original
+1031,Debrisoquine,True,,,original
+1032,N-Methyl-D-Aspartic Acid,True,,,original
+1033,Fructosamine,True,,,original
+1034,L-Fucose,True,,,original
+1035,Steviol,True,,,original
+1036,6-Sulfatoxymelatonin,True,,,original
+1037,Fumaric Acid,True,,,original
+1038,Sodium Lauryl Sulfate,True,,,original
+1039,Mandelic Acid,True,,,original
+1040,"8-Hydroxy-2-Methoxy-6-Methyl-1,4-Naphthoquinone",False,,,no_representative_found
+1041,Acetaminophen,True,,,original
+1042,Palmitate,True,,,original
+1043,Methionine Sulfoxide,True,,,original
+1044,Dimethyl Sulfoxide,True,,,original
+1045,Acteoside,True,,,original
+1046,Saponins,False,Glycyrrhizin,,copy_lgn:1127
+1047,Leukotriene B4,True,,,original
+1048,Ajmaline,True,,,original
+1049,Alpha-Linolenic Acid,True,,,original
+1050,Metanephrine,True,,,original
+1051,Limonene,True,,,original
+1052,Pyridoxal,True,,,original
+1053,Glucosylceramide,True,,,original
+1054,Carbonic Acid,True,,,original
+1055,Quinoline,True,,,original
+1056,"1,2-Benzenediol",True,,,original
+1057,Gentisic Acid,True,,,original
+1058,Quinine,True,,,original
+1059,Plastochromanol 8,True,,,original
+1060,Mesna,True,,,original
+1061,(-)-Arctigenin,True,,,original
+1062,Lf,True,,,original
+1063,Venlafaxine,True,,,original
+1064,Fosfomycin,True,,,original
+1065,Orotic Acid,True,,,original
+1066,Nitrite,True,,,original
+1067,Deoxyuridine,True,,,original
+1068,Chondroitin Sulfate,True,,,original
+1069,Flavones,True,,,original
+1070,Puerarin,True,,,original
+1071,Ubiquinol-10,True,,,original
+1072,Propionylcarnitine,True,,,original
+1073,Dimethylglycine,True,,,original
+1074,Formic Acid,True,,,original
+1075,Hyaluronic Acid,True,,,original
+1076,"1,3-Dimethyluric Acid",True,,,original
+1077,Ammonium,True,,,original
+1078,Quercetin 3-Rutinoside,True,,,original
+1079,Gdp,True,,,original
+1080,Cytidine,True,,,original
+1081,Cardiolipin,True,,,original
+1082,Hippuric Acid,True,,,original
+1083,Peroxynitrite,True,,,original
+1084,Beta-D-Glucopyranose,True,,,original
+1085,Pyrimidine,True,,,original
+1086,3-Hydroxy-3-Methylglutaryl-Coa,True,,,original
+1087,Acetylsalicylic Acid,True,,,original
+1088,Protoporphyrin Ix,True,,,original
+1089,S-Adenosylmethionine,True,,,original
+1090,8-Hete,True,,,original
+1091,9-Hete,True,,,original
+1092,2-Phenylethylamine,True,,,original
+1093,Selenite,True,,,original
+1094,Cetyl Alcohol,True,,,original
+1095,Proanthocyanidins,False,,,no_representative_found
+1096,Thromboxane A2,True,,,original
+1097,Hexane,False,,,no_representative_found
+1098,Allantoin,True,,,original
+1099,Biopterin,True,,,original
+1100,D-Ribose,True,,,original
+1101,Ketoprofen Glucuronide,True,,,original
+1102,Glycolipids,False,,,no_representative_found
+1103,3-Methylxanthine,True,,,original
+1104,Homocysteinesulfinic Acid,True,,,original
+1105,Iodide,True,,,original
+1106,Toluene,True,,,original
+1107,Hafnium,True,,,original
+1108,Xanthotoxin,True,,,original
+1109,Pyridinoline,True,,,original
+1110,Ergothioneine,True,,,original
+1111,Chenodeoxycholic Acid,True,,,original
+1112,Prostaglandin E3,True,,,original
+1113,Clenbuterol,True,,,original
+1114,1-Methyluric Acid,True,,,original
+1115,Lipoxin A4,True,,,original
+1116,Resolvin E1,True,,,original
+1117,"4,5-Dihydroorotic Acid",True,,,original
+1118,Aniline,True,,,original
+1119,4-Hydroxyphenylacetic Acid,True,,,original
+1120,Heparan Sulfate,True,,,original
+1121,Formaldehyde,True,,,original
+1122,Pentosidine,True,,,original
+1123,Methanethiol,True,,,original
+1124,"3,5-Dihydroxybenzoic Acid",True,,,original
+1125,Retinol Palmitate,True,,,original
+1126,Cysteamine,False,,,no_representative_found
+1127,Glycyrrhizin,True,,,original
+1128,Resolvin D2,True,,,original
+1129,Valerenic Acid,True,,,original
+1130,Benzene,True,,,original
+1131,Carbamate,True,,,original
+1132,(±)-Menthyl Acetate,True,,,original
+1133,Dhea Sulfate,True,,,original
+1134,Protopanaxadiol,True,,,original
+1135,Stigmasterol,True,,,original
+1136,Boric Acid (H3Bo3),True,,,original
+1137,Adrenosterone,True,,,original
+1138,Gonadotropin Releasing Hormone,True,,,original
+1139,Triamterene,True,,,original
+1140,Molybdenum,True,,,original
+1141,Hydrochlorothiazide,True,,,original
+1142,Imidazole,True,,,original
+1143,Atorvastatin,True,,,original
+1144,Tantalum,True,,,original
+1145,7-Dehydrocholesterol,True,,,original
+1146,Glaucine,True,,,original
+1147,Rubidium,True,,,original
+1148,Carbonate,True,,,original
+1149,Farnesyl Pyrophosphate,True,,,original
+1150,Acetaminophen Glucuronide,True,,,original
+1151,Dimethicone,True,,,original
+1152,Phloroglucinol,True,,,original
+1153,5-Aminoimidazole-4-Carboxamide,True,,,original
+1154,Homocysteine Thiolactone,True,,,original
+1155,Procaine,True,,,original
+1156,Garlicin,True,,,original
+1157,Calcium Gluconate,True,,,original
+1158,Zirconium,True,,,original
+1159,Glycitein,True,,,original
+1160,Tetragastrin,True,,,original
+1161,Hemin,True,,,original
+1162,Gamolenic Acid,True,,,original
+1163,4-Aminobenzoic Acid,True,,,original
+1164,Stigmastanol,True,,,original
+1165,5-Hydroxy-L-Tryptophan,True,,,original
+1166,Isoprene,True,,,original
+1167,"17,18-Dihete",True,,,original
+1168,Prostaglandin I2,True,,,original
+1169,Calcium Sulfate,True,,,original
+1170,Silica Gel,True,,,original
+1171,Nonivamide,True,,,original
+1172,2-Hydroxyvaleric Acid,True,,,original
+1173,Phenyllactic Acid,True,,,original
+1174,3-Phenylpropanoic Acid,True,,,original
+1175,3-Methylbutanoic Acid,True,,,original
+1176,3-Butyl-1(3H)-Isobenzofuranone,True,,,original
+1177,Ergosterol,True,,,original
+1178,Taurodeoxycholic Acid,True,,,original
+1179,Thymine,True,,,original
+1180,"5,10-Methylenetetrahydrofolic Acid",True,,,original
+1181,Dibutyl Phthalate,True,,,original
+1182,Salbutamol,True,,,original
+1183,Magnoflorine,True,,,original
+1184,S-Adenosyl-L-Homocysteine,True,,,original
+1185,1-Methylxanthine,True,,,original
+1186,Vanadium,True,,,original
+1187,5-Methoxytryptamine,True,,,original
+1188,Parthenolide,True,,,original
+1189,Lanosterol,True,,,original
+1190,Ricinoleic Acid,True,,,original
+1191,2-Methoxyphenol,True,,,original
+1192,1-Hexanol,True,,,original
+1193,Baicalein,True,,,original
+1194,Aesculetin,True,,,original
+1195,4-Nitrophenol,True,,,original
+1196,Ethylene,True,,,original
+1197,6-Hydroxydopamine,True,,,original
+1198,5-Isopropyl-2-Methylphenol,True,,,original
+1199,2-Isopropyl-5-Methylphenol,True,,,original
+1200,Argininosuccinic Acid,True,,,original
+1201,Jasmonic Acid,True,,,original
+1202,Tryptamine,True,,,original
+1203,Chinese Tannin,False,,,no_representative_found
+1204,(±)-Phenylalanine,True,,,original
+1205,Monocrotaline,True,,,original
+1206,Scoparone,True,,,original
+1207,Kynurenic Acid,True,,,original
+1208,Valencene,True,,,original
+1209,Eupatilin,True,,,original
+1210,Potassium Chloride,True,,,original
+1211,Iduronic Acid,True,,,original
+1212,Phosphatidylethanolamine,True,,,original
+1213,"7-Methyl-3-Methylene-1,6-Octadiene",True,,,original
+1214,D-Camphor,True,,,original
+1215,Trehalose,True,,,original
+1216,Cellobiose,True,,,original
+1217,Cyanide,True,,,original
+1218,Safrole,True,,,original
+1219,Paraquat,True,,,original
+1220,Tungsten,True,,,original
+1221,Violaxanthin,True,,,original
+1222,Inositol Phosphate,True,,,original
+1223,Chlorophyll,True,,,original
+1224,Ochratoxin A,True,,,original
+1225,2-Methylbutanal,True,,,original
+1226,Heptanal,True,,,original
+1227,Sesamol,True,,,original
+1228,Methyl Salicylate,True,,,original
+1229,Rotenone,True,,,original
+1230,3-Isothiocyanato-1-Propene,True,,,original
+1231,Glabridin,True,,,original
+1232,Methyl Jasmonate,True,,,original
+1233,Linalyl Acetate,True,,,original
+1234,Prostaglandin A1,True,,,original
+1235,Cholate,True,,,original
+1236,Citalopram,True,,,original
+1237,Clofenotane,True,,,original
+1238,Endrin,True,,,original
+1239,Castasterone,True,,,original
+1240,Lithospermic Acid,True,,,original
+1241,Octopamine,True,,,original
+1242,Piperidine,True,,,original
+1243,Betulin,True,,,original
+1244,Soyasaponin I,True,,,original
+1245,Abscisic Acid,True,,,original
+1246,11-Dehydrocorticosterone,True,,,original
+1247,1H-Indole-3-Acetonitrile,True,,,original
+1248,Phosphoric Acid,True,,,original
+1249,Guanosine,True,,,original
+1250,Amp,True,,,original
+1251,Isoborneol,True,,,original
+1252,Spermine,True,,,original
+1253,Pyridine,True,,,original
+1254,Acetyl-Coa,True,,,original
+1255,Chlorate,True,,,original
+1256,(R)-Oxypeucedanin,True,,,original
+1257,Phosphoenolpyruvate,True,,,original
+1258,Guanidine,True,,,original
+1259,Iodate,True,,,original
+1260,Emodin,True,,,original
+1261,Fad,True,,,original
+1262,Carboxyatractyloside,True,,,original
+1263,"2,3-Butanedione",True,,,original
+1264,Methylpyrazine,True,,,original
+1265,Choline Chloride,True,,,original
+1266,Isopimpinellin,True,,,original
+1267,Tellurium,True,,,original
+1268,Carbon Disulfide,True,,,original
+1269,Tetrahydrocurcumin,True,,,original
+1270,Xanthorrhizol,True,,,original
+1271,Dityrosine,True,,,original
+1272,Taurocholic Acid,True,,,original
+1273,N6-Methyladenosine,True,,,original
+1274,Geranylgeraniol,True,,,original
+1275,Pyridoxamine,True,,,original
+1276,Ligustilide,True,,,original
+1277,Fisetin,True,,,original
+1278,Acetoin,True,,,original
+1279,2-Furanmethanol,True,,,original
+1280,3-Hydroxyflavone,True,,,original
+1281,3-Methoxytyramine,True,,,original
+1282,Sodium Nitrite,True,,,original
+1283,Urolithin A,True,,,original
+1284,Scopoletin,True,,,original
+1285,Utp,True,,,original
+1286,Nad,True,,,original
+1287,"Inositol 1,4,5-Trisphosphate",True,,,original
+1288,(S)-[6]-Gingerol,True,,,original
+1289,Racemethionine,True,,,original
+1290,3-Hydroxyanthranilic Acid,True,,,original
+1291,Phosphatidylglycerol,True,,,original
+1292,Cinnamyl Alcohol,True,,,original
+1293,Methoxyl,True,,,original
+1294,Cucurbitacin E,True,,,original
+1295,N-Methyltryptamine,True,,,original
+1296,Sodium Hypochlorite,True,,,original
+1297,Isopimaric Acid,True,,,original
+1298,Maltotriose,True,,,original
+1299,Chitinase,True,,,original
+1300,Asiatic Acid,True,,,original
+1301,Protopine,True,,,original
+1302,Dehydroascorbic Acid,True,,,original
+1303,Biochanin A,True,,,original
+1304,2-Aminoacrylate,True,,,original
+1305,Kaurenoic Acid,True,,,original
+1306,Nadh,True,,,original
+1307,Morin,True,,,original
+1308,Achillin,True,,,original
+1309,Capsanthin,True,,,original
+1310,Anatabine,True,,,original
+1311,Phlorizin,True,,,original
+1312,Palmitoyl-Coa,True,,,original
+1313,Triethylamine,True,,,original
+1314,Acetamide,True,,,original
+1315,Chlorpheniramine,True,,,original
+1316,Pregnenolone Sulfate,True,,,original
+1317,Methylglyoxal,True,,,original
+1318,Isoscopoletin,True,,,original
+1319,Cyclohexane,True,,,original
+1320,Geraniol,True,,,original
+1321,Aesculin,True,,,original
+1322,Betaine Aldehyde,True,,,original
+1323,H2O,True,,,original
+1324,"1,2,3-Benzenetriol",True,,,original
+1325,Ursodeoxycholic Acid,True,,,original
+1326,Mercury,True,,,original
+1327,Rhein,True,,,original
+1328,Oripavine,True,,,original
+1329,Farnesol,True,,,original
+1330,Beta-Elemene,True,,,original
+1331,Cinnamic Acid,True,,,original
+1332,L-5-Oxo-2-Pyrrolidinecarboxylic Acid,True,,,original
+1333,Sinigrin,True,,,original
+1334,Astragalin,True,,,original
+1335,Fucoxanthin,True,,,original
+1336,Oleanolic Acid,True,,,original
+1337,Fucosterol,True,,,original
+1338,Isoferulic Acid,True,,,original
+1339,Betanin,True,,,original
+1340,Cafestol,True,,,original
+1341,Kahweol,True,,,original
+1342,Maltoheptaose,True,,,original
+1343,Vitexin,True,,,original
+1344,Isovitexin,True,,,original
+1345,Orientin,True,,,original
+1346,Anandamide,True,,,original
+1347,Threonic Acid,True,,,original
+1348,Beta-Solamarine,True,,,original
+1349,Isoxanthopterin,True,,,original
+1350,Lead,True,,,original
+1351,Paeonol,True,,,original
+1352,Naphthalen-1-Ol,True,,,original
+1353,Iron Oxide,True,,,original
+1354,3-Hexen-1-Ol,True,,,original
+1355,Carveol,True,,,original
+1356,Lithocholic Acid,True,,,original
+1357,Patchouli Alcohol,True,,,original
+1358,N-Acetyl-L-Cysteine,True,,,original
+1359,N-Butanol,True,,,original
+1360,Maltopentaose,True,,,original
+1361,Sulfite,True,,,original
+1362,Myosmine,True,,,original
+1363,Boldine,True,,,original
+1364,Caffeic Acid Ethyl Ester,True,,,original
+1365,"2,4-Dichlorophenoxyacetic Acid",True,,,original
+1366,Molybdate,True,,,original
+1367,Chromone,True,,,original
+1368,Thiamine Hydrochloride,True,,,original
+1369,Hexylamine,True,,,original
+1370,4-Pyridoxic Acid,True,,,original
+1371,Cesium,True,,,original
+1372,Paraoxon,True,,,original
+1373,Anisatin,True,,,original
+1374,N-Ethyl Trans-2-Cis-6-Nonadienamide,True,,,original
+1375,Glucose 6-Phosphate,True,,,original
+1376,Xanthohumol,True,,,original
+1377,Alantolactone,True,,,original
+1378,Alkanes,True,,,original
+1379,Limonin,True,,,original
+1380,Pectic Acid,True,,,original
+1381,Zolpidem,True,,,original
+1382,Juglone,True,,,original
+1383,Procyanidin B2,True,,,original
+1384,"2,3-Dihydroxybenzoic Acid",True,,,original
+1385,3-Methyladenine,True,,,original
+1386,"1-Chloro-2,4-Dinitrobenzene",True,,,original
+1387,Glyceric Acid,True,,,original
+1388,Dihydromyricetin,True,,,original
+1389,Obacunone,True,,,original
+1390,Lupeol,True,,,original
+1391,Gambogic Acid,True,,,original
+1392,Tomatidine,True,,,original
+1393,Chalcone,True,,,original
+1394,Formononetin,True,,,original
+1395,Phytol,True,,,original
+1396,Methyleugenol,True,,,original
+1397,Potassium Citrate,True,,,original
+1398,5-Methylcytosine,True,,,original
+1399,Benzaldehyde,True,,,original
+1400,Dimethyl Sulfone,True,,,original
+1401,Trehalose 6-Phosphate,True,,,original
+1402,N-Methylaniline,True,,,original
+1403,13-Hydroxylupanine,True,,,original
+1404,Menadione,True,,,original
+1405,(+)-Myrtenol,True,,,original
+1406,Alpha-Endosulfan,True,,,original
+1407,Norathyriol,True,,,original
+1408,Bromine,True,,,original
+1409,Bilirubin Diglucuronide,True,,,original
+1410,5-Hydroxytryptophol,True,,,original
+1411,Oleuropein,True,,,original
+1412,Erucin,True,,,original
+1413,Loganin,True,,,original
+1414,Butein,True,,,original
+1415,Homoserine,True,,,original
+1416,Maltotetraose,True,,,original
+1417,Chicoric Acid,True,,,original
+1418,Atractyloside,True,,,original
+1419,Ginsenoside Rb1,True,,,original
+1420,N-Dodecane,True,,,original
+1421,"2,4-Dihydroxybenzoic Acid",True,,,original
+1422,4-Hydroxy-2H-1-Benzopyran-2-One,True,,,original
+1423,Ribitol,True,,,original
+1424,Aminomalonic Acid,True,,,original
+1425,Styrene,True,,,original
+1426,Myricetin 3-Rhamnoside,True,,,original
+1427,Triterpenoid,False,,,no_representative_found
+1428,Isoliquiritigenin,True,,,original
+1429,Dl-Dopa,True,,,original
+1430,8-Hydroxyguanine,True,,,original
+1431,1-Heptanol,True,,,original
+1432,6-Deoxocastasterone,True,,,original
+1433,Estrone Glucuronide,True,,,original
+1434,Chloroform,True,,,original
+1435,Osthol,True,,,original
+1436,Ethanolamine,True,,,original
+1437,Celastrol,True,,,original
+1438,Deoxynivalenol,True,,,original
+1439,Eupatorin,True,,,original
+1440,Propranolol,True,,,original
+1441,Hydroxysafflor Yellow A,True,,,original
+1442,Borneol,True,,,original
+1443,Laudanine,True,,,original
+1444,3-Methyl-1-Butylamine,True,,,original
+1445,"2-Amino-3-Methylimidazo[4,5-F]Quinoline",True,,,original
+1446,"N2,N2-Dimethylguanosine",True,,,original
+1447,1-Methyladenosine,True,,,original
+1448,Thiabendazole,True,,,original
+1449,Costunolide,True,,,original
+1450,Cryptotanshinone,True,,,original
+1451,Ginkgolide A,True,,,original
+1452,1-Octanol,True,,,original
+1453,Demethoxycurcumin,True,,,original
+1454,Geranylacetone,True,,,original
+1455,25-Hydroxycholesterol,True,,,original
+1456,(S)-Reticuline,True,,,original
+1457,Muramic Acid,True,,,original
+1458,Alpha-Terpineol,True,,,original
+1459,Cirsiliol,True,,,original
+1460,Liquiritigenin,True,,,original
+1461,Canthaxanthin,True,,,original
+1462,Sphingosine,True,,,original
+1463,Calmodulin,True,,,original
+1464,Dcmp,True,,,original
+1465,Arginine Hydrochloride,True,,,original
+1466,Hyperin,True,,,original
+1467,Brassicasterol,True,,,original
+1468,Ginsenoside Rc,True,,,original
+1469,Hordenine,True,,,original
+1470,Sclareol,True,,,original
+1471,Didymin,True,,,original
+1472,Poncirin,True,,,original
+1473,Rhoifolin,True,,,original
+1474,Udp,True,,,original
+1475,Quinic Acid,True,,,original
+1476,Trilobatin,True,,,original
+1477,Chlorite,True,,,original
+1478,Benzylamine,True,,,original
+1479,Pelargonidin,True,,,original
+1480,Ecdysone,True,,,original
+1481,Glycerylphosphoinositol,True,,,original
+1482,Pentanal,True,,,original
+1483,Gentiobiose,True,,,original
+1484,Cyanidin 3-Glucoside,True,,,original
+1485,3-Hydroxybenzoic Acid,True,,,original
+1486,Ctp,True,,,original
+1487,"1,3,7,9-Tetramethyluric Acid",True,,,original
+1488,Adenine,True,,,original
+1489,Pentacosanoic Acid,True,,,original
+1490,Friedelin,True,,,original
+1491,Menthone,True,,,original
+1492,Indoxyl Sulfate,True,,,original
+1493,Hypochlorite,True,,,original
+1494,Dicoumarol,True,,,original
+1495,2-Butanol,True,,,original
+1496,(E)-Zeatin,True,,,original
+1497,Beta-Amyrin,True,,,original
+1498,Ethyl Gallate,True,,,original
+1499,N-Acetyldopamine,True,,,original
+1500,Maleic Acid,True,,,original
+1501,Salvianolic Acid B,True,,,original
+1502,5-Hydroxydopamine,True,,,original
+1503,Cuminaldehyde,True,,,original
+1504,Aconitic Acid,True,,,original
+1505,Cinchonidine,True,,,original
+1506,Euphol,True,,,original
+1507,Psoralidin,True,,,original
+1508,Nerolidol,True,,,original
+1509,Schisandrin B,True,,,original
+1510,L-Saccharopine,True,,,original
+1511,Casuarinin,True,,,original
+1512,Hypotaurine,True,,,original
+1513,5-Methyltetrahydrofolic Acid,True,,,original
+1514,Ferrous Gluconate,True,,,original
+1515,Obtusifoliol,True,,,original
+1516,Tamarixetin,True,,,original
+1517,"L-Galactono-1,4-Lactone",True,,,original
+1518,Myo-Inositol 1-Phosphate,True,,,original
+1519,5-Hydroxymethyl-2-Furancarboxaldehyde,True,,,original
+1520,Ginkgolide B,True,,,original
+1521,3-Phospho-D-Glycerate,True,,,original
+1522,Rotundifolone,True,,,original
+1523,Neochlorogenic Acid,True,,,original
+1524,Cyclic-Amp,True,,,original
+1525,Neoxanthin,True,,,original
+1526,Pomolic Acid,True,,,original
+1527,Phosphoribosyl Pyrophosphate,True,,,original
+1528,Butylated Hydroxyanisole,True,,,original
+1529,Carnosol,True,,,original
+1530,(E)-2-Hexen-1-Ol,True,,,original
+1531,Oleocanthal,True,,,original
+1532,S-Methyl-L-Methionine Chloride,True,,,original
+1533,Allopregnanolone,True,,,original
+1534,Selenocysteine,True,,,original
+1535,Monosodium Glutamate,True,,,original
+1536,Fenugreekine,True,,,original
+1537,16Alpha-Hydroxyestrone,True,,,original
+1538,Tropine,True,,,original
+1539,Stevioside,True,,,original
+1540,1-Methoxy-4-(2-Propenyl)Benzene,True,,,original
+1541,Fumonisin B1,True,,,original
+1542,"3,7-Dimethyluric Acid",True,,,original
+1543,7-Methylxanthine,True,,,original
+1544,Menadiol,True,,,original
+1545,"Inositol 1,3,4,5,6-Pentakisphosphate",True,,,original
+1546,Lupanine,True,,,original
+1547,Geniposidic Acid,True,,,original
+1548,Dynorphin A,True,,,original
+1549,Methylmalonyl-Coa,True,,,original
+1550,Phthalic Acid,True,,,original
+1551,4-Methylumbelliferone Glucuronide,True,,,original
+1552,Norharman,True,,,original
+1553,Glucaric Acid,True,,,original
+1554,Fenchone,True,,,original
+1555,8-Acetoxypinoresinol,True,,,original
+1556,4-Methylphenol,True,,,original
+1557,Salicin,True,,,original
+1558,1-Deoxy-D-Xylulose 5-Phosphate,True,,,original
+1559,Selenophosphate,True,,,original
+1560,"3,4-Dimethyl-1,2-Cyclopentanedione",True,,,original
+1561,Pentadecanoic Acid,True,,,original
+1562,Cynaropicrin,True,,,original
+1563,Xylopine,True,,,original
+1564,Rhapontin,True,,,original
+1565,8-Hydroxyguanosine,True,,,original
+1566,Longifolene,True,,,original
+1567,Galactosamine,True,,,original
+1568,Propanoate,True,,,original
+1569,Licoisoflavone A,True,,,original
+1570,Pregnenolone,True,,,original
+1571,Hyodeoxycholic Acid,True,,,original
+1572,Genipin,True,,,original
+1573,"P-Mentha-1,8-Dien-7-Ol",True,,,original
+1574,Prostaglandin F2A,True,,,original
+1575,Diosmetin,True,,,original
+1576,6-Methylscutellarein,True,,,original
+1577,Scyllitol,True,,,original
+1578,Benzyl Benzoate,True,,,original
+1579,Fmn,True,,,original
+1580,Butyl Acetate,True,,,original
+1581,7-Ketocholesterol,True,,,original
+1582,Pentoses,True,,,original
+1583,Quercitrin,True,,,original
+1584,Capsidiol,True,,,original
+1585,N1-Acetylspermidine,True,,,original
+1586,11-Cis-Retinaldehyde,True,,,original
+1587,11-Cis-Retinol,True,,,original
+1588,Beta-Cryptoxanthin,True,,,original
+1589,Acacetin,True,,,original
+1590,Chiro-Inositol,True,,,original
+1591,Methyl Alpha-D-Glucopyranoside,True,,,original
+1592,Bergaptol,True,,,original
+1593,"4-Hydroxy-3,5-Dimethoxybenzaldehyde",True,,,original
+1594,Cucurbitacin B,True,,,original
+1595,"1,4-Cineole",True,,,original
+1596,"3,4-Dihydroxymandelate",True,,,original
+1597,Thujopsene,True,,,original
+1598,Dihydrocapsaicin,True,,,original
+1599,Xanthurenic Acid,True,,,original
+1600,Brassinolide,True,,,original
+1601,Picolinic Acid,True,,,original
+1602,Beta-Ionone,True,,,original
+1603,Deoxycytidine,True,,,original
+1604,Isovanillic Acid,True,,,original
+1605,Lysolecithin,True,,,original
+1606,Pisatin,True,,,original
+1607,N-Propanol,True,,,original
+1608,L-Homoarginine,True,,,original
+1609,Coniferyl Aldehyde,True,,,original
+1610,Stearidonic Acid,False,,,no_representative_found
+1611,L-Quebrachitol,True,,,original
+1612,5-Hydroxyindole-3-Acetic Acid,True,,,original
+1613,Norvaline,True,,,original
+1614,Flazine Methyl Ether,True,,,original
+1615,Furaneol,True,,,original
+1616,Jaceosidin,True,,,original
+1617,Dimethyl Sulfide,True,,,original
+1618,Chitobiose,True,,,original
+1619,Haematin,True,,,original
+1620,4-Hydroxy-2-Nonenal,True,,,original
+1621,Xanthosine,True,,,original
+1622,Gibberellins,True,,,original
+1623,Cyanidin 3-Rutinoside,True,,,original
+1624,27-Hydroxycholesterol,True,,,original
+1625,Pallidol,True,,,original
+1626,Pristane,True,,,original
+1627,Deoxyribose,True,,,original
+1628,Malonyl-Coa,True,,,original
+1629,Medicagenic Acid,True,,,original
+1630,Isoalantolactone,True,,,original
+1631,Sinensetin,True,,,original
+1632,Sennoside A,True,,,original
+1633,Angelicin,True,,,original
+1634,Aminoadipic Acid,True,,,original
+1635,Sodium Benzoate,True,,,original
+1636,N-Acetyl-L-Glutamate,True,,,original
+1637,Strigol,True,,,original
+1638,Antheraxanthin,True,,,original
+1639,Alloxan,True,,,original
+1640,Leukotriene D4,True,,,original
+1641,Tellimagrandin Ii,True,,,original
+1642,Herniarin,True,,,original
+1643,"1,2,3,4-Tetrahydroisoquinoline",True,,,original
+1644,Nootkatone,True,,,original
+1645,(E)-Resveratrol 3-Glucoside,True,,,original
+1646,Ethyl Oleate,True,,,original
+1647,4-Hydroxybenzyl Alcohol,True,,,original
+1648,Panaxytriol,True,,,original
+1649,Physapubenolide,True,,,original
+1650,Cucurbitacin I,True,,,original
+1651,Nadp+,True,,,original
+1652,"3,5,8-Megastigmatrien-7-One",True,,,original
+1653,Isoquinoline,True,,,original
+1654,Propanal,True,,,original
+1655,Oleanonic Acid,True,,,original
+1656,Phenylacetaldehyde,True,,,original
+1657,"2,5-Dimethylpyrazine",True,,,original
+1658,Fructose 1-Phosphate,True,,,original
+1659,Kaempferol 3-Galactoside,True,,,original
+1660,Sodium Citrate,True,,,original
+1661,Glyceraldehyde,True,,,original
+1662,Selenocystine,True,,,original
+1663,Sodium Carbonate,True,,,original
+1664,Piperitone,True,,,original
+1665,S-Nitrosoglutathione,True,,,original
+1666,2-Heptanone,True,,,original
+1667,Tomatine,True,,,original
+1668,Turanose,True,,,original
+1669,Sorbitol 6-Phosphate,True,,,original
+1670,Auxin,True,,,original
+1671,Oleacein,True,,,original
+1672,Thiophene,True,,,original
+1673,Schisantherin A,True,,,original
+1674,Fructose 6-Phosphate,True,,,original
+1675,3-Phosphoglyceric Acid,True,,,original
+1676,Glutaric Acid,True,,,original
+1677,Bromide,True,,,original
+1678,Maltol,True,,,original
+1679,Phytanic Acid,True,,,original
+1680,Mannose 6-Phosphate,True,,,original
+1681,D-Alanyl-D-Alanine,True,,,original
+1682,Pterin,True,,,original
+1683,Anonaine,True,,,original
+1684,Curvacin A,True,,,original
+1685,Monotropein,True,,,original
+1686,Ethyl Butyrate,True,,,original
+1687,Dihydropteridine,True,,,original
+1688,Quercetagetin,True,,,original
+1689,Dynorphin B,True,,,original
+1690,Gibberellin A3,True,,,original
+1691,Propyl Gallate,True,,,original
+1692,Lipoxin B4,True,,,original
+1693,Sarsasapogenin,True,,,original
+1694,Artemin,True,,,original
+1695,2-Hydroxybenzaldehyde,True,,,original
+1696,Prostaglandin H2,True,,,original
+1697,Allyl Alcohol,True,,,original
+1698,"Phosphatidylinositol-3,4,5-Trisphosphate",True,,,original
+1699,Phosphoribosyl-Atp,True,,,original
+1700,Verbascose,True,,,original
+1701,Lignans,False,,,no_representative_found
+1702,(+)-Syringaresinol,True,,,original
+1703,Coniferyl Alcohol,True,,,original
+1704,D-Glucitol,True,,,original
+1705,Tellimagrandin I,True,,,original
+1706,D-Erythrose 4-Phosphate,True,,,original
+1707,Dyspropterin,True,,,original
+1708,Cyanidin 3-Galactoside,True,,,original
+1709,Vescalagin,True,,,original
+1710,Sophorose,True,,,original
+1711,Erythrose,True,,,original
+1712,Gitogenin,True,,,original
+1713,Ginsenoside Rh1,True,,,original
+1714,2-Phosphoglycerate,True,,,original
+1715,Dgtp,True,,,original
+1716,Thymidine Glycol,True,,,original
+1717,Alpha-Chaconine,True,,,original
+1718,O-Quinone,True,,,original
+1719,Saccharin Sodium,True,,,original
+1720,Copper Sulfate,True,,,original
+1721,Zinc Acetate,True,,,original
+1722,Saccharin,True,,,original
+1723,Dihydroxyacetone Phosphate,True,,,original
+1724,Morphinone,True,,,original
+1725,Erucic Acid,True,,,original
+1726,Gadoleic Acid,True,,,original
+1727,Sn-Glycerol-3-Phosphate,True,,,original
+1728,Disulfides,False,,,no_representative_found
+1729,Morpholine,True,,,original
+1730,Withanolide A,True,,,original
+1731,Biocytin,True,,,original
+1732,Indole-3-Pyruvate,True,,,original
+1733,Pyrrole,True,,,original
+1734,S-Allylcysteine,True,,,original
+1735,Sakuranetin,True,,,original
+1736,12(S)-Leukotriene B4,True,,,original
+1737,9-Cis-Retinoic Acid,True,,,original
+1738,L-Thyronine,True,,,original
+1739,4-Aminohippuric Acid,True,,,original
+1740,Dihydroxyacetone,True,,,original
+1741,Beta-Eudesmol,True,,,original
+1742,Arabinogalactan,False,,,no_representative_found
+1743,Fe3+,True,,,original
+1744,"2,3-Pentanedione",True,,,original
+1745,L-Stachydrine,True,,,original
+1746,Gamma-Cehc,True,,,original
+1747,Cdp-Ethanolamine,True,,,original
+1748,Pepsin,True,,,original
+1749,Anthranilic Acid,True,,,original
+1750,Fumitremorgin C,True,,,original
+1751,Dump,True,,,original
+1752,Dtmp,True,,,original
+1753,Pheophorbide A,True,,,original
+1754,5-Hete,True,,,original
+1755,"4,5-Di-O-Caffeoylquinic Acid",True,,,original
+1756,Ginsenoside Rb3,True,,,original
+1757,Clerosterol,True,,,original
+1758,3-Bromotyrosine,True,,,original
+1759,4-Ethylphenol,True,,,original
+1760,2-Hydroxybutyric Acid,True,,,original
+1761,Propionylglycine,True,,,original
+1762,1-Methylhistidine,True,,,original
+1763,"N,N-Dimethylbenzylamine",True,,,original
+1764,Neocnidilide,True,,,original
+1765,Phenylacetylglycine,True,,,original
+1766,Sennoside B,True,,,original
+1767,2-Methoxyestradiol,True,,,original
+1768,"2,8-Dihydroxyadenine",True,,,original
+1769,Androsterone Glucuronide,True,,,original
+1770,Procyanidin B1,True,,,original
+1771,1-Dodecanol,True,,,original
+1772,Coenzyme A,True,,,original
+1773,Geosmin,True,,,original
+1774,O-Coumaric Acid,True,,,original
+1775,"2,4-Diaminobutyric Acid",True,,,original
+1776,Triphosphoric Acid,True,,,original
+1777,Equol,True,,,original
+1778,Isopentyl Alcohol,True,,,original
+1779,Lactucin,True,,,original
+1780,L-Sorbose,True,,,original
+1781,Trans-Beta-Ocimene,True,,,original
+1782,Norbixin,True,,,original
+1783,(+)-Pinoresinol,True,,,original
+1784,Arabinonic Acid,True,,,original
+1785,Shikimate,True,,,original
+1786,Tetradecanedioic Acid,True,,,original
+1787,Irilone,True,,,original
+1788,"22,23-Dihydroergosterol",True,,,original
+1789,Echinenone,True,,,original
+1790,"3-Oxobutanoic Acid, 9Ci",True,,,original
+1791,Isothiocyanates,True,,,original
+1792,Glycitin,True,,,original
+1793,13-Cis-Retinoic Acid,True,,,original
+1794,Lacto-N-Neotetraose,True,,,original
+1795,Beta-Thujaplicin,True,,,original
+1796,Lumazine,True,,,original
+1797,Ginkgetin,True,,,original
+1798,4(10)-Thujene,True,,,original
+1799,Retinyl Ester,True,,,original
+1800,Ethyl Nicotinate,True,,,original
+1801,Amylopectin,True,,,original
+1802,Taxifolin 3-Rhamnoside,True,,,original
+1803,Dihydroceramide,True,,,original
+1804,2-Methoxy-4-Vinylphenol,True,,,original
+1805,Hesperetin 7-Neohesperidoside,True,,,original
+1806,8-Hydroxy-Deoxyguanosine,True,,,original
+1807,Desmosterol,True,,,original
+1808,"3,5-Di-O-Caffeoylquinic Acid",True,,,original
+1809,L-2-Aminobutanoic Acid,True,,,original
+1810,Dttp,True,,,original
+1811,Cyanate,True,,,original
+1812,Inosine Triphosphate,True,,,original
+1813,1-Propylamine,True,,,original
+1814,Ginkgolide C,True,,,original
+1815,2-Aminoisobutyric Acid,True,,,original
+1816,Methylparaben,True,,,original
+1817,Trans-Isoasarone,True,,,original
+1818,Sepiapterin,True,,,original
+1819,1-Butylamine,True,,,original
+1820,Oxaloacetate,True,,,original
+1821,4-Aminophenol,True,,,original
+1822,"3,5-Dihydroxy-4-Methoxybenzoic Acid",True,,,original
+1823,Thiamine Monophosphate,True,,,original
+1824,Kinobeon A,True,,,original
+1825,Butyrylcarnitine,True,,,original
+1826,N2-Succinyl-L-Ornithine,True,,,original
+1827,Lariciresinol,True,,,original
+1828,S-Methyl-L-Methionine,True,,,original
+1829,2-Methoxy-4-Methylphenol,True,,,original
+1830,Pinostrobin,True,,,original
+1831,Convallatoxin,True,,,original
+1832,Myristate,True,,,original
+1833,Plastoquinone,True,,,original
+1834,Alpha-Carene,True,,,original
+1835,Gardenin B,True,,,original
+1836,Sporamin,True,,,original
+1837,Maslinic Acid,True,,,original
+1838,Cajanol,True,,,original
+1839,Lipoamide,True,,,original
+1840,Cob(I)Alamin,True,,,original
+1841,N1-Acetylspermine,True,,,original
+1842,1-Tetradecanol,True,,,original
+1843,Betulonic Acid,True,,,original
+1844,2-Pyrrolidinone,True,,,original
+1845,3-Hydroxyglutaric Acid,True,,,original
+1846,Ginsenoside Rd,True,,,original
+1847,4-Vinylsyringol,True,,,original
+1848,Falcarindiol,True,,,original
+1849,Quinolinate,True,,,original
+1850,Diethylphosphate,True,,,original
+1851,Matairesinol,True,,,original
+1852,Homoeriodictyol,True,,,original
+1853,Alliin,True,,,original
+1854,Melibiose,True,,,original
+1855,Sodium Acetate,True,,,original
+1856,Asiaticoside,True,,,original
+1857,Madecassoside,True,,,original
+1858,Scutellarein,True,,,original
+1859,Luteolin 7-Glucoside,True,,,original
+1860,Scolymoside,True,,,original
+1861,12(S)-Hpete,True,,,original
+1862,M-Chlorohippuric Acid,True,,,original
+1863,Solasodine,True,,,original
+1864,Ginsenoside Rh2,True,,,original
+1865,Cellulase,True,,,original
+1866,"3H-1,2-Dithiole-3-Thione",True,,,original
+1867,Dimethylarsinate,True,,,original
+1868,2-Pentanone,True,,,original
+1869,N-Acetyl-L-Ornithine,True,,,original
+1870,Tocophersolan,True,,,original
+1871,Gamma-Glutamyl-Cysteine,True,,,original
+1872,Calcium Pantothenate,True,,,original
+1873,Tectorigenin,True,,,original
+1874,Hopeaphenol,True,,,original
+1875,Potassium Iodide,True,,,original
+1876,(S)-Coclaurine,True,,,original
+1877,Curdione,True,,,original
+1878,Tryptophol,True,,,original
+1879,N-Butyl Acetate,True,,,original
+1880,1-Deoxynojirimycin,True,,,original
+1881,Adp-Ribose,True,,,original
+1882,15-Kete,True,,,original
+1883,Beta-Cyclocitral,True,,,original
+1884,Perillaldehyde,True,,,original
+1885,Glyoxal,True,,,original
+1886,18-Hydroxycorticosterone,True,,,original
+1887,Angiotensin Iii,True,,,original
+1888,15-Hete,True,,,original
+1889,Gamma-Cyclodextrin,True,,,original
+1890,Cycloartenol,True,,,original
+1891,Diethylamine,True,,,original
+1892,1-Nonanol,True,,,original
+1893,Pseudouridine,True,,,original

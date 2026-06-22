@@ -1,0 +1,487 @@
+dish,source,compound,in_foodb,in_hkg,in_manual_for_dish,in_runtime_for_dish
+adas,runtime,allicin,True,True,True,
+adas,runtime,cuminaldehyde,True,True,True,
+adas,runtime,phytic acid,True,True,True,
+adas,runtime,potassium,True,True,True,
+adas,manual,allicin,True,True,,True
+adas,manual,cuminaldehyde,True,True,,True
+adas,manual,non heme iron,False,False,,False
+adas,manual,phytic acid,True,True,,True
+adas,manual,potassium,True,True,,True
+atay,runtime,caffeine,True,True,True,
+atay,runtime,glucose,True,True,False,
+atay,runtime,saponins,True,True,True,
+atay,runtime,sucrose,True,True,False,
+atay,manual,caffeine,True,True,,True
+atay,manual,saponins,True,True,,True
+atay,manual,sucrose glucose,False,False,,False
+atay,manual,tannins,False,False,,False
+baghrir,runtime,amylopectin,True,False,True,
+baghrir,runtime,glucose,True,True,False,
+baghrir,runtime,sucrose,True,True,False,
+baghrir,manual,amylopectin,True,False,,True
+baghrir,manual,butyric acid scfas,False,False,,False
+baghrir,manual,co2,False,False,,False
+baghrir,manual,sucrose glucose,False,False,,False
+baklawa,runtime,amygdalin,True,True,True,
+baklawa,manual,amygdalin,True,True,,True
+baklawa,manual,gelatinisedstarch,False,False,,False
+baklawa,manual,honey,False,False,,False
+baklawa,manual,laminatedgluten,False,False,,False
+baklawa,manual,larginine,False,False,,False
+baklawa,manual,omega3,False,False,,False
+baklawa,manual,saturated fats,False,False,,False
+batata bel-jelbana,runtime,allicin,True,True,True,
+batata bel-jelbana,runtime,amylose,True,True,True,
+batata bel-jelbana,runtime,cinnamaldehyde,True,True,True,
+batata bel-jelbana,runtime,leucine,True,True,True,
+batata bel-jelbana,runtime,piperine,True,True,True,
+batata bel-jelbana,runtime,saponins,True,True,True,
+batata bel-jelbana,manual,allicin,True,True,,True
+batata bel-jelbana,manual,amylose,True,True,,True
+batata bel-jelbana,manual,cinnamaldehyde,True,True,,True
+batata bel-jelbana,manual,essaa,False,False,,False
+batata bel-jelbana,manual,leucine,True,True,,True
+batata bel-jelbana,manual,piperine,True,True,,True
+batata bel-jelbana,manual,saponins,True,True,,True
+batata red sauce,runtime,allicin,True,True,True,
+batata red sauce,runtime,apigenin,True,True,True,
+batata red sauce,runtime,cuminaldehyde,True,True,True,
+batata red sauce,runtime,potassium,True,True,True,
+batata red sauce,runtime,quercetin,True,True,True,
+batata red sauce,manual,allicin,True,True,,True
+batata red sauce,manual,apigenin,True,True,,True
+batata red sauce,manual,cuminaldehyde,True,True,,True
+batata red sauce,manual,gelatinised starch,False,False,,False
+batata red sauce,manual,potassium,True,True,,True
+batata red sauce,manual,quercetin,True,True,,True
+berkoukes,runtime,amylopectin,True,False,False,
+berkoukes,runtime,amylose,True,True,False,
+berkoukes,runtime,capsaicin,True,True,True,
+berkoukes,runtime,curcumin,True,True,True,
+berkoukes,runtime,lycopene,True,True,True,
+berkoukes,manual,amylose amylopectin,False,False,,False
+berkoukes,manual,capsaicin,True,True,,True
+berkoukes,manual,curcumin,True,True,,True
+berkoukes,manual,lycopene,True,True,,True
+bourak jazairi,runtime,acrylamide,True,False,True,
+bourak jazairi,runtime,amylopectin,True,False,True,
+bourak jazairi,runtime,calcium,True,True,True,
+bourak jazairi,runtime,iodine,True,True,True,
+bourak jazairi,manual,acrylamide,True,False,,True
+bourak jazairi,manual,amylopectin,True,False,,True
+bourak jazairi,manual,calcium,True,True,,True
+bourak jazairi,manual,iodine,True,True,,True
+bourak jazairi,manual,large neutral amino acids,False,False,,False
+bourak jazairi,manual,omega3,False,False,,False
+bourak jazairi,manual,purines,False,False,,False
+bourak jazairi,manual,saturated fats,False,False,,False
+bouzlouf/chtitha,runtime,allicin,True,True,False,
+bouzlouf/chtitha,runtime,capsaicin,True,True,True,
+bouzlouf/chtitha,runtime,cuminaldehyde,True,True,True,
+bouzlouf/chtitha,manual,capsaicin,True,True,,True
+bouzlouf/chtitha,manual,cuminaldehyde,True,True,,True
+bouzlouf/chtitha,manual,purines,False,False,,False
+bouzlouf/chtitha,manual,s allicin,False,False,,False
+bradj,runtime,cinnamaldehyde,True,True,True,
+bradj,runtime,eugenol,True,True,True,
+bradj,runtime,lignans,True,True,True,
+bradj,runtime,linalool,True,True,True,
+bradj,runtime,potassium,True,True,True,
+bradj,manual,cinnamaldehyde,True,True,,True
+bradj,manual,eugenol,True,True,,True
+bradj,manual,lignans,True,True,,True
+bradj,manual,linalool,True,True,,True
+bradj,manual,omega3,False,False,,False
+bradj,manual,potassium,True,True,,True
+brik,runtime,acrylamide,True,False,True,
+brik,runtime,choline,True,True,True,
+brik,runtime,cuminaldehyde,True,True,True,
+brik,manual,acrylamide,True,False,,True
+brik,manual,choline,True,True,,True
+brik,manual,cuminaldehyde,True,True,,True
+brik,manual,lecithin,False,False,,False
+brik,manual,purines,False,False,,False
+brik,manual,saturated fats,False,False,,False
+chakchouka,runtime,allicin,True,True,True,
+chakchouka,runtime,capsaicin,True,True,True,
+chakchouka,runtime,choline,True,True,True,
+chakchouka,runtime,lycopene,True,True,True,
+chakchouka,runtime,quercetin,True,True,True,
+chakchouka,manual,allicin,True,True,,True
+chakchouka,manual,capsaicin,True,True,,True
+chakchouka,manual,choline,True,True,,True
+chakchouka,manual,lycopene,True,True,,True
+chakchouka,manual,quercetin,True,True,,True
+chakhchoukha,runtime,allicin,True,True,False,
+chakhchoukha,runtime,amylopectin,True,False,True,
+chakhchoukha,runtime,beta carotene,True,True,False,
+chakhchoukha,runtime,capsaicin,True,True,True,
+chakhchoukha,runtime,cinnamaldehyde,True,True,True,
+chakhchoukha,runtime,cuminaldehyde,True,True,False,
+chakhchoukha,runtime,hydroxytyrosol,True,True,False,
+chakhchoukha,runtime,iron,True,True,False,
+chakhchoukha,runtime,lutein,True,True,False,
+chakhchoukha,runtime,lycopene,True,True,True,
+chakhchoukha,runtime,oleuropein,True,True,False,
+chakhchoukha,runtime,potassium,True,True,True,
+chakhchoukha,runtime,quercetin,True,True,False,
+chakhchoukha,runtime,s allylcysteine,True,True,False,
+chakhchoukha,runtime,zinc,True,True,False,
+chakhchoukha,manual,amylopectin,True,False,,True
+chakhchoukha,manual,capsaicin,True,True,,True
+chakhchoukha,manual,cinnamaldehyde,True,True,,True
+chakhchoukha,manual,lycopene,True,True,,True
+chakhchoukha,manual,potassium,True,True,,True
+chakhchoukha,manual,purines,False,False,,False
+chorba bidha,runtime,cinnamaldehyde,True,True,True,
+chorba bidha,runtime,phytic acid,True,True,True,
+chorba bidha,manual,cinnamaldehyde,True,True,,True
+chorba bidha,manual,citric acid,False,False,,False
+chorba bidha,manual,phytic acid,True,True,,True
+chorba bidha,manual,purines,False,False,,False
+chorba frik / jari,runtime,menthol,True,True,True,
+chorba frik / jari,runtime,phytic acid,True,True,True,
+chorba frik / jari,manual,magnesium,False,False,,False
+chorba frik / jari,manual,menthol,True,True,,True
+chorba frik / jari,manual,phytic acid,True,True,,True
+chorba frik / jari,manual,rosmarinicacid,False,False,,False
+chorba frik / jari,manual,smoked roasted pahs,False,False,,False
+chorba frik / jari,manual,soluble fiber,False,False,,False
+chou-fleur,runtime,allicin,True,True,True,
+chou-fleur,runtime,amylopectin,True,False,True,
+chou-fleur,runtime,cuminaldehyde,True,True,True,
+chou-fleur,runtime,lycopene,True,True,True,
+chou-fleur,runtime,potassium,True,True,True,
+chou-fleur,manual,allicin,True,True,,True
+chou-fleur,manual,amylopectin,True,False,,True
+chou-fleur,manual,cuminaldehyde,True,True,,True
+chou-fleur,manual,i3c,False,False,,False
+chou-fleur,manual,lycopene,True,True,,True
+chou-fleur,manual,potassium,True,True,,True
+couscous,runtime,ferulic acid,True,True,True,
+couscous,runtime,phytic acid,True,True,True,
+couscous,manual,ferulic acid,True,True,,True
+couscous,manual,phytic acid,True,True,,True
+dchicha with klila,runtime,beta glucan,True,True,True,
+dchicha with klila,runtime,calcium,True,True,True,
+dchicha with klila,runtime,sodium,True,True,False,
+dchicha with klila,manual,beta glucan,True,True,,True
+dchicha with klila,manual,calcium,True,True,,True
+dchicha with klila,manual,na,True,True,,False
+dchicha with klila,manual,saturated fats,False,False,,False
+dchicha with klila,manual,tyramine,False,False,,False
+djelbana b'garnon,runtime,gelatin,True,False,True,
+djelbana b'garnon,runtime,leucine,True,True,True,
+djelbana b'garnon,manual,cynarin,False,False,,False
+djelbana b'garnon,manual,gelatin,True,False,,True
+djelbana b'garnon,manual,gelatinisedflour,False,False,,False
+djelbana b'garnon,manual,inositol,False,False,,False
+djelbana b'garnon,manual,leucine,True,True,,True
+djelbana b'garnon,manual,silymarin,False,False,,False
+djelbana b'garnon,manual,solfiber,False,False,,False
+dolma,runtime,allicin,True,True,True,
+dolma,runtime,amylose,True,True,True,
+dolma,runtime,apigenin,True,True,True,
+dolma,runtime,solanine,True,True,True,
+dolma,manual,allicin,True,True,,True
+dolma,manual,amylose,True,True,,True
+dolma,manual,apigenin,True,True,,True
+dolma,manual,cucurbitacin,False,False,,False
+dolma,manual,solanine,True,True,,True
+dolma,manual,vitamin k,False,False,,False
+doubara (biskria),runtime,allicin,True,True,True,
+doubara (biskria),runtime,capsaicin,True,True,True,
+doubara (biskria),runtime,cuminaldehyde,True,True,True,
+doubara (biskria),runtime,phytic acid,True,True,True,
+doubara (biskria),manual,allicin,True,True,,True
+doubara (biskria),manual,capsaicin,True,True,,True
+doubara (biskria),manual,cuminaldehyde,True,True,,True
+doubara (biskria),manual,phytic acid,True,True,,True
+doubara (biskria),manual,purines,False,False,,False
+douwara / bakbouka,runtime,allicin,True,True,True,
+douwara / bakbouka,runtime,curcumin,True,True,True,
+douwara / bakbouka,runtime,lycopene,True,True,True,
+douwara / bakbouka,runtime,phytic acid,True,True,True,
+douwara / bakbouka,runtime,potassium,True,True,True,
+douwara / bakbouka,manual,allicin,True,True,,True
+douwara / bakbouka,manual,curcumin,True,True,,True
+douwara / bakbouka,manual,gingerol,False,False,,False
+douwara / bakbouka,manual,lycopene,True,True,,True
+douwara / bakbouka,manual,phytic acid,True,True,,True
+douwara / bakbouka,manual,potassium,True,True,,True
+douwara / bakbouka,manual,purines,False,False,,False
+dziriyet,runtime,albumin,True,True,True,
+dziriyet,runtime,benzaldehyde,True,True,True,
+dziriyet,runtime,choline,True,True,True,
+dziriyet,runtime,glucose,True,True,True,
+dziriyet,runtime,resveratrol,True,True,True,
+dziriyet,runtime,sucrose,True,True,True,
+dziriyet,manual,albumin,True,True,,True
+dziriyet,manual,benzaldehyde,True,True,,True
+dziriyet,manual,choline,True,True,,True
+dziriyet,manual,fructose,False,False,,False
+dziriyet,manual,glucose,True,True,,True
+dziriyet,manual,pacs,False,False,,False
+dziriyet,manual,resveratrol,True,True,,True
+dziriyet,manual,sucrose,True,True,,True
+fritte omelette,runtime,choline,True,True,True,
+fritte omelette,runtime,leucine,True,True,True,
+fritte omelette,runtime,lutein,True,True,True,
+fritte omelette,manual,acrylamidemaillard,False,False,,False
+fritte omelette,manual,cck,False,False,,False
+fritte omelette,manual,choline,True,True,,True
+fritte omelette,manual,leucine,True,True,,True
+fritte omelette,manual,lutein,True,True,,True
+fritte omelette,manual,oxidisedlipids,False,False,,False
+fritte omelette,manual,starchlipid,False,False,,False
+ftir,runtime,amylopectin,True,False,True,
+ftir,runtime,sodium,True,True,False,
+ftir,manual,amylopectin,True,False,,True
+ftir,manual,na,True,True,,False
+ftir,manual,triglycerides,False,False,,False
+ftir,manual,zerofermentation,False,False,,False
+garantita/karentica,runtime,capsaicin,True,True,True,
+garantita/karentica,runtime,cuminaldehyde,True,True,True,
+garantita/karentica,runtime,phytic acid,True,True,True,
+garantita/karentica,manual,capsaicin,True,True,,True
+garantita/karentica,manual,cuminaldehyde,True,True,,True
+garantita/karentica,manual,non heme fe,False,False,,False
+garantita/karentica,manual,phytic acid,True,True,,True
+garantita/karentica,manual,plant protein,False,False,,False
+garantita/karentica,manual,purines,False,False,,False
+griwech,runtime,linalool,True,True,True,
+griwech,runtime,sesamin,True,True,True,
+griwech,runtime,sesamolin,True,True,True,
+griwech,manual,3mm,False,False,,False
+griwech,manual,braidedlattice,False,False,,False
+griwech,manual,honey synergy,False,False,,False
+griwech,manual,linalool,True,True,,True
+griwech,manual,maillard,False,False,,False
+griwech,manual,sesamin,True,True,,True
+griwech,manual,sesamolin,True,True,,True
+guedid / kadid,runtime,allicin,True,True,True,
+guedid / kadid,runtime,sodium,True,True,False,
+guedid / kadid,manual,ages,False,False,,False
+guedid / kadid,manual,allicin,True,True,,True
+guedid / kadid,manual,na,True,True,,False
+guedid / kadid,manual,tyramine,False,False,,False
+harira,runtime,beta glucan,True,True,True,
+harira,runtime,carvone,True,True,True,
+harira,manual,beta glucan,True,True,,True
+harira,manual,carvone,True,True,,True
+harira,manual,purines,False,False,,False
+hmiss,runtime,allicin,True,True,True,
+hmiss,runtime,capsaicin,True,True,True,
+hmiss,runtime,lycopene,True,True,True,
+hmiss,runtime,oleic acid,True,True,True,
+hmiss,manual,allicin,True,True,,True
+hmiss,manual,capsaicin,True,True,,True
+hmiss,manual,lycopene,True,True,,True
+hmiss,manual,oleic acid,True,True,,True
+hommos,runtime,cuminaldehyde,True,True,True,
+hommos,runtime,phytic acid,True,True,True,
+hommos,manual,cuminaldehyde,True,True,,True
+hommos,manual,nonhemeiron,False,False,,False
+hommos,manual,olive oil,False,False,,False
+hommos,manual,phytic acid,True,True,,True
+hommos,manual,purines,False,False,,False
+hommos,manual,sodium bicarbonate,False,False,,False
+kaak nakach,runtime,linalool,True,True,True,
+kaak nakach,runtime,potassium,True,True,True,
+kaak nakach,manual,co,False,False,,False
+kaak nakach,manual,insoluble fiber,False,False,,False
+kaak nakach,manual,linalool,True,True,,True
+kaak nakach,manual,lipidcoatedstarch,False,False,,False
+kaak nakach,manual,potassium,True,True,,True
+kaak nakach,manual,sodium bicarbonate,False,False,,False
+la soupe (veg+redlentil),runtime,beta carotene,True,True,True,
+la soupe (veg+redlentil),runtime,curcumin,True,True,True,
+la soupe (veg+redlentil),runtime,piperine,True,True,True,
+la soupe (veg+redlentil),manual,allicin lateadd,False,False,,False
+la soupe (veg+redlentil),manual,beta carotene,True,True,,True
+la soupe (veg+redlentil),manual,curcumin,True,True,,True
+la soupe (veg+redlentil),manual,folate,False,False,,False
+la soupe (veg+redlentil),manual,gingerol,False,False,,False
+la soupe (veg+redlentil),manual,minerals,False,False,,False
+la soupe (veg+redlentil),manual,piperine,True,True,,True
+la soupe (veg+redlentil),manual,soluble fiber,False,False,,False
+lahm lhalou,runtime,amygdalin,True,True,True,
+lahm lhalou,runtime,cinnamaldehyde,True,True,True,
+lahm lhalou,runtime,coumarin,True,True,True,
+lahm lhalou,runtime,glucose,True,True,False,
+lahm lhalou,runtime,sucrose,True,True,False,
+lahm lhalou,manual,amygdalin,True,True,,True
+lahm lhalou,manual,butyric acid,False,False,,False
+lahm lhalou,manual,cinnamaldehyde,True,True,,True
+lahm lhalou,manual,coumarin,True,True,,True
+lahm lhalou,manual,sucrose glucose,False,False,,False
+loubia,runtime,allicin,True,True,True,
+loubia,runtime,beta carotene,True,True,True,
+loubia,runtime,cuminaldehyde,True,True,True,
+loubia,runtime,phytic acid,True,True,True,
+loubia,runtime,potassium,True,True,True,
+loubia,runtime,saponins,True,True,True,
+loubia,manual,allicin,True,True,,True
+loubia,manual,beta carotene,True,True,,True
+loubia,manual,cuminaldehyde,True,True,,True
+loubia,manual,phaseolamin,False,False,,False
+loubia,manual,phytic acid,True,True,,True
+loubia,manual,potassium,True,True,,True
+loubia,manual,purines,False,False,,False
+loubia,manual,saponins,True,True,,True
+makroud el-koucha,runtime,amylopectin,True,False,True,
+makroud el-koucha,runtime,linalool,True,True,True,
+makroud el-koucha,manual,amylopectin,True,False,,True
+makroud el-koucha,manual,butyric acid scfas,False,False,,False
+makroud el-koucha,manual,linalool,True,True,,True
+matlouh,runtime,amylopectin,True,False,True,
+matlouh,runtime,phytic acid,True,True,True,
+matlouh,runtime,sodium,True,True,False,
+matlouh,manual,amylopectin,True,False,,True
+matlouh,manual,co2,False,False,,False
+matlouh,manual,hydrationmatrix,False,False,,False
+matlouh,manual,na,True,True,,False
+matlouh,manual,phytic acid,True,True,,True
+mbessas,runtime,amylopectin,True,False,True,
+mbessas,manual,amylopectin,True,False,,True
+mbessas,manual,densematrix,False,False,,False
+mbessas,manual,lipid,False,False,,False
+mbessas,manual,maillard ages,False,False,,False
+mederbel,runtime,allicin,True,True,True,
+mederbel,runtime,nasunin,True,True,True,
+mederbel,manual,acetic acid,False,False,,False
+mederbel,manual,allicin,True,True,,True
+mederbel,manual,lipidsponge,False,False,,False
+mederbel,manual,nasunin,True,True,,True
+mederbel,manual,purines,False,False,,False
+merguez,runtime,capsaicin,True,True,True,
+merguez,runtime,cuminaldehyde,True,True,True,
+merguez,manual,capsaicin,True,True,,True
+merguez,manual,cuminaldehyde,True,True,,True
+merguez,manual,heme iron,False,False,,False
+merguez,manual,sat fats,False,False,,False
+mesfouf,runtime,amylopectin,True,False,True,
+mesfouf,runtime,resveratrol,True,True,True,
+mesfouf,runtime,sucrose,True,True,False,
+mesfouf,manual,amylopectin,True,False,,True
+mesfouf,manual,butyric acid,False,False,,False
+mesfouf,manual,resveratrol,True,True,,True
+mesfouf,manual,sucrose fructose,False,False,,False
+mhadjeb (a=spicy/b=plain),runtime,allicin,True,True,True,
+mhadjeb (a=spicy/b=plain),runtime,amylopectin,True,False,True,
+mhadjeb (a=spicy/b=plain),runtime,capsaicin,True,True,True,
+mhadjeb (a=spicy/b=plain),runtime,lycopene,True,True,True,
+mhadjeb (a=spicy/b=plain),runtime,quercetin,True,True,True,
+mhadjeb (a=spicy/b=plain),manual,allicin,True,True,,True
+mhadjeb (a=spicy/b=plain),manual,amylopectin,True,False,,True
+mhadjeb (a=spicy/b=plain),manual,capsaicin,True,True,,True
+mhadjeb (a=spicy/b=plain),manual,lycopene,True,True,,True
+mhadjeb (a=spicy/b=plain),manual,quercetin,True,True,,True
+mhadjeb (a=spicy/b=plain),manual,triglycerides,False,False,,False
+mhancha,manual,l arginine,False,False,,False
+mhancha,manual,niacin,False,False,,False
+mhancha,manual,oxidised lipids,False,False,,False
+mthawem / methoum,runtime,allicin,True,True,True,
+mthawem / methoum,runtime,cinnamaldehyde,True,True,True,
+mthawem / methoum,manual,allicin,True,True,,True
+mthawem / methoum,manual,cinnamaldehyde,True,True,,True
+mthawem / methoum,manual,purines,False,False,,False
+mthawem / methoum,manual,saturated lipids,False,False,,False
+osban / osbane,runtime,allicin,True,True,True,
+osban / osbane,runtime,apigenin,True,True,True,
+osban / osbane,runtime,piperine,True,True,True,
+osban / osbane,runtime,quercetin,True,True,True,
+osban / osbane,manual,allicin,True,True,,True
+osban / osbane,manual,apigenin,True,True,,True
+osban / osbane,manual,piperine,True,True,,True
+osban / osbane,manual,purines,False,False,,False
+osban / osbane,manual,quercetin,True,True,,True
+osban / osbane,manual,triglycerides,False,False,,False
+qtayef,runtime,linalool,True,True,True,
+qtayef,manual,ellagitannins,False,False,,False
+qtayef,manual,fructoseglucose,False,False,,False
+qtayef,manual,linalool,True,True,,True
+qtayef,manual,sha ra strands,False,False,,False
+qtayef,manual,walnutala,False,False,,False
+rechta,runtime,amylopectin,True,False,True,
+rechta,runtime,cinnamaldehyde,True,True,True,
+rechta,runtime,curcumin,True,True,True,
+rechta,runtime,glucobrassicin,True,True,True,
+rechta,runtime,quercetin,True,True,True,
+rechta,manual,amylopectin,True,False,,True
+rechta,manual,cinnamaldehyde,True,True,,True
+rechta,manual,curcumin,True,True,,True
+rechta,manual,glucobrassicin,True,True,,True
+rechta,manual,quercetin,True,True,,True
+shbah el-safra,runtime,crocin,True,True,True,
+shbah el-safra,runtime,glucose,True,True,False,
+shbah el-safra,runtime,potassium,True,True,True,
+shbah el-safra,runtime,safranal,True,True,True,
+shbah el-safra,runtime,sucrose,True,True,False,
+shbah el-safra,manual,crocin,True,True,,True
+shbah el-safra,manual,l arginine,False,False,,False
+shbah el-safra,manual,potassium,True,True,,True
+shbah el-safra,manual,safranal,True,True,,True
+shbah el-safra,manual,sorbitol,False,False,,False
+shbah el-safra,manual,sucrose glucose,False,False,,False
+shbah el-safra,manual,vitamin e,False,False,,False
+tajine zeitoun,runtime,allicin,True,True,True,
+tajine zeitoun,runtime,cinnamaldehyde,True,True,True,
+tajine zeitoun,runtime,curcumin,True,True,True,
+tajine zeitoun,runtime,oleuropein,True,True,True,
+tajine zeitoun,manual,allicin,True,True,,True
+tajine zeitoun,manual,cinnamaldehyde,True,True,,True
+tajine zeitoun,manual,curcumin,True,True,,True
+tajine zeitoun,manual,oleuropein,True,True,,True
+tamina,runtime,sesamin,True,True,True,
+tamina,runtime,sesamolin,True,True,True,
+tamina,runtime,sucrose,True,True,False,
+tamina,manual,butter emulsion,False,False,,False
+tamina,manual,pyrodextrins,False,False,,False
+tamina,manual,sesamin,True,True,,True
+tamina,manual,sesamolin,True,True,,True
+tamina,manual,sucrose icing sugar,False,False,,False
+taminat l-ghars,runtime,potassium,True,True,True,
+taminat l-ghars,manual,butter,False,False,,False
+taminat l-ghars,manual,grain starch,False,False,,False
+taminat l-ghars,manual,honey,False,False,,False
+taminat l-ghars,manual,insolfiber,False,False,,False
+taminat l-ghars,manual,potassium,True,True,,True
+taminat l-ghars,manual,pyrodextrins,False,False,,False
+tcharak (a=aryan/b=meskar),runtime,albumin,True,True,True,
+tcharak (a=aryan/b=meskar),runtime,limonene,True,True,True,
+tcharak (a=aryan/b=meskar),runtime,linalool,True,True,True,
+tcharak (a=aryan/b=meskar),runtime,mg2,True,True,True,
+tcharak (a=aryan/b=meskar),manual,albumin,True,True,,True
+tcharak (a=aryan/b=meskar),manual,larginine,False,False,,False
+tcharak (a=aryan/b=meskar),manual,limonene,True,True,,True
+tcharak (a=aryan/b=meskar),manual,linalool,True,True,,True
+tcharak (a=aryan/b=meskar),manual,mg2,True,True,,True
+tcharak (a=aryan/b=meskar),manual,protein,False,False,,False
+tcharak (a=aryan/b=meskar),manual,shortcrust friablematrix,False,False,,False
+tilitili / tlitli,runtime,amylopectin,True,False,True,
+tilitili / tlitli,runtime,choline,True,True,True,
+tilitili / tlitli,runtime,cinnamaldehyde,True,True,True,
+tilitili / tlitli,runtime,piperine,True,True,True,
+tilitili / tlitli,manual,amylopectin,True,False,,True
+tilitili / tlitli,manual,choline,True,True,,True
+tilitili / tlitli,manual,cinnamaldehyde,True,True,,True
+tilitili / tlitli,manual,piperine,True,True,,True
+trida (w: white sauce,runtime,amylopectin,True,False,False,
+trida (w: white sauce,runtime,choline,True,True,True,
+trida (w: white sauce,runtime,quercetin,True,True,True,
+trida (w: white sauce,manual,butyric acid,False,False,,False
+trida (w: white sauce,manual,choline,True,True,,True
+trida (w: white sauce,manual,quercetin,True,True,,True
+trida (w: white sauce,manual,w amylopectin,False,False,,False
+zfiti / zviti,runtime,allicin,True,True,True,
+zfiti / zviti,runtime,capsaicin,True,True,True,
+zfiti / zviti,runtime,phytic acid,True,True,True,
+zfiti / zviti,runtime,piperine,True,True,True,
+zfiti / zviti,manual,allicin,True,True,,True
+zfiti / zviti,manual,capsaicin,True,True,,True
+zfiti / zviti,manual,phytic acid,True,True,,True
+zfiti / zviti,manual,piperine,True,True,,True
+zlabia,runtime,limonene,True,True,True,
+zlabia,manual,limonene,True,True,,True

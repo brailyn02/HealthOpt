@@ -1,0 +1,1736 @@
+food_raw,food_name,food_matched,food_id,drug_raw,drug_name,drug_id,verdict
+Phytic Acid,Phytic Acid,phytic acid,762,Levothyroxine,levothyroxine,722,DrugBank-named
+Phytic Acid,Phytic Acid,phytic acid,762,Ciprofloxacin,ciprofloxacin,258,LIT-confirmed
+Phytic Acid,Phytic Acid,phytic acid,762,Digoxin,digoxin,378,DrugBank-text
+Ferulic Acid,Ferulic Acid,ferulic acid,763,Levothyroxine,levothyroxine,722,DrugBank-text
+Ferulic Acid,Ferulic Acid,ferulic acid,763,Digoxin,digoxin,378,DrugBank-text
+Allicin,Allicin,allicin,1011,Lisinopril/Warfarin,lisinopril,732,DrugBank-named
+Allicin,Allicin,allicin,1011,Lisinopril/Warfarin,warfarin,1396,DrugBank-named
+Allicin,Allicin,allicin,1011,Phenytoin,phenytoin,1004,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,Lisinopril/Warfarin,lisinopril,732,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,Lisinopril/Warfarin,warfarin,1396,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,Theophylline,theophylline,1271,LIT-confirmed
+Piperine,Piperine,piperine,264,Lisinopril/Warfarin,lisinopril,732,LIT-confirmed
+Piperine,Piperine,piperine,264,Lisinopril/Warfarin,warfarin,1396,LIT-confirmed
+Piperine,Piperine,piperine,264,Theophylline,theophylline,1271,LIT-confirmed
+Piperine,Piperine,piperine,264,Phenytoin,phenytoin,1004,LIT-confirmed
+Phytic Acid,Phytic Acid,phytic acid,762,Theophylline,theophylline,1271,LIT-confirmed
+Amylopectin,Amylopectin,amylopectin,1801,Insulin/Metformin,insulin,1615,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,Insulin/Metformin,metformin,794,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,Allopurinol,allopurinol,36,PubMed-NLP
+K+,Potassium,potassium,22,Insulin/Metformin,insulin,1615,PubMed-NLP
+K+,Potassium,potassium,22,Insulin/Metformin,metformin,794,PubMed-NLP
+K+,Potassium,potassium,22,ACE-I,lisinopril,732,LIT-confirmed
+K+,Potassium,potassium,22,ACE-I,enalapril,435,LIT-confirmed
+K+,Potassium,potassium,22,ACE-I,ramipril,1092,LIT-confirmed
+K+,Potassium,potassium,22,ACE-I,captopril,198,LIT-confirmed
+K+,Potassium,potassium,22,ACE-I,perindopril,988,LIT-confirmed
+K+,Potassium,potassium,22,Theophylline,theophylline,1271,LIT-confirmed
+Cinnamaldehyde,Cinnamaldehyde,cinnamaldehyde,797,Insulin/Metformin,insulin,1615,PubMed-NLP
+Cinnamaldehyde,Cinnamaldehyde,cinnamaldehyde,797,Insulin/Metformin,metformin,794,PubMed-NLP
+Capsaicin,Capsaicin,capsaicin,80,ACE-I,lisinopril,732,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,ACE-I,enalapril,435,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,ACE-I,ramipril,1092,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,ACE-I,captopril,198,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,ACE-I,perindopril,988,LIT-confirmed
+Purines,Purines,purine,799,Allopurinol,allopurinol,36,LIT-confirmed
+Tyramine,Tyramine,tyramine-containing foods,496,MAOIs,phenelzine,994,LIT-confirmed
+Tyramine,Tyramine,tyramine-containing foods,496,MAOIs,tranylcypromine,1316,LIT-confirmed
+Tyramine,Tyramine,tyramine-containing foods,496,MAOIs,isocarboxazid,662,LIT-confirmed
+Tyramine,Tyramine,tyramine-containing foods,496,MAOIs,selegiline,1158,LIT-confirmed
+Na+,Na+,sodium,25,Lithium,lithium,1475,DrugBank-text
+Allicin,Allicin,allicin,1011,Lithium,lithium,1475,LIT-confirmed
+Allicin,Allicin,allicin,1011,Warfarin,warfarin,1396,DrugBank-named
+Allicin,Allicin,allicin,1011,Saquinavir,saquinavir,1149,LIT-confirmed
+AGEs,AGEs,UNMATCHED,—,MAOIs,phenelzine,994,LIT-confirmed
+AGEs,AGEs,UNMATCHED,—,MAOIs,tranylcypromine,1316,LIT-confirmed
+AGEs,AGEs,UNMATCHED,—,MAOIs,isocarboxazid,662,LIT-confirmed
+AGEs,AGEs,UNMATCHED,—,MAOIs,selegiline,1158,LIT-confirmed
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Cyclosporine/Orlistat,cyclosporine,306,LIT-confirmed
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Cyclosporine/Orlistat,orlistat,929,LIT-confirmed
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Benzodiazepines,diazepam,363,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Benzodiazepines,alprazolam,42,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Benzodiazepines,lorazepam,742,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Warfarin,warfarin,1396,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Allopurinol,allopurinol,36,DrugBank-text
+Allicin,Allicin,allicin,1011,Cyclosporine/Orlistat,cyclosporine,306,PubMed-NLP
+Allicin,Allicin,allicin,1011,Cyclosporine/Orlistat,orlistat,929,PubMed-NLP
+Quercetin,Quercetin,quercetin,279,Cyclosporine/Orlistat,cyclosporine,306,PubMed-NLP
+Quercetin,Quercetin,quercetin,279,Cyclosporine/Orlistat,orlistat,929,PubMed-NLP
+Quercetin,Quercetin,quercetin,279,Warfarin,warfarin,1396,DrugBank-named
+Quercetin,Quercetin,quercetin,279,Allopurinol,allopurinol,36,PubMed-NLP
+Piperine,Piperine,piperine,264,Warfarin,warfarin,1396,LIT-confirmed
+Coumarin,Coumarin,coumarin,645,Warfarin,warfarin,1396,LIT-confirmed
+Coumarin,Coumarin,coumarin,645,Insulin/Metformin,insulin,1615,PubMed-NLP
+Coumarin,Coumarin,coumarin,645,Insulin/Metformin,metformin,794,PubMed-NLP
+Sucrose,Sucrose / Glucose,sucrose,340,Insulin/Metformin,insulin,1615,LIT-confirmed
+Sucrose,Sucrose / Glucose,sucrose,340,Insulin/Metformin,metformin,794,LIT-confirmed
+Butyric Acid,Butyric Acid,butyric acid,679,Insulin/Metformin,insulin,1615,PubMed-NLP
+Butyric Acid,Butyric Acid,butyric acid,679,Insulin/Metformin,metformin,794,PubMed-NLP
+Butyric Acid,Butyric Acid,butyric acid,679,Statins,statins,1772,PubMed-NLP
+PhyticAcid+Mg,Phytic Acid + Magnesium (Frik),phytic acid,762,Cipro/Tetracyclines,ciprofloxacin,258,LIT-confirmed
+PhyticAcid+Mg,Phytic Acid + Magnesium (Frik),phytic acid,762,Cipro/Tetracyclines,tetracycline,1266,LIT-confirmed
+PhyticAcid+Mg,Phytic Acid + Magnesium (Frik),phytic acid,762,Cipro/Tetracyclines,doxycycline,405,LIT-confirmed
+PhyticAcid+Mg,Phytic Acid + Magnesium (Frik),phytic acid,762,Theophylline/Duloxetine,theophylline,1271,DrugBank-text
+PhyticAcid+Mg,Phytic Acid + Magnesium (Frik),phytic acid,762,Theophylline/Duloxetine,duloxetine,413,DrugBank-text
+PhyticAcid+Mg,Phytic Acid + Magnesium (Frik),phytic acid,762,Digoxin/Metformin,digoxin,378,DrugBank-text
+PhyticAcid+Mg,Phytic Acid + Magnesium (Frik),phytic acid,762,Digoxin/Metformin,metformin,794,DrugBank-text
+PhyticAcid+Mg,Phytic Acid + Magnesium (Frik),phytic acid,762,IronSuppl,ferrous sulfate anhydrous,513,LIT-confirmed
+PhyticAcid+Mg,Phytic Acid + Magnesium (Frik),phytic acid,762,IronSuppl,ferrous sulfate,1786,LIT-confirmed
+PhyticAcid+Mg,Phytic Acid + Magnesium (Frik),phytic acid,762,IronSuppl,ferrous gluconate,512,LIT-confirmed
+PhyticAcid+Mg,Phytic Acid + Magnesium (Frik),phytic acid,762,IronSuppl,ferrous fumarate,511,LIT-confirmed
+SmokedPAH,Smoked / Roasted PAHs,UNMATCHED,—,Theophylline/Duloxetine,theophylline,1271,LIT-confirmed
+SmokedPAH,Smoked / Roasted PAHs,UNMATCHED,—,Theophylline/Duloxetine,duloxetine,413,LIT-confirmed
+SolFiber,Soluble Fiber (Pectin),fiber,10,Cipro/Tetracyclines,ciprofloxacin,258,LIT-confirmed
+SolFiber,Soluble Fiber (Pectin),fiber,10,Cipro/Tetracyclines,tetracycline,1266,LIT-confirmed
+SolFiber,Soluble Fiber (Pectin),fiber,10,Cipro/Tetracyclines,doxycycline,405,LIT-confirmed
+SolFiber,Soluble Fiber (Pectin),fiber,10,Theophylline/Duloxetine,theophylline,1271,DrugBank-text
+SolFiber,Soluble Fiber (Pectin),fiber,10,Theophylline/Duloxetine,duloxetine,413,DrugBank-text
+SolFiber,Soluble Fiber (Pectin),fiber,10,IronSuppl,ferrous sulfate anhydrous,513,LIT-confirmed
+SolFiber,Soluble Fiber (Pectin),fiber,10,IronSuppl,ferrous sulfate,1786,LIT-confirmed
+SolFiber,Soluble Fiber (Pectin),fiber,10,IronSuppl,ferrous gluconate,512,LIT-confirmed
+SolFiber,Soluble Fiber (Pectin),fiber,10,IronSuppl,ferrous fumarate,511,LIT-confirmed
+Tannins,Tannins,phenols,791,IronSuppl/Ca/Zn,ferrous sulfate anhydrous,513,LIT-confirmed
+Tannins,Tannins,phenols,791,IronSuppl/Ca/Zn,ferrous sulfate,1786,LIT-confirmed
+Tannins,Tannins,phenols,791,IronSuppl/Ca/Zn,ferrous gluconate,512,LIT-confirmed
+Tannins,Tannins,phenols,791,IronSuppl/Ca/Zn,ferrous fumarate,511,LIT-confirmed
+Tannins,Tannins,phenols,791,IronSuppl/Ca/Zn,ca,1478,LIT-confirmed
+Tannins,Tannins,phenols,791,IronSuppl/Ca/Zn,zn,1525,LIT-confirmed
+Tannins,Tannins,phenols,791,IronSuppl/Ca/Zn,calcium carbonate,185,LIT-confirmed
+Tannins,Tannins,phenols,791,IronSuppl/Ca/Zn,zinc sulfate,1414,LIT-confirmed
+Tannins,Tannins,phenols,791,Cipro/Clozapine/Theophylline,ciprofloxacin,258,LIT-confirmed
+Tannins,Tannins,phenols,791,Cipro/Clozapine/Theophylline,clozapine,283,LIT-confirmed
+Tannins,Tannins,phenols,791,Cipro/Clozapine/Theophylline,theophylline,1271,LIT-confirmed
+Tannins,Tannins,phenols,791,Benzodiazepines/BB,diazepam,363,LIT-confirmed
+Tannins,Tannins,phenols,791,Benzodiazepines/BB,alprazolam,42,LIT-confirmed
+Tannins,Tannins,phenols,791,Benzodiazepines/BB,lorazepam,742,LIT-confirmed
+Tannins,Tannins,phenols,791,Benzodiazepines/BB,propranolol,1068,LIT-confirmed
+Tannins,Tannins,phenols,791,Benzodiazepines/BB,metoprolol,818,LIT-confirmed
+Tannins,Tannins,phenols,791,Benzodiazepines/BB,atenolol,1724,LIT-confirmed
+Tannins,Tannins,phenols,791,Benzodiazepines/BB,bisoprolol,153,LIT-confirmed
+Tannins,Tannins,phenols,791,Insulin/SGLT2,insulin,1615,PubMed-NLP
+Tannins,Tannins,phenols,791,Insulin/SGLT2,empagliflozin,433,PubMed-NLP
+Tannins,Tannins,phenols,791,Insulin/SGLT2,dapagliflozin,322,PubMed-NLP
+Tannins,Tannins,phenols,791,Insulin/SGLT2,canagliflozin,190,PubMed-NLP
+Caffeine,Caffeine,caffeine,1,IronSuppl/Ca/Zn,ferrous sulfate anhydrous,513,LIT-confirmed
+Caffeine,Caffeine,caffeine,1,IronSuppl/Ca/Zn,ferrous sulfate,1786,LIT-confirmed
+Caffeine,Caffeine,caffeine,1,IronSuppl/Ca/Zn,ferrous gluconate,512,LIT-confirmed
+Caffeine,Caffeine,caffeine,1,IronSuppl/Ca/Zn,ferrous fumarate,511,LIT-confirmed
+Caffeine,Caffeine,caffeine,1,IronSuppl/Ca/Zn,ca,1478,LIT-confirmed
+Caffeine,Caffeine,caffeine,1,IronSuppl/Ca/Zn,zn,1525,LIT-confirmed
+Caffeine,Caffeine,caffeine,1,IronSuppl/Ca/Zn,calcium carbonate,185,LIT-confirmed
+Caffeine,Caffeine,caffeine,1,IronSuppl/Ca/Zn,zinc sulfate,1414,LIT-confirmed
+Caffeine,Caffeine,caffeine,1,Cipro/Clozapine/Theophylline,ciprofloxacin,258,DrugBank-named
+Caffeine,Caffeine,caffeine,1,Cipro/Clozapine/Theophylline,clozapine,283,DrugBank-named
+Caffeine,Caffeine,caffeine,1,Cipro/Clozapine/Theophylline,theophylline,1271,DrugBank-named
+Caffeine,Caffeine,caffeine,1,Benzodiazepines/BB,diazepam,363,LIT-confirmed
+Caffeine,Caffeine,caffeine,1,Benzodiazepines/BB,alprazolam,42,LIT-confirmed
+Caffeine,Caffeine,caffeine,1,Benzodiazepines/BB,lorazepam,742,LIT-confirmed
+Caffeine,Caffeine,caffeine,1,Benzodiazepines/BB,propranolol,1068,LIT-confirmed
+Caffeine,Caffeine,caffeine,1,Benzodiazepines/BB,metoprolol,818,LIT-confirmed
+Caffeine,Caffeine,caffeine,1,Benzodiazepines/BB,atenolol,1724,LIT-confirmed
+Caffeine,Caffeine,caffeine,1,Benzodiazepines/BB,bisoprolol,153,LIT-confirmed
+Caffeine,Caffeine,caffeine,1,Insulin/SGLT2,insulin,1615,PubMed-NLP
+Caffeine,Caffeine,caffeine,1,Insulin/SGLT2,empagliflozin,433,PubMed-NLP
+Caffeine,Caffeine,caffeine,1,Insulin/SGLT2,dapagliflozin,322,PubMed-NLP
+Caffeine,Caffeine,caffeine,1,Insulin/SGLT2,canagliflozin,190,PubMed-NLP
+Saponins,Saponins,saponins,1046,IronSuppl/Ca/Zn,ferrous sulfate anhydrous,513,LIT-confirmed
+Saponins,Saponins,saponins,1046,IronSuppl/Ca/Zn,ferrous sulfate,1786,LIT-confirmed
+Saponins,Saponins,saponins,1046,IronSuppl/Ca/Zn,ferrous gluconate,512,LIT-confirmed
+Saponins,Saponins,saponins,1046,IronSuppl/Ca/Zn,ferrous fumarate,511,LIT-confirmed
+Saponins,Saponins,saponins,1046,IronSuppl/Ca/Zn,ca,1478,LIT-confirmed
+Saponins,Saponins,saponins,1046,IronSuppl/Ca/Zn,zn,1525,LIT-confirmed
+Saponins,Saponins,saponins,1046,IronSuppl/Ca/Zn,calcium carbonate,185,LIT-confirmed
+Saponins,Saponins,saponins,1046,IronSuppl/Ca/Zn,zinc sulfate,1414,LIT-confirmed
+Saponins,Saponins,saponins,1046,Cipro/Clozapine/Theophylline,ciprofloxacin,258,LIT-confirmed
+Saponins,Saponins,saponins,1046,Cipro/Clozapine/Theophylline,clozapine,283,LIT-confirmed
+Saponins,Saponins,saponins,1046,Cipro/Clozapine/Theophylline,theophylline,1271,LIT-confirmed
+Sucrose,Sucrose / Glucose,sucrose,340,Insulin/SGLT2,insulin,1615,LIT-confirmed
+Sucrose,Sucrose / Glucose,sucrose,340,Insulin/SGLT2,empagliflozin,433,LIT-confirmed
+Sucrose,Sucrose / Glucose,sucrose,340,Insulin/SGLT2,dapagliflozin,322,LIT-confirmed
+Sucrose,Sucrose / Glucose,sucrose,340,Insulin/SGLT2,canagliflozin,190,LIT-confirmed
+Quercetin,Quercetin,quercetin,279,Warfarin/CYP2C9,warfarin,1396,DrugBank-named
+Quercetin,Quercetin,quercetin,279,Warfarin/CYP2C9,phenytoin,1004,DrugBank-named
+Quercetin,Quercetin,quercetin,279,Warfarin/CYP2C9,glipizide,588,DrugBank-named
+Quercetin,Quercetin,quercetin,279,Warfarin/CYP2C9,flurbiprofen,546,DrugBank-named
+Allicin,Allicin,allicin,1011,Warfarin/CYP2C9,warfarin,1396,DrugBank-named
+Allicin,Allicin,allicin,1011,Warfarin/CYP2C9,phenytoin,1004,DrugBank-named
+Allicin,Allicin,allicin,1011,Warfarin/CYP2C9,glipizide,588,DrugBank-named
+Allicin,Allicin,allicin,1011,Warfarin/CYP2C9,flurbiprofen,546,DrugBank-named
+Choline,Choline,choline,579,ACE-I,lisinopril,732,LIT-confirmed
+Choline,Choline,choline,579,ACE-I,enalapril,435,LIT-confirmed
+Choline,Choline,choline,579,ACE-I,ramipril,1092,LIT-confirmed
+Choline,Choline,choline,579,ACE-I,captopril,198,LIT-confirmed
+Choline,Choline,choline,579,ACE-I,perindopril,988,LIT-confirmed
+Choline,Choline,choline,579,Anticholinergics,atropine,98,LIT-confirmed
+Choline,Choline,choline,579,Anticholinergics,oxybutynin,946,LIT-confirmed
+Choline,Choline,choline,579,Anticholinergics,ne,1774,LIT-confirmed
+Oleuropein,Oleuropein,oleuropein,1411,Antihypertensives,lisinopril,732,LIT-confirmed
+Oleuropein,Oleuropein,oleuropein,1411,Antihypertensives,amlodipine,59,LIT-confirmed
+Oleuropein,Oleuropein,oleuropein,1411,Antihypertensives,hydrochlorothiazide,604,LIT-confirmed
+Oleuropein,Oleuropein,oleuropein,1411,Antihypertensives,metoprolol,818,LIT-confirmed
+Oleuropein,Oleuropein,oleuropein,1411,Antihypertensives,losartan,745,LIT-confirmed
+Oleuropein,Oleuropein,oleuropein,1411,ACE-I,lisinopril,732,LIT-confirmed
+Oleuropein,Oleuropein,oleuropein,1411,ACE-I,enalapril,435,LIT-confirmed
+Oleuropein,Oleuropein,oleuropein,1411,ACE-I,ramipril,1092,LIT-confirmed
+Oleuropein,Oleuropein,oleuropein,1411,ACE-I,captopril,198,LIT-confirmed
+Oleuropein,Oleuropein,oleuropein,1411,ACE-I,perindopril,988,LIT-confirmed
+Oleuropein,Oleuropein,oleuropein,1411,CYP3A4,cyclosporine,306,LIT-confirmed
+Oleuropein,Oleuropein,oleuropein,1411,CYP3A4,simvastatin,1174,LIT-confirmed
+Oleuropein,Oleuropein,oleuropein,1411,CYP3A4,midazolam,825,LIT-confirmed
+Oleuropein,Oleuropein,oleuropein,1411,CYP3A4,tacrolimus,1224,LIT-confirmed
+Allicin,Allicin,allicin,1011,CYP3A4,cyclosporine,306,LIT-confirmed
+Allicin,Allicin,allicin,1011,CYP3A4,simvastatin,1174,LIT-confirmed
+Allicin,Allicin,allicin,1011,CYP3A4,midazolam,825,LIT-confirmed
+Allicin,Allicin,allicin,1011,CYP3A4,tacrolimus,1224,LIT-confirmed
+Curcumin,Curcumin,curcumin,738,Warfarin,warfarin,1396,LIT-confirmed
+Curcumin,Curcumin,curcumin,738,CYP3A4,cyclosporine,306,LIT-confirmed
+Curcumin,Curcumin,curcumin,738,CYP3A4,simvastatin,1174,LIT-confirmed
+Curcumin,Curcumin,curcumin,738,CYP3A4,midazolam,825,LIT-confirmed
+Curcumin,Curcumin,curcumin,738,CYP3A4,tacrolimus,1224,LIT-confirmed
+Glucobrassicin,Glucobrassicin,4-hydroxyglucobrassicin,630,Levothyroxine,levothyroxine,722,LIT-confirmed
+Glucobrassicin,Glucobrassicin,4-hydroxyglucobrassicin,630,Warfarin,warfarin,1396,LIT-confirmed
+Glucobrassicin,Glucobrassicin,4-hydroxyglucobrassicin,630,CYP2C9,warfarin,1396,LIT-confirmed
+Glucobrassicin,Glucobrassicin,4-hydroxyglucobrassicin,630,CYP2C9,phenytoin,1004,LIT-confirmed
+Glucobrassicin,Glucobrassicin,4-hydroxyglucobrassicin,630,CYP2C9,glipizide,588,LIT-confirmed
+Glucobrassicin,Glucobrassicin,4-hydroxyglucobrassicin,630,CYP2C9,flurbiprofen,546,LIT-confirmed
+Glucobrassicin,Glucobrassicin,4-hydroxyglucobrassicin,630,Tacrolimus,tacrolimus,1224,LIT-confirmed
+Cinnamaldehyde,Cinnamaldehyde,cinnamaldehyde,797,Insulin,insulin,1615,LIT-confirmed
+Amylopectin,Amylopectin,amylopectin,1801,Insulin,insulin,1615,LIT-confirmed
+Amylopectin,Amylopectin,amylopectin,1801,Tacrolimus,tacrolimus,1224,PubMed-NLP
+Quercetin,Quercetin,quercetin,279,Insulin,insulin,1615,PubMed-NLP
+Quercetin,Quercetin,quercetin,279,CYP2C9,warfarin,1396,LIT-confirmed
+Quercetin,Quercetin,quercetin,279,CYP2C9,phenytoin,1004,LIT-confirmed
+Quercetin,Quercetin,quercetin,279,CYP2C9,glipizide,588,LIT-confirmed
+Quercetin,Quercetin,quercetin,279,CYP2C9,flurbiprofen,546,LIT-confirmed
+Curcumin,Curcumin,curcumin,738,Levothyroxine,levothyroxine,722,PubMed-NLP
+Curcumin,Curcumin,curcumin,738,Insulin,insulin,1615,PubMed-NLP
+Curcumin,Curcumin,curcumin,738,CYP2C9,warfarin,1396,LIT-confirmed
+Curcumin,Curcumin,curcumin,738,CYP2C9,phenytoin,1004,LIT-confirmed
+Curcumin,Curcumin,curcumin,738,CYP2C9,glipizide,588,LIT-confirmed
+Curcumin,Curcumin,curcumin,738,CYP2C9,flurbiprofen,546,LIT-confirmed
+Curcumin,Curcumin,curcumin,738,Tacrolimus,tacrolimus,1224,LIT-confirmed
+Solanine,Solanine,UNMATCHED,—,Neuromuscular Blockers,succinylcholine,2257,LIT-confirmed
+Solanine,Solanine,UNMATCHED,—,Neuromuscular Blockers,vecuronium,2907,LIT-confirmed
+Solanine,Solanine,UNMATCHED,—,Neuromuscular Blockers,rocuronium,2540,LIT-confirmed
+Allicin,Allicin,allicin,1011,Digoxin,digoxin,378,LIT-confirmed
+Vit-K,Vitamin K,vitamin k,469,Prednisone,prednisone,1048,DrugBank-text
+Vit-K,Vitamin K,vitamin k,469,Digoxin,digoxin,378,DrugBank-text
+Vit-K,Vitamin K,vitamin k,469,Warfarin,warfarin,1396,DrugBank-named
+Vit-K,Vitamin K,vitamin k,469,Benzodiazepines,diazepam,363,DrugBank-text
+Vit-K,Vitamin K,vitamin k,469,Benzodiazepines,alprazolam,42,DrugBank-text
+Vit-K,Vitamin K,vitamin k,469,Benzodiazepines,lorazepam,742,DrugBank-text
+W: Amylopectin,W: Amylopectin,amylopectin,1801,Insulin,insulin,1615,LIT-confirmed
+W: Amylopectin,W: Amylopectin,amylopectin,1801,Statins/Cyclosporine,statins,1772,PubMed-NLP
+W: Amylopectin,W: Amylopectin,amylopectin,1801,Statins/Cyclosporine,cyclosporine,306,PubMed-NLP
+W: Amylopectin,W: Amylopectin,amylopectin,1801,Statins/Cyclosporine,simvastatin,1174,PubMed-NLP
+W: Amylopectin,W: Amylopectin,amylopectin,1801,Statins/Cyclosporine,atorvastatin,96,PubMed-NLP
+Butyric Acid,Butyric Acid,butyric acid,679,Statins/Cyclosporine,statins,1772,PubMed-NLP
+Butyric Acid,Butyric Acid,butyric acid,679,Statins/Cyclosporine,cyclosporine,306,PubMed-NLP
+Butyric Acid,Butyric Acid,butyric acid,679,Statins/Cyclosporine,simvastatin,1174,PubMed-NLP
+Butyric Acid,Butyric Acid,butyric acid,679,Statins/Cyclosporine,atorvastatin,96,PubMed-NLP
+Butyric Acid,Butyric Acid,butyric acid,679,Anticholinergics,atropine,98,PubMed-NLP
+Butyric Acid,Butyric Acid,butyric acid,679,Anticholinergics,oxybutynin,946,PubMed-NLP
+Butyric Acid,Butyric Acid,butyric acid,679,Anticholinergics,ne,1774,PubMed-NLP
+Quercetin,Quercetin,quercetin,279,Statins/Cyclosporine,statins,1772,PubMed-NLP
+Quercetin,Quercetin,quercetin,279,Statins/Cyclosporine,cyclosporine,306,PubMed-NLP
+Quercetin,Quercetin,quercetin,279,Statins/Cyclosporine,simvastatin,1174,PubMed-NLP
+Quercetin,Quercetin,quercetin,279,Statins/Cyclosporine,atorvastatin,96,PubMed-NLP
+Sucrose/Fructose,Sucrose/Fructose,sucrose,340,Insulin,insulin,1615,LIT-confirmed
+Sucrose/Fructose,Sucrose/Fructose,sucrose,340,Statins/Cyclosporine,statins,1772,DrugBank-named
+Sucrose/Fructose,Sucrose/Fructose,sucrose,340,Statins/Cyclosporine,cyclosporine,306,DrugBank-named
+Sucrose/Fructose,Sucrose/Fructose,sucrose,340,Statins/Cyclosporine,simvastatin,1174,DrugBank-named
+Sucrose/Fructose,Sucrose/Fructose,sucrose,340,Statins/Cyclosporine,atorvastatin,96,DrugBank-named
+Sucrose/Fructose,Sucrose/Fructose,sucrose,340,Warfarin,warfarin,1396,DrugBank-named
+Amylopectin,Amylopectin,amylopectin,1801,Statins/Cyclosporine,statins,1772,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,Statins/Cyclosporine,cyclosporine,306,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,Statins/Cyclosporine,simvastatin,1174,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,Statins/Cyclosporine,atorvastatin,96,PubMed-NLP
+Resveratrol,Resveratrol,trans-resveratrol,872,Insulin,insulin,1615,PubMed-NLP
+Resveratrol,Resveratrol,trans-resveratrol,872,Statins/Cyclosporine,statins,1772,DrugBank-named
+Resveratrol,Resveratrol,trans-resveratrol,872,Statins/Cyclosporine,cyclosporine,306,DrugBank-named
+Resveratrol,Resveratrol,trans-resveratrol,872,Statins/Cyclosporine,simvastatin,1174,DrugBank-named
+Resveratrol,Resveratrol,trans-resveratrol,872,Statins/Cyclosporine,atorvastatin,96,DrugBank-named
+Resveratrol,Resveratrol,trans-resveratrol,872,Warfarin,warfarin,1396,DrugBank-named
+Piperine,Piperine,piperine,264,Insulin,insulin,1615,PubMed-NLP
+Amylose/Amylopectin,Amylose/Amylopectin,pectin,798,Insulin,insulin,1615,LIT-confirmed
+Amylose/Amylopectin,Amylose/Amylopectin,pectin,798,Tacrolimus,tacrolimus,1224,PubMed-NLP
+Allicin,Allicin,allicin,1011,Warfarin/Clopidogrel,warfarin,1396,DrugBank-named
+Allicin,Allicin,allicin,1011,Warfarin/Clopidogrel,clopidogrel,278,DrugBank-named
+Allicin,Allicin,allicin,1011,Statins/Cyclosporine,statins,1772,PubMed-NLP
+Allicin,Allicin,allicin,1011,Statins/Cyclosporine,cyclosporine,306,PubMed-NLP
+Allicin,Allicin,allicin,1011,Statins/Cyclosporine,simvastatin,1174,PubMed-NLP
+Allicin,Allicin,allicin,1011,Statins/Cyclosporine,atorvastatin,96,PubMed-NLP
+Saturated Lipids,Saturated Lipids,fat,9,Statins/Cyclosporine,statins,1772,LIT-confirmed
+Saturated Lipids,Saturated Lipids,fat,9,Statins/Cyclosporine,cyclosporine,306,LIT-confirmed
+Saturated Lipids,Saturated Lipids,fat,9,Statins/Cyclosporine,simvastatin,1174,LIT-confirmed
+Saturated Lipids,Saturated Lipids,fat,9,Statins/Cyclosporine,atorvastatin,96,LIT-confirmed
+S: Allicin,S: Allicin,allicin,1011,Warfarin/CYP2C9,warfarin,1396,DrugBank-named
+S: Allicin,S: Allicin,allicin,1011,Warfarin/CYP2C9,phenytoin,1004,DrugBank-named
+S: Allicin,S: Allicin,allicin,1011,Warfarin/CYP2C9,glipizide,588,DrugBank-named
+S: Allicin,S: Allicin,allicin,1011,Warfarin/CYP2C9,flurbiprofen,546,DrugBank-named
+Purines,Purines,purine,799,Allopurinol/Febuxostat,allopurinol,36,LIT-confirmed
+Purines,Purines,purine,799,Allopurinol/Febuxostat,febuxostat,496,LIT-confirmed
+Phytic Acid,Phytic Acid,phytic acid,762,Ciprofloxacin/Fe,ciprofloxacin,258,LIT-confirmed
+Phytic Acid,Phytic Acid,phytic acid,762,Ciprofloxacin/Fe,fe,1445,LIT-confirmed
+Phytic Acid,Phytic Acid,phytic acid,762,Ciprofloxacin/Fe,ferrous sulfate anhydrous,513,LIT-confirmed
+Phytic Acid,Phytic Acid,phytic acid,762,Ciprofloxacin/Fe,ferrous sulfate,1786,LIT-confirmed
+Phytic Acid,Phytic Acid,phytic acid,762,ACE-I,lisinopril,732,LIT-confirmed
+Phytic Acid,Phytic Acid,phytic acid,762,ACE-I,enalapril,435,LIT-confirmed
+Phytic Acid,Phytic Acid,phytic acid,762,ACE-I,ramipril,1092,LIT-confirmed
+Phytic Acid,Phytic Acid,phytic acid,762,ACE-I,captopril,198,LIT-confirmed
+Phytic Acid,Phytic Acid,phytic acid,762,ACE-I,perindopril,988,LIT-confirmed
+Allicin,Allicin,allicin,1011,CYP2C9,warfarin,1396,LIT-confirmed
+Allicin,Allicin,allicin,1011,CYP2C9,phenytoin,1004,LIT-confirmed
+Allicin,Allicin,allicin,1011,CYP2C9,glipizide,588,LIT-confirmed
+Allicin,Allicin,allicin,1011,CYP2C9,flurbiprofen,546,LIT-confirmed
+Phytic Acid,Phytic Acid,phytic acid,762,Ciprofloxacin/Levothyroxine,ciprofloxacin,258,DrugBank-named
+Phytic Acid,Phytic Acid,phytic acid,762,Ciprofloxacin/Levothyroxine,levothyroxine,722,DrugBank-named
+Cuminaldehyde,Cuminaldehyde,cuminaldehyde,1503,Ciprofloxacin/Levothyroxine,ciprofloxacin,258,PubMed-NLP
+Cuminaldehyde,Cuminaldehyde,cuminaldehyde,1503,Ciprofloxacin/Levothyroxine,levothyroxine,722,PubMed-NLP
+Non-Heme Fe,Non-Heme Fe,UNMATCHED,—,Ciprofloxacin/Levothyroxine,ciprofloxacin,258,DrugBank-named
+Non-Heme Fe,Non-Heme Fe,UNMATCHED,—,Ciprofloxacin/Levothyroxine,levothyroxine,722,DrugBank-named
+Non-Heme Fe,Non-Heme Fe,UNMATCHED,—,Levodopa,levodopa,715,DrugBank-named
+Plant Protein,Plant Protein,protein,23,Levodopa,levodopa,715,LIT-confirmed
+Heme Iron,Heme Iron,iron,18,Levothyroxine/Bisphosphonates,levothyroxine,722,DrugBank-named
+Heme Iron,Heme Iron,iron,18,Levothyroxine/Bisphosphonates,t,1824,DrugBank-named
+Heme Iron,Heme Iron,iron,18,Levothyroxine/Bisphosphonates,al,1455,DrugBank-named
+Sat.Fats,Sat.Fats,fat,9,Levothyroxine/Bisphosphonates,levothyroxine,722,PubMed-NLP
+Sat.Fats,Sat.Fats,fat,9,Levothyroxine/Bisphosphonates,t,1824,PubMed-NLP
+Sat.Fats,Sat.Fats,fat,9,Levothyroxine/Bisphosphonates,al,1455,PubMed-NLP
+Sat.Fats,Sat.Fats,fat,9,Statins/Cyclosporine/Amiodarone,statins,1772,PubMed-NLP
+Sat.Fats,Sat.Fats,fat,9,Statins/Cyclosporine/Amiodarone,cyclosporine,306,PubMed-NLP
+Sat.Fats,Sat.Fats,fat,9,Statins/Cyclosporine/Amiodarone,amiodarone,56,PubMed-NLP
+Sat.Fats,Sat.Fats,fat,9,Statins/Cyclosporine/Amiodarone,simvastatin,1174,PubMed-NLP
+Cuminaldehyde,Cuminaldehyde,cuminaldehyde,1503,Levothyroxine/Bisphosphonates,levothyroxine,722,PubMed-NLP
+Cuminaldehyde,Cuminaldehyde,cuminaldehyde,1503,Levothyroxine/Bisphosphonates,t,1824,PubMed-NLP
+Cuminaldehyde,Cuminaldehyde,cuminaldehyde,1503,Levothyroxine/Bisphosphonates,al,1455,PubMed-NLP
+Nasunin,Nasunin,anthocyanins,47,IronSuppl,ferrous sulfate anhydrous,513,LIT-confirmed
+Nasunin,Nasunin,anthocyanins,47,IronSuppl,ferrous sulfate,1786,LIT-confirmed
+Nasunin,Nasunin,anthocyanins,47,IronSuppl,ferrous gluconate,512,LIT-confirmed
+Nasunin,Nasunin,anthocyanins,47,IronSuppl,ferrous fumarate,511,LIT-confirmed
+LipidSponge,LipidSponge,fat,9,IronSuppl,ferrous sulfate anhydrous,513,DrugBank-text
+LipidSponge,LipidSponge,fat,9,IronSuppl,ferrous sulfate,1786,DrugBank-text
+LipidSponge,LipidSponge,fat,9,IronSuppl,ferrous gluconate,512,DrugBank-text
+LipidSponge,LipidSponge,fat,9,IronSuppl,ferrous fumarate,511,DrugBank-text
+LipidSponge,LipidSponge,fat,9,Statins/Amiodarone/VitD,statins,1772,DrugBank-text
+LipidSponge,LipidSponge,fat,9,Statins/Amiodarone/VitD,amiodarone,56,DrugBank-text
+LipidSponge,LipidSponge,fat,9,Statins/Amiodarone/VitD,simvastatin,1174,DrugBank-text
+LipidSponge,LipidSponge,fat,9,Statins/Amiodarone/VitD,fe,1445,DrugBank-text
+LipidSponge,LipidSponge,fat,9,Warfarin/Saquinavir,warfarin,1396,DrugBank-text
+LipidSponge,LipidSponge,fat,9,Warfarin/Saquinavir,saquinavir,1149,DrugBank-text
+LipidSponge,LipidSponge,fat,9,Allopurinol,allopurinol,36,DrugBank-text
+LipidSponge,LipidSponge,fat,9,Digoxin/K⁺,digoxin,378,DrugBank-text
+Allicin,Allicin,allicin,1011,Statins/Amiodarone/VitD,statins,1772,LIT-confirmed
+Allicin,Allicin,allicin,1011,Statins/Amiodarone/VitD,amiodarone,56,LIT-confirmed
+Allicin,Allicin,allicin,1011,Statins/Amiodarone/VitD,simvastatin,1174,LIT-confirmed
+Allicin,Allicin,allicin,1011,Statins/Amiodarone/VitD,fe,1445,LIT-confirmed
+Allicin,Allicin,allicin,1011,Warfarin/Saquinavir,warfarin,1396,DrugBank-named
+Allicin,Allicin,allicin,1011,Warfarin/Saquinavir,saquinavir,1149,DrugBank-named
+AceticAcid,Acetic Acid (Vinegar),acetic acid,33,IronSuppl,ferrous sulfate anhydrous,513,DrugBank-text
+AceticAcid,Acetic Acid (Vinegar),acetic acid,33,IronSuppl,ferrous sulfate,1786,DrugBank-text
+AceticAcid,Acetic Acid (Vinegar),acetic acid,33,IronSuppl,ferrous gluconate,512,DrugBank-text
+AceticAcid,Acetic Acid (Vinegar),acetic acid,33,IronSuppl,ferrous fumarate,511,DrugBank-text
+AceticAcid,Acetic Acid (Vinegar),acetic acid,33,Warfarin/Saquinavir,warfarin,1396,DrugBank-text
+AceticAcid,Acetic Acid (Vinegar),acetic acid,33,Warfarin/Saquinavir,saquinavir,1149,DrugBank-text
+AceticAcid,Acetic Acid (Vinegar),acetic acid,33,Allopurinol,allopurinol,36,DrugBank-text
+AceticAcid,Acetic Acid (Vinegar),acetic acid,33,Digoxin/K⁺,digoxin,378,DrugBank-text
+Beta-Glucan,Beta-Glucan,UNMATCHED,—,OralMeds/DelayedAbsorp,al,1455,LIT-confirmed
+Beta-Glucan,Beta-Glucan,UNMATCHED,—,OralMeds/DelayedAbsorp,da,1603,LIT-confirmed
+Beta-Glucan,Beta-Glucan,UNMATCHED,—,OralMeds/DelayedAbsorp,metformin,794,LIT-confirmed
+Beta-Glucan,Beta-Glucan,UNMATCHED,—,OralMeds/DelayedAbsorp,levothyroxine,722,LIT-confirmed
+Beta-Glucan,Beta-Glucan,UNMATCHED,—,OralMeds/DelayedAbsorp,ciprofloxacin,258,LIT-confirmed
+Apigenin+Phthalide,Apigenin + Phthalides (Celery/Parsley),apigenin,656,Diuretics/ACE-I,furosemide,563,LIT-confirmed
+Apigenin+Phthalide,Apigenin + Phthalides (Celery/Parsley),apigenin,656,Diuretics/ACE-I,hydrochlorothiazide,604,LIT-confirmed
+Apigenin+Phthalide,Apigenin + Phthalides (Celery/Parsley),apigenin,656,Diuretics/ACE-I,torasemide,1308,LIT-confirmed
+Apigenin+Phthalide,Apigenin + Phthalides (Celery/Parsley),apigenin,656,Diuretics/ACE-I,spironolactone,1201,LIT-confirmed
+Apigenin+Phthalide,Apigenin + Phthalides (Celery/Parsley),apigenin,656,Diuretics/ACE-I,lisinopril,732,LIT-confirmed
+Apigenin+Phthalide,Apigenin + Phthalides (Celery/Parsley),apigenin,656,Diuretics/ACE-I,enalapril,435,LIT-confirmed
+Apigenin+Phthalide,Apigenin + Phthalides (Celery/Parsley),apigenin,656,Diuretics/ACE-I,ramipril,1092,LIT-confirmed
+Apigenin+Phthalide,Apigenin + Phthalides (Celery/Parsley),apigenin,656,Diuretics/ACE-I,captopril,198,LIT-confirmed
+Apigenin+Phthalide,Apigenin + Phthalides (Celery/Parsley),apigenin,656,Diuretics/ACE-I,perindopril,988,LIT-confirmed
+Carvone,Carvone (Caraway/Karouiya),carvone,32,Codeine/Tramadol,codeine,287,LIT-confirmed
+Carvone,Carvone (Caraway/Karouiya),carvone,32,Codeine/Tramadol,tramadol,1312,LIT-confirmed
+Carvone,Carvone (Caraway/Karouiya),carvone,32,Allopurinol/GoutFlare,allopurinol,36,PubMed-NLP
+Carvone,Carvone (Caraway/Karouiya),carvone,32,Allopurinol/GoutFlare,colchicine,289,PubMed-NLP
+Purines,Purines,purine,799,OralMeds/DelayedAbsorp,al,1455,PubMed-NLP
+Purines,Purines,purine,799,OralMeds/DelayedAbsorp,da,1603,PubMed-NLP
+Purines,Purines,purine,799,OralMeds/DelayedAbsorp,metformin,794,PubMed-NLP
+Purines,Purines,purine,799,OralMeds/DelayedAbsorp,levothyroxine,722,PubMed-NLP
+Purines,Purines,purine,799,OralMeds/DelayedAbsorp,ciprofloxacin,258,PubMed-NLP
+Purines,Purines,purine,799,Allopurinol/GoutFlare,allopurinol,36,LIT-confirmed
+Purines,Purines,purine,799,Allopurinol/GoutFlare,colchicine,289,LIT-confirmed
+PhyticAcid+NonHemeIron,Phytic Acid + Non-Heme Iron,phytic acid,762,Levothyroxine/Cipro,levothyroxine,722,DrugBank-named
+PhyticAcid+NonHemeIron,Phytic Acid + Non-Heme Iron,phytic acid,762,Levothyroxine/Cipro,ciprofloxacin,258,DrugBank-named
+PhyticAcid+NonHemeIron,Phytic Acid + Non-Heme Iron,phytic acid,762,ACE-I/Spiro,lisinopril,732,DrugBank-text
+PhyticAcid+NonHemeIron,Phytic Acid + Non-Heme Iron,phytic acid,762,ACE-I/Spiro,enalapril,435,DrugBank-text
+PhyticAcid+NonHemeIron,Phytic Acid + Non-Heme Iron,phytic acid,762,ACE-I/Spiro,ramipril,1092,DrugBank-text
+PhyticAcid+NonHemeIron,Phytic Acid + Non-Heme Iron,phytic acid,762,ACE-I/Spiro,captopril,198,DrugBank-text
+PhyticAcid+NonHemeIron,Phytic Acid + Non-Heme Iron,phytic acid,762,ACE-I/Spiro,perindopril,988,DrugBank-text
+PhyticAcid+NonHemeIron,Phytic Acid + Non-Heme Iron,phytic acid,762,ACE-I/Spiro,buspirone,174,DrugBank-text
+PhyticAcid+NonHemeIron,Phytic Acid + Non-Heme Iron,phytic acid,762,ACE-I/Spiro,spironolactone,1201,DrugBank-text
+Allicin,Allicin,allicin,1011,CYP2C9/Glipizide,warfarin,1396,LIT-confirmed
+Allicin,Allicin,allicin,1011,CYP2C9/Glipizide,phenytoin,1004,LIT-confirmed
+Allicin,Allicin,allicin,1011,CYP2C9/Glipizide,glipizide,588,LIT-confirmed
+Allicin,Allicin,allicin,1011,CYP2C9/Glipizide,flurbiprofen,546,LIT-confirmed
+K+,Potassium,potassium,22,Levothyroxine/Cipro,levothyroxine,722,LIT-confirmed
+K+,Potassium,potassium,22,Levothyroxine/Cipro,ciprofloxacin,258,LIT-confirmed
+K+,Potassium,potassium,22,ACE-I/Spiro,lisinopril,732,DrugBank-named
+K+,Potassium,potassium,22,ACE-I/Spiro,enalapril,435,DrugBank-named
+K+,Potassium,potassium,22,ACE-I/Spiro,ramipril,1092,DrugBank-named
+K+,Potassium,potassium,22,ACE-I/Spiro,captopril,198,DrugBank-named
+K+,Potassium,potassium,22,ACE-I/Spiro,perindopril,988,DrugBank-named
+K+,Potassium,potassium,22,ACE-I/Spiro,buspirone,174,DrugBank-named
+K+,Potassium,potassium,22,ACE-I/Spiro,spironolactone,1201,DrugBank-named
+Cuminaldehyde,Cuminaldehyde,cuminaldehyde,1503,Levothyroxine/Cipro,levothyroxine,722,PubMed-NLP
+Cuminaldehyde,Cuminaldehyde,cuminaldehyde,1503,Levothyroxine/Cipro,ciprofloxacin,258,PubMed-NLP
+CitricAcid,Citric Acid,citric acid,536,Al-Antacids,aluminum hydroxide,45,LIT-confirmed
+CitricAcid,Citric Acid,citric acid,536,Al-Antacids,magnesium hydroxide,2647,LIT-confirmed
+CitricAcid,Citric Acid,citric acid,536,Cipro/IronSuppl,ciprofloxacin,258,LIT-confirmed
+CitricAcid,Citric Acid,citric acid,536,Cipro/IronSuppl,ferrous sulfate anhydrous,513,LIT-confirmed
+CitricAcid,Citric Acid,citric acid,536,Cipro/IronSuppl,ferrous sulfate,1786,LIT-confirmed
+CitricAcid,Citric Acid,citric acid,536,Cipro/IronSuppl,ferrous gluconate,512,LIT-confirmed
+CitricAcid,Citric Acid,citric acid,536,Cipro/IronSuppl,ferrous fumarate,511,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,Cipro/IronSuppl,ciprofloxacin,258,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,Cipro/IronSuppl,ferrous sulfate anhydrous,513,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,Cipro/IronSuppl,ferrous sulfate,1786,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,Cipro/IronSuppl,ferrous gluconate,512,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,Cipro/IronSuppl,ferrous fumarate,511,LIT-confirmed
+Lecithin+Chol,Lecithin + Cholesterol (Egg Yolk / Aqda),soy lecithin,189,Insulin/Metformin,insulin,1615,PubMed-NLP
+Lecithin+Chol,Lecithin + Cholesterol (Egg Yolk / Aqda),soy lecithin,189,Insulin/Metformin,metformin,794,PubMed-NLP
+Lecithin+Chol,Lecithin + Cholesterol (Egg Yolk / Aqda),soy lecithin,189,Cyclosporine/Isotretinoin,cyclosporine,306,PubMed-NLP
+Lecithin+Chol,Lecithin + Cholesterol (Egg Yolk / Aqda),soy lecithin,189,Cyclosporine/Isotretinoin,isotretinoin,666,PubMed-NLP
+Lecithin+Chol,Lecithin + Cholesterol (Egg Yolk / Aqda),soy lecithin,189,Allopurinol,allopurinol,36,PubMed-NLP
+Purines,Purines,purine,799,Al-Antacids,aluminum hydroxide,45,PubMed-NLP
+Purines,Purines,purine,799,Al-Antacids,magnesium hydroxide,2647,PubMed-NLP
+SatFats,Saturated Fats,fat,9,Statins/ARVs/Cyclosporine,statins,1772,LIT-confirmed
+SatFats,Saturated Fats,fat,9,Statins/ARVs/Cyclosporine,cyclosporine,306,LIT-confirmed
+SatFats,Saturated Fats,fat,9,Statins/ARVs/Cyclosporine,atorvastatin,96,LIT-confirmed
+SatFats,Saturated Fats,fat,9,Statins/ARVs/Cyclosporine,simvastatin,1174,LIT-confirmed
+SatFats,Saturated Fats,fat,9,Statins/ARVs/Cyclosporine,ritonavir,1126,LIT-confirmed
+SatFats,Saturated Fats,fat,9,Insulin/Metformin,insulin,1615,DrugBank-text
+SatFats,Saturated Fats,fat,9,Insulin/Metformin,metformin,794,DrugBank-text
+SatFats,Saturated Fats,fat,9,Allopurinol,allopurinol,36,DrugBank-text
+SatFats,Saturated Fats,fat,9,Levodopa,levodopa,715,DrugBank-text
+SatFats,Saturated Fats,fat,9,Levothyroxine/Warfarin,levothyroxine,722,DrugBank-text
+SatFats,Saturated Fats,fat,9,Levothyroxine/Warfarin,warfarin,1396,DrugBank-text
+SatFats,Saturated Fats,fat,9,Cipro/Tetracycline,ciprofloxacin,258,DrugBank-text
+SatFats,Saturated Fats,fat,9,Cipro/Tetracycline,tetracycline,1266,DrugBank-text
+SatFats,Saturated Fats,fat,9,Cipro/Tetracycline,doxycycline,405,DrugBank-text
+Amylopectin,Amylopectin,amylopectin,1801,Statins/ARVs/Cyclosporine,statins,1772,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,Statins/ARVs/Cyclosporine,cyclosporine,306,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,Statins/ARVs/Cyclosporine,atorvastatin,96,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,Statins/ARVs/Cyclosporine,simvastatin,1174,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,Statins/ARVs/Cyclosporine,ritonavir,1126,PubMed-NLP
+LNAA,Large Neutral Amino Acids,l-leucine,511,Statins/ARVs/Cyclosporine,statins,1772,DrugBank-text
+LNAA,Large Neutral Amino Acids,l-leucine,511,Statins/ARVs/Cyclosporine,cyclosporine,306,DrugBank-text
+LNAA,Large Neutral Amino Acids,l-leucine,511,Statins/ARVs/Cyclosporine,atorvastatin,96,DrugBank-text
+LNAA,Large Neutral Amino Acids,l-leucine,511,Statins/ARVs/Cyclosporine,simvastatin,1174,DrugBank-text
+LNAA,Large Neutral Amino Acids,l-leucine,511,Statins/ARVs/Cyclosporine,ritonavir,1126,DrugBank-text
+LNAA,Large Neutral Amino Acids,l-leucine,511,Insulin/Metformin,insulin,1615,DrugBank-text
+LNAA,Large Neutral Amino Acids,l-leucine,511,Insulin/Metformin,metformin,794,DrugBank-text
+LNAA,Large Neutral Amino Acids,l-leucine,511,Allopurinol,allopurinol,36,DrugBank-text
+LNAA,Large Neutral Amino Acids,l-leucine,511,Levodopa,levodopa,715,LIT-confirmed
+LNAA,Large Neutral Amino Acids,l-leucine,511,Levothyroxine/Warfarin,levothyroxine,722,DrugBank-text
+LNAA,Large Neutral Amino Acids,l-leucine,511,Levothyroxine/Warfarin,warfarin,1396,DrugBank-text
+LNAA,Large Neutral Amino Acids,l-leucine,511,Cipro/Tetracycline,ciprofloxacin,258,DrugBank-text
+LNAA,Large Neutral Amino Acids,l-leucine,511,Cipro/Tetracycline,tetracycline,1266,DrugBank-text
+LNAA,Large Neutral Amino Acids,l-leucine,511,Cipro/Tetracycline,doxycycline,405,DrugBank-text
+Iodine+Omega3,Iodine+Omega3,iodine,492,Statins/ARVs/Cyclosporine,statins,1772,DrugBank-text
+Iodine+Omega3,Iodine+Omega3,iodine,492,Statins/ARVs/Cyclosporine,cyclosporine,306,DrugBank-text
+Iodine+Omega3,Iodine+Omega3,iodine,492,Statins/ARVs/Cyclosporine,atorvastatin,96,DrugBank-text
+Iodine+Omega3,Iodine+Omega3,iodine,492,Statins/ARVs/Cyclosporine,simvastatin,1174,DrugBank-text
+Iodine+Omega3,Iodine+Omega3,iodine,492,Statins/ARVs/Cyclosporine,ritonavir,1126,DrugBank-text
+Iodine+Omega3,Iodine+Omega3,iodine,492,Insulin/Metformin,insulin,1615,DrugBank-text
+Iodine+Omega3,Iodine+Omega3,iodine,492,Insulin/Metformin,metformin,794,DrugBank-text
+Iodine+Omega3,Iodine+Omega3,iodine,492,Allopurinol,allopurinol,36,DrugBank-text
+Iodine+Omega3,Iodine+Omega3,iodine,492,Levodopa,levodopa,715,DrugBank-text
+Iodine+Omega3,Iodine+Omega3,iodine,492,Levothyroxine/Warfarin,levothyroxine,722,LIT-confirmed
+Iodine+Omega3,Iodine+Omega3,iodine,492,Levothyroxine/Warfarin,warfarin,1396,LIT-confirmed
+Iodine+Omega3,Iodine+Omega3,iodine,492,Cipro/Tetracycline,ciprofloxacin,258,DrugBank-text
+Iodine+Omega3,Iodine+Omega3,iodine,492,Cipro/Tetracycline,tetracycline,1266,DrugBank-text
+Iodine+Omega3,Iodine+Omega3,iodine,492,Cipro/Tetracycline,doxycycline,405,DrugBank-text
+Ca2+,Calcium,calcium,2,Statins/ARVs/Cyclosporine,statins,1772,DrugBank-text
+Ca2+,Calcium,calcium,2,Statins/ARVs/Cyclosporine,cyclosporine,306,DrugBank-text
+Ca2+,Calcium,calcium,2,Statins/ARVs/Cyclosporine,atorvastatin,96,DrugBank-text
+Ca2+,Calcium,calcium,2,Statins/ARVs/Cyclosporine,simvastatin,1174,DrugBank-text
+Ca2+,Calcium,calcium,2,Statins/ARVs/Cyclosporine,ritonavir,1126,DrugBank-text
+Ca2+,Calcium,calcium,2,Insulin/Metformin,insulin,1615,DrugBank-text
+Ca2+,Calcium,calcium,2,Insulin/Metformin,metformin,794,DrugBank-text
+Ca2+,Calcium,calcium,2,Allopurinol,allopurinol,36,DrugBank-text
+Ca2+,Calcium,calcium,2,Levodopa,levodopa,715,DrugBank-text
+Ca2+,Calcium,calcium,2,Levothyroxine/Warfarin,levothyroxine,722,LIT-confirmed
+Ca2+,Calcium,calcium,2,Levothyroxine/Warfarin,warfarin,1396,LIT-confirmed
+Ca2+,Calcium,calcium,2,Cipro/Tetracycline,ciprofloxacin,258,LIT-confirmed
+Ca2+,Calcium,calcium,2,Cipro/Tetracycline,tetracycline,1266,LIT-confirmed
+Ca2+,Calcium,calcium,2,Cipro/Tetracycline,doxycycline,405,LIT-confirmed
+Acrylamide,Acrylamide,UNMATCHED,—,Insulin/Metformin,insulin,1615,PubMed-NLP
+Acrylamide,Acrylamide,UNMATCHED,—,Insulin/Metformin,metformin,794,PubMed-NLP
+Acrylamide,Acrylamide,UNMATCHED,—,Levothyroxine/Warfarin,levothyroxine,722,PubMed-NLP
+Acrylamide,Acrylamide,UNMATCHED,—,Levothyroxine/Warfarin,warfarin,1396,PubMed-NLP
+Acrylamide,Acrylamide,UNMATCHED,—,CYP2E1,paracetamol,1923,LIT-confirmed
+Acrylamide,Acrylamide,UNMATCHED,—,CYP2E1,ethanol,1751,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Insulin/Metformin,insulin,1615,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Insulin/Metformin,metformin,794,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,SGLT2+Diuretics,empagliflozin,433,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,SGLT2+Diuretics,dapagliflozin,322,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,SGLT2+Diuretics,canagliflozin,190,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,SGLT2+Diuretics,furosemide,563,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,SGLT2+Diuretics,hydrochlorothiazide,604,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,SGLT2+Diuretics,torasemide,1308,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,SGLT2+Diuretics,spironolactone,1201,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Statins/Isotretinoin,statins,1772,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Statins/Isotretinoin,isotretinoin,666,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Statins/Isotretinoin,simvastatin,1174,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Cyclosporine,cyclosporine,306,LIT-confirmed
+DeepFryLipid+Lecithin,Oxidised Lipids (Deep-Fry Oil) + Lecithin,soy lecithin,189,Insulin/Metformin,insulin,1615,PubMed-NLP
+DeepFryLipid+Lecithin,Oxidised Lipids (Deep-Fry Oil) + Lecithin,soy lecithin,189,Insulin/Metformin,metformin,794,PubMed-NLP
+DeepFryLipid+Lecithin,Oxidised Lipids (Deep-Fry Oil) + Lecithin,soy lecithin,189,Statins/Isotretinoin,statins,1772,PubMed-NLP
+DeepFryLipid+Lecithin,Oxidised Lipids (Deep-Fry Oil) + Lecithin,soy lecithin,189,Statins/Isotretinoin,isotretinoin,666,PubMed-NLP
+DeepFryLipid+Lecithin,Oxidised Lipids (Deep-Fry Oil) + Lecithin,soy lecithin,189,Statins/Isotretinoin,simvastatin,1174,PubMed-NLP
+DeepFryLipid+Lecithin,Oxidised Lipids (Deep-Fry Oil) + Lecithin,soy lecithin,189,Cyclosporine,cyclosporine,306,LIT-confirmed
+Limonene,Limonene,limonene,1051,Cyclosporine,cyclosporine,306,PubMed-NLP
+SatFats,Saturated Fats,fat,9,Statins/Cyclosporine/Amiodarone,statins,1772,LIT-confirmed
+SatFats,Saturated Fats,fat,9,Statins/Cyclosporine/Amiodarone,cyclosporine,306,LIT-confirmed
+SatFats,Saturated Fats,fat,9,Statins/Cyclosporine/Amiodarone,amiodarone,56,LIT-confirmed
+SatFats,Saturated Fats,fat,9,Statins/Cyclosporine/Amiodarone,simvastatin,1174,LIT-confirmed
+SatFats,Saturated Fats,fat,9,Sildenafil/Nitrates,sildenafil,1168,DrugBank-text
+SatFats,Saturated Fats,fat,9,Sildenafil/Nitrates,t,1824,DrugBank-text
+SatFats,Saturated Fats,fat,9,Sildenafil/Nitrates,isosorbide mononitrate,665,DrugBank-text
+SatFats,Saturated Fats,fat,9,Sildenafil/Nitrates,nitroglycerin,900,DrugBank-text
+SatFats,Saturated Fats,fat,9,Aspirin/Clopidogrel,aspirin,1469,DrugBank-text
+SatFats,Saturated Fats,fat,9,Aspirin/Clopidogrel,clopidogrel,278,DrugBank-text
+SatFats,Saturated Fats,fat,9,Lithium/Digoxin,lithium,1475,DrugBank-text
+SatFats,Saturated Fats,fat,9,Lithium/Digoxin,digoxin,378,DrugBank-text
+SatFats,Saturated Fats,fat,9,SGLT2,empagliflozin,433,DrugBank-text
+SatFats,Saturated Fats,fat,9,SGLT2,dapagliflozin,322,DrugBank-text
+SatFats,Saturated Fats,fat,9,SGLT2,canagliflozin,190,DrugBank-text
+SatFats,Saturated Fats,fat,9,Benzodiazepines,diazepam,363,DrugBank-text
+SatFats,Saturated Fats,fat,9,Benzodiazepines,alprazolam,42,DrugBank-text
+SatFats,Saturated Fats,fat,9,Benzodiazepines,lorazepam,742,DrugBank-text
+LArginine+Omega3+Amygdalin,LArginine+Omega3+Amygdalin,arginine,512,Insulin/Metformin,insulin,1615,PubMed-NLP
+LArginine+Omega3+Amygdalin,LArginine+Omega3+Amygdalin,arginine,512,Insulin/Metformin,metformin,794,PubMed-NLP
+LArginine+Omega3+Amygdalin,LArginine+Omega3+Amygdalin,arginine,512,Statins/Cyclosporine/Amiodarone,statins,1772,PubMed-NLP
+LArginine+Omega3+Amygdalin,LArginine+Omega3+Amygdalin,arginine,512,Statins/Cyclosporine/Amiodarone,cyclosporine,306,PubMed-NLP
+LArginine+Omega3+Amygdalin,LArginine+Omega3+Amygdalin,arginine,512,Statins/Cyclosporine/Amiodarone,amiodarone,56,PubMed-NLP
+LArginine+Omega3+Amygdalin,LArginine+Omega3+Amygdalin,arginine,512,Statins/Cyclosporine/Amiodarone,simvastatin,1174,PubMed-NLP
+LArginine+Omega3+Amygdalin,LArginine+Omega3+Amygdalin,arginine,512,Sildenafil/Nitrates,sildenafil,1168,PubMed-NLP
+LArginine+Omega3+Amygdalin,LArginine+Omega3+Amygdalin,arginine,512,Sildenafil/Nitrates,t,1824,PubMed-NLP
+LArginine+Omega3+Amygdalin,LArginine+Omega3+Amygdalin,arginine,512,Sildenafil/Nitrates,isosorbide mononitrate,665,PubMed-NLP
+LArginine+Omega3+Amygdalin,LArginine+Omega3+Amygdalin,arginine,512,Sildenafil/Nitrates,nitroglycerin,900,PubMed-NLP
+LArginine+Omega3+Amygdalin,LArginine+Omega3+Amygdalin,arginine,512,Lithium/Digoxin,lithium,1475,PubMed-NLP
+LArginine+Omega3+Amygdalin,LArginine+Omega3+Amygdalin,arginine,512,Lithium/Digoxin,digoxin,378,PubMed-NLP
+LArginine+Omega3+Amygdalin,LArginine+Omega3+Amygdalin,arginine,512,SGLT2,empagliflozin,433,PubMed-NLP
+LArginine+Omega3+Amygdalin,LArginine+Omega3+Amygdalin,arginine,512,SGLT2,dapagliflozin,322,PubMed-NLP
+LArginine+Omega3+Amygdalin,LArginine+Omega3+Amygdalin,arginine,512,SGLT2,canagliflozin,190,PubMed-NLP
+Honey1.5kg,Honey,honey,177,Insulin/Metformin,insulin,1615,LIT-confirmed
+Honey1.5kg,Honey,honey,177,Insulin/Metformin,metformin,794,LIT-confirmed
+Honey1.5kg,Honey,honey,177,Statins/Cyclosporine/Amiodarone,statins,1772,LIT-confirmed
+Honey1.5kg,Honey,honey,177,Statins/Cyclosporine/Amiodarone,cyclosporine,306,LIT-confirmed
+Honey1.5kg,Honey,honey,177,Statins/Cyclosporine/Amiodarone,amiodarone,56,LIT-confirmed
+Honey1.5kg,Honey,honey,177,Statins/Cyclosporine/Amiodarone,simvastatin,1174,LIT-confirmed
+Honey1.5kg,Honey,honey,177,Sildenafil/Nitrates,sildenafil,1168,DrugBank-text
+Honey1.5kg,Honey,honey,177,Sildenafil/Nitrates,t,1824,DrugBank-text
+Honey1.5kg,Honey,honey,177,Sildenafil/Nitrates,isosorbide mononitrate,665,DrugBank-text
+Honey1.5kg,Honey,honey,177,Sildenafil/Nitrates,nitroglycerin,900,DrugBank-text
+Honey1.5kg,Honey,honey,177,Aspirin/Clopidogrel,aspirin,1469,DrugBank-text
+Honey1.5kg,Honey,honey,177,Aspirin/Clopidogrel,clopidogrel,278,DrugBank-text
+Honey1.5kg,Honey,honey,177,SGLT2,empagliflozin,433,LIT-confirmed
+Honey1.5kg,Honey,honey,177,SGLT2,dapagliflozin,322,LIT-confirmed
+Honey1.5kg,Honey,honey,177,SGLT2,canagliflozin,190,LIT-confirmed
+Honey1.5kg,Honey,honey,177,Benzodiazepines,diazepam,363,DrugBank-text
+Honey1.5kg,Honey,honey,177,Benzodiazepines,alprazolam,42,DrugBank-text
+Honey1.5kg,Honey,honey,177,Benzodiazepines,lorazepam,742,DrugBank-text
+Linalool+Geraniol,Linalool + Geraniol (Orange Blossom / Rose Water),linalool,194,Insulin/Metformin,insulin,1615,PubMed-NLP
+Linalool+Geraniol,Linalool + Geraniol (Orange Blossom / Rose Water),linalool,194,Insulin/Metformin,metformin,794,PubMed-NLP
+Linalool+Geraniol,Linalool + Geraniol (Orange Blossom / Rose Water),linalool,194,Benzodiazepines,diazepam,363,LIT-confirmed
+Linalool+Geraniol,Linalool + Geraniol (Orange Blossom / Rose Water),linalool,194,Benzodiazepines,alprazolam,42,LIT-confirmed
+Linalool+Geraniol,Linalool + Geraniol (Orange Blossom / Rose Water),linalool,194,Benzodiazepines,lorazepam,742,LIT-confirmed
+Amylopectin,Amylopectin,amylopectin,1801,Metformin/Insulin,metformin,794,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,Metformin/Insulin,insulin,1615,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,ACE-I/K-SpDiuretics+CaChBlockers,lisinopril,732,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,ACE-I/K-SpDiuretics+CaChBlockers,enalapril,435,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,ACE-I/K-SpDiuretics+CaChBlockers,ramipril,1092,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,ACE-I/K-SpDiuretics+CaChBlockers,captopril,198,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,ACE-I/K-SpDiuretics+CaChBlockers,perindopril,988,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,ACE-I/K-SpDiuretics+CaChBlockers,spironolactone,1201,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,ACE-I/K-SpDiuretics+CaChBlockers,amiloride,50,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,ACE-I/K-SpDiuretics+CaChBlockers,triamterene,1321,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,ACE-I/K-SpDiuretics+CaChBlockers,rs,1435,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,ACE-I/K-SpDiuretics+CaChBlockers,amlodipine,59,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,ACE-I/K-SpDiuretics+CaChBlockers,diltiazem,382,PubMed-NLP
+SCFAs+Butter,Butyric Acid / SCFAs (Smen Butter),butyric acid,679,Metformin/Insulin,metformin,794,DrugBank-text
+SCFAs+Butter,Butyric Acid / SCFAs (Smen Butter),butyric acid,679,Metformin/Insulin,insulin,1615,DrugBank-text
+SCFAs+Butter,Butyric Acid / SCFAs (Smen Butter),butyric acid,679,ACE-I/K-SpDiuretics+CaChBlockers,lisinopril,732,DrugBank-text
+SCFAs+Butter,Butyric Acid / SCFAs (Smen Butter),butyric acid,679,ACE-I/K-SpDiuretics+CaChBlockers,enalapril,435,DrugBank-text
+SCFAs+Butter,Butyric Acid / SCFAs (Smen Butter),butyric acid,679,ACE-I/K-SpDiuretics+CaChBlockers,ramipril,1092,DrugBank-text
+SCFAs+Butter,Butyric Acid / SCFAs (Smen Butter),butyric acid,679,ACE-I/K-SpDiuretics+CaChBlockers,captopril,198,DrugBank-text
+SCFAs+Butter,Butyric Acid / SCFAs (Smen Butter),butyric acid,679,ACE-I/K-SpDiuretics+CaChBlockers,perindopril,988,DrugBank-text
+SCFAs+Butter,Butyric Acid / SCFAs (Smen Butter),butyric acid,679,ACE-I/K-SpDiuretics+CaChBlockers,spironolactone,1201,DrugBank-text
+SCFAs+Butter,Butyric Acid / SCFAs (Smen Butter),butyric acid,679,ACE-I/K-SpDiuretics+CaChBlockers,amiloride,50,DrugBank-text
+SCFAs+Butter,Butyric Acid / SCFAs (Smen Butter),butyric acid,679,ACE-I/K-SpDiuretics+CaChBlockers,triamterene,1321,DrugBank-text
+SCFAs+Butter,Butyric Acid / SCFAs (Smen Butter),butyric acid,679,ACE-I/K-SpDiuretics+CaChBlockers,rs,1435,DrugBank-text
+SCFAs+Butter,Butyric Acid / SCFAs (Smen Butter),butyric acid,679,ACE-I/K-SpDiuretics+CaChBlockers,amlodipine,59,DrugBank-text
+SCFAs+Butter,Butyric Acid / SCFAs (Smen Butter),butyric acid,679,ACE-I/K-SpDiuretics+CaChBlockers,diltiazem,382,DrugBank-text
+SCFAs+Butter,Butyric Acid / SCFAs (Smen Butter),butyric acid,679,Warfarin,warfarin,1396,DrugBank-text
+SCFAs+Butter,Butyric Acid / SCFAs (Smen Butter),butyric acid,679,Benzodiazepines,diazepam,363,DrugBank-text
+SCFAs+Butter,Butyric Acid / SCFAs (Smen Butter),butyric acid,679,Benzodiazepines,alprazolam,42,DrugBank-text
+SCFAs+Butter,Butyric Acid / SCFAs (Smen Butter),butyric acid,679,Benzodiazepines,lorazepam,742,DrugBank-text
+K++Mg2+,Potassium + Magnesium (Date Paste / Ghers),potassium,22,Metformin/Insulin,metformin,794,PubMed-NLP
+K++Mg2+,Potassium + Magnesium (Date Paste / Ghers),potassium,22,Metformin/Insulin,insulin,1615,PubMed-NLP
+K++Mg2+,Potassium + Magnesium (Date Paste / Ghers),potassium,22,ACE-I/K-SpDiuretics+CaChBlockers,lisinopril,732,LIT-confirmed
+K++Mg2+,Potassium + Magnesium (Date Paste / Ghers),potassium,22,ACE-I/K-SpDiuretics+CaChBlockers,enalapril,435,LIT-confirmed
+K++Mg2+,Potassium + Magnesium (Date Paste / Ghers),potassium,22,ACE-I/K-SpDiuretics+CaChBlockers,ramipril,1092,LIT-confirmed
+K++Mg2+,Potassium + Magnesium (Date Paste / Ghers),potassium,22,ACE-I/K-SpDiuretics+CaChBlockers,captopril,198,LIT-confirmed
+K++Mg2+,Potassium + Magnesium (Date Paste / Ghers),potassium,22,ACE-I/K-SpDiuretics+CaChBlockers,perindopril,988,LIT-confirmed
+K++Mg2+,Potassium + Magnesium (Date Paste / Ghers),potassium,22,ACE-I/K-SpDiuretics+CaChBlockers,spironolactone,1201,LIT-confirmed
+K++Mg2+,Potassium + Magnesium (Date Paste / Ghers),potassium,22,ACE-I/K-SpDiuretics+CaChBlockers,amiloride,50,LIT-confirmed
+K++Mg2+,Potassium + Magnesium (Date Paste / Ghers),potassium,22,ACE-I/K-SpDiuretics+CaChBlockers,triamterene,1321,LIT-confirmed
+K++Mg2+,Potassium + Magnesium (Date Paste / Ghers),potassium,22,ACE-I/K-SpDiuretics+CaChBlockers,rs,1435,LIT-confirmed
+K++Mg2+,Potassium + Magnesium (Date Paste / Ghers),potassium,22,ACE-I/K-SpDiuretics+CaChBlockers,amlodipine,59,LIT-confirmed
+K++Mg2+,Potassium + Magnesium (Date Paste / Ghers),potassium,22,ACE-I/K-SpDiuretics+CaChBlockers,diltiazem,382,LIT-confirmed
+Cinnamaldehyde+Eugenol,Cinnamaldehyde + Eugenol (Cinnamon + Cloves),cinnamaldehyde,797,Metformin/Insulin,metformin,794,PubMed-NLP
+Cinnamaldehyde+Eugenol,Cinnamaldehyde + Eugenol (Cinnamon + Cloves),cinnamaldehyde,797,Metformin/Insulin,insulin,1615,PubMed-NLP
+Linalool,Linalool,linalool,194,Metformin/Insulin,metformin,794,PubMed-NLP
+Linalool,Linalool,linalool,194,Metformin/Insulin,insulin,1615,PubMed-NLP
+Linalool,Linalool,linalool,194,Benzodiazepines,diazepam,363,LIT-confirmed
+Linalool,Linalool,linalool,194,Benzodiazepines,alprazolam,42,LIT-confirmed
+Linalool,Linalool,linalool,194,Benzodiazepines,lorazepam,742,LIT-confirmed
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,Metformin/Insulin,metformin,794,DrugBank-text
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,Metformin/Insulin,insulin,1615,DrugBank-text
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,Statins/Cyclosporine/VitD,statins,1772,LIT-confirmed
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,Statins/Cyclosporine/VitD,cyclosporine,306,LIT-confirmed
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,Statins/Cyclosporine/VitD,simvastatin,1174,LIT-confirmed
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,Statins/Cyclosporine/VitD,fe,1445,LIT-confirmed
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,ACE-I/Sildenafil/Nitrates,lisinopril,732,DrugBank-text
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,ACE-I/Sildenafil/Nitrates,enalapril,435,DrugBank-text
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,ACE-I/Sildenafil/Nitrates,ramipril,1092,DrugBank-text
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,ACE-I/Sildenafil/Nitrates,captopril,198,DrugBank-text
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,ACE-I/Sildenafil/Nitrates,perindopril,988,DrugBank-text
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,ACE-I/Sildenafil/Nitrates,sildenafil,1168,DrugBank-text
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,ACE-I/Sildenafil/Nitrates,t,1824,DrugBank-text
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,ACE-I/Sildenafil/Nitrates,nitroglycerin,900,DrugBank-text
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,Benzodiazepines,diazepam,363,DrugBank-text
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,Benzodiazepines,alprazolam,42,DrugBank-text
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,Benzodiazepines,lorazepam,742,DrugBank-text
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,CYP3A4,cyclosporine,306,LIT-confirmed
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,CYP3A4,simvastatin,1174,LIT-confirmed
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,CYP3A4,midazolam,825,LIT-confirmed
+Shortcrust-FriableMatrix,Shortcrust-FriableMatrix,fat,9,CYP3A4,tacrolimus,1224,LIT-confirmed
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,Metformin/Insulin,metformin,794,DrugBank-text
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,Metformin/Insulin,insulin,1615,DrugBank-text
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,Statins/Cyclosporine/VitD,statins,1772,LIT-confirmed
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,Statins/Cyclosporine/VitD,cyclosporine,306,LIT-confirmed
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,Statins/Cyclosporine/VitD,simvastatin,1174,LIT-confirmed
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,Statins/Cyclosporine/VitD,fe,1445,LIT-confirmed
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,ACE-I/Sildenafil/Nitrates,lisinopril,732,DrugBank-text
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,ACE-I/Sildenafil/Nitrates,enalapril,435,DrugBank-text
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,ACE-I/Sildenafil/Nitrates,ramipril,1092,DrugBank-text
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,ACE-I/Sildenafil/Nitrates,captopril,198,DrugBank-text
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,ACE-I/Sildenafil/Nitrates,perindopril,988,DrugBank-text
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,ACE-I/Sildenafil/Nitrates,sildenafil,1168,DrugBank-text
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,ACE-I/Sildenafil/Nitrates,t,1824,DrugBank-text
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,ACE-I/Sildenafil/Nitrates,nitroglycerin,900,DrugBank-text
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,Benzodiazepines,diazepam,363,DrugBank-text
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,Benzodiazepines,alprazolam,42,DrugBank-text
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,Benzodiazepines,lorazepam,742,DrugBank-text
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,CYP3A4,cyclosporine,306,LIT-confirmed
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,CYP3A4,simvastatin,1174,LIT-confirmed
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,CYP3A4,midazolam,825,LIT-confirmed
+Smen-Kila,Saturated Fats — Lipid Carrier (Smen / Fermented Butter),fat,9,CYP3A4,tacrolimus,1224,LIT-confirmed
+LArginine+Mg2+,LArginine+Mg2+,arginine,512,Metformin/Insulin,metformin,794,PubMed-NLP
+LArginine+Mg2+,LArginine+Mg2+,arginine,512,Metformin/Insulin,insulin,1615,PubMed-NLP
+LArginine+Mg2+,LArginine+Mg2+,arginine,512,Statins/Cyclosporine/VitD,statins,1772,PubMed-NLP
+LArginine+Mg2+,LArginine+Mg2+,arginine,512,Statins/Cyclosporine/VitD,cyclosporine,306,PubMed-NLP
+LArginine+Mg2+,LArginine+Mg2+,arginine,512,Statins/Cyclosporine/VitD,simvastatin,1174,PubMed-NLP
+LArginine+Mg2+,LArginine+Mg2+,arginine,512,Statins/Cyclosporine/VitD,fe,1445,PubMed-NLP
+LArginine+Mg2+,LArginine+Mg2+,arginine,512,ACE-I/Sildenafil/Nitrates,lisinopril,732,PubMed-NLP
+LArginine+Mg2+,LArginine+Mg2+,arginine,512,ACE-I/Sildenafil/Nitrates,enalapril,435,PubMed-NLP
+LArginine+Mg2+,LArginine+Mg2+,arginine,512,ACE-I/Sildenafil/Nitrates,ramipril,1092,PubMed-NLP
+LArginine+Mg2+,LArginine+Mg2+,arginine,512,ACE-I/Sildenafil/Nitrates,captopril,198,PubMed-NLP
+LArginine+Mg2+,LArginine+Mg2+,arginine,512,ACE-I/Sildenafil/Nitrates,perindopril,988,PubMed-NLP
+LArginine+Mg2+,LArginine+Mg2+,arginine,512,ACE-I/Sildenafil/Nitrates,sildenafil,1168,PubMed-NLP
+LArginine+Mg2+,LArginine+Mg2+,arginine,512,ACE-I/Sildenafil/Nitrates,t,1824,PubMed-NLP
+LArginine+Mg2+,LArginine+Mg2+,arginine,512,ACE-I/Sildenafil/Nitrates,nitroglycerin,900,PubMed-NLP
+Albumin+Protein,Albumin+Protein,protein,23,Metformin/Insulin,metformin,794,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,Metformin/Insulin,insulin,1615,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,Statins/Cyclosporine/VitD,statins,1772,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,Statins/Cyclosporine/VitD,cyclosporine,306,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,Statins/Cyclosporine/VitD,simvastatin,1174,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,Statins/Cyclosporine/VitD,fe,1445,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,ACE-I/Sildenafil/Nitrates,lisinopril,732,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,ACE-I/Sildenafil/Nitrates,enalapril,435,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,ACE-I/Sildenafil/Nitrates,ramipril,1092,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,ACE-I/Sildenafil/Nitrates,captopril,198,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,ACE-I/Sildenafil/Nitrates,perindopril,988,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,ACE-I/Sildenafil/Nitrates,sildenafil,1168,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,ACE-I/Sildenafil/Nitrates,t,1824,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,ACE-I/Sildenafil/Nitrates,nitroglycerin,900,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,Benzodiazepines,diazepam,363,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,Benzodiazepines,alprazolam,42,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,Benzodiazepines,lorazepam,742,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,CYP3A4,cyclosporine,306,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,CYP3A4,simvastatin,1174,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,CYP3A4,midazolam,825,DrugBank-text
+Albumin+Protein,Albumin+Protein,protein,23,CYP3A4,tacrolimus,1224,DrugBank-text
+Limonene+Linalool,Limonene+Linalool,linalool,194,Metformin/Insulin,metformin,794,PubMed-NLP
+Limonene+Linalool,Limonene+Linalool,linalool,194,Metformin/Insulin,insulin,1615,PubMed-NLP
+Limonene+Linalool,Limonene+Linalool,linalool,194,Statins/Cyclosporine/VitD,statins,1772,PubMed-NLP
+Limonene+Linalool,Limonene+Linalool,linalool,194,Statins/Cyclosporine/VitD,cyclosporine,306,PubMed-NLP
+Limonene+Linalool,Limonene+Linalool,linalool,194,Statins/Cyclosporine/VitD,simvastatin,1174,PubMed-NLP
+Limonene+Linalool,Limonene+Linalool,linalool,194,Statins/Cyclosporine/VitD,fe,1445,PubMed-NLP
+Limonene+Linalool,Limonene+Linalool,linalool,194,Benzodiazepines,diazepam,363,LIT-confirmed
+Limonene+Linalool,Limonene+Linalool,linalool,194,Benzodiazepines,alprazolam,42,LIT-confirmed
+Limonene+Linalool,Limonene+Linalool,linalool,194,Benzodiazepines,lorazepam,742,LIT-confirmed
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,Metformin/Insulin/SGLT2,metformin,794,DrugBank-text
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,Metformin/Insulin/SGLT2,insulin,1615,DrugBank-text
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,Metformin/Insulin/SGLT2,empagliflozin,433,DrugBank-text
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,Metformin/Insulin/SGLT2,dapagliflozin,322,DrugBank-text
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,Metformin/Insulin/SGLT2,canagliflozin,190,DrugBank-text
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,Statins/Cyclosporine/Isotretinoin,statins,1772,LIT-confirmed
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,Statins/Cyclosporine/Isotretinoin,cyclosporine,306,LIT-confirmed
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,Statins/Cyclosporine/Isotretinoin,isotretinoin,666,LIT-confirmed
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,Statins/Cyclosporine/Isotretinoin,simvastatin,1174,LIT-confirmed
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,Orlistat,orlistat,929,LIT-confirmed
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,Codeine/Tamoxifen/Metoprolol,codeine,287,DrugBank-text
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,Codeine/Tamoxifen/Metoprolol,tamoxifen,1230,DrugBank-text
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,Codeine/Tamoxifen/Metoprolol,metoprolol,818,DrugBank-text
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,HRT,estradiol,1797,DrugBank-text
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,HRT,progesterone,1061,DrugBank-text
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,HRT,conjugated estrogens,292,DrugBank-text
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,AcidLabileDrugs,omeprazole,924,DrugBank-text
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,AcidLabileDrugs,lansoprazole,690,DrugBank-text
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,AcidLabileDrugs,erythromycin,456,DrugBank-text
+ButterEmulsion250g,Butter Emulsion,sheabutter,324,AcidLabileDrugs,clarithromycin,263,DrugBank-text
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Metformin/Insulin/SGLT2,metformin,794,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Metformin/Insulin/SGLT2,insulin,1615,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Metformin/Insulin/SGLT2,empagliflozin,433,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Metformin/Insulin/SGLT2,dapagliflozin,322,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Metformin/Insulin/SGLT2,canagliflozin,190,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Statins/Cyclosporine/Isotretinoin,statins,1772,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Statins/Cyclosporine/Isotretinoin,cyclosporine,306,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Statins/Cyclosporine/Isotretinoin,isotretinoin,666,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Statins/Cyclosporine/Isotretinoin,simvastatin,1174,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Orlistat,orlistat,929,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Codeine/Tamoxifen/Metoprolol,codeine,287,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Codeine/Tamoxifen/Metoprolol,tamoxifen,1230,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Codeine/Tamoxifen/Metoprolol,metoprolol,818,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,HRT,estradiol,1797,LIT-confirmed
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,HRT,progesterone,1061,LIT-confirmed
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,HRT,conjugated estrogens,292,LIT-confirmed
+Sucrose-IcingSugar,Sucrose / Icing Sugar,sucrose,340,Metformin/Insulin/SGLT2,metformin,794,LIT-confirmed
+Sucrose-IcingSugar,Sucrose / Icing Sugar,sucrose,340,Metformin/Insulin/SGLT2,insulin,1615,LIT-confirmed
+Sucrose-IcingSugar,Sucrose / Icing Sugar,sucrose,340,Metformin/Insulin/SGLT2,empagliflozin,433,LIT-confirmed
+Sucrose-IcingSugar,Sucrose / Icing Sugar,sucrose,340,Metformin/Insulin/SGLT2,dapagliflozin,322,LIT-confirmed
+Sucrose-IcingSugar,Sucrose / Icing Sugar,sucrose,340,Metformin/Insulin/SGLT2,canagliflozin,190,LIT-confirmed
+Sucrose-IcingSugar,Sucrose / Icing Sugar,sucrose,340,HRT,estradiol,1797,DrugBank-text
+Sucrose-IcingSugar,Sucrose / Icing Sugar,sucrose,340,HRT,progesterone,1061,DrugBank-text
+Sucrose-IcingSugar,Sucrose / Icing Sugar,sucrose,340,HRT,conjugated estrogens,292,DrugBank-text
+Sucrose-IcingSugar,Sucrose / Icing Sugar,sucrose,340,AcidLabileDrugs,omeprazole,924,DrugBank-text
+Sucrose-IcingSugar,Sucrose / Icing Sugar,sucrose,340,AcidLabileDrugs,lansoprazole,690,DrugBank-text
+Sucrose-IcingSugar,Sucrose / Icing Sugar,sucrose,340,AcidLabileDrugs,erythromycin,456,DrugBank-text
+Sucrose-IcingSugar,Sucrose / Icing Sugar,sucrose,340,AcidLabileDrugs,clarithromycin,263,DrugBank-text
+K+,Potassium,potassium,22,Allopurinol/Febuxostat,allopurinol,36,PubMed-NLP
+K+,Potassium,potassium,22,Allopurinol/Febuxostat,febuxostat,496,PubMed-NLP
+K+,Potassium,potassium,22,Cipro/IronSuppl,ciprofloxacin,258,LIT-confirmed
+K+,Potassium,potassium,22,Cipro/IronSuppl,ferrous sulfate anhydrous,513,LIT-confirmed
+K+,Potassium,potassium,22,Cipro/IronSuppl,ferrous sulfate,1786,LIT-confirmed
+K+,Potassium,potassium,22,Cipro/IronSuppl,ferrous gluconate,512,LIT-confirmed
+K+,Potassium,potassium,22,Cipro/IronSuppl,ferrous fumarate,511,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,ACE-I/Spiro,lisinopril,732,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,ACE-I/Spiro,enalapril,435,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,ACE-I/Spiro,ramipril,1092,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,ACE-I/Spiro,captopril,198,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,ACE-I/Spiro,perindopril,988,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,ACE-I/Spiro,buspirone,174,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,ACE-I/Spiro,spironolactone,1201,LIT-confirmed
+Allicin+Gingerol+Curcumin,Allicin+Gingerol+Curcumin,ginger,13,Warfarin/Aspirin,warfarin,1396,DrugBank-named
+Allicin+Gingerol+Curcumin,Allicin+Gingerol+Curcumin,ginger,13,Warfarin/Aspirin,aspirin,1469,DrugBank-named
+Allicin+Gingerol+Curcumin,Allicin+Gingerol+Curcumin,ginger,13,CYP3A4/Statins,cyclosporine,306,LIT-confirmed
+Allicin+Gingerol+Curcumin,Allicin+Gingerol+Curcumin,ginger,13,CYP3A4/Statins,simvastatin,1174,LIT-confirmed
+Allicin+Gingerol+Curcumin,Allicin+Gingerol+Curcumin,ginger,13,CYP3A4/Statins,midazolam,825,LIT-confirmed
+Allicin+Gingerol+Curcumin,Allicin+Gingerol+Curcumin,ginger,13,CYP3A4/Statins,tacrolimus,1224,LIT-confirmed
+Allicin+Gingerol+Curcumin,Allicin+Gingerol+Curcumin,ginger,13,CYP3A4/Statins,statins,1772,LIT-confirmed
+Allicin+Gingerol+Curcumin,Allicin+Gingerol+Curcumin,ginger,13,CYP3A4/Statins,atorvastatin,96,LIT-confirmed
+NaHCO3,Sodium Bicarbonate,sodium,25,EntericMeds/Aspirin,cm,1767,LIT-confirmed
+NaHCO3,Sodium Bicarbonate,sodium,25,EntericMeds/Aspirin,aspirin,1469,LIT-confirmed
+NaHCO3,Sodium Bicarbonate,sodium,25,EntericMeds/Aspirin,omeprazole,924,LIT-confirmed
+NaHCO3,Sodium Bicarbonate,sodium,25,EntericMeds/Aspirin,diclofenac,365,LIT-confirmed
+NaHCO3,Sodium Bicarbonate,sodium,25,Cipro/IronZinc,ciprofloxacin,258,LIT-confirmed
+NaHCO3,Sodium Bicarbonate,sodium,25,Cipro/IronZinc,iron,658,LIT-confirmed
+NaHCO3,Sodium Bicarbonate,sodium,25,Cipro/IronZinc,ferrous sulfate anhydrous,513,LIT-confirmed
+NaHCO3,Sodium Bicarbonate,sodium,25,Cipro/IronZinc,ferrous sulfate,1786,LIT-confirmed
+NaHCO3,Sodium Bicarbonate,sodium,25,Cipro/IronZinc,zinc sulfate,1414,LIT-confirmed
+NaHCO3,Sodium Bicarbonate,sodium,25,Allopurinol,allopurinol,36,DrugBank-text
+NaHCO3,Sodium Bicarbonate,sodium,25,CYP2C9/Warfarin/Glipizide,warfarin,1396,DrugBank-text
+NaHCO3,Sodium Bicarbonate,sodium,25,CYP2C9/Warfarin/Glipizide,phenytoin,1004,DrugBank-text
+NaHCO3,Sodium Bicarbonate,sodium,25,CYP2C9/Warfarin/Glipizide,glipizide,588,DrugBank-text
+NaHCO3,Sodium Bicarbonate,sodium,25,CYP2C9/Warfarin/Glipizide,flurbiprofen,546,DrugBank-text
+NaHCO3,Sodium Bicarbonate,sodium,25,Levothyroxine/Bisphosphonates,levothyroxine,722,DrugBank-text
+NaHCO3,Sodium Bicarbonate,sodium,25,Levothyroxine/Bisphosphonates,t,1824,DrugBank-text
+NaHCO3,Sodium Bicarbonate,sodium,25,Levothyroxine/Bisphosphonates,al,1455,DrugBank-text
+PhyticAcid,Phytic Acid,phytic acid,762,Cipro/IronZinc,ciprofloxacin,258,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,Cipro/IronZinc,iron,658,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,Cipro/IronZinc,ferrous sulfate anhydrous,513,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,Cipro/IronZinc,ferrous sulfate,1786,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,Cipro/IronZinc,zinc sulfate,1414,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,Levothyroxine/Bisphosphonates,levothyroxine,722,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,Levothyroxine/Bisphosphonates,t,1824,LIT-confirmed
+PhyticAcid,Phytic Acid,phytic acid,762,Levothyroxine/Bisphosphonates,al,1455,LIT-confirmed
+Purines,Purines,purine,799,EntericMeds/Aspirin,cm,1767,PubMed-NLP
+Purines,Purines,purine,799,EntericMeds/Aspirin,aspirin,1469,PubMed-NLP
+Purines,Purines,purine,799,EntericMeds/Aspirin,omeprazole,924,PubMed-NLP
+Purines,Purines,purine,799,EntericMeds/Aspirin,diclofenac,365,PubMed-NLP
+NonHemeIron,NonHemeIron,iron,18,Cipro/IronZinc,ciprofloxacin,258,DrugBank-text
+NonHemeIron,NonHemeIron,iron,18,Cipro/IronZinc,iron,658,DrugBank-text
+NonHemeIron,NonHemeIron,iron,18,Cipro/IronZinc,ferrous sulfate anhydrous,513,DrugBank-text
+NonHemeIron,NonHemeIron,iron,18,Cipro/IronZinc,ferrous sulfate,1786,DrugBank-text
+NonHemeIron,NonHemeIron,iron,18,Cipro/IronZinc,zinc sulfate,1414,DrugBank-text
+NonHemeIron,NonHemeIron,iron,18,Levothyroxine/Bisphosphonates,levothyroxine,722,DrugBank-named
+NonHemeIron,NonHemeIron,iron,18,Levothyroxine/Bisphosphonates,t,1824,DrugBank-named
+NonHemeIron,NonHemeIron,iron,18,Levothyroxine/Bisphosphonates,al,1455,DrugBank-named
+PhyticAcid+Saponins,Phytic Acid + Saponins,phytic acid,762,Cipro/IronZinc,ciprofloxacin,258,LIT-confirmed
+PhyticAcid+Saponins,Phytic Acid + Saponins,phytic acid,762,Cipro/IronZinc,iron,658,LIT-confirmed
+PhyticAcid+Saponins,Phytic Acid + Saponins,phytic acid,762,Cipro/IronZinc,ferrous sulfate anhydrous,513,LIT-confirmed
+PhyticAcid+Saponins,Phytic Acid + Saponins,phytic acid,762,Cipro/IronZinc,ferrous sulfate,1786,LIT-confirmed
+PhyticAcid+Saponins,Phytic Acid + Saponins,phytic acid,762,Cipro/IronZinc,zinc sulfate,1414,LIT-confirmed
+PhyticAcid+Saponins,Phytic Acid + Saponins,phytic acid,762,ACE-I/Spiro,lisinopril,732,LIT-confirmed
+PhyticAcid+Saponins,Phytic Acid + Saponins,phytic acid,762,ACE-I/Spiro,enalapril,435,LIT-confirmed
+PhyticAcid+Saponins,Phytic Acid + Saponins,phytic acid,762,ACE-I/Spiro,ramipril,1092,LIT-confirmed
+PhyticAcid+Saponins,Phytic Acid + Saponins,phytic acid,762,ACE-I/Spiro,captopril,198,LIT-confirmed
+PhyticAcid+Saponins,Phytic Acid + Saponins,phytic acid,762,ACE-I/Spiro,perindopril,988,LIT-confirmed
+PhyticAcid+Saponins,Phytic Acid + Saponins,phytic acid,762,ACE-I/Spiro,buspirone,174,LIT-confirmed
+PhyticAcid+Saponins,Phytic Acid + Saponins,phytic acid,762,ACE-I/Spiro,spironolactone,1201,LIT-confirmed
+Phaseolamin,Phaseolamin,UNMATCHED,—,Acarbose,acarbose,10,LIT-confirmed
+K+,Potassium,potassium,22,Cipro/IronZinc,ciprofloxacin,258,LIT-confirmed
+K+,Potassium,potassium,22,Cipro/IronZinc,iron,658,LIT-confirmed
+K+,Potassium,potassium,22,Cipro/IronZinc,ferrous sulfate anhydrous,513,LIT-confirmed
+K+,Potassium,potassium,22,Cipro/IronZinc,ferrous sulfate,1786,LIT-confirmed
+K+,Potassium,potassium,22,Cipro/IronZinc,zinc sulfate,1414,LIT-confirmed
+Allicin+Cuminaldehyde,Allicin+Cuminaldehyde,allicin,1011,CYP3A4/Statins+CYP2C9/Warfarin,cyclosporine,306,DrugBank-named
+Allicin+Cuminaldehyde,Allicin+Cuminaldehyde,allicin,1011,CYP3A4/Statins+CYP2C9/Warfarin,simvastatin,1174,DrugBank-named
+Allicin+Cuminaldehyde,Allicin+Cuminaldehyde,allicin,1011,CYP3A4/Statins+CYP2C9/Warfarin,midazolam,825,DrugBank-named
+Allicin+Cuminaldehyde,Allicin+Cuminaldehyde,allicin,1011,CYP3A4/Statins+CYP2C9/Warfarin,tacrolimus,1224,DrugBank-named
+Allicin+Cuminaldehyde,Allicin+Cuminaldehyde,allicin,1011,CYP3A4/Statins+CYP2C9/Warfarin,statins,1772,DrugBank-named
+Allicin+Cuminaldehyde,Allicin+Cuminaldehyde,allicin,1011,CYP3A4/Statins+CYP2C9/Warfarin,warfarin,1396,DrugBank-named
+Allicin+Cuminaldehyde,Allicin+Cuminaldehyde,allicin,1011,CYP3A4/Statins+CYP2C9/Warfarin,phenytoin,1004,DrugBank-named
+Allicin+Cuminaldehyde,Allicin+Cuminaldehyde,allicin,1011,CYP3A4/Statins+CYP2C9/Warfarin,glipizide,588,DrugBank-named
+Allicin+Cuminaldehyde,Allicin+Cuminaldehyde,allicin,1011,CYP3A4/Statins+CYP2C9/Warfarin,flurbiprofen,546,DrugBank-named
+BetaCarotene,Beta-Carotene,carotene,718,Cipro/IronZinc,ciprofloxacin,258,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,Cipro/IronZinc,iron,658,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,Cipro/IronZinc,ferrous sulfate anhydrous,513,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,Cipro/IronZinc,ferrous sulfate,1786,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,Cipro/IronZinc,zinc sulfate,1414,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,Acarbose,acarbose,10,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,ACE-I/Spiro,lisinopril,732,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,ACE-I/Spiro,enalapril,435,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,ACE-I/Spiro,ramipril,1092,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,ACE-I/Spiro,captopril,198,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,ACE-I/Spiro,perindopril,988,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,ACE-I/Spiro,buspirone,174,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,ACE-I/Spiro,spironolactone,1201,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,Allopurinol/GoutFlare,allopurinol,36,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,Allopurinol/GoutFlare,colchicine,289,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,CYP3A4/Statins+CYP2C9/Warfarin,cyclosporine,306,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,CYP3A4/Statins+CYP2C9/Warfarin,simvastatin,1174,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,CYP3A4/Statins+CYP2C9/Warfarin,midazolam,825,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,CYP3A4/Statins+CYP2C9/Warfarin,tacrolimus,1224,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,CYP3A4/Statins+CYP2C9/Warfarin,statins,1772,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,CYP3A4/Statins+CYP2C9/Warfarin,warfarin,1396,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,CYP3A4/Statins+CYP2C9/Warfarin,phenytoin,1004,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,CYP3A4/Statins+CYP2C9/Warfarin,glipizide,588,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,CYP3A4/Statins+CYP2C9/Warfarin,flurbiprofen,546,DrugBank-text
+BetaCarotene,Beta-Carotene,carotene,718,Isotretinoin/VitATox,isotretinoin,666,LIT-confirmed
+BetaCarotene,Beta-Carotene,carotene,718,Isotretinoin/VitATox,retinol,1697,LIT-confirmed
+Ca2+,Calcium,calcium,2,Tetracyclines/Bisphosphonates,tetracycline,1266,LIT-confirmed
+Ca2+,Calcium,calcium,2,Tetracyclines/Bisphosphonates,t,1824,LIT-confirmed
+Ca2+,Calcium,calcium,2,Tetracyclines/Bisphosphonates,doxycycline,405,LIT-confirmed
+Ca2+,Calcium,calcium,2,Tetracyclines/Bisphosphonates,al,1455,LIT-confirmed
+Ca2+,Calcium,calcium,2,AllOralMeds,metformin,794,LIT-confirmed
+Ca2+,Calcium,calcium,2,AllOralMeds,levothyroxine,722,LIT-confirmed
+Ca2+,Calcium,calcium,2,AllOralMeds,warfarin,1396,LIT-confirmed
+Ca2+,Calcium,calcium,2,AllOralMeds,ciprofloxacin,258,LIT-confirmed
+Ca2+,Calcium,calcium,2,MAOIs/Antihypertensives,phenelzine,994,DrugBank-text
+Ca2+,Calcium,calcium,2,MAOIs/Antihypertensives,tranylcypromine,1316,DrugBank-text
+Ca2+,Calcium,calcium,2,MAOIs/Antihypertensives,isocarboxazid,662,DrugBank-text
+Ca2+,Calcium,calcium,2,MAOIs/Antihypertensives,selegiline,1158,DrugBank-text
+Ca2+,Calcium,calcium,2,MAOIs/Antihypertensives,lisinopril,732,DrugBank-text
+Ca2+,Calcium,calcium,2,MAOIs/Antihypertensives,amlodipine,59,DrugBank-text
+Ca2+,Calcium,calcium,2,MAOIs/Antihypertensives,hydrochlorothiazide,604,DrugBank-text
+Ca2+,Calcium,calcium,2,MAOIs/Antihypertensives,metoprolol,818,DrugBank-text
+Ca2+,Calcium,calcium,2,MAOIs/Antihypertensives,losartan,745,DrugBank-text
+Ca2+,Calcium,calcium,2,Statins/Isotretinoin,statins,1772,DrugBank-text
+Ca2+,Calcium,calcium,2,Statins/Isotretinoin,isotretinoin,666,DrugBank-text
+Ca2+,Calcium,calcium,2,Statins/Isotretinoin,simvastatin,1174,DrugBank-text
+BetaGlucan,Beta-Glucan,fiber,10,AllOralMeds,metformin,794,LIT-confirmed
+BetaGlucan,Beta-Glucan,fiber,10,AllOralMeds,levothyroxine,722,LIT-confirmed
+BetaGlucan,Beta-Glucan,fiber,10,AllOralMeds,warfarin,1396,LIT-confirmed
+BetaGlucan,Beta-Glucan,fiber,10,AllOralMeds,ciprofloxacin,258,LIT-confirmed
+BetaGlucan,Beta-Glucan,fiber,10,MAOIs/Antihypertensives,phenelzine,994,LIT-confirmed
+BetaGlucan,Beta-Glucan,fiber,10,MAOIs/Antihypertensives,tranylcypromine,1316,LIT-confirmed
+BetaGlucan,Beta-Glucan,fiber,10,MAOIs/Antihypertensives,isocarboxazid,662,LIT-confirmed
+BetaGlucan,Beta-Glucan,fiber,10,MAOIs/Antihypertensives,selegiline,1158,LIT-confirmed
+BetaGlucan,Beta-Glucan,fiber,10,MAOIs/Antihypertensives,lisinopril,732,LIT-confirmed
+BetaGlucan,Beta-Glucan,fiber,10,MAOIs/Antihypertensives,amlodipine,59,LIT-confirmed
+BetaGlucan,Beta-Glucan,fiber,10,MAOIs/Antihypertensives,hydrochlorothiazide,604,LIT-confirmed
+BetaGlucan,Beta-Glucan,fiber,10,MAOIs/Antihypertensives,metoprolol,818,LIT-confirmed
+BetaGlucan,Beta-Glucan,fiber,10,MAOIs/Antihypertensives,losartan,745,LIT-confirmed
+Tyramine+Na+,Tyramine+Na+,na+,795,Tetracyclines/Bisphosphonates,tetracycline,1266,PubMed-NLP
+Tyramine+Na+,Tyramine+Na+,na+,795,Tetracyclines/Bisphosphonates,t,1824,PubMed-NLP
+Tyramine+Na+,Tyramine+Na+,na+,795,Tetracyclines/Bisphosphonates,doxycycline,405,PubMed-NLP
+Tyramine+Na+,Tyramine+Na+,na+,795,Tetracyclines/Bisphosphonates,al,1455,PubMed-NLP
+Tyramine+Na+,Tyramine+Na+,na+,795,MAOIs/Antihypertensives,phenelzine,994,PubMed-NLP
+Tyramine+Na+,Tyramine+Na+,na+,795,MAOIs/Antihypertensives,tranylcypromine,1316,PubMed-NLP
+Tyramine+Na+,Tyramine+Na+,na+,795,MAOIs/Antihypertensives,isocarboxazid,662,PubMed-NLP
+Tyramine+Na+,Tyramine+Na+,na+,795,MAOIs/Antihypertensives,selegiline,1158,PubMed-NLP
+Tyramine+Na+,Tyramine+Na+,na+,795,MAOIs/Antihypertensives,lisinopril,732,PubMed-NLP
+Tyramine+Na+,Tyramine+Na+,na+,795,MAOIs/Antihypertensives,amlodipine,59,PubMed-NLP
+Tyramine+Na+,Tyramine+Na+,na+,795,MAOIs/Antihypertensives,hydrochlorothiazide,604,PubMed-NLP
+Tyramine+Na+,Tyramine+Na+,na+,795,MAOIs/Antihypertensives,metoprolol,818,PubMed-NLP
+Tyramine+Na+,Tyramine+Na+,na+,795,MAOIs/Antihypertensives,losartan,745,PubMed-NLP
+SatFats,Saturated Fats,fat,9,Tetracyclines/Bisphosphonates,tetracycline,1266,DrugBank-text
+SatFats,Saturated Fats,fat,9,Tetracyclines/Bisphosphonates,t,1824,DrugBank-text
+SatFats,Saturated Fats,fat,9,Tetracyclines/Bisphosphonates,doxycycline,405,DrugBank-text
+SatFats,Saturated Fats,fat,9,Tetracyclines/Bisphosphonates,al,1455,DrugBank-text
+SatFats,Saturated Fats,fat,9,AllOralMeds,metformin,794,DrugBank-text
+SatFats,Saturated Fats,fat,9,AllOralMeds,levothyroxine,722,DrugBank-text
+SatFats,Saturated Fats,fat,9,AllOralMeds,warfarin,1396,DrugBank-text
+SatFats,Saturated Fats,fat,9,AllOralMeds,ciprofloxacin,258,DrugBank-text
+SatFats,Saturated Fats,fat,9,MAOIs/Antihypertensives,phenelzine,994,DrugBank-text
+SatFats,Saturated Fats,fat,9,MAOIs/Antihypertensives,tranylcypromine,1316,DrugBank-text
+SatFats,Saturated Fats,fat,9,MAOIs/Antihypertensives,isocarboxazid,662,DrugBank-text
+SatFats,Saturated Fats,fat,9,MAOIs/Antihypertensives,selegiline,1158,DrugBank-text
+SatFats,Saturated Fats,fat,9,MAOIs/Antihypertensives,lisinopril,732,DrugBank-text
+SatFats,Saturated Fats,fat,9,MAOIs/Antihypertensives,amlodipine,59,DrugBank-text
+SatFats,Saturated Fats,fat,9,MAOIs/Antihypertensives,hydrochlorothiazide,604,DrugBank-text
+SatFats,Saturated Fats,fat,9,MAOIs/Antihypertensives,metoprolol,818,DrugBank-text
+SatFats,Saturated Fats,fat,9,MAOIs/Antihypertensives,losartan,745,DrugBank-text
+SatFats,Saturated Fats,fat,9,Statins/Isotretinoin,statins,1772,LIT-confirmed
+SatFats,Saturated Fats,fat,9,Statins/Isotretinoin,isotretinoin,666,LIT-confirmed
+SatFats,Saturated Fats,fat,9,Statins/Isotretinoin,simvastatin,1174,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,ACE-I/Theophylline,lisinopril,732,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,ACE-I/Theophylline,enalapril,435,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,ACE-I/Theophylline,ramipril,1092,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,ACE-I/Theophylline,captopril,198,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,ACE-I/Theophylline,perindopril,988,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,ACE-I/Theophylline,theophylline,1271,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,BP-meds,lisinopril,732,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,BP-meds,amlodipine,59,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,BP-meds,hydrochlorothiazide,604,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,BP-meds,metoprolol,818,LIT-confirmed
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,ACE-I/Theophylline,lisinopril,732,DrugBank-text
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,ACE-I/Theophylline,enalapril,435,DrugBank-text
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,ACE-I/Theophylline,ramipril,1092,DrugBank-text
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,ACE-I/Theophylline,captopril,198,DrugBank-text
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,ACE-I/Theophylline,perindopril,988,DrugBank-text
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,ACE-I/Theophylline,theophylline,1271,DrugBank-text
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,IronSuppl,ferrous sulfate anhydrous,513,LIT-confirmed
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,IronSuppl,ferrous sulfate,1786,LIT-confirmed
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,IronSuppl,ferrous gluconate,512,LIT-confirmed
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,IronSuppl,ferrous fumarate,511,LIT-confirmed
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,BP-meds,lisinopril,732,DrugBank-text
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,BP-meds,amlodipine,59,DrugBank-text
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,BP-meds,hydrochlorothiazide,604,DrugBank-text
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,BP-meds,metoprolol,818,DrugBank-text
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,Warfarin/Aspirin,warfarin,1396,LIT-confirmed
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,Warfarin/Aspirin,aspirin,1469,LIT-confirmed
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,Statins/Isotretinoin,statins,1772,LIT-confirmed
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,Statins/Isotretinoin,isotretinoin,666,LIT-confirmed
+VitC+Flavonoids,Ascorbic Acid (Vitamin C) + Flavonoids,ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin a; vitamin e,617,Statins/Isotretinoin,simvastatin,1174,LIT-confirmed
+Allicin,Allicin,allicin,1011,BP-meds,lisinopril,732,PubMed-NLP
+Allicin,Allicin,allicin,1011,BP-meds,amlodipine,59,PubMed-NLP
+Allicin,Allicin,allicin,1011,BP-meds,hydrochlorothiazide,604,PubMed-NLP
+Allicin,Allicin,allicin,1011,BP-meds,metoprolol,818,PubMed-NLP
+Allicin,Allicin,allicin,1011,Warfarin/Aspirin,warfarin,1396,DrugBank-named
+Allicin,Allicin,allicin,1011,Warfarin/Aspirin,aspirin,1469,DrugBank-named
+Allicin,Allicin,allicin,1011,Statins/Isotretinoin,statins,1772,LIT-confirmed
+Allicin,Allicin,allicin,1011,Statins/Isotretinoin,isotretinoin,666,LIT-confirmed
+Allicin,Allicin,allicin,1011,Statins/Isotretinoin,simvastatin,1174,LIT-confirmed
+SatFats,Saturated Fats,fat,9,Statins/ARVs/Isotretinoin,statins,1772,LIT-confirmed
+SatFats,Saturated Fats,fat,9,Statins/ARVs/Isotretinoin,isotretinoin,666,LIT-confirmed
+SatFats,Saturated Fats,fat,9,Statins/ARVs/Isotretinoin,atorvastatin,96,LIT-confirmed
+SatFats,Saturated Fats,fat,9,Statins/ARVs/Isotretinoin,simvastatin,1174,LIT-confirmed
+SatFats,Saturated Fats,fat,9,Statins/ARVs/Isotretinoin,ritonavir,1126,LIT-confirmed
+SatFats,Saturated Fats,fat,9,Anticholinergics,atropine,98,DrugBank-text
+SatFats,Saturated Fats,fat,9,Anticholinergics,oxybutynin,946,DrugBank-text
+SatFats,Saturated Fats,fat,9,Anticholinergics,ne,1774,DrugBank-text
+SatFats,Saturated Fats,fat,9,Allopurinol/GoutFlare,allopurinol,36,DrugBank-text
+SatFats,Saturated Fats,fat,9,Allopurinol/GoutFlare,colchicine,289,DrugBank-text
+SatFats,Saturated Fats,fat,9,CYP2C9/Warfarin,warfarin,1396,DrugBank-text
+SatFats,Saturated Fats,fat,9,CYP2C9/Warfarin,phenytoin,1004,DrugBank-text
+SatFats,Saturated Fats,fat,9,CYP2C9/Warfarin,glipizide,588,DrugBank-text
+SatFats,Saturated Fats,fat,9,CYP2C9/Warfarin,flurbiprofen,546,DrugBank-text
+SatFats,Saturated Fats,fat,9,CYP2E1/Acetaminophen,paracetamol,1923,DrugBank-text
+SatFats,Saturated Fats,fat,9,CYP2E1/Acetaminophen,ethanol,1751,DrugBank-text
+SatFats,Saturated Fats,fat,9,CYP2E1/Acetaminophen,acetaminophen,15,DrugBank-text
+Lecithin+Choline,Lecithin+Choline,choline,579,Statins/ARVs/Isotretinoin,statins,1772,PubMed-NLP
+Lecithin+Choline,Lecithin+Choline,choline,579,Statins/ARVs/Isotretinoin,isotretinoin,666,PubMed-NLP
+Lecithin+Choline,Lecithin+Choline,choline,579,Statins/ARVs/Isotretinoin,atorvastatin,96,PubMed-NLP
+Lecithin+Choline,Lecithin+Choline,choline,579,Statins/ARVs/Isotretinoin,simvastatin,1174,PubMed-NLP
+Lecithin+Choline,Lecithin+Choline,choline,579,Statins/ARVs/Isotretinoin,ritonavir,1126,PubMed-NLP
+Lecithin+Choline,Lecithin+Choline,choline,579,Anticholinergics,atropine,98,LIT-confirmed
+Lecithin+Choline,Lecithin+Choline,choline,579,Anticholinergics,oxybutynin,946,LIT-confirmed
+Lecithin+Choline,Lecithin+Choline,choline,579,Anticholinergics,ne,1774,LIT-confirmed
+Lecithin+Choline,Lecithin+Choline,choline,579,Allopurinol/GoutFlare,allopurinol,36,PubMed-NLP
+Lecithin+Choline,Lecithin+Choline,choline,579,Allopurinol/GoutFlare,colchicine,289,PubMed-NLP
+Lecithin+Choline,Lecithin+Choline,choline,579,CYP2E1/Acetaminophen,paracetamol,1923,PubMed-NLP
+Lecithin+Choline,Lecithin+Choline,choline,579,CYP2E1/Acetaminophen,ethanol,1751,PubMed-NLP
+Lecithin+Choline,Lecithin+Choline,choline,579,CYP2E1/Acetaminophen,acetaminophen,15,PubMed-NLP
+Acrylamide,Acrylamide,UNMATCHED,—,CYP2E1/Acetaminophen,paracetamol,1923,LIT-confirmed
+Acrylamide,Acrylamide,UNMATCHED,—,CYP2E1/Acetaminophen,ethanol,1751,LIT-confirmed
+Acrylamide,Acrylamide,UNMATCHED,—,CYP2E1/Acetaminophen,acetaminophen,15,LIT-confirmed
+Amylopectin,Amylopectin,amylopectin,1801,Insulin/Metformin/Acarbose,insulin,1615,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,Insulin/Metformin/Acarbose,metformin,794,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,Insulin/Metformin/Acarbose,acarbose,10,PubMed-NLP
+Allicin+Quercetin,Allicin+Quercetin,quercetin,279,Insulin/Metformin/Acarbose,insulin,1615,PubMed-NLP
+Allicin+Quercetin,Allicin+Quercetin,quercetin,279,Insulin/Metformin/Acarbose,metformin,794,PubMed-NLP
+Allicin+Quercetin,Allicin+Quercetin,quercetin,279,Insulin/Metformin/Acarbose,acarbose,10,PubMed-NLP
+Allicin+Quercetin,Allicin+Quercetin,quercetin,279,Antihypertensives,lisinopril,732,PubMed-NLP
+Allicin+Quercetin,Allicin+Quercetin,quercetin,279,Antihypertensives,amlodipine,59,PubMed-NLP
+Allicin+Quercetin,Allicin+Quercetin,quercetin,279,Antihypertensives,hydrochlorothiazide,604,PubMed-NLP
+Allicin+Quercetin,Allicin+Quercetin,quercetin,279,Antihypertensives,metoprolol,818,PubMed-NLP
+Allicin+Quercetin,Allicin+Quercetin,quercetin,279,Antihypertensives,losartan,745,PubMed-NLP
+Allicin+Quercetin,Allicin+Quercetin,quercetin,279,Warfarin/Clopidogrel,warfarin,1396,DrugBank-named
+Allicin+Quercetin,Allicin+Quercetin,quercetin,279,Warfarin/Clopidogrel,clopidogrel,278,DrugBank-named
+Allicin+Quercetin,Allicin+Quercetin,quercetin,279,Statins,statins,1772,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,Antihypertensives,lisinopril,732,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,Antihypertensives,amlodipine,59,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,Antihypertensives,hydrochlorothiazide,604,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,Antihypertensives,metoprolol,818,LIT-confirmed
+Capsaicin,Capsaicin,capsaicin,80,Antihypertensives,losartan,745,LIT-confirmed
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Insulin/Metformin/Acarbose,insulin,1615,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Insulin/Metformin/Acarbose,metformin,794,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Insulin/Metformin/Acarbose,acarbose,10,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Antihypertensives,lisinopril,732,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Antihypertensives,amlodipine,59,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Antihypertensives,hydrochlorothiazide,604,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Antihypertensives,metoprolol,818,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Antihypertensives,losartan,745,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Warfarin/Clopidogrel,warfarin,1396,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Warfarin/Clopidogrel,clopidogrel,278,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,ACE-I,lisinopril,732,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,ACE-I,enalapril,435,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,ACE-I,ramipril,1092,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,ACE-I,captopril,198,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,ACE-I,perindopril,988,DrugBank-text
+Amylopectin,Amylopectin,amylopectin,1801,Metformin/Acarbose/Insulin,metformin,794,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,Metformin/Acarbose/Insulin,acarbose,10,PubMed-NLP
+Amylopectin,Amylopectin,amylopectin,1801,Metformin/Acarbose/Insulin,insulin,1615,PubMed-NLP
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,Metformin/Acarbose/Insulin,metformin,794,DrugBank-text
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,Metformin/Acarbose/Insulin,acarbose,10,DrugBank-text
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,Metformin/Acarbose/Insulin,insulin,1615,DrugBank-text
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,SGLT2-Inhibitors,empagliflozin,433,LIT-confirmed
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,SGLT2-Inhibitors,dapagliflozin,322,LIT-confirmed
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,SGLT2-Inhibitors,canagliflozin,190,LIT-confirmed
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,BileAcidSequestrants,cholestyramine,245,PubMed-NLP
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,BileAcidSequestrants,colestipol,291,PubMed-NLP
+SCFA-Butter,Butyric Acid / SCFAs (Smen Butter),fat,9,Metformin/Acarbose/Insulin,metformin,794,DrugBank-text
+SCFA-Butter,Butyric Acid / SCFAs (Smen Butter),fat,9,Metformin/Acarbose/Insulin,acarbose,10,DrugBank-text
+SCFA-Butter,Butyric Acid / SCFAs (Smen Butter),fat,9,Metformin/Acarbose/Insulin,insulin,1615,DrugBank-text
+SCFA-Butter,Butyric Acid / SCFAs (Smen Butter),fat,9,Prokinetics,metoclopramide,816,DrugBank-text
+SCFA-Butter,Butyric Acid / SCFAs (Smen Butter),fat,9,Prokinetics,domperidone,398,DrugBank-text
+SCFA-Butter,Butyric Acid / SCFAs (Smen Butter),fat,9,SGLT2-Inhibitors,empagliflozin,433,DrugBank-text
+SCFA-Butter,Butyric Acid / SCFAs (Smen Butter),fat,9,SGLT2-Inhibitors,dapagliflozin,322,DrugBank-text
+SCFA-Butter,Butyric Acid / SCFAs (Smen Butter),fat,9,SGLT2-Inhibitors,canagliflozin,190,DrugBank-text
+SCFA-Butter,Butyric Acid / SCFAs (Smen Butter),fat,9,BileAcidSequestrants,cholestyramine,245,LIT-confirmed
+SCFA-Butter,Butyric Acid / SCFAs (Smen Butter),fat,9,BileAcidSequestrants,colestipol,291,LIT-confirmed
+Amylopectin,Amylopectin,amylopectin,1801,Insulin/Sulfonylureas,insulin,1615,LIT-confirmed
+Amylopectin,Amylopectin,amylopectin,1801,Insulin/Sulfonylureas,ure,1841,LIT-confirmed
+CO2,CO2,UNMATCHED,—,Diuretics/BP-meds,furosemide,563,LIT-confirmed
+CO2,CO2,UNMATCHED,—,Diuretics/BP-meds,hydrochlorothiazide,604,LIT-confirmed
+CO2,CO2,UNMATCHED,—,Diuretics/BP-meds,torasemide,1308,LIT-confirmed
+CO2,CO2,UNMATCHED,—,Diuretics/BP-meds,spironolactone,1201,LIT-confirmed
+CO2,CO2,UNMATCHED,—,Diuretics/BP-meds,lisinopril,732,LIT-confirmed
+CO2,CO2,UNMATCHED,—,Diuretics/BP-meds,amlodipine,59,LIT-confirmed
+CO2,CO2,UNMATCHED,—,Diuretics/BP-meds,metoprolol,818,LIT-confirmed
+CO2,CO2,UNMATCHED,—,Cipro/Levothyroxine,ciprofloxacin,258,LIT-confirmed
+CO2,CO2,UNMATCHED,—,Cipro/Levothyroxine,levothyroxine,722,LIT-confirmed
+HydrationMatrix,HydrationMatrix,water,613,AcidLabileDrugs,omeprazole,924,DrugBank-text
+HydrationMatrix,HydrationMatrix,water,613,AcidLabileDrugs,lansoprazole,690,DrugBank-text
+HydrationMatrix,HydrationMatrix,water,613,AcidLabileDrugs,erythromycin,456,DrugBank-text
+HydrationMatrix,HydrationMatrix,water,613,AcidLabileDrugs,clarithromycin,263,DrugBank-text
+HydrationMatrix,HydrationMatrix,water,613,Diuretics/BP-meds,furosemide,563,DrugBank-text
+HydrationMatrix,HydrationMatrix,water,613,Diuretics/BP-meds,hydrochlorothiazide,604,DrugBank-text
+HydrationMatrix,HydrationMatrix,water,613,Diuretics/BP-meds,torasemide,1308,DrugBank-text
+HydrationMatrix,HydrationMatrix,water,613,Diuretics/BP-meds,spironolactone,1201,DrugBank-text
+HydrationMatrix,HydrationMatrix,water,613,Diuretics/BP-meds,lisinopril,732,DrugBank-text
+HydrationMatrix,HydrationMatrix,water,613,Diuretics/BP-meds,amlodipine,59,DrugBank-text
+HydrationMatrix,HydrationMatrix,water,613,Diuretics/BP-meds,metoprolol,818,DrugBank-text
+HydrationMatrix,HydrationMatrix,water,613,Cipro/Levothyroxine,ciprofloxacin,258,DrugBank-text
+HydrationMatrix,HydrationMatrix,water,613,Cipro/Levothyroxine,levothyroxine,722,DrugBank-text
+Na+,Na+,sodium,25,AcidLabileDrugs,omeprazole,924,DrugBank-text
+Na+,Na+,sodium,25,AcidLabileDrugs,lansoprazole,690,DrugBank-text
+Na+,Na+,sodium,25,AcidLabileDrugs,erythromycin,456,DrugBank-text
+Na+,Na+,sodium,25,AcidLabileDrugs,clarithromycin,263,DrugBank-text
+Na+,Na+,sodium,25,Diuretics/BP-meds,furosemide,563,LIT-confirmed
+Na+,Na+,sodium,25,Diuretics/BP-meds,hydrochlorothiazide,604,LIT-confirmed
+Na+,Na+,sodium,25,Diuretics/BP-meds,torasemide,1308,LIT-confirmed
+Na+,Na+,sodium,25,Diuretics/BP-meds,spironolactone,1201,LIT-confirmed
+Na+,Na+,sodium,25,Diuretics/BP-meds,lisinopril,732,LIT-confirmed
+Na+,Na+,sodium,25,Diuretics/BP-meds,amlodipine,59,LIT-confirmed
+Na+,Na+,sodium,25,Diuretics/BP-meds,metoprolol,818,LIT-confirmed
+PhyticAcid-REDUCED,Phytic Acid (Reduced — Fermented),phytic acid,762,Diuretics/BP-meds,furosemide,563,LIT-confirmed
+PhyticAcid-REDUCED,Phytic Acid (Reduced — Fermented),phytic acid,762,Diuretics/BP-meds,hydrochlorothiazide,604,LIT-confirmed
+PhyticAcid-REDUCED,Phytic Acid (Reduced — Fermented),phytic acid,762,Diuretics/BP-meds,torasemide,1308,LIT-confirmed
+PhyticAcid-REDUCED,Phytic Acid (Reduced — Fermented),phytic acid,762,Diuretics/BP-meds,spironolactone,1201,LIT-confirmed
+PhyticAcid-REDUCED,Phytic Acid (Reduced — Fermented),phytic acid,762,Diuretics/BP-meds,lisinopril,732,LIT-confirmed
+PhyticAcid-REDUCED,Phytic Acid (Reduced — Fermented),phytic acid,762,Diuretics/BP-meds,amlodipine,59,LIT-confirmed
+PhyticAcid-REDUCED,Phytic Acid (Reduced — Fermented),phytic acid,762,Diuretics/BP-meds,metoprolol,818,LIT-confirmed
+PhyticAcid-REDUCED,Phytic Acid (Reduced — Fermented),phytic acid,762,Cipro/Levothyroxine,ciprofloxacin,258,LIT-confirmed
+PhyticAcid-REDUCED,Phytic Acid (Reduced — Fermented),phytic acid,762,Cipro/Levothyroxine,levothyroxine,722,LIT-confirmed
+AmylopectinLipidEncapsulated,Amylopectin + Lipid (Trida + Smen),amylopectin,1801,Metformin/Insulin,metformin,794,PubMed-NLP
+AmylopectinLipidEncapsulated,Amylopectin + Lipid (Trida + Smen),amylopectin,1801,Metformin/Insulin,insulin,1615,PubMed-NLP
+AmylopectinLipidEncapsulated,Amylopectin + Lipid (Trida + Smen),amylopectin,1801,Statins/Griseofulvin/VitD/Cyclosporine,statins,1772,PubMed-NLP
+AmylopectinLipidEncapsulated,Amylopectin + Lipid (Trida + Smen),amylopectin,1801,Statins/Griseofulvin/VitD/Cyclosporine,griseofulvin,596,PubMed-NLP
+AmylopectinLipidEncapsulated,Amylopectin + Lipid (Trida + Smen),amylopectin,1801,Statins/Griseofulvin/VitD/Cyclosporine,cyclosporine,306,PubMed-NLP
+AmylopectinLipidEncapsulated,Amylopectin + Lipid (Trida + Smen),amylopectin,1801,Statins/Griseofulvin/VitD/Cyclosporine,simvastatin,1174,PubMed-NLP
+AmylopectinLipidEncapsulated,Amylopectin + Lipid (Trida + Smen),amylopectin,1801,Statins/Griseofulvin/VitD/Cyclosporine,fe,1445,PubMed-NLP
+AmylopectinLipidEncapsulated,Amylopectin + Lipid (Trida + Smen),amylopectin,1801,AllOralMeds,metformin,794,LIT-confirmed
+AmylopectinLipidEncapsulated,Amylopectin + Lipid (Trida + Smen),amylopectin,1801,AllOralMeds,levothyroxine,722,LIT-confirmed
+AmylopectinLipidEncapsulated,Amylopectin + Lipid (Trida + Smen),amylopectin,1801,AllOralMeds,warfarin,1396,LIT-confirmed
+AmylopectinLipidEncapsulated,Amylopectin + Lipid (Trida + Smen),amylopectin,1801,AllOralMeds,ciprofloxacin,258,LIT-confirmed
+DenseMatrix,DenseMatrix,starch,831,Metformin/Insulin,metformin,794,DrugBank-text
+DenseMatrix,DenseMatrix,starch,831,Metformin/Insulin,insulin,1615,DrugBank-text
+DenseMatrix,DenseMatrix,starch,831,Statins/Griseofulvin/VitD/Cyclosporine,statins,1772,DrugBank-text
+DenseMatrix,DenseMatrix,starch,831,Statins/Griseofulvin/VitD/Cyclosporine,griseofulvin,596,DrugBank-text
+DenseMatrix,DenseMatrix,starch,831,Statins/Griseofulvin/VitD/Cyclosporine,cyclosporine,306,DrugBank-text
+DenseMatrix,DenseMatrix,starch,831,Statins/Griseofulvin/VitD/Cyclosporine,simvastatin,1174,DrugBank-text
+DenseMatrix,DenseMatrix,starch,831,Statins/Griseofulvin/VitD/Cyclosporine,fe,1445,DrugBank-text
+DenseMatrix,DenseMatrix,starch,831,AllOralMeds,metformin,794,DrugBank-text
+DenseMatrix,DenseMatrix,starch,831,AllOralMeds,levothyroxine,722,DrugBank-text
+DenseMatrix,DenseMatrix,starch,831,AllOralMeds,warfarin,1396,DrugBank-text
+DenseMatrix,DenseMatrix,starch,831,AllOralMeds,ciprofloxacin,258,DrugBank-text
+MaillardAGEs,Maillard / AGEs,UNMATCHED,—,Metformin/Insulin,metformin,794,PubMed-NLP
+MaillardAGEs,Maillard / AGEs,UNMATCHED,—,Metformin/Insulin,insulin,1615,PubMed-NLP
+DenseAmylopectin,Amylopectin (Trida Semolina Pasta),amylopectin,1801,Metformin/Insulin,metformin,794,PubMed-NLP
+DenseAmylopectin,Amylopectin (Trida Semolina Pasta),amylopectin,1801,Metformin/Insulin,insulin,1615,PubMed-NLP
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Metformin/Insulin,metformin,794,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Metformin/Insulin,insulin,1615,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Diuretics/ACE-I,furosemide,563,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Diuretics/ACE-I,hydrochlorothiazide,604,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Diuretics/ACE-I,torasemide,1308,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Diuretics/ACE-I,spironolactone,1201,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Diuretics/ACE-I,lisinopril,732,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Diuretics/ACE-I,enalapril,435,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Diuretics/ACE-I,ramipril,1092,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Diuretics/ACE-I,captopril,198,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Diuretics/ACE-I,perindopril,988,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Antifungals/Prokinetics,al,1455,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Antifungals/Prokinetics,metoclopramide,816,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Antifungals/Prokinetics,domperidone,398,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Antifungals/Prokinetics,ketoconazole,678,DrugBank-text
+Triglycerides,Triglycerides (Dietary Fat),fat,9,Antifungals/Prokinetics,itraconazole,669,DrugBank-text
+Na+,Na+,sodium,25,Diuretics/ACE-I,furosemide,563,LIT-confirmed
+Na+,Na+,sodium,25,Diuretics/ACE-I,hydrochlorothiazide,604,LIT-confirmed
+Na+,Na+,sodium,25,Diuretics/ACE-I,torasemide,1308,LIT-confirmed
+Na+,Na+,sodium,25,Diuretics/ACE-I,spironolactone,1201,LIT-confirmed
+Na+,Na+,sodium,25,Diuretics/ACE-I,lisinopril,732,LIT-confirmed
+Na+,Na+,sodium,25,Diuretics/ACE-I,enalapril,435,LIT-confirmed
+Na+,Na+,sodium,25,Diuretics/ACE-I,ramipril,1092,LIT-confirmed
+Na+,Na+,sodium,25,Diuretics/ACE-I,captopril,198,LIT-confirmed
+Na+,Na+,sodium,25,Diuretics/ACE-I,perindopril,988,LIT-confirmed
+K+,Potassium,potassium,22,ACE-I/K-Sparing-Diuretics,lisinopril,732,LIT-confirmed
+K+,Potassium,potassium,22,ACE-I/K-Sparing-Diuretics,enalapril,435,LIT-confirmed
+K+,Potassium,potassium,22,ACE-I/K-Sparing-Diuretics,ramipril,1092,LIT-confirmed
+K+,Potassium,potassium,22,ACE-I/K-Sparing-Diuretics,captopril,198,LIT-confirmed
+K+,Potassium,potassium,22,ACE-I/K-Sparing-Diuretics,perindopril,988,LIT-confirmed
+K+,Potassium,potassium,22,ACE-I/K-Sparing-Diuretics,t,1824,LIT-confirmed
+K+,Potassium,potassium,22,ACE-I/K-Sparing-Diuretics,spironolactone,1201,LIT-confirmed
+K+,Potassium,potassium,22,ACE-I/K-Sparing-Diuretics,triamterene,1321,LIT-confirmed
+K+,Potassium,potassium,22,Codeine/Tamoxifen,codeine,287,PubMed-NLP
+K+,Potassium,potassium,22,Codeine/Tamoxifen,tamoxifen,1230,PubMed-NLP
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,ACE-I/K-Sparing-Diuretics,lisinopril,732,DrugBank-text
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,ACE-I/K-Sparing-Diuretics,enalapril,435,DrugBank-text
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,ACE-I/K-Sparing-Diuretics,ramipril,1092,DrugBank-text
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,ACE-I/K-Sparing-Diuretics,captopril,198,DrugBank-text
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,ACE-I/K-Sparing-Diuretics,perindopril,988,DrugBank-text
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,ACE-I/K-Sparing-Diuretics,t,1824,DrugBank-text
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,ACE-I/K-Sparing-Diuretics,spironolactone,1201,DrugBank-text
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,ACE-I/K-Sparing-Diuretics,triamterene,1321,DrugBank-text
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,Statins/Antipsychotics/VitD,statins,1772,LIT-confirmed
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,Statins/Antipsychotics/VitD,t,1824,LIT-confirmed
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,Statins/Antipsychotics/VitD,simvastatin,1174,LIT-confirmed
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,Statins/Antipsychotics/VitD,haloperidol,601,LIT-confirmed
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,Statins/Antipsychotics/VitD,fe,1445,LIT-confirmed
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,Warfarin,warfarin,1396,LIT-confirmed
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,Aspirin/Clopidogrel,aspirin,1469,LIT-confirmed
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,Aspirin/Clopidogrel,clopidogrel,278,LIT-confirmed
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,Codeine/Tamoxifen,codeine,287,DrugBank-text
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,Codeine/Tamoxifen,tamoxifen,1230,DrugBank-text
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,Benzodiazepines,diazepam,363,DrugBank-text
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,Benzodiazepines,alprazolam,42,DrugBank-text
+TripleLipid,High-Fat Meal — Saturated Fats + Oleic Acid + Omega-3 (Triple Lipid),fat,9,Benzodiazepines,lorazepam,742,DrugBank-text
+Omega3+Lignans,Omega3+Lignans,fat,9,Warfarin,warfarin,1396,LIT-confirmed
+Omega3+Lignans,Omega3+Lignans,fat,9,Aspirin/Clopidogrel,aspirin,1469,LIT-confirmed
+Omega3+Lignans,Omega3+Lignans,fat,9,Aspirin/Clopidogrel,clopidogrel,278,LIT-confirmed
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,Sildenafil/Nitrates,sildenafil,1168,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,Sildenafil/Nitrates,t,1824,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,Sildenafil/Nitrates,isosorbide mononitrate,665,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,Sildenafil/Nitrates,nitroglycerin,900,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,Insulin/Metformin/SGLT2,insulin,1615,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,Insulin/Metformin/SGLT2,metformin,794,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,Insulin/Metformin/SGLT2,empagliflozin,433,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,Insulin/Metformin/SGLT2,dapagliflozin,322,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,Insulin/Metformin/SGLT2,canagliflozin,190,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,ACE-I/K-SpDiuretics,lisinopril,732,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,ACE-I/K-SpDiuretics,enalapril,435,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,ACE-I/K-SpDiuretics,ramipril,1092,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,ACE-I/K-SpDiuretics,captopril,198,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,ACE-I/K-SpDiuretics,perindopril,988,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,ACE-I/K-SpDiuretics,spironolactone,1201,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,ACE-I/K-SpDiuretics,amiloride,50,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,ACE-I/K-SpDiuretics,triamterene,1321,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,CyclospIsotrRetinStatins,cyclosporine,306,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,CyclospIsotrRetinStatins,isotretinoin,666,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,CyclospIsotrRetinStatins,simvastatin,1174,PubMed-NLP
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,SSRIs/MAOIs,phenelzine,994,DrugBank-text
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,SSRIs/MAOIs,tranylcypromine,1316,DrugBank-text
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,SSRIs/MAOIs,isocarboxazid,662,DrugBank-text
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,SSRIs/MAOIs,selegiline,1158,DrugBank-text
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,SSRIs/MAOIs,fluoxetine,541,DrugBank-text
+LArginine+VitE,L-Arginine + Vitamin E (Almonds),arginine,512,SSRIs/MAOIs,sertraline,1166,DrugBank-text
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,Insulin/Metformin/SGLT2,insulin,1615,DrugBank-text
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,Insulin/Metformin/SGLT2,metformin,794,DrugBank-text
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,Insulin/Metformin/SGLT2,empagliflozin,433,DrugBank-text
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,Insulin/Metformin/SGLT2,dapagliflozin,322,DrugBank-text
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,Insulin/Metformin/SGLT2,canagliflozin,190,DrugBank-text
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,CyclospIsotrRetinStatins,cyclosporine,306,PubMed-NLP
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,CyclospIsotrRetinStatins,isotretinoin,666,PubMed-NLP
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,CyclospIsotrRetinStatins,simvastatin,1174,PubMed-NLP
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,SSRIs/MAOIs,phenelzine,994,DrugBank-text
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,SSRIs/MAOIs,tranylcypromine,1316,DrugBank-text
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,SSRIs/MAOIs,isocarboxazid,662,DrugBank-text
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,SSRIs/MAOIs,selegiline,1158,DrugBank-text
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,SSRIs/MAOIs,fluoxetine,541,DrugBank-text
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,SSRIs/MAOIs,sertraline,1166,DrugBank-text
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,Benzodiazepines,diazepam,363,PubMed-NLP
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,Benzodiazepines,alprazolam,42,PubMed-NLP
+Fructose+Glucose,Sucrose / Glucose,d-fructose,514,Benzodiazepines,lorazepam,742,PubMed-NLP
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,Sildenafil/Nitrates,sildenafil,1168,LIT-confirmed
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,Sildenafil/Nitrates,t,1824,LIT-confirmed
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,Sildenafil/Nitrates,isosorbide mononitrate,665,LIT-confirmed
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,Sildenafil/Nitrates,nitroglycerin,900,LIT-confirmed
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,Insulin/Metformin/SGLT2,insulin,1615,PubMed-NLP
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,Insulin/Metformin/SGLT2,metformin,794,PubMed-NLP
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,Insulin/Metformin/SGLT2,empagliflozin,433,PubMed-NLP
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,Insulin/Metformin/SGLT2,dapagliflozin,322,PubMed-NLP
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,Insulin/Metformin/SGLT2,canagliflozin,190,PubMed-NLP
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,ACE-I/K-SpDiuretics,lisinopril,732,LIT-confirmed
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,ACE-I/K-SpDiuretics,enalapril,435,LIT-confirmed
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,ACE-I/K-SpDiuretics,ramipril,1092,LIT-confirmed
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,ACE-I/K-SpDiuretics,captopril,198,LIT-confirmed
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,ACE-I/K-SpDiuretics,perindopril,988,LIT-confirmed
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,ACE-I/K-SpDiuretics,spironolactone,1201,LIT-confirmed
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,ACE-I/K-SpDiuretics,amiloride,50,LIT-confirmed
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,ACE-I/K-SpDiuretics,triamterene,1321,LIT-confirmed
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,SSRIs/MAOIs,phenelzine,994,DrugBank-text
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,SSRIs/MAOIs,tranylcypromine,1316,DrugBank-text
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,SSRIs/MAOIs,isocarboxazid,662,DrugBank-text
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,SSRIs/MAOIs,selegiline,1158,DrugBank-text
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,SSRIs/MAOIs,fluoxetine,541,DrugBank-text
+K++Sorbitol,Potassium + Sorbitol (Almonds),potassium,22,SSRIs/MAOIs,sertraline,1166,DrugBank-text
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,Sildenafil/Nitrates,sildenafil,1168,LIT-confirmed
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,Sildenafil/Nitrates,t,1824,LIT-confirmed
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,Sildenafil/Nitrates,isosorbide mononitrate,665,LIT-confirmed
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,Sildenafil/Nitrates,nitroglycerin,900,LIT-confirmed
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,Insulin/Metformin/SGLT2,insulin,1615,PubMed-NLP
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,Insulin/Metformin/SGLT2,metformin,794,PubMed-NLP
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,Insulin/Metformin/SGLT2,empagliflozin,433,PubMed-NLP
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,Insulin/Metformin/SGLT2,dapagliflozin,322,PubMed-NLP
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,Insulin/Metformin/SGLT2,canagliflozin,190,PubMed-NLP
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,ACE-I/K-SpDiuretics,lisinopril,732,LIT-confirmed
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,ACE-I/K-SpDiuretics,enalapril,435,LIT-confirmed
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,ACE-I/K-SpDiuretics,ramipril,1092,LIT-confirmed
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,ACE-I/K-SpDiuretics,captopril,198,LIT-confirmed
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,ACE-I/K-SpDiuretics,perindopril,988,LIT-confirmed
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,ACE-I/K-SpDiuretics,spironolactone,1201,LIT-confirmed
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,ACE-I/K-SpDiuretics,amiloride,50,LIT-confirmed
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,ACE-I/K-SpDiuretics,triamterene,1321,LIT-confirmed
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,CyclospIsotrRetinStatins,cyclosporine,306,LIT-confirmed
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,CyclospIsotrRetinStatins,isotretinoin,666,LIT-confirmed
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,CyclospIsotrRetinStatins,simvastatin,1174,LIT-confirmed
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,SSRIs/MAOIs,phenelzine,994,DrugBank-text
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,SSRIs/MAOIs,tranylcypromine,1316,DrugBank-text
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,SSRIs/MAOIs,isocarboxazid,662,DrugBank-text
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,SSRIs/MAOIs,selegiline,1158,DrugBank-text
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,SSRIs/MAOIs,fluoxetine,541,DrugBank-text
+DoubleFriedLecithin,Double-Fried Lecithin (Almond Paste),soy lecithin,189,SSRIs/MAOIs,sertraline,1166,DrugBank-text
+Crocin+Safranal,Crocin + Safranal (Saffron),crocin,454,ACE-I/K-SpDiuretics,lisinopril,732,PubMed-NLP
+Crocin+Safranal,Crocin + Safranal (Saffron),crocin,454,ACE-I/K-SpDiuretics,enalapril,435,PubMed-NLP
+Crocin+Safranal,Crocin + Safranal (Saffron),crocin,454,ACE-I/K-SpDiuretics,ramipril,1092,PubMed-NLP
+Crocin+Safranal,Crocin + Safranal (Saffron),crocin,454,ACE-I/K-SpDiuretics,captopril,198,PubMed-NLP
+Crocin+Safranal,Crocin + Safranal (Saffron),crocin,454,ACE-I/K-SpDiuretics,perindopril,988,PubMed-NLP
+Crocin+Safranal,Crocin + Safranal (Saffron),crocin,454,ACE-I/K-SpDiuretics,spironolactone,1201,PubMed-NLP
+Crocin+Safranal,Crocin + Safranal (Saffron),crocin,454,ACE-I/K-SpDiuretics,amiloride,50,PubMed-NLP
+Crocin+Safranal,Crocin + Safranal (Saffron),crocin,454,ACE-I/K-SpDiuretics,triamterene,1321,PubMed-NLP
+Linalool+Geraniol,Linalool + Geraniol (Orange Blossom / Rose Water),linalool,194,Insulin/Metformin/SGLT2,insulin,1615,PubMed-NLP
+Linalool+Geraniol,Linalool + Geraniol (Orange Blossom / Rose Water),linalool,194,Insulin/Metformin/SGLT2,metformin,794,PubMed-NLP
+Linalool+Geraniol,Linalool + Geraniol (Orange Blossom / Rose Water),linalool,194,Insulin/Metformin/SGLT2,empagliflozin,433,PubMed-NLP
+Linalool+Geraniol,Linalool + Geraniol (Orange Blossom / Rose Water),linalool,194,Insulin/Metformin/SGLT2,dapagliflozin,322,PubMed-NLP
+Linalool+Geraniol,Linalool + Geraniol (Orange Blossom / Rose Water),linalool,194,Insulin/Metformin/SGLT2,canagliflozin,190,PubMed-NLP
+Resveratrol+PACs,Resveratrol+PACs,UNMATCHED,—,Aspirin/Clopidogrel/NSAIDs,aspirin,1469,PubMed-NLP
+Resveratrol+PACs,Resveratrol+PACs,UNMATCHED,—,Aspirin/Clopidogrel/NSAIDs,clopidogrel,278,PubMed-NLP
+Resveratrol+PACs,Resveratrol+PACs,UNMATCHED,—,Aspirin/Clopidogrel/NSAIDs,nsaid,1609,PubMed-NLP
+Resveratrol+PACs,Resveratrol+PACs,UNMATCHED,—,Aspirin/Clopidogrel/NSAIDs,ibuprofen,618,PubMed-NLP
+Resveratrol+PACs,Resveratrol+PACs,UNMATCHED,—,Aspirin/Clopidogrel/NSAIDs,naproxen,872,PubMed-NLP
+Resveratrol+PACs,Resveratrol+PACs,UNMATCHED,—,Cyclosporine/Isotretinoin/Statins,cyclosporine,306,DrugBank-named
+Resveratrol+PACs,Resveratrol+PACs,UNMATCHED,—,Cyclosporine/Isotretinoin/Statins,isotretinoin,666,DrugBank-named
+Resveratrol+PACs,Resveratrol+PACs,UNMATCHED,—,Cyclosporine/Isotretinoin/Statins,statins,1772,DrugBank-named
+Resveratrol+PACs,Resveratrol+PACs,UNMATCHED,—,Insulin/Metformin/SGLT2,insulin,1615,PubMed-NLP
+Resveratrol+PACs,Resveratrol+PACs,UNMATCHED,—,Insulin/Metformin/SGLT2,metformin,794,PubMed-NLP
+Resveratrol+PACs,Resveratrol+PACs,UNMATCHED,—,Insulin/Metformin/SGLT2,empagliflozin,433,PubMed-NLP
+Resveratrol+PACs,Resveratrol+PACs,UNMATCHED,—,Insulin/Metformin/SGLT2,dapagliflozin,322,PubMed-NLP
+Resveratrol+PACs,Resveratrol+PACs,UNMATCHED,—,Insulin/Metformin/SGLT2,canagliflozin,190,PubMed-NLP
+Benzaldehyde,Benzaldehyde,benzaldehyde,1399,Aspirin/Clopidogrel/NSAIDs,aspirin,1469,PubMed-NLP
+Benzaldehyde,Benzaldehyde,benzaldehyde,1399,Aspirin/Clopidogrel/NSAIDs,clopidogrel,278,PubMed-NLP
+Benzaldehyde,Benzaldehyde,benzaldehyde,1399,Aspirin/Clopidogrel/NSAIDs,nsaid,1609,PubMed-NLP
+Benzaldehyde,Benzaldehyde,benzaldehyde,1399,Aspirin/Clopidogrel/NSAIDs,ibuprofen,618,PubMed-NLP
+Benzaldehyde,Benzaldehyde,benzaldehyde,1399,Aspirin/Clopidogrel/NSAIDs,naproxen,872,PubMed-NLP
+Benzaldehyde,Benzaldehyde,benzaldehyde,1399,Cyclosporine/Isotretinoin/Statins,cyclosporine,306,PubMed-NLP
+Benzaldehyde,Benzaldehyde,benzaldehyde,1399,Cyclosporine/Isotretinoin/Statins,isotretinoin,666,PubMed-NLP
+Benzaldehyde,Benzaldehyde,benzaldehyde,1399,Cyclosporine/Isotretinoin/Statins,statins,1772,PubMed-NLP
+Albumin+Choline,Albumin+Choline,choline,579,Cyclosporine/Isotretinoin/Statins,cyclosporine,306,PubMed-NLP
+Albumin+Choline,Albumin+Choline,choline,579,Cyclosporine/Isotretinoin/Statins,isotretinoin,666,PubMed-NLP
+Albumin+Choline,Albumin+Choline,choline,579,Cyclosporine/Isotretinoin/Statins,statins,1772,PubMed-NLP
+Sucrose+Fructose+Glucose,Sucrose+Fructose+Glucose,sucrose,340,Aspirin/Clopidogrel/NSAIDs,aspirin,1469,PubMed-NLP
+Sucrose+Fructose+Glucose,Sucrose+Fructose+Glucose,sucrose,340,Aspirin/Clopidogrel/NSAIDs,clopidogrel,278,PubMed-NLP
+Sucrose+Fructose+Glucose,Sucrose+Fructose+Glucose,sucrose,340,Aspirin/Clopidogrel/NSAIDs,nsaid,1609,PubMed-NLP
+Sucrose+Fructose+Glucose,Sucrose+Fructose+Glucose,sucrose,340,Aspirin/Clopidogrel/NSAIDs,ibuprofen,618,PubMed-NLP
+Sucrose+Fructose+Glucose,Sucrose+Fructose+Glucose,sucrose,340,Aspirin/Clopidogrel/NSAIDs,naproxen,872,PubMed-NLP
+Sucrose+Fructose+Glucose,Sucrose+Fructose+Glucose,sucrose,340,Cyclosporine/Isotretinoin/Statins,cyclosporine,306,DrugBank-named
+Sucrose+Fructose+Glucose,Sucrose+Fructose+Glucose,sucrose,340,Cyclosporine/Isotretinoin/Statins,isotretinoin,666,DrugBank-named
+Sucrose+Fructose+Glucose,Sucrose+Fructose+Glucose,sucrose,340,Cyclosporine/Isotretinoin/Statins,statins,1772,DrugBank-named
+Sucrose+Fructose+Glucose,Sucrose+Fructose+Glucose,sucrose,340,Insulin/Metformin/SGLT2,insulin,1615,DrugBank-text
+Sucrose+Fructose+Glucose,Sucrose+Fructose+Glucose,sucrose,340,Insulin/Metformin/SGLT2,metformin,794,DrugBank-text
+Sucrose+Fructose+Glucose,Sucrose+Fructose+Glucose,sucrose,340,Insulin/Metformin/SGLT2,empagliflozin,433,DrugBank-text
+Sucrose+Fructose+Glucose,Sucrose+Fructose+Glucose,sucrose,340,Insulin/Metformin/SGLT2,dapagliflozin,322,DrugBank-text
+Sucrose+Fructose+Glucose,Sucrose+Fructose+Glucose,sucrose,340,Insulin/Metformin/SGLT2,canagliflozin,190,DrugBank-text
+LipidCoatedStarch,LipidCoatedStarch,"glycerophospholipids, cephalins",666,Metformin/Insulin,metformin,794,DrugBank-text
+LipidCoatedStarch,LipidCoatedStarch,"glycerophospholipids, cephalins",666,Metformin/Insulin,insulin,1615,DrugBank-text
+LipidCoatedStarch,LipidCoatedStarch,"glycerophospholipids, cephalins",666,ACE-I/K-SpDiuretics,lisinopril,732,DrugBank-text
+LipidCoatedStarch,LipidCoatedStarch,"glycerophospholipids, cephalins",666,ACE-I/K-SpDiuretics,enalapril,435,DrugBank-text
+LipidCoatedStarch,LipidCoatedStarch,"glycerophospholipids, cephalins",666,ACE-I/K-SpDiuretics,ramipril,1092,DrugBank-text
+LipidCoatedStarch,LipidCoatedStarch,"glycerophospholipids, cephalins",666,ACE-I/K-SpDiuretics,captopril,198,DrugBank-text
+LipidCoatedStarch,LipidCoatedStarch,"glycerophospholipids, cephalins",666,ACE-I/K-SpDiuretics,perindopril,988,DrugBank-text
+LipidCoatedStarch,LipidCoatedStarch,"glycerophospholipids, cephalins",666,ACE-I/K-SpDiuretics,spironolactone,1201,DrugBank-text
+LipidCoatedStarch,LipidCoatedStarch,"glycerophospholipids, cephalins",666,ACE-I/K-SpDiuretics,amiloride,50,DrugBank-text
+LipidCoatedStarch,LipidCoatedStarch,"glycerophospholipids, cephalins",666,ACE-I/K-SpDiuretics,triamterene,1321,DrugBank-text
+LipidCoatedStarch,LipidCoatedStarch,"glycerophospholipids, cephalins",666,Benzodiazepines,diazepam,363,DrugBank-text
+LipidCoatedStarch,LipidCoatedStarch,"glycerophospholipids, cephalins",666,Benzodiazepines,alprazolam,42,DrugBank-text
+LipidCoatedStarch,LipidCoatedStarch,"glycerophospholipids, cephalins",666,Benzodiazepines,lorazepam,742,DrugBank-text
+LipidCoatedStarch,LipidCoatedStarch,"glycerophospholipids, cephalins",666,AcidLabileDrugs/EntericCoat,omeprazole,924,DrugBank-text
+LipidCoatedStarch,LipidCoatedStarch,"glycerophospholipids, cephalins",666,AcidLabileDrugs/EntericCoat,lansoprazole,690,DrugBank-text
+LipidCoatedStarch,LipidCoatedStarch,"glycerophospholipids, cephalins",666,AcidLabileDrugs/EntericCoat,erythromycin,456,DrugBank-text
+LipidCoatedStarch,LipidCoatedStarch,"glycerophospholipids, cephalins",666,AcidLabileDrugs/EntericCoat,clarithromycin,263,DrugBank-text
+LipidCoatedStarch,LipidCoatedStarch,"glycerophospholipids, cephalins",666,AcidLabileDrugs/EntericCoat,azithromycin,112,DrugBank-text
+K++InsolFiber,Potassium + Insoluble Fiber,fiber,10,Metformin/Insulin,metformin,794,PubMed-NLP
+K++InsolFiber,Potassium + Insoluble Fiber,fiber,10,Metformin/Insulin,insulin,1615,PubMed-NLP
+K++InsolFiber,Potassium + Insoluble Fiber,fiber,10,ACE-I/K-SpDiuretics,lisinopril,732,LIT-confirmed
+K++InsolFiber,Potassium + Insoluble Fiber,fiber,10,ACE-I/K-SpDiuretics,enalapril,435,LIT-confirmed
+K++InsolFiber,Potassium + Insoluble Fiber,fiber,10,ACE-I/K-SpDiuretics,ramipril,1092,LIT-confirmed
+K++InsolFiber,Potassium + Insoluble Fiber,fiber,10,ACE-I/K-SpDiuretics,captopril,198,LIT-confirmed
+K++InsolFiber,Potassium + Insoluble Fiber,fiber,10,ACE-I/K-SpDiuretics,perindopril,988,LIT-confirmed
+K++InsolFiber,Potassium + Insoluble Fiber,fiber,10,ACE-I/K-SpDiuretics,spironolactone,1201,LIT-confirmed
+K++InsolFiber,Potassium + Insoluble Fiber,fiber,10,ACE-I/K-SpDiuretics,amiloride,50,LIT-confirmed
+K++InsolFiber,Potassium + Insoluble Fiber,fiber,10,ACE-I/K-SpDiuretics,triamterene,1321,LIT-confirmed
+K++InsolFiber,Potassium + Insoluble Fiber,fiber,10,Benzodiazepines,diazepam,363,LIT-confirmed
+K++InsolFiber,Potassium + Insoluble Fiber,fiber,10,Benzodiazepines,alprazolam,42,LIT-confirmed
+K++InsolFiber,Potassium + Insoluble Fiber,fiber,10,Benzodiazepines,lorazepam,742,LIT-confirmed
+NaHCO3+CO2,Sodium Bicarbonate + CO₂,sodium,25,Metformin/Insulin,metformin,794,DrugBank-text
+NaHCO3+CO2,Sodium Bicarbonate + CO₂,sodium,25,Metformin/Insulin,insulin,1615,DrugBank-text
+NaHCO3+CO2,Sodium Bicarbonate + CO₂,sodium,25,ACE-I/K-SpDiuretics,lisinopril,732,LIT-confirmed
+NaHCO3+CO2,Sodium Bicarbonate + CO₂,sodium,25,ACE-I/K-SpDiuretics,enalapril,435,LIT-confirmed
+NaHCO3+CO2,Sodium Bicarbonate + CO₂,sodium,25,ACE-I/K-SpDiuretics,ramipril,1092,LIT-confirmed
+NaHCO3+CO2,Sodium Bicarbonate + CO₂,sodium,25,ACE-I/K-SpDiuretics,captopril,198,LIT-confirmed
+NaHCO3+CO2,Sodium Bicarbonate + CO₂,sodium,25,ACE-I/K-SpDiuretics,perindopril,988,LIT-confirmed
+NaHCO3+CO2,Sodium Bicarbonate + CO₂,sodium,25,ACE-I/K-SpDiuretics,spironolactone,1201,LIT-confirmed
+NaHCO3+CO2,Sodium Bicarbonate + CO₂,sodium,25,ACE-I/K-SpDiuretics,amiloride,50,LIT-confirmed
+NaHCO3+CO2,Sodium Bicarbonate + CO₂,sodium,25,ACE-I/K-SpDiuretics,triamterene,1321,LIT-confirmed
+NaHCO3+CO2,Sodium Bicarbonate + CO₂,sodium,25,Benzodiazepines,diazepam,363,DrugBank-text
+NaHCO3+CO2,Sodium Bicarbonate + CO₂,sodium,25,Benzodiazepines,alprazolam,42,DrugBank-text
+NaHCO3+CO2,Sodium Bicarbonate + CO₂,sodium,25,Benzodiazepines,lorazepam,742,DrugBank-text
+NaHCO3+CO2,Sodium Bicarbonate + CO₂,sodium,25,AcidLabileDrugs/EntericCoat,omeprazole,924,DrugBank-text
+NaHCO3+CO2,Sodium Bicarbonate + CO₂,sodium,25,AcidLabileDrugs/EntericCoat,lansoprazole,690,DrugBank-text
+NaHCO3+CO2,Sodium Bicarbonate + CO₂,sodium,25,AcidLabileDrugs/EntericCoat,erythromycin,456,DrugBank-text
+NaHCO3+CO2,Sodium Bicarbonate + CO₂,sodium,25,AcidLabileDrugs/EntericCoat,clarithromycin,263,DrugBank-text
+NaHCO3+CO2,Sodium Bicarbonate + CO₂,sodium,25,AcidLabileDrugs/EntericCoat,azithromycin,112,DrugBank-text
+Pyrodextrins+InsolFiber,Pyrodextrins+InsolFiber,dextrin,1000,NTI-Drugs/Lithium/Digoxin,warfarin,1396,LIT-confirmed
+Pyrodextrins+InsolFiber,Pyrodextrins+InsolFiber,dextrin,1000,NTI-Drugs/Lithium/Digoxin,digoxin,378,LIT-confirmed
+Pyrodextrins+InsolFiber,Pyrodextrins+InsolFiber,dextrin,1000,NTI-Drugs/Lithium/Digoxin,lithium,1475,LIT-confirmed
+Pyrodextrins+InsolFiber,Pyrodextrins+InsolFiber,dextrin,1000,NTI-Drugs/Lithium/Digoxin,levothyroxine,722,LIT-confirmed
+Pyrodextrins+InsolFiber,Pyrodextrins+InsolFiber,dextrin,1000,NTI-Drugs/Lithium/Digoxin,phenytoin,1004,LIT-confirmed
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,Metformin/Insulin/SGLT2,metformin,794,PubMed-NLP
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,Metformin/Insulin/SGLT2,insulin,1615,PubMed-NLP
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,Metformin/Insulin/SGLT2,empagliflozin,433,PubMed-NLP
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,Metformin/Insulin/SGLT2,dapagliflozin,322,PubMed-NLP
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,Metformin/Insulin/SGLT2,canagliflozin,190,PubMed-NLP
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,ACE-I/K-SpDiuretics/CKD,lisinopril,732,LIT-confirmed
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,ACE-I/K-SpDiuretics/CKD,enalapril,435,LIT-confirmed
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,ACE-I/K-SpDiuretics/CKD,ramipril,1092,LIT-confirmed
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,ACE-I/K-SpDiuretics/CKD,captopril,198,LIT-confirmed
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,ACE-I/K-SpDiuretics/CKD,perindopril,988,LIT-confirmed
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,ACE-I/K-SpDiuretics/CKD,spironolactone,1201,LIT-confirmed
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,ACE-I/K-SpDiuretics/CKD,amiloride,50,LIT-confirmed
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,ACE-I/K-SpDiuretics/CKD,triamterene,1321,LIT-confirmed
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,Statins/Cyclosporine/Isotretinoin,statins,1772,DrugBank-named
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,Statins/Cyclosporine/Isotretinoin,cyclosporine,306,DrugBank-named
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,Statins/Cyclosporine/Isotretinoin,isotretinoin,666,DrugBank-named
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,Statins/Cyclosporine/Isotretinoin,simvastatin,1174,DrugBank-named
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,NTI-Drugs/Lithium/Digoxin,warfarin,1396,DrugBank-named
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,NTI-Drugs/Lithium/Digoxin,digoxin,378,DrugBank-named
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,NTI-Drugs/Lithium/Digoxin,lithium,1475,DrugBank-named
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,NTI-Drugs/Lithium/Digoxin,levothyroxine,722,DrugBank-named
+K+_DatePaste1kg,Potassium (Date Paste — High Load),potassium,22,NTI-Drugs/Lithium/Digoxin,phenytoin,1004,DrugBank-named
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,Metformin/Insulin/SGLT2,metformin,794,DrugBank-text
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,Metformin/Insulin/SGLT2,insulin,1615,DrugBank-text
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,Metformin/Insulin/SGLT2,empagliflozin,433,DrugBank-text
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,Metformin/Insulin/SGLT2,dapagliflozin,322,DrugBank-text
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,Metformin/Insulin/SGLT2,canagliflozin,190,DrugBank-text
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,ACE-I/K-SpDiuretics/CKD,lisinopril,732,DrugBank-text
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,ACE-I/K-SpDiuretics/CKD,enalapril,435,DrugBank-text
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,ACE-I/K-SpDiuretics/CKD,ramipril,1092,DrugBank-text
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,ACE-I/K-SpDiuretics/CKD,captopril,198,DrugBank-text
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,ACE-I/K-SpDiuretics/CKD,perindopril,988,DrugBank-text
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,ACE-I/K-SpDiuretics/CKD,spironolactone,1201,DrugBank-text
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,ACE-I/K-SpDiuretics/CKD,amiloride,50,DrugBank-text
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,ACE-I/K-SpDiuretics/CKD,triamterene,1321,DrugBank-text
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,Statins/Cyclosporine/Isotretinoin,statins,1772,LIT-confirmed
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,Statins/Cyclosporine/Isotretinoin,cyclosporine,306,LIT-confirmed
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,Statins/Cyclosporine/Isotretinoin,isotretinoin,666,LIT-confirmed
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,Statins/Cyclosporine/Isotretinoin,simvastatin,1174,LIT-confirmed
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,Orlistat,orlistat,929,LIT-confirmed
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,NTI-Drugs/Lithium/Digoxin,warfarin,1396,DrugBank-text
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,NTI-Drugs/Lithium/Digoxin,digoxin,378,DrugBank-text
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,NTI-Drugs/Lithium/Digoxin,lithium,1475,DrugBank-text
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,NTI-Drugs/Lithium/Digoxin,levothyroxine,722,DrugBank-text
+ButterGrainEncap250g,Butter + Grain Starch,sheabutter,324,NTI-Drugs/Lithium/Digoxin,phenytoin,1004,DrugBank-text
+Honey200g,Honey,honey,177,Metformin/Insulin/SGLT2,metformin,794,LIT-confirmed
+Honey200g,Honey,honey,177,Metformin/Insulin/SGLT2,insulin,1615,LIT-confirmed
+Honey200g,Honey,honey,177,Metformin/Insulin/SGLT2,empagliflozin,433,LIT-confirmed
+Honey200g,Honey,honey,177,Metformin/Insulin/SGLT2,dapagliflozin,322,LIT-confirmed
+Honey200g,Honey,honey,177,Metformin/Insulin/SGLT2,canagliflozin,190,LIT-confirmed
+Honey200g,Honey,honey,177,ACE-I/K-SpDiuretics/CKD,lisinopril,732,DrugBank-text
+Honey200g,Honey,honey,177,ACE-I/K-SpDiuretics/CKD,enalapril,435,DrugBank-text
+Honey200g,Honey,honey,177,ACE-I/K-SpDiuretics/CKD,ramipril,1092,DrugBank-text
+Honey200g,Honey,honey,177,ACE-I/K-SpDiuretics/CKD,captopril,198,DrugBank-text
+Honey200g,Honey,honey,177,ACE-I/K-SpDiuretics/CKD,perindopril,988,DrugBank-text
+Honey200g,Honey,honey,177,ACE-I/K-SpDiuretics/CKD,spironolactone,1201,DrugBank-text
+Honey200g,Honey,honey,177,ACE-I/K-SpDiuretics/CKD,amiloride,50,DrugBank-text
+Honey200g,Honey,honey,177,ACE-I/K-SpDiuretics/CKD,triamterene,1321,DrugBank-text
+Honey200g,Honey,honey,177,Statins/Cyclosporine/Isotretinoin,statins,1772,LIT-confirmed
+Honey200g,Honey,honey,177,Statins/Cyclosporine/Isotretinoin,cyclosporine,306,LIT-confirmed
+Honey200g,Honey,honey,177,Statins/Cyclosporine/Isotretinoin,isotretinoin,666,LIT-confirmed
+Honey200g,Honey,honey,177,Statins/Cyclosporine/Isotretinoin,simvastatin,1174,LIT-confirmed
+Honey200g,Honey,honey,177,Orlistat,orlistat,929,DrugBank-text
+WalnutALA+Ellagitannins,WalnutALA+Ellagitannins,alpha-linolenic acid,1049,Metformin/Insulin/SGLT2,metformin,794,PubMed-NLP
+WalnutALA+Ellagitannins,WalnutALA+Ellagitannins,alpha-linolenic acid,1049,Metformin/Insulin/SGLT2,insulin,1615,PubMed-NLP
+WalnutALA+Ellagitannins,WalnutALA+Ellagitannins,alpha-linolenic acid,1049,Metformin/Insulin/SGLT2,empagliflozin,433,PubMed-NLP
+WalnutALA+Ellagitannins,WalnutALA+Ellagitannins,alpha-linolenic acid,1049,Metformin/Insulin/SGLT2,dapagliflozin,322,PubMed-NLP
+WalnutALA+Ellagitannins,WalnutALA+Ellagitannins,alpha-linolenic acid,1049,Metformin/Insulin/SGLT2,canagliflozin,190,PubMed-NLP
+WalnutALA+Ellagitannins,WalnutALA+Ellagitannins,alpha-linolenic acid,1049,Aspirin/Clopidogrel/Warfarin,aspirin,1469,PubMed-NLP
+WalnutALA+Ellagitannins,WalnutALA+Ellagitannins,alpha-linolenic acid,1049,Aspirin/Clopidogrel/Warfarin,clopidogrel,278,PubMed-NLP
+WalnutALA+Ellagitannins,WalnutALA+Ellagitannins,alpha-linolenic acid,1049,Aspirin/Clopidogrel/Warfarin,warfarin,1396,PubMed-NLP
+WalnutALA+Ellagitannins,WalnutALA+Ellagitannins,alpha-linolenic acid,1049,NTI-Drugs/Lithium/Digoxin,warfarin,1396,LIT-confirmed
+WalnutALA+Ellagitannins,WalnutALA+Ellagitannins,alpha-linolenic acid,1049,NTI-Drugs/Lithium/Digoxin,digoxin,378,LIT-confirmed
+WalnutALA+Ellagitannins,WalnutALA+Ellagitannins,alpha-linolenic acid,1049,NTI-Drugs/Lithium/Digoxin,lithium,1475,LIT-confirmed
+WalnutALA+Ellagitannins,WalnutALA+Ellagitannins,alpha-linolenic acid,1049,NTI-Drugs/Lithium/Digoxin,levothyroxine,722,LIT-confirmed
+WalnutALA+Ellagitannins,WalnutALA+Ellagitannins,alpha-linolenic acid,1049,NTI-Drugs/Lithium/Digoxin,phenytoin,1004,LIT-confirmed
+TripleSmen,High-Fat Meal — Saturated Fats + Butyric Acid (Triple Smen),fat,9,Statins/Cyclosporine/VitD3/Amiodarone,statins,1772,LIT-confirmed
+TripleSmen,High-Fat Meal — Saturated Fats + Butyric Acid (Triple Smen),fat,9,Statins/Cyclosporine/VitD3/Amiodarone,cyclosporine,306,LIT-confirmed
+TripleSmen,High-Fat Meal — Saturated Fats + Butyric Acid (Triple Smen),fat,9,Statins/Cyclosporine/VitD3/Amiodarone,t,1824,LIT-confirmed
+TripleSmen,High-Fat Meal — Saturated Fats + Butyric Acid (Triple Smen),fat,9,Statins/Cyclosporine/VitD3/Amiodarone,amiodarone,56,LIT-confirmed
+TripleSmen,High-Fat Meal — Saturated Fats + Butyric Acid (Triple Smen),fat,9,Orlistat,orlistat,929,LIT-confirmed
+FructoseGlucose+Linalool,FructoseGlucose+Linalool,linalool,194,Metformin/Insulin/SGLT2,metformin,794,DrugBank-text
+FructoseGlucose+Linalool,FructoseGlucose+Linalool,linalool,194,Metformin/Insulin/SGLT2,insulin,1615,DrugBank-text
+FructoseGlucose+Linalool,FructoseGlucose+Linalool,linalool,194,Metformin/Insulin/SGLT2,empagliflozin,433,DrugBank-text
+FructoseGlucose+Linalool,FructoseGlucose+Linalool,linalool,194,Metformin/Insulin/SGLT2,dapagliflozin,322,DrugBank-text
+FructoseGlucose+Linalool,FructoseGlucose+Linalool,linalool,194,Metformin/Insulin/SGLT2,canagliflozin,190,DrugBank-text
+FructoseGlucose+Linalool,FructoseGlucose+Linalool,linalool,194,Aspirin/Clopidogrel/Warfarin,aspirin,1469,DrugBank-named
+FructoseGlucose+Linalool,FructoseGlucose+Linalool,linalool,194,Aspirin/Clopidogrel/Warfarin,clopidogrel,278,DrugBank-named
+FructoseGlucose+Linalool,FructoseGlucose+Linalool,linalool,194,Aspirin/Clopidogrel/Warfarin,warfarin,1396,DrugBank-named
+FructoseGlucose+Linalool,FructoseGlucose+Linalool,linalool,194,Statins/Cyclosporine/VitD3/Amiodarone,statins,1772,DrugBank-named
+FructoseGlucose+Linalool,FructoseGlucose+Linalool,linalool,194,Statins/Cyclosporine/VitD3/Amiodarone,cyclosporine,306,DrugBank-named
+FructoseGlucose+Linalool,FructoseGlucose+Linalool,linalool,194,Statins/Cyclosporine/VitD3/Amiodarone,t,1824,DrugBank-named
+FructoseGlucose+Linalool,FructoseGlucose+Linalool,linalool,194,Statins/Cyclosporine/VitD3/Amiodarone,amiodarone,56,DrugBank-named
+FructoseGlucose+Linalool,FructoseGlucose+Linalool,linalool,194,Benzodiazepines,diazepam,363,PubMed-NLP
+FructoseGlucose+Linalool,FructoseGlucose+Linalool,linalool,194,Benzodiazepines,alprazolam,42,PubMed-NLP
+FructoseGlucose+Linalool,FructoseGlucose+Linalool,linalool,194,Benzodiazepines,lorazepam,742,PubMed-NLP
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,Statins/Cyclosporine/Griseofulvin/Isotretinoi,statins,1772,LIT-confirmed
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,Statins/Cyclosporine/Griseofulvin/Isotretinoi,cyclosporine,306,LIT-confirmed
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,Statins/Cyclosporine/Griseofulvin/Isotretinoi,griseofulvin,596,LIT-confirmed
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,Statins/Cyclosporine/Griseofulvin/Isotretinoi,isotretinoin,666,LIT-confirmed
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,Insulin/Metformin/SGLT2,insulin,1615,DrugBank-text
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,Insulin/Metformin/SGLT2,metformin,794,DrugBank-text
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,Insulin/Metformin/SGLT2,empagliflozin,433,DrugBank-text
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,Insulin/Metformin/SGLT2,dapagliflozin,322,DrugBank-text
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,Insulin/Metformin/SGLT2,canagliflozin,190,DrugBank-text
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,Paracetamol/Statins,paracetamol,1923,LIT-confirmed
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,Paracetamol/Statins,statins,1772,LIT-confirmed
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,Paracetamol/Statins,atorvastatin,96,LIT-confirmed
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,Paracetamol/Statins,simvastatin,1174,LIT-confirmed
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,HRT/Tamoxifen/Warfarin,estradiol,1797,DrugBank-text
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,HRT/Tamoxifen/Warfarin,progesterone,1061,DrugBank-text
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,HRT/Tamoxifen/Warfarin,conjugated estrogens,292,DrugBank-text
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,HRT/Tamoxifen/Warfarin,tamoxifen,1230,DrugBank-text
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,HRT/Tamoxifen/Warfarin,warfarin,1396,DrugBank-text
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,Benzodiazepines,diazepam,363,DrugBank-text
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,Benzodiazepines,alprazolam,42,DrugBank-text
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,Benzodiazepines,lorazepam,742,DrugBank-text
+DoubleLipid,High-Fat Meal — Saturated Fats + Butyric Acid (Double Lipid),fat,9,Orlistat,orlistat,929,LIT-confirmed
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,Statins/Cyclosporine/Griseofulvin/Isotretinoi,statins,1772,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,Statins/Cyclosporine/Griseofulvin/Isotretinoi,cyclosporine,306,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,Statins/Cyclosporine/Griseofulvin/Isotretinoi,griseofulvin,596,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,Statins/Cyclosporine/Griseofulvin/Isotretinoi,isotretinoin,666,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,Insulin/Metformin/SGLT2,insulin,1615,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,Insulin/Metformin/SGLT2,metformin,794,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,Insulin/Metformin/SGLT2,empagliflozin,433,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,Insulin/Metformin/SGLT2,dapagliflozin,322,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,Insulin/Metformin/SGLT2,canagliflozin,190,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,Paracetamol/Statins,paracetamol,1923,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,Paracetamol/Statins,statins,1772,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,Paracetamol/Statins,atorvastatin,96,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,Paracetamol/Statins,simvastatin,1174,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,HRT/Tamoxifen/Warfarin,estradiol,1797,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,HRT/Tamoxifen/Warfarin,progesterone,1061,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,HRT/Tamoxifen/Warfarin,conjugated estrogens,292,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,HRT/Tamoxifen/Warfarin,tamoxifen,1230,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,HRT/Tamoxifen/Warfarin,warfarin,1396,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,Benzodiazepines,diazepam,363,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,Benzodiazepines,alprazolam,42,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,Benzodiazepines,lorazepam,742,DrugBank-text
+BraidedLattice+3mm,BraidedLattice+3mm,starch,831,Orlistat,orlistat,929,DrugBank-text
+MaillardHoneySynergy,Maillard + Honey Synergy,honey,177,Statins/Cyclosporine/Griseofulvin/Isotretinoi,statins,1772,LIT-confirmed
+MaillardHoneySynergy,Maillard + Honey Synergy,honey,177,Statins/Cyclosporine/Griseofulvin/Isotretinoi,cyclosporine,306,LIT-confirmed
+MaillardHoneySynergy,Maillard + Honey Synergy,honey,177,Statins/Cyclosporine/Griseofulvin/Isotretinoi,griseofulvin,596,LIT-confirmed
+MaillardHoneySynergy,Maillard + Honey Synergy,honey,177,Statins/Cyclosporine/Griseofulvin/Isotretinoi,isotretinoin,666,LIT-confirmed
+MaillardHoneySynergy,Maillard + Honey Synergy,honey,177,Insulin/Metformin/SGLT2,insulin,1615,LIT-confirmed
+MaillardHoneySynergy,Maillard + Honey Synergy,honey,177,Insulin/Metformin/SGLT2,metformin,794,LIT-confirmed
+MaillardHoneySynergy,Maillard + Honey Synergy,honey,177,Insulin/Metformin/SGLT2,empagliflozin,433,LIT-confirmed
+MaillardHoneySynergy,Maillard + Honey Synergy,honey,177,Insulin/Metformin/SGLT2,dapagliflozin,322,LIT-confirmed
+MaillardHoneySynergy,Maillard + Honey Synergy,honey,177,Insulin/Metformin/SGLT2,canagliflozin,190,LIT-confirmed
+MaillardHoneySynergy,Maillard + Honey Synergy,honey,177,Paracetamol/Statins,paracetamol,1923,LIT-confirmed
+MaillardHoneySynergy,Maillard + Honey Synergy,honey,177,Paracetamol/Statins,statins,1772,LIT-confirmed
+MaillardHoneySynergy,Maillard + Honey Synergy,honey,177,Paracetamol/Statins,atorvastatin,96,LIT-confirmed
+MaillardHoneySynergy,Maillard + Honey Synergy,honey,177,Paracetamol/Statins,simvastatin,1174,LIT-confirmed
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Statins/Cyclosporine/Griseofulvin/Isotretinoi,statins,1772,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Statins/Cyclosporine/Griseofulvin/Isotretinoi,cyclosporine,306,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Statins/Cyclosporine/Griseofulvin/Isotretinoi,griseofulvin,596,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Statins/Cyclosporine/Griseofulvin/Isotretinoi,isotretinoin,666,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Insulin/Metformin/SGLT2,insulin,1615,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Insulin/Metformin/SGLT2,metformin,794,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Insulin/Metformin/SGLT2,empagliflozin,433,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Insulin/Metformin/SGLT2,dapagliflozin,322,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Insulin/Metformin/SGLT2,canagliflozin,190,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Paracetamol/Statins,paracetamol,1923,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Paracetamol/Statins,statins,1772,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Paracetamol/Statins,atorvastatin,96,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Paracetamol/Statins,simvastatin,1174,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,HRT/Tamoxifen/Warfarin,estradiol,1797,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,HRT/Tamoxifen/Warfarin,progesterone,1061,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,HRT/Tamoxifen/Warfarin,conjugated estrogens,292,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,HRT/Tamoxifen/Warfarin,tamoxifen,1230,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,HRT/Tamoxifen/Warfarin,warfarin,1396,PubMed-NLP
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Benzodiazepines,diazepam,363,LIT-confirmed
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Benzodiazepines,alprazolam,42,LIT-confirmed
+Sesamin+Sesamolin,Sesamin+Sesamolin,sesamol,1227,Benzodiazepines,lorazepam,742,LIT-confirmed
+Linalool,Linalool,linalool,194,Insulin/Metformin/SGLT2,insulin,1615,PubMed-NLP
+Linalool,Linalool,linalool,194,Insulin/Metformin/SGLT2,metformin,794,PubMed-NLP
+Linalool,Linalool,linalool,194,Insulin/Metformin/SGLT2,empagliflozin,433,PubMed-NLP
+Linalool,Linalool,linalool,194,Insulin/Metformin/SGLT2,dapagliflozin,322,PubMed-NLP
+Linalool,Linalool,linalool,194,Insulin/Metformin/SGLT2,canagliflozin,190,PubMed-NLP
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,Metformin/Insulin/SGLT2,metformin,794,DrugBank-text
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,Metformin/Insulin/SGLT2,insulin,1615,DrugBank-text
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,Metformin/Insulin/SGLT2,empagliflozin,433,DrugBank-text
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,Metformin/Insulin/SGLT2,dapagliflozin,322,DrugBank-text
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,Metformin/Insulin/SGLT2,canagliflozin,190,DrugBank-text
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,Sildenafil/Nitrates,sildenafil,1168,DrugBank-text
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,Sildenafil/Nitrates,t,1824,DrugBank-text
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,Sildenafil/Nitrates,isosorbide mononitrate,665,DrugBank-text
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,Sildenafil/Nitrates,nitroglycerin,900,DrugBank-text
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,Isotretinoin/Griseofulvin/Cyclosporine/VitD3,isotretinoin,666,LIT-confirmed
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,Isotretinoin/Griseofulvin/Cyclosporine/VitD3,griseofulvin,596,LIT-confirmed
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,Isotretinoin/Griseofulvin/Cyclosporine/VitD3,cyclosporine,306,LIT-confirmed
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,Isotretinoin/Griseofulvin/Cyclosporine/VitD3,t,1824,LIT-confirmed
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,Isotretinoin/Griseofulvin/Cyclosporine/VitD3,fe,1445,LIT-confirmed
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,NTI-Drugs,warfarin,1396,DrugBank-text
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,NTI-Drugs,digoxin,378,DrugBank-text
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,NTI-Drugs,lithium,1475,DrugBank-text
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,NTI-Drugs,levothyroxine,722,DrugBank-text
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,NTI-Drugs,phenytoin,1004,DrugBank-text
+DioulHighPorosity,High-Fat Meal — Saturated Fats / Lipid Carrier (Dioul Porous Pastry),fat,9,Orlistat,orlistat,929,LIT-confirmed
+LArg+Niacin,L-Arginine + Niacin,arginine,512,Metformin/Insulin/SGLT2,metformin,794,DrugBank-text
+LArg+Niacin,L-Arginine + Niacin,arginine,512,Metformin/Insulin/SGLT2,insulin,1615,DrugBank-text
+LArg+Niacin,L-Arginine + Niacin,arginine,512,Metformin/Insulin/SGLT2,empagliflozin,433,DrugBank-text
+LArg+Niacin,L-Arginine + Niacin,arginine,512,Metformin/Insulin/SGLT2,dapagliflozin,322,DrugBank-text
+LArg+Niacin,L-Arginine + Niacin,arginine,512,Metformin/Insulin/SGLT2,canagliflozin,190,DrugBank-text
+LArg+Niacin,L-Arginine + Niacin,arginine,512,Sildenafil/Nitrates,sildenafil,1168,LIT-confirmed
+LArg+Niacin,L-Arginine + Niacin,arginine,512,Sildenafil/Nitrates,t,1824,LIT-confirmed
+LArg+Niacin,L-Arginine + Niacin,arginine,512,Sildenafil/Nitrates,isosorbide mononitrate,665,LIT-confirmed
+LArg+Niacin,L-Arginine + Niacin,arginine,512,Sildenafil/Nitrates,nitroglycerin,900,LIT-confirmed
+LArg+Niacin,L-Arginine + Niacin,arginine,512,Isotretinoin/Griseofulvin/Cyclosporine/VitD3,isotretinoin,666,DrugBank-text
+LArg+Niacin,L-Arginine + Niacin,arginine,512,Isotretinoin/Griseofulvin/Cyclosporine/VitD3,griseofulvin,596,DrugBank-text
+LArg+Niacin,L-Arginine + Niacin,arginine,512,Isotretinoin/Griseofulvin/Cyclosporine/VitD3,cyclosporine,306,DrugBank-text
+LArg+Niacin,L-Arginine + Niacin,arginine,512,Isotretinoin/Griseofulvin/Cyclosporine/VitD3,t,1824,DrugBank-text
+LArg+Niacin,L-Arginine + Niacin,arginine,512,Isotretinoin/Griseofulvin/Cyclosporine/VitD3,fe,1445,DrugBank-text
+LArg+Niacin,L-Arginine + Niacin,arginine,512,NTI-Drugs,warfarin,1396,DrugBank-text
+LArg+Niacin,L-Arginine + Niacin,arginine,512,NTI-Drugs,digoxin,378,DrugBank-text
+LArg+Niacin,L-Arginine + Niacin,arginine,512,NTI-Drugs,lithium,1475,DrugBank-text
+LArg+Niacin,L-Arginine + Niacin,arginine,512,NTI-Drugs,levothyroxine,722,DrugBank-text
+LArg+Niacin,L-Arginine + Niacin,arginine,512,NTI-Drugs,phenytoin,1004,DrugBank-text
+LArg+Niacin,L-Arginine + Niacin,arginine,512,Orlistat,orlistat,929,DrugBank-text
+DeepFryOil,Oxidised Lipids (Deep-Fry Oil),fat,9,Paracetamol,paracetamol,1923,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Metformin/Insulin/SGLT2,metformin,794,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Metformin/Insulin/SGLT2,insulin,1615,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Metformin/Insulin/SGLT2,empagliflozin,433,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Metformin/Insulin/SGLT2,dapagliflozin,322,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Metformin/Insulin/SGLT2,canagliflozin,190,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Sildenafil/Nitrates,sildenafil,1168,DrugBank-text
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Sildenafil/Nitrates,t,1824,DrugBank-text
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Sildenafil/Nitrates,isosorbide mononitrate,665,DrugBank-text
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Sildenafil/Nitrates,nitroglycerin,900,DrugBank-text
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Isotretinoin/Griseofulvin/Cyclosporine/VitD3,isotretinoin,666,DrugBank-text
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Isotretinoin/Griseofulvin/Cyclosporine/VitD3,griseofulvin,596,DrugBank-text
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Isotretinoin/Griseofulvin/Cyclosporine/VitD3,cyclosporine,306,DrugBank-text
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Isotretinoin/Griseofulvin/Cyclosporine/VitD3,t,1824,DrugBank-text
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Isotretinoin/Griseofulvin/Cyclosporine/VitD3,fe,1445,DrugBank-text
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Paracetamol,paracetamol,1923,LIT-confirmed
+Honey250g,Glucose/Fructose (Honey / Sugar Syrup),honey,177,Orlistat,orlistat,929,DrugBank-text
+I3C,I3C,UNMATCHED,—,Tamoxifen/HRT/OCP,tamoxifen,1230,LIT-confirmed
+I3C,I3C,UNMATCHED,—,Tamoxifen/HRT/OCP,estradiol,1797,LIT-confirmed
+I3C,I3C,UNMATCHED,—,Tamoxifen/HRT/OCP,progesterone,1061,LIT-confirmed
+I3C,I3C,UNMATCHED,—,Tamoxifen/HRT/OCP,conjugated estrogens,292,LIT-confirmed
+I3C,I3C,UNMATCHED,—,Tamoxifen/HRT/OCP,levonorgestrel,720,LIT-confirmed
+I3C,I3C,UNMATCHED,—,Tamoxifen/HRT/OCP,ethinylestradiol,476,LIT-confirmed
+Amylopectin+K+,Amylopectin + Potassium,pectin,798,Tamoxifen/HRT/OCP,tamoxifen,1230,PubMed-NLP
+Amylopectin+K+,Amylopectin + Potassium,pectin,798,Tamoxifen/HRT/OCP,estradiol,1797,PubMed-NLP
+Amylopectin+K+,Amylopectin + Potassium,pectin,798,Tamoxifen/HRT/OCP,progesterone,1061,PubMed-NLP
+Amylopectin+K+,Amylopectin + Potassium,pectin,798,Tamoxifen/HRT/OCP,conjugated estrogens,292,PubMed-NLP
+Amylopectin+K+,Amylopectin + Potassium,pectin,798,Tamoxifen/HRT/OCP,levonorgestrel,720,PubMed-NLP
+Amylopectin+K+,Amylopectin + Potassium,pectin,798,Tamoxifen/HRT/OCP,ethinylestradiol,476,PubMed-NLP
+Amylopectin+K+,Amylopectin + Potassium,pectin,798,ACE-I/ARB/Spiron,lisinopril,732,DrugBank-named
+Amylopectin+K+,Amylopectin + Potassium,pectin,798,ACE-I/ARB/Spiron,enalapril,435,DrugBank-named
+Amylopectin+K+,Amylopectin + Potassium,pectin,798,ACE-I/ARB/Spiron,ramipril,1092,DrugBank-named
+Amylopectin+K+,Amylopectin + Potassium,pectin,798,ACE-I/ARB/Spiron,captopril,198,DrugBank-named
+Amylopectin+K+,Amylopectin + Potassium,pectin,798,ACE-I/ARB/Spiron,perindopril,988,DrugBank-named
+Amylopectin+K+,Amylopectin + Potassium,pectin,798,ACE-I/ARB/Spiron,buspirone,174,DrugBank-named
+Amylopectin+K+,Amylopectin + Potassium,pectin,798,ACE-I/ARB/Spiron,losartan,745,DrugBank-named
+Amylopectin+K+,Amylopectin + Potassium,pectin,798,ACE-I/ARB/Spiron,spironolactone,1201,DrugBank-named
+CuminAldehyde+Allicin,CuminAldehyde+Allicin,allicin,1011,Tamoxifen/HRT/OCP,tamoxifen,1230,PubMed-NLP
+CuminAldehyde+Allicin,CuminAldehyde+Allicin,allicin,1011,Tamoxifen/HRT/OCP,estradiol,1797,PubMed-NLP
+CuminAldehyde+Allicin,CuminAldehyde+Allicin,allicin,1011,Tamoxifen/HRT/OCP,progesterone,1061,PubMed-NLP
+CuminAldehyde+Allicin,CuminAldehyde+Allicin,allicin,1011,Tamoxifen/HRT/OCP,conjugated estrogens,292,PubMed-NLP
+CuminAldehyde+Allicin,CuminAldehyde+Allicin,allicin,1011,Tamoxifen/HRT/OCP,levonorgestrel,720,PubMed-NLP
+CuminAldehyde+Allicin,CuminAldehyde+Allicin,allicin,1011,Tamoxifen/HRT/OCP,ethinylestradiol,476,PubMed-NLP
+CuminAldehyde+Allicin,CuminAldehyde+Allicin,allicin,1011,Statins,statins,1772,LIT-confirmed
+FullGelatStarch+K+,Gelatinised Starch + Potassium,h+,737,Metformin/Insulin/SGLT2,metformin,794,PubMed-NLP
+FullGelatStarch+K+,Gelatinised Starch + Potassium,h+,737,Metformin/Insulin/SGLT2,insulin,1615,PubMed-NLP
+FullGelatStarch+K+,Gelatinised Starch + Potassium,h+,737,Metformin/Insulin/SGLT2,empagliflozin,433,PubMed-NLP
+FullGelatStarch+K+,Gelatinised Starch + Potassium,h+,737,Metformin/Insulin/SGLT2,dapagliflozin,322,PubMed-NLP
+FullGelatStarch+K+,Gelatinised Starch + Potassium,h+,737,Metformin/Insulin/SGLT2,canagliflozin,190,PubMed-NLP
+FullGelatStarch+K+,Gelatinised Starch + Potassium,h+,737,ACE-I/ARB,lisinopril,732,LIT-confirmed
+FullGelatStarch+K+,Gelatinised Starch + Potassium,h+,737,ACE-I/ARB,enalapril,435,LIT-confirmed
+FullGelatStarch+K+,Gelatinised Starch + Potassium,h+,737,ACE-I/ARB,ramipril,1092,LIT-confirmed
+FullGelatStarch+K+,Gelatinised Starch + Potassium,h+,737,ACE-I/ARB,captopril,198,LIT-confirmed
+FullGelatStarch+K+,Gelatinised Starch + Potassium,h+,737,ACE-I/ARB,perindopril,988,LIT-confirmed
+FullGelatStarch+K+,Gelatinised Starch + Potassium,h+,737,ACE-I/ARB,losartan,745,LIT-confirmed
+FullGelatStarch+K+,Gelatinised Starch + Potassium,h+,737,ACE-I/ARB,valsartan,1360,LIT-confirmed
+FullGelatStarch+K+,Gelatinised Starch + Potassium,h+,737,LoopDiuretics,furosemide,563,LIT-confirmed
+FullGelatStarch+K+,Gelatinised Starch + Potassium,h+,737,LoopDiuretics,torasemide,1308,LIT-confirmed
+Quercetin+Allicin,Quercetin+Allicin,quercetin,279,Metformin/Insulin/SGLT2,metformin,794,PubMed-NLP
+Quercetin+Allicin,Quercetin+Allicin,quercetin,279,Metformin/Insulin/SGLT2,insulin,1615,PubMed-NLP
+Quercetin+Allicin,Quercetin+Allicin,quercetin,279,Metformin/Insulin/SGLT2,empagliflozin,433,PubMed-NLP
+Quercetin+Allicin,Quercetin+Allicin,quercetin,279,Metformin/Insulin/SGLT2,dapagliflozin,322,PubMed-NLP
+Quercetin+Allicin,Quercetin+Allicin,quercetin,279,Metformin/Insulin/SGLT2,canagliflozin,190,PubMed-NLP
+Quercetin+Allicin,Quercetin+Allicin,quercetin,279,Statins,statins,1772,LIT-confirmed
+Apigenin+Cuminaldehyde,Apigenin+Cuminaldehyde,apigenin,656,Metformin/Insulin/SGLT2,metformin,794,PubMed-NLP
+Apigenin+Cuminaldehyde,Apigenin+Cuminaldehyde,apigenin,656,Metformin/Insulin/SGLT2,insulin,1615,PubMed-NLP
+Apigenin+Cuminaldehyde,Apigenin+Cuminaldehyde,apigenin,656,Metformin/Insulin/SGLT2,empagliflozin,433,PubMed-NLP
+Apigenin+Cuminaldehyde,Apigenin+Cuminaldehyde,apigenin,656,Metformin/Insulin/SGLT2,dapagliflozin,322,PubMed-NLP
+Apigenin+Cuminaldehyde,Apigenin+Cuminaldehyde,apigenin,656,Metformin/Insulin/SGLT2,canagliflozin,190,PubMed-NLP
+Apigenin+Cuminaldehyde,Apigenin+Cuminaldehyde,apigenin,656,ACE-I/ARB,lisinopril,732,LIT-confirmed
+Apigenin+Cuminaldehyde,Apigenin+Cuminaldehyde,apigenin,656,ACE-I/ARB,enalapril,435,LIT-confirmed
+Apigenin+Cuminaldehyde,Apigenin+Cuminaldehyde,apigenin,656,ACE-I/ARB,ramipril,1092,LIT-confirmed
+Apigenin+Cuminaldehyde,Apigenin+Cuminaldehyde,apigenin,656,ACE-I/ARB,captopril,198,LIT-confirmed
+Apigenin+Cuminaldehyde,Apigenin+Cuminaldehyde,apigenin,656,ACE-I/ARB,perindopril,988,LIT-confirmed
+Apigenin+Cuminaldehyde,Apigenin+Cuminaldehyde,apigenin,656,ACE-I/ARB,losartan,745,LIT-confirmed
+Apigenin+Cuminaldehyde,Apigenin+Cuminaldehyde,apigenin,656,ACE-I/ARB,valsartan,1360,LIT-confirmed
+Apigenin+Cuminaldehyde,Apigenin+Cuminaldehyde,apigenin,656,LoopDiuretics,furosemide,563,LIT-confirmed
+Apigenin+Cuminaldehyde,Apigenin+Cuminaldehyde,apigenin,656,LoopDiuretics,torasemide,1308,LIT-confirmed
+Saponins+Amylose,Saponins+Amylose,saponins,1046,Acarbose/Metformin,acarbose,10,PubMed-NLP
+Saponins+Amylose,Saponins+Amylose,saponins,1046,Acarbose/Metformin,metformin,794,PubMed-NLP
+Saponins+Amylose,Saponins+Amylose,saponins,1046,Propranolol/Phenytoin/Cyclosporine,propranolol,1068,DrugBank-named
+Saponins+Amylose,Saponins+Amylose,saponins,1046,Propranolol/Phenytoin/Cyclosporine,phenytoin,1004,DrugBank-named
+Saponins+Amylose,Saponins+Amylose,saponins,1046,Propranolol/Phenytoin/Cyclosporine,cyclosporine,306,DrugBank-named
+Cinnamaldehyde,Cinnamaldehyde,cinnamaldehyde,797,Acarbose/Metformin,acarbose,10,PubMed-NLP
+Cinnamaldehyde,Cinnamaldehyde,cinnamaldehyde,797,Acarbose/Metformin,metformin,794,PubMed-NLP
+Allicin+Piperine,Allicin+Piperine,piperine,264,Propranolol/Phenytoin/Cyclosporine,propranolol,1068,PubMed-NLP
+Allicin+Piperine,Allicin+Piperine,piperine,264,Propranolol/Phenytoin/Cyclosporine,phenytoin,1004,PubMed-NLP
+Allicin+Piperine,Allicin+Piperine,piperine,264,Propranolol/Phenytoin/Cyclosporine,cyclosporine,306,PubMed-NLP
+Allicin+Piperine,Allicin+Piperine,piperine,264,StatinsBile,atorvastatin,96,LIT-confirmed
+Allicin+Piperine,Allicin+Piperine,piperine,264,StatinsBile,simvastatin,1174,LIT-confirmed
+Allicin+Piperine,Allicin+Piperine,piperine,264,StatinsBile,cholestyramine,245,LIT-confirmed
+SolFiber+Folate,Soluble Fiber + Folate,fiber,10,Methotrexate/Antifolates,methotrexate,802,PubMed-NLP
+SolFiber+Folate,Soluble Fiber + Folate,fiber,10,Methotrexate/Antifolates,folate,1462,PubMed-NLP
+SolFiber+Folate,Soluble Fiber + Folate,fiber,10,Methotrexate/Antifolates,pemetrexed,975,PubMed-NLP
+SolFiber+Folate,Soluble Fiber + Folate,fiber,10,Methotrexate/Antifolates,trimethoprim,1836,PubMed-NLP
+BetaCarotene+Minerals,Beta-Carotene + Minerals,carotene,718,Methotrexate/Antifolates,methotrexate,802,DrugBank-text
+BetaCarotene+Minerals,Beta-Carotene + Minerals,carotene,718,Methotrexate/Antifolates,folate,1462,DrugBank-text
+BetaCarotene+Minerals,Beta-Carotene + Minerals,carotene,718,Methotrexate/Antifolates,pemetrexed,975,DrugBank-text
+BetaCarotene+Minerals,Beta-Carotene + Minerals,carotene,718,Methotrexate/Antifolates,trimethoprim,1836,DrugBank-text
+BetaCarotene+Minerals,Beta-Carotene + Minerals,carotene,718,Warfarin/NSAIDs,warfarin,1396,DrugBank-text
+BetaCarotene+Minerals,Beta-Carotene + Minerals,carotene,718,Warfarin/NSAIDs,nsaid,1609,DrugBank-text
+BetaCarotene+Minerals,Beta-Carotene + Minerals,carotene,718,Warfarin/NSAIDs,ibuprofen,618,DrugBank-text
+BetaCarotene+Minerals,Beta-Carotene + Minerals,carotene,718,Warfarin/NSAIDs,naproxen,872,DrugBank-text
+BetaCarotene+Minerals,Beta-Carotene + Minerals,carotene,718,CYP3A4-Substrates,cyclosporine,306,DrugBank-text
+BetaCarotene+Minerals,Beta-Carotene + Minerals,carotene,718,CYP3A4-Substrates,simvastatin,1174,DrugBank-text
+BetaCarotene+Minerals,Beta-Carotene + Minerals,carotene,718,CYP3A4-Substrates,midazolam,825,DrugBank-text
+BetaCarotene+Minerals,Beta-Carotene + Minerals,carotene,718,VitA-Retinoids,retinol,1697,LIT-confirmed
+BetaCarotene+Minerals,Beta-Carotene + Minerals,carotene,718,VitA-Retinoids,isotretinoin,666,LIT-confirmed
+Curcumin+Gingerol+Piperine,Curcumin+Gingerol+Piperine,ginger,13,Methotrexate/Antifolates,methotrexate,802,PubMed-NLP
+Curcumin+Gingerol+Piperine,Curcumin+Gingerol+Piperine,ginger,13,Methotrexate/Antifolates,folate,1462,PubMed-NLP
+Curcumin+Gingerol+Piperine,Curcumin+Gingerol+Piperine,ginger,13,Methotrexate/Antifolates,pemetrexed,975,PubMed-NLP
+Curcumin+Gingerol+Piperine,Curcumin+Gingerol+Piperine,ginger,13,Methotrexate/Antifolates,trimethoprim,1836,PubMed-NLP
+Curcumin+Gingerol+Piperine,Curcumin+Gingerol+Piperine,ginger,13,Warfarin/NSAIDs,warfarin,1396,DrugBank-named
+Curcumin+Gingerol+Piperine,Curcumin+Gingerol+Piperine,ginger,13,Warfarin/NSAIDs,nsaid,1609,DrugBank-named
+Curcumin+Gingerol+Piperine,Curcumin+Gingerol+Piperine,ginger,13,Warfarin/NSAIDs,ibuprofen,618,DrugBank-named
+Curcumin+Gingerol+Piperine,Curcumin+Gingerol+Piperine,ginger,13,Warfarin/NSAIDs,naproxen,872,DrugBank-named
+Curcumin+Gingerol+Piperine,Curcumin+Gingerol+Piperine,ginger,13,CYP3A4-Substrates,cyclosporine,306,LIT-confirmed
+Curcumin+Gingerol+Piperine,Curcumin+Gingerol+Piperine,ginger,13,CYP3A4-Substrates,simvastatin,1174,LIT-confirmed
+Curcumin+Gingerol+Piperine,Curcumin+Gingerol+Piperine,ginger,13,CYP3A4-Substrates,midazolam,825,LIT-confirmed
+Allicin-LateAdd,Allicin-LateAdd,tea,452,Warfarin/NSAIDs,warfarin,1396,DrugBank-named
+Allicin-LateAdd,Allicin-LateAdd,tea,452,Warfarin/NSAIDs,nsaid,1609,DrugBank-named
+Allicin-LateAdd,Allicin-LateAdd,tea,452,Warfarin/NSAIDs,ibuprofen,618,DrugBank-named
+Allicin-LateAdd,Allicin-LateAdd,tea,452,Warfarin/NSAIDs,naproxen,872,DrugBank-named
+Allicin-LateAdd,Allicin-LateAdd,tea,452,CYP3A4-Substrates,cyclosporine,306,LIT-confirmed
+Allicin-LateAdd,Allicin-LateAdd,tea,452,CYP3A4-Substrates,simvastatin,1174,LIT-confirmed
+Allicin-LateAdd,Allicin-LateAdd,tea,452,CYP3A4-Substrates,midazolam,825,LIT-confirmed
+Allicin-LateAdd,Allicin-LateAdd,tea,452,VitA-Retinoids,retinol,1697,PubMed-NLP
+Allicin-LateAdd,Allicin-LateAdd,tea,452,VitA-Retinoids,isotretinoin,666,PubMed-NLP
+Cynarin+Silymarin,Cynarin+Silymarin,UNMATCHED,—,HepatotoxicDrugs/Statins,cd,1733,LIT-confirmed
+Cynarin+Silymarin,Cynarin+Silymarin,UNMATCHED,—,HepatotoxicDrugs/Statins,statins,1772,LIT-confirmed
+Cynarin+Silymarin,Cynarin+Silymarin,UNMATCHED,—,HepatotoxicDrugs/Statins,isoniazid,663,LIT-confirmed
+Cynarin+Silymarin,Cynarin+Silymarin,UNMATCHED,—,HepatotoxicDrugs/Statins,methotrexate,802,LIT-confirmed
+Cynarin+Silymarin,Cynarin+Silymarin,UNMATCHED,—,HepatotoxicDrugs/Statins,simvastatin,1174,LIT-confirmed
+Cynarin+Silymarin,Cynarin+Silymarin,UNMATCHED,—,Isotretinoin/Cyclosporine,isotretinoin,666,PubMed-NLP
+Cynarin+Silymarin,Cynarin+Silymarin,UNMATCHED,—,Isotretinoin/Cyclosporine,cyclosporine,306,PubMed-NLP
+Cynarin+Silymarin,Cynarin+Silymarin,UNMATCHED,—,Orlistat,orlistat,929,LIT-confirmed
+Cynarin+Silymarin,Cynarin+Silymarin,UNMATCHED,—,Insulin/Metformin,insulin,1615,PubMed-NLP
+Cynarin+Silymarin,Cynarin+Silymarin,UNMATCHED,—,Insulin/Metformin,metformin,794,PubMed-NLP
+Inositol+SolFiber,Inositol+SolFiber,fiber,10,Isotretinoin/Cyclosporine,isotretinoin,666,PubMed-NLP
+Inositol+SolFiber,Inositol+SolFiber,fiber,10,Isotretinoin/Cyclosporine,cyclosporine,306,PubMed-NLP
+Inositol+SolFiber,Inositol+SolFiber,fiber,10,Insulin/Metformin,insulin,1615,PubMed-NLP
+Inositol+SolFiber,Inositol+SolFiber,fiber,10,Insulin/Metformin,metformin,794,PubMed-NLP
+AcrylamideMaillard+StarchLipid,AcrylamideMaillard+StarchLipid,starch,831,Insulin/Metformin/SGLT2,insulin,1615,PubMed-NLP
+AcrylamideMaillard+StarchLipid,AcrylamideMaillard+StarchLipid,starch,831,Insulin/Metformin/SGLT2,metformin,794,PubMed-NLP
+AcrylamideMaillard+StarchLipid,AcrylamideMaillard+StarchLipid,starch,831,Insulin/Metformin/SGLT2,empagliflozin,433,PubMed-NLP
+AcrylamideMaillard+StarchLipid,AcrylamideMaillard+StarchLipid,starch,831,Insulin/Metformin/SGLT2,dapagliflozin,322,PubMed-NLP
+AcrylamideMaillard+StarchLipid,AcrylamideMaillard+StarchLipid,starch,831,Insulin/Metformin/SGLT2,canagliflozin,190,PubMed-NLP
+Choline+Lutein+Leucine,Choline+Lutein+Leucine,lutein,197,Anticholinergics/Donepezil,atropine,98,LIT-confirmed
+Choline+Lutein+Leucine,Choline+Lutein+Leucine,lutein,197,Anticholinergics/Donepezil,oxybutynin,946,LIT-confirmed
+Choline+Lutein+Leucine,Choline+Lutein+Leucine,lutein,197,Anticholinergics/Donepezil,ne,1774,LIT-confirmed
+Choline+Lutein+Leucine,Choline+Lutein+Leucine,lutein,197,Anticholinergics/Donepezil,donepezil,399,LIT-confirmed
+Choline+Lutein+Leucine,Choline+Lutein+Leucine,lutein,197,Isotretinoin/Griseofulvin/Cyclosporine,isotretinoin,666,PubMed-NLP
+Choline+Lutein+Leucine,Choline+Lutein+Leucine,lutein,197,Isotretinoin/Griseofulvin/Cyclosporine,griseofulvin,596,PubMed-NLP
+Choline+Lutein+Leucine,Choline+Lutein+Leucine,lutein,197,Isotretinoin/Griseofulvin/Cyclosporine,cyclosporine,306,PubMed-NLP
+Choline+Lutein+Leucine,Choline+Lutein+Leucine,lutein,197,Paracetamol,paracetamol,1923,LIT-confirmed
+OxidisedLipids+CCK,OxidisedLipids+CCK,UNMATCHED,—,Paracetamol,paracetamol,1923,LIT-confirmed

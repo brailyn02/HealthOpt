@@ -1,0 +1,59 @@
+food_name,food_id,drug_name,drug_id,verdict
+Soluble Fiber,10,ciprofloxacin,258,LIT-confirmed
+Soluble Fiber,10,tetracycline,1266,LIT-confirmed
+Soluble Fiber,10,doxycycline,405,LIT-confirmed
+Soluble Fiber,10,theophylline,1271,DrugBank-text
+Soluble Fiber,10,duloxetine,413,DrugBank-text
+Soluble Fiber,10,ferrous sulfate anhydrous,513,LIT-confirmed
+Soluble Fiber,10,ferrous sulfate,1786,LIT-confirmed
+Soluble Fiber,10,ferrous gluconate,512,LIT-confirmed
+Soluble Fiber,10,ferrous fumarate,511,LIT-confirmed
+Glucobrassicin,644,levothyroxine,722,LIT-confirmed
+Glucobrassicin,644,warfarin,1396,LIT-confirmed
+Glucobrassicin,644,phenytoin,1004,LIT-confirmed
+Glucobrassicin,644,glipizide,588,LIT-confirmed
+Glucobrassicin,644,flurbiprofen,546,LIT-confirmed
+Glucobrassicin,644,tacrolimus,1224,LIT-confirmed
+Sodium Bicarbonate,1663,cm,1767,LIT-confirmed
+Sodium Bicarbonate,1663,aspirin,1469,LIT-confirmed
+Sodium Bicarbonate,1663,omeprazole,924,LIT-confirmed
+Sodium Bicarbonate,1663,diclofenac,365,LIT-confirmed
+Sodium Bicarbonate,1663,ciprofloxacin,258,LIT-confirmed
+Sodium Bicarbonate,1663,iron,658,LIT-confirmed
+Sodium Bicarbonate,1663,ferrous sulfate anhydrous,513,LIT-confirmed
+Sodium Bicarbonate,1663,ferrous sulfate,1786,LIT-confirmed
+Sodium Bicarbonate,1663,zinc sulfate,1414,LIT-confirmed
+Sodium Bicarbonate,1663,allopurinol,36,DrugBank-text
+Sodium Bicarbonate,1663,warfarin,1396,DrugBank-text
+Sodium Bicarbonate,1663,phenytoin,1004,DrugBank-text
+Sodium Bicarbonate,1663,glipizide,588,DrugBank-text
+Sodium Bicarbonate,1663,flurbiprofen,546,DrugBank-text
+Sodium Bicarbonate,1663,levothyroxine,722,DrugBank-text
+Sodium Bicarbonate,1663,t,1824,DrugBank-text
+Sodium Bicarbonate,1663,al,1455,DrugBank-text
+Soluble Fiber,10,metformin,794,LIT-confirmed
+Soluble Fiber,10,levothyroxine,722,LIT-confirmed
+Soluble Fiber,10,warfarin,1396,LIT-confirmed
+Soluble Fiber,10,phenelzine,994,LIT-confirmed
+Soluble Fiber,10,tranylcypromine,1316,LIT-confirmed
+Soluble Fiber,10,isocarboxazid,662,LIT-confirmed
+Soluble Fiber,10,selegiline,1158,LIT-confirmed
+Soluble Fiber,10,lisinopril,732,LIT-confirmed
+Soluble Fiber,10,amlodipine,59,LIT-confirmed
+Soluble Fiber,10,hydrochlorothiazide,604,LIT-confirmed
+Soluble Fiber,10,metoprolol,818,LIT-confirmed
+Soluble Fiber,10,losartan,745,LIT-confirmed
+Sodium Bicarbonate,1663,metformin,794,DrugBank-text
+Sodium Bicarbonate,1663,insulin,1615,DrugBank-text
+Sodium Bicarbonate,1663,amiloride,50,LIT-confirmed
+Sodium Bicarbonate,1663,triamterene,1321,LIT-confirmed
+Sodium Bicarbonate,1663,diazepam,363,DrugBank-text
+Sodium Bicarbonate,1663,alprazolam,42,DrugBank-text
+Sodium Bicarbonate,1663,lorazepam,742,DrugBank-text
+Sodium Bicarbonate,1663,azithromycin,112,DrugBank-text
+Soluble Fiber,10,methotrexate,802,PubMed-NLP
+Soluble Fiber,10,folate,1462,PubMed-NLP
+Soluble Fiber,10,pemetrexed,975,PubMed-NLP
+Soluble Fiber,10,trimethoprim,1836,PubMed-NLP
+Soluble Fiber,10,isotretinoin,666,PubMed-NLP
+Soluble Fiber,10,cyclosporine,306,PubMed-NLP

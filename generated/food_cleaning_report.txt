@@ -1,0 +1,287 @@
+=== Food Master Cleaning Report ===
+
+Input entries:          2057
+Canonical entries kept: 1899
+Entries removed:        91
+  (merges / dedup reduced entries by 67 via consolidation)
+
+--- Kept by Type ---
+  Dietary Amino Acid: 35
+  Dietary Lipid: 8
+  Dietary Nutrient: 73
+  Endogenous Metabolite: 101
+  Food / Whole-Food Preparation: 83
+  Food Bioactive: 1599
+
+--- Removed by Reason ---
+
+  [false-positive (drug metabolite / contaminant marker)] (5 entries)
+    - Cotinine
+    - Domoic acid
+    - Ecgonine
+    - Ecgonine methyl ester
+    - Nornicotine
+
+  [industrial chemical / solvent] (35 entries)
+    - 1-Hydroxypyrene
+    - 2,2,2-Trichloroethanol
+    - 2,4-Dichlorophenol
+    - 3-Phenoxybenzoic acid
+    - Acetone
+    - Acrylamide
+    - Acrylic acid
+    - Ammonium bicarbonate
+    - Ammonium sulfate
+    - Anthracene
+    - Calcium peroxide
+    - Diazinon
+    - Dimethyl disulfide
+    - Dimethyl fumarate
+    - Dioctyl phthalate
+    - Diphenylamine
+    - Ether
+    - Ethylenediaminetetraacetic acid
+    - N,N-Dimethylaniline
+    - N,N-Dimethylformamide
+    - Naphthalene
+    - Pentane
+    - Piperazine
+    - Polyacrylamide
+    - Polyethylene glycol
+    - Polysorbate 20
+    - Polysorbate 80
+    - Potassium oxide
+    - Potassium permanganate
+    - Propylene glycol
+    - Sulfuric acid
+    - Tetrahydrofuran
+    - Thiodiacetic acid
+    - Thiourea
+    - Triacetin
+
+  [noble gas] (1 entries)
+    - Argon
+
+  [non-food element or gas] (30 entries)
+    - Aluminum
+    - Antimony
+    - Barium
+    - Bismuth
+    - Carbon dioxide
+    - Cerium
+    - Cobalt
+    - Flourine
+    - Fluorine
+    - Gallium
+    - Germanium
+    - Gold
+    - Hydrogen
+    - Iridium
+    - Lithium
+    - Oxygen
+    - Palladium
+    - Platinum
+    - Rhenium
+    - Ruthenium
+    - Samarium
+    - Scandium
+    - Silver
+    - Strontium
+    - Sulfur
+    - Thallium
+    - Tin
+    - Uranium
+    - chromium
+    - hydrogen cyanide
+
+  [pharmaceutical drug (not a food compound)] (20 entries)
+    - Aminopterin
+    - Ampicillin
+    - Bacitracin
+    - Celecoxib
+    - Clotrimazole
+    - Dexamethasone
+    - Diazepam
+    - Ethoxyquin
+    - Furazolidone
+    - Gabapentin
+    - Isoniazid
+    - Lincomycin
+    - Loratadine
+    - Metoprolol
+    - Oxytetracycline
+    - Pancreatin
+    - Sulfaquinoxaline
+    - Tetracycline
+    - Verapamil
+    - Warfarin
+
+--- Stereoisomers / Duplicates Merged ---
+  Ginger  ←  Zingiber officinale, ginger  (IDs [13, 485] → 13)
+  Ginkgo Biloba  ←  ginkgo, ginkgo biloba  (IDs [14, 15] → 14)
+  Grapefruit  ←  grape fruit, grapefruit juice, grapefruit  (IDs [17, 18, 486] → 16)
+  Vitamin C  ←  Ascorbic acid, vitamin C, L-Ascorbic Acid  (IDs [30, 502, 534] → 28)
+  Vitamin K2  ←  vitamins K2, Vitamin K2  (IDs [33, 918] → 31)
+  Carvone  ←  (-)-Carvone, Carvone  (IDs [35, 1406] → 33)
+  Amaranth  ←  Amaranthus Tricolor, Amaranth  (IDs [45, 936] → 42)
+  Groundnut  ←  Apios Americana, Groundnut  (IDs [52, 183] → 49)
+  Berberine  ←  berberine chloride, Berberine  (IDs [68, 921] → 64)
+  C-Phycocyanin  ←  C-Phycocyanin Complex, C-Phycocyanin  (IDs [81, 82] → 77)
+  Cirsium Chanroenicum  ←  C. Chanroenicum, Cirsium  (IDs [83, 104] → 78)
+  Cinnamon  ←  C. Zeylaniucm, Cinnamomum, Cinnamomum Zeylanicum  (IDs [84, 102, 103] → 79)
+  Coconut  ←  Coconut, Cocos Nucifera L  (IDs [114, 116] → 105)
+  Pinitol  ←  Pinitol, D-Pinitol  (IDs [277, 1860] → 266)
+  Crocin  ←  Crocin, alpha-Crocin  (IDs [470, 971] → 459)
+  D-Aspartic Acid  ←  D-Aspartic Acid, L-Aspartic Acid  (IDs [527, 557] → 512)
+  Glucose  ←  D-Glucose, Beta-D-Glucose, Glucose  (IDs [529, 541, 766] → 514)
+  Naringenin  ←  Naringenin, (S)-Naringenin  (IDs [530, 1221] → 515)
+  Arginine  ←  L-Arginine, Arginine  (IDs [532, 822] → 517)
+  L-Serine  ←  L-Serine, D-Serine  (IDs [536, 1574] → 520)
+  Curcumene  ←  (-)-alpha-Curcumene, Curcumene  (IDs [542, 547] → 525)
+  Malic Acid  ←  Malic Acid, L-Malic Acid  (IDs [551, 711] → 533)
+  Lactose  ←  beta-Lactose, alpha-D-lactose, Lactose, alpha-Lactose  (IDs [552, 608, 829, 2002] → 534)
+  Glutamic Acid  ←  L-Glutamic Acid, Glutamic acid  (IDs [558, 864] → 539)
+  L-Tryptophan  ←  L-Tryptophan, D-Tryptophan, (±)-Tryptophan  (IDs [561, 886, 1243] → 542)
+  (-)-Asparagine  ←  (-)-Asparagine, L-Asparagine  (IDs [563, 954] → 544)
+  Maltose  ←  beta-Maltose, Maltose  (IDs [564, 2055] → 545)
+  Mannan  ←  alpha-D-Mannan, Mannan  (IDs [576, 1611] → 557)
+  L-Alanine  ←  L-Alanine, D-Alanine  (IDs [589, 1180] → 570)
+  Ursolic Acid  ←  (+)-Ursolic Acid, Ursolic acid  (IDs [593, 835] → 574)
+  (-)-Beta-Sitosterol  ←  (-)-beta-Sitosterol, beta-Sitosterol, gamma-Sitosterol  (IDs [606, 976, 1030] → 587)
+  Gluconic Acid  ←  Gluconic Acid, D-Gluconic acid  (IDs [626, 1498] → 606)
+  Mannitol  ←  Mannitol, D-Mannitol  (IDs [651, 929] → 631)
+  Beta-Pinene  ←  Beta-Pinene, (+)-alpha-Pinene, (-)-alpha-Pinene, Pinene  (IDs [680, 1547, 1603, 1874] → 660)
+  L-Glutamine  ←  L-Glutamine, D-Glutamine  (IDs [685, 1840] → 665)
+  (-)-Cystine  ←  (-)-Cystine, L-Cystine  (IDs [687, 865] → 667)
+  Lactic Acid  ←  D-Lactic Acid, Lactic Acid, L-Lactic Acid  (IDs [709, 736, 739] → 689)
+  Gossypol  ←  Gossypol, (-)-Gossypol  (IDs [746, 1585] → 722)
+  Carotene  ←  beta-Carotene, alpha-Carotene, Carotene  (IDs [747, 1053, 1258] → 723)
+  Salicylates  ←  Salicylates, salicylate  (IDs [757, 1600] → 731)
+  Ferulic Acid  ←  Ferulic acid, trans-Ferulic acid  (IDs [808, 1756] → 768)
+  Ornithine  ←  L-ornithine, Ornithine  (IDs [813, 932] → 773)
+  Alpha-Tocopherol  ←  alpha-Tocopherol, gamma-Tocopherol, d-Tocopherol  (IDs [871, 1211, 1468] → 823)
+  L-Cysteine  ←  L-Cysteine, D-Cysteine  (IDs [877, 1696] → 829)
+  Kynurenine  ←  Kynurenine, L-Kynurenine  (IDs [899, 1792] → 850)
+  Lipoic Acid  ←  alpha-Lipoic acid, Lipoic acid  (IDs [1019, 1633] → 961)
+  Limonene  ←  Limonene, (R)-Limonene  (IDs [1117, 1202] → 1056)
+  Ligustilide  ←  Ligustilide, cis-Ligustilide  (IDs [1349, 1588] → 1281)
+  Glyceric Acid  ←  L-Glyceric acid, Glyceric acid  (IDs [1461, 1736] → 1392)
+  Borneol  ←  (+)-Borneol, (-)-Borneol  (IDs [1518, 1742] → 1447)
+  Menthone  ←  (±)-Menthone, (-)-Menthone  (IDs [1575, 1871] → 1496)
+  Glucaric Acid  ←  D-Glucaric acid, Glucaric acid  (IDs [1660, 1965] → 1558)
+  Fenchone  ←  (+)-Fenchone, Fenchone, (-)-Fenchone  (IDs [1661, 1928, 2025] → 1559)
+
+--- Endogenous Metabolites (kept but flagged) ---
+  [508] Melatonin
+  [593] Cdp-Dg(16:0/18:0)
+  [596] Cdp-Dg(16:0/16:0)
+  [725] Dopamine
+  [726] Bilirubin
+  [727] Serotonin
+  [732] Estrogen
+  [733] Creatinine
+  [735] Aldosterone
+  [738] Uric Acid
+  [739] Estradiol
+  [741] Vasopressin
+  [747] Cortisol
+  [748] Cortisone
+  [750] Superoxide
+  [752] Testosterone
+  [760] Nad+
+  [779] Atp
+  [795] Oxytocin
+  [849] Epinephrine
+  [925] Adp
+  [1084] Gdp
+  [1091] 3-Hydroxy-3-Methylglutaryl-Coa
+  [1255] Amp
+  [1259] Acetyl-Coa
+  [1266] Fad
+  [1290] Utp
+  [1291] Nad
+  [1317] Palmitoyl-Coa
+  [1460] 25-Hydroxycholesterol
+  [1468] Calmodulin
+  [1469] Dcmp
+  [1479] Udp
+  [1486] Glycerylphosphoinositol
+  [1491] Ctp
+  [1497] Indoxyl Sulfate
+  [1504] N-Acetyldopamine
+  [1507] 5-Hydroxydopamine
+  [1515] L-Saccharopine
+  [1517] Hypotaurine
+  [1523] Myo-Inositol 1-Phosphate
+  [1526] 3-Phospho-D-Glycerate
+  [1529] Cyclic-Amp
+  [1532] Phosphoribosyl Pyrophosphate
+  [1538] Allopregnanolone
+  [1542] 16Alpha-Hydroxyestrone
+  [1550] Inositol 1,3,4,5,6-Pentakisphosphate
+  [1553] Dynorphin A
+  [1554] Methylmalonyl-Coa
+  [1563] 1-Deoxy-D-Xylulose 5-Phosphate
+  [1570] 8-Hydroxyguanosine
+  [1575] Pregnenolone
+  [1579] Prostaglandin F2A
+  [1584] Fmn
+  [1629] 27-Hydroxycholesterol
+  [1633] Malonyl-Coa
+  [1645] Leukotriene D4
+  [1656] Nadp+
+  [1663] Fructose 1-Phosphate
+  [1670] S-Nitrosoglutathione
+  [1674] Sorbitol 6-Phosphate
+  [1679] Fructose 6-Phosphate
+  [1681] Glutaric Acid
+  [1685] Mannose 6-Phosphate
+  [1687] Pterin
+  [1692] Dihydropteridine
+  [1694] Dynorphin B
+  [1697] Lipoxin B4
+  [1701] Prostaglandin H2
+  [1703] Phosphatidylinositol-3,4,5-Trisphosphate
+  [1704] Phosphoribosyl-Atp
+  [1711] D-Erythrose 4-Phosphate
+  [1716] Erythrose
+  [1719] 2-Phosphoglycerate
+  [1720] Dgtp
+  [1721] Thymidine Glycol
+  [1723] O-Quinone
+  [1728] Dihydroxyacetone Phosphate
+  [1732] Sn-Glycerol-3-Phosphate
+  [1741] 12(S)-Leukotriene B4
+  [1752] Cdp-Ethanolamine
+  [1756] Dump
+  [1757] Dtmp
+  [1759] 5-Hete
+  [1772] 2-Methoxyestradiol
+  [1774] Androsterone Glucuronide
+  [1777] Coenzyme A
+  [1781] Triphosphoric Acid
+  [1790] Shikimate
+  [1811] 8-Hydroxy-Deoxyguanosine
+  [1815] Dttp
+  [1823] Sepiapterin
+  [1825] Oxaloacetate
+  [1845] Cob(I)Alamin
+  [1850] 3-Hydroxyglutaric Acid
+  [1866] 12(S)-Hpete
+  [1886] Adp-Ribose
+  [1887] 15-Kete
+  [1891] 18-Hydroxycorticosterone
+  [1892] Angiotensin Iii
+  [1893] 15-Hete
+
+--- False Positives Removed ---
+  [863] Cotinine  — false-positive (drug metabolite / contaminant marker)
+  [1520] Ecgonine  — false-positive (drug metabolite / contaminant marker)
+  [1604] Domoic acid  — false-positive (drug metabolite / contaminant marker)
+  [1675] Ecgonine methyl ester  — false-positive (drug metabolite / contaminant marker)
+  [1694] Nornicotine  — false-positive (drug metabolite / contaminant marker)
+
+--- Interaction Impact ---
+  Pairs before:  60392
+  Pairs after:   56916
+  Pairs dropped: 2389

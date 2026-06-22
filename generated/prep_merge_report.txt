@@ -1,0 +1,10 @@
+=== Preparation Food Merge Report ===
+
+  [22] Orange Juice                              merged into  [429] Orange  (parent now in 34 drug interactions)
+  [52] Apple Sauce                               merged into  [50] Apple  (parent now in 66 drug interactions)
+  [66] Bergamot Juice                            merged into  [65] Bergamot  (parent now in 8 drug interactions)
+  [102] Clementine Juice                          merged into  [465] Clementine  (parent now in 1 drug interactions)
+  [413] Pomegranate Juice                         merged into  [276] Pomegranate  (parent now in 32 drug interactions)
+
+Interactions: 56916 → 56908
+Master entries: 1899 → 1894

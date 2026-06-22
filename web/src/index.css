@@ -1,0 +1,103 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Sora", "Manrope", "Segoe UI", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  
+  --color-clinical-blue: #0f172a;
+  --color-risk-high: #ef4444;
+  --color-risk-medium: #f97316;
+  --color-risk-low: #3b82f6;
+  --color-risk-safe: #10b981;
+}
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-900 font-sans antialiased;
+  }
+  * {
+    user-select: text;
+  }
+}
+
+.glass-card {
+  @apply bg-white/80 backdrop-blur-md border border-slate-200 shadow-sm rounded-2xl;
+}
+
+.theme-dark .glass-card {
+  @apply bg-slate-900/80 border-slate-700 shadow-none;
+}
+
+.theme-dark .bg-white,
+.theme-dark .bg-white\/80,
+.theme-dark .bg-slate-50 {
+  background-color: rgb(15 23 42 / 0.92) !important;
+}
+
+.theme-dark .text-slate-900 {
+  color: rgb(226 232 240) !important;
+}
+
+/* Stepped contrast for slate text shades so headings remain readable
+   in dark mode while truly-muted helper text stays subdued. */
+.theme-dark .text-slate-700 { color: rgb(226 232 240) !important; } /* near-primary */
+.theme-dark .text-slate-600 { color: rgb(203 213 225) !important; }
+.theme-dark .text-slate-500 { color: rgb(148 163 184) !important; }
+.theme-dark .text-slate-400 { color: rgb(100 116 139) !important; }
+
+.theme-dark .border-slate-200,
+.theme-dark .border-slate-100 {
+  border-color: rgb(51 65 85 / 0.9) !important;
+}
+
+/* Extended dark-theme cascade — covers utilities used by Pharmacist /
+   Patient / Professional dashboards that default to bright surfaces.
+   Only Tailwind named-shade utilities are targeted. Components that
+   need to opt out (e.g. printable safety slip) use arbitrary-value
+   classes such as bg-[#ffffff] which the cascade does not touch. */
+
+.theme-dark .bg-slate-100 { background-color: rgb(30 41 59 / 0.85) !important; }
+.theme-dark .bg-slate-200 { background-color: rgb(51 65 85 / 0.85) !important; }
+
+.theme-dark .border-slate-300 { border-color: rgb(71 85 105 / 0.9) !important; }
+.theme-dark .border-slate-400 { border-color: rgb(100 116 139 / 0.9) !important; }
+
+.theme-dark .text-slate-800 { color: rgb(226 232 240) !important; }
+
+/* Tinted dark backgrounds for risk cards (HIGH / MEDIUM / SAFE) */
+.theme-dark .bg-rose-50    { background-color: rgb(76 5 25 / 0.35) !important; }
+.theme-dark .bg-amber-50   { background-color: rgb(120 53 15 / 0.35) !important; }
+.theme-dark .bg-emerald-50 { background-color: rgb(6 78 59 / 0.35) !important; }
+.theme-dark .bg-rose-100   { background-color: rgb(76 5 25 / 0.45) !important; }
+.theme-dark .bg-amber-100  { background-color: rgb(120 53 15 / 0.45) !important; }
+.theme-dark .bg-emerald-100{ background-color: rgb(6 78 59 / 0.45) !important; }
+
+.theme-dark .border-rose-200    { border-color: rgb(159 18 57 / 0.6) !important; }
+.theme-dark .border-amber-200   { border-color: rgb(180 83 9 / 0.6) !important; }
+.theme-dark .border-emerald-200 { border-color: rgb(6 95 70 / 0.6) !important; }
+
+.theme-dark .text-rose-700    { color: rgb(252 165 165) !important; }
+.theme-dark .text-rose-800    { color: rgb(254 202 202) !important; }
+.theme-dark .text-amber-700   { color: rgb(252 211 77) !important; }
+.theme-dark .text-amber-800   { color: rgb(253 230 138) !important; }
+.theme-dark .text-emerald-700 { color: rgb(110 231 183) !important; }
+.theme-dark .text-emerald-800 { color: rgb(167 243 208) !important; }
+
+/* Inputs default to OS white background; flip them to slate in dark mode.
+   Excludes the safety-slip preview which uses inline arbitrary colors. */
+.theme-dark input:not([type="checkbox"]):not([type="radio"]),
+.theme-dark textarea,
+.theme-dark select {
+  background-color: rgb(15 23 42 / 0.7) !important;
+  color: rgb(226 232 240) !important;
+  border-color: rgb(71 85 105 / 0.9) !important;
+}
+.theme-dark input::placeholder,
+.theme-dark textarea::placeholder {
+  color: rgb(100 116 139) !important;
+}
+
+/* Hover utilities that would otherwise pop bright */
+.theme-dark .hover\:bg-slate-50:hover  { background-color: rgb(30 41 59 / 0.7) !important; }
+.theme-dark .hover\:bg-slate-100:hover { background-color: rgb(30 41 59 / 0.85) !important; }
+

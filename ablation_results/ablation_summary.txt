@@ -1,0 +1,48 @@
+
+============================================
+  ABLATION STUDY - PASTE-READY NUMBERS
+============================================
+
+CONFIG 1 - Layer 3 only (LightGCN baseline)
+  recall_any : 889/889 = 100.0%
+  actionable : 805/889 = 90.6%
+  HIGH=710  MEDIUM=95  LOW=84  INSUF=0
+
+CONFIG 2 - Layers 2+3 (LGN + KGE)
+  recall_any : 889/889 = 100.0%
+  actionable : 805/889 = 90.6%
+  HIGH=706  MEDIUM=99  LOW=84  INSUF=0
+  KGE marginal gain (rescued from INSUF): 0 pairs
+
+CONFIG 3 - Layers 1+2+3 (full probabilistic, no Layer 0)
+  recall_any : 889/889 = 100.0%
+  actionable : 805/889 = 90.6%
+  HIGH=706  MEDIUM=99  LOW=84  INSUF=0
+  Graph marginal gain (rescued from INSUF): 0 pairs
+
+CONFIG 4 - Full system (all layers + Layer 0)
+  recall_any : 889/889 = 100.0%
+  actionable : 809/889 = 91.0%
+  HIGH=716  MEDIUM=93  LOW=80  INSUF=0
+  Layer 0 fired on : 43 pairs
+  Layer 0 upgrades (non-HIGH -> HIGH): 10 pairs
+
+EVIDENCE LAYER COVERAGE:
+  LGN only            : 689 pairs (77.5%)
+  LGN + KGE           : 170 pairs (19.1%)
+  LGN + Graph         : 0 pairs (0.0%)
+  All three           : 30 pairs (3.4%)
+
+LAYER 0 UPGRADE CASES:
+      drug_name    food_name  lgn_score  fusion_score_corrected prob_tier        layer0_rule layer0_tier
+ferrous sulfate          Fat     0.4957                  0.4957    MEDIUM     CHELATION_RISK        HIGH
+       levodopa          Fat     0.4546                  0.4546    MEDIUM     CHELATION_RISK        HIGH
+    triamterene          Fat     0.3825                  0.3825       LOW     CHELATION_RISK        HIGH
+     lisinopril Soy Lecithin     0.4556                  0.4556    MEDIUM POTASSIUM_OVERLOAD        HIGH
+      captopril Soy Lecithin     0.4852                  0.4852    MEDIUM POTASSIUM_OVERLOAD        HIGH
+    perindopril Soy Lecithin     0.6806                  0.6806    MEDIUM POTASSIUM_OVERLOAD        HIGH
+ spironolactone Soy Lecithin     0.3206                  0.3206       LOW     CHELATION_RISK        HIGH
+      amiloride Soy Lecithin     0.4078                  0.4078       LOW POTASSIUM_OVERLOAD        HIGH
+    triamterene Soy Lecithin     0.2098                  0.2098       LOW     CHELATION_RISK        HIGH
+     phenelzine Soy Lecithin     0.6910                  0.6910    MEDIUM     CHELATION_RISK        HIGH
+============================================

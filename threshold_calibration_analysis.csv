@@ -1,0 +1,5 @@
+tier,threshold,detected,total,recall,precision,clinical_intent,description
+HIGH,0.7,18,889,0.020247469066366704,1.0,Major/Contraindicated,Requires immediate clinical intervention
+MEDIUM,0.45,542,889,0.609673790776153,1.0,Moderate,Requires monitoring + patient counselling
+LOW,0.2,827,889,0.9302587176602924,1.0,Minor/Theoretical,Flag for potential concern; insufficient alone
+ANY,0.001,888,889,0.9988751406074241,1.0,Research/Surveillance,Any evidence signal detected

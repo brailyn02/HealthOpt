@@ -1,0 +1,280 @@
+SMILES Verification Report v2 — Name vs SMILES cross-check
+======================================================================
+
+SUMMARY
+  ERROR                                    45
+  TOTAL                                    45
+
+======================================================================
+  ERROR  (45 entries)
+======================================================================
+
+  Line   : 331
+  Label  : Rosmarinic Acid
+  SMILES : Interaction [Phytic Acid + Mg / Frik]: Frik is harvested at the green stage
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 436
+  Label  : Sucrose
+  SMILES : Interaction [Tannin-Iron Chelation / Anaemia Risk]: Long boiling (30-60 min)
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 661
+  Label  : Solanine
+  SMILES : CC1CCC2(C(C1)C3C(C(C4C3
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 860
+  Label  : Sucrose
+  SMILES : Interaction [Sucrose/Fructose]: Granulated sugar + 1 cup soaked raisins
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 976
+  Label  : starch fragment
+  SMILES : Interaction [Amylose/Amylopectin]: Berkoukes pearls are much larger and
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 1034
+  Label  : Butyric Acid
+  SMILES : Interaction [Allicin — Double-Load]: 3 garlic cloves in the tomato-free
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 1097
+  Label  : Uric Acid product
+  SMILES : Interaction [Allicin — Maximum-Load]: A full head of garlic (~10–12 cloves)
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 1165
+  Label  : Uric Acid product
+  SMILES : Interaction [Ajoene]: Slow dry-heat in sealed foil (en papillote) converts
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 1322
+  Label  : Uric Acid product
+  SMILES : Interaction [Phytic Acid — Enhanced Availability]: Grinding chickpeas into
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 1414
+  Label  : Butyric Acid
+  SMILES : Interaction [Heme Iron]: Merguez uses both ground muscle meat and organ
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 1488
+  Label  : Uric Acid
+  SMILES : Interaction [Nasunin]: Eggplant skin (and residual skin even when peeled)
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 1564
+  Label  : Uric Acid
+  SMILES : Interaction [Beta-Glucans / Mermez]: Mermez is barley-based, not flour.
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 1641
+  Label  : IP6
+  SMILES : Interaction [Phytic Acid + Non-Heme Iron / Lentils]: Lentils are among the
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 1738
+  Label  : Uric Acid
+  SMILES : Interaction [Citric Acid — Double Lemon]: Lemon provides Citric Acid at two
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 1845
+  Label  : EPA repr.
+  SMILES : Interaction [Saturated Fats / Deep-Frying — Lipid Hub]: Bourak is deep-fried
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 1986
+  Label  : Limonene
+  SMILES : Interaction [Honey-Lipid Synergy / Fast-Release Sugar Hub]: Zlabia is unique
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 2144
+  Label  : Geraniol
+  SMILES : Interaction [Lamination Effect / High-Latency Glycaemic Profile]:
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 2312
+  Label  : Linalool
+  SMILES : Interaction [Non-Cohesive Sandy Matrix / Moderate-Slow Glycaemic Node]:
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 2470
+  Label  : Limonene
+  SMILES : Interaction [Friable Shortcrust Matrix / Controlled Slow Glucose — Aryan]:
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 2615
+  Label  : Sucrose
+  SMILES : Interaction [Pyrodextrins / Rapid-Stable Gastric Digestion -- Postpartum
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 2714
+  Label  : Gingerol
+  SMILES : Interaction [Purines / Tripe]: Douwara uses offal (tripe = stomach lining),
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 2813
+  Label  : Oleic Acid
+  SMILES : Interaction [NaHCO₃ / Bicarbonate Soak]: Chickpeas are soaked 24h in
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 2957
+  Label  : Uric Acid
+  SMILES : Interaction [Phytic Acid + Saponins / White Beans]: 24-hour warm soak
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 3055
+  Label  : Butyric Acid rep.
+  SMILES : Interaction [Ca²⁺ / Klila]: Klila is a concentrated dried fermented cheese
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 3157
+  Label  : Ascorbic Acid
+  SMILES : Interaction [Capsaicin / Hot Peppers]: Roasting concentrates capsaicin in the
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 3273
+  Label  : Hypoxanthine
+  SMILES : Interaction [Thin-Pastry Lipid Hub]: Malsouka (brick pastry / warka) is
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 3371
+  Label  : Tripalmitin
+  SMILES : Interaction [Amylopectin / Rapid Glycaemic Flatbread]: Mhadjeb dough is kneaded
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 3468
+  Label  : Butyric Acid
+  SMILES : Interaction [Amylopectin / Pure Glycaemic Flatbread]: Baghrir is unique in
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 3575
+  Label  : Na ion
+  SMILES : Interaction [Partially Hydrolysed Starch / Glycaemic Velocity]: Yeast
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 3682
+  Label  : Acrylamide
+  SMILES : Interaction [Bess Technique / Lipid-Encapsulated Starch]: The defining step of
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 3787
+  Label  : Na ion
+  SMILES : Interaction [Dense Unleavened Starch / Low-Moderate Glycaemic Velocity]: Ftir
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 3918
+  Label  : ALA
+  SMILES : Interaction [K⁺ / Hyperkalemia — Date Paste Filling]: Ghers (compressed date
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 4095
+  Label  : Geraniol
+  SMILES : Interaction [Double-Fried Protein-Lipid Barrier / Slow-Release Node]:
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 4265
+  Label  : Sucrose
+  SMILES : Interaction [Skin-On Peanut / Resveratrol + PAC Antiplatelet Node]:
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 4415
+  Label  : Bicarbonate
+  SMILES : Interaction [2:1 Shortcrust / High-Fat Starch Encapsulation — Low Glycaemic
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 4570
+  Label  : Fructose
+  SMILES : Interaction [1:1 Fiber-Starch Matrix / Sustained Energy + Lowest GI in
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 4741
+  Label  : Linalool
+  SMILES : Interaction [Sha'ra Strands / High-Surface Bimodal Glucose]: Fine vermicelli
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 4919
+  Label  : Sesamin abbrev.
+  SMILES : Interaction [Bessess + Deep-Fry / Double-Lipid Profile -- Maximum Cmax]:
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 5075
+  Label  : Fructose
+  SMILES : Interaction [Dioul High-Porosity Structure / Fastest Glucose Entry in
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 5211
+  Label  : Cuminaldehyde
+  SMILES : Interaction [Indole-3-Carbinol / CYP1A2 Induction -- Estrogen Pathway]:
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 5306
+  Label  : Apigenin
+  SMILES : Interaction [Full Starch Gelatinisation / Meatless Broth = Fastest Potato
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 5413
+  Label  : Piperine
+  SMILES : Interaction [Pea Amylose+Pectin Gel / Glycaemic Buffer -- Reduced GI vs
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 5517
+  Label  : Allicin
+  SMILES : Interaction [Blending / High Absorption Coefficient -- Cell Wall Release]:
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 5613
+  Label  : Glucose unit
+  SMILES : Interaction [Artichoke Cynarin / Choleretic = Cmax Amplifier + Liver
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+
+
+  Line   : 5695
+  Label  : 4-HNE
+  SMILES : Interaction [Acrylamide + Starch-Lipid Complex / Maillard-Fried 1kg Potato
+  CID(S) : ERROR  →  400 Client Error: PUGREST.BadRequest for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/property/IUPACName,MolecularFormula,IsomericSMILES/JSON
+

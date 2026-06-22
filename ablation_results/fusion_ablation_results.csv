@@ -1,0 +1,6 @@
+config,total,high,medium,low,insufficient,actionable_rate
+Current self-weighted Bayesian,889,553,252,50,34,0.905511811023622
+Linear weighted average,889,553,197,98,41,0.843644544431946
+Soft-voting (softmax),889,553,197,90,49,0.843644544431946
+Max-pooling,889,553,252,50,34,0.905511811023622
+Attention mechanism,889,553,251,51,34,0.9043869516310461

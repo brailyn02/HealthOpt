@@ -1,0 +1,11 @@
+REORDERED BIBLIOGRAPHY (by first mention in thesis)
+============================================================
+
+[16] R. B. Stricker et al., “The menstrual cycle and drug metabolism,”Pharmacoge- nomics, vol. 7, no. 6, pp. 877–885, 2006.
+
+[19] F. Franconi and I. Campesi, “Pharmacogenomics, pharmacokinetics and pharmaco- dynamics: interaction with biological differences between men and women,”British J. Pharmacology, vol. 171, no. 3, pp. 580–594, 2014.
+
+[21] N. Madera-Salcedo et al., “POMELO: A Comprehensive Database and Search Engine for Plant Metabolites and Their Interactions with Drugs,”J. Chemical Information and Modeling, vol. 62, 2022.
+
+[26] T. Luo, Z. Lu, J. Zhang, et al., “DFinder: A novel end-to-end graph-based deep learning method to identify drug-food interactions,”Briefings in Bioinformatics, vol. 24, no. 2, 2023.
+

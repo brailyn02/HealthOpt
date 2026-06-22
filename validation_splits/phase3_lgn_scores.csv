@@ -1,0 +1,890 @@
+drug,food,drug_id,food_id,drug_found,food_found,score
+levothyroxine,Phytic Acid,722,762,True,True,0.9685187339782715
+ciprofloxacin,Phytic Acid,258,762,True,True,0.8834320902824402
+digoxin,Phytic Acid,378,762,True,True,0.8753791451454163
+levothyroxine,Ferulic Acid,722,763,True,True,0.8650798201560974
+digoxin,Ferulic Acid,378,763,True,True,0.8705165982246399
+lisinopril,Allicin,732,1011,True,True,0.9936633110046387
+warfarin,Allicin,1396,1011,True,True,0.981732189655304
+phenytoin,Allicin,1004,1011,True,True,0.9975583553314209
+lisinopril,Capsaicin,732,80,True,True,0.9886562824249268
+warfarin,Capsaicin,1396,80,True,True,0.9558236002922058
+theophylline,Phytic Acid,1271,762,True,True,0.9869062304496765
+insulin,Amylopectin,1615,1801,True,True,0.8713117837905884
+metformin,Amylopectin,794,1801,True,True,0.8868996500968933
+allopurinol,Amylopectin,36,1801,True,True,0.8582687377929688
+insulin,Potassium,1615,22,True,True,0.09699078649282455
+insulin,Cinnamaldehyde,1615,797,True,True,0.9403366446495056
+metformin,Cinnamaldehyde,794,797,True,True,0.9280405044555664
+ramipril,Capsaicin,1092,80,True,True,0.9891189336776733
+perindopril,Capsaicin,988,80,True,True,0.9964225888252258
+lithium,Na+,1475,795,True,True,0.7896421551704407
+lithium,Allicin,1475,1011,True,True,0.6750865578651428
+saquinavir,Allicin,1149,1011,True,True,0.9972468614578247
+cyclosporine,Fat,306,9,True,True,0.9949849843978882
+diazepam,Fat,363,9,True,True,0.9919448494911194
+alprazolam,Fat,42,9,True,True,0.9955605268478394
+lorazepam,Fat,742,9,True,True,0.9969455599784851
+warfarin,Fat,1396,9,True,True,0.9946591258049011
+allopurinol,Fat,36,9,True,True,0.42602673172950745
+cyclosporine,Allicin,306,1011,True,True,0.9958599209785461
+orlistat,Allicin,929,1011,True,True,0.9690840840339661
+insulin,Coumarin,1615,645,True,True,0.992741048336029
+metformin,Coumarin,794,645,True,True,0.9889406561851501
+insulin,Sucrose,1615,340,True,True,0.5577756762504578
+insulin,Glucose,1615,509,True,True,0.24864323437213898
+insulin,Butyric Acid,1615,679,True,True,0.8017204403877258
+metformin,Butyric Acid,794,679,True,True,0.5150617361068726
+statins,Butyric Acid,1772,679,True,True,0.8250377774238586
+tetracycline,Phytic Acid,1266,762,True,True,0.9248561263084412
+tetracycline,Magnesium,1266,20,True,True,0.9943866729736328
+doxycycline,Phytic Acid,405,762,True,True,0.901136040687561
+doxycycline,Magnesium,405,20,True,True,0.9929558038711548
+duloxetine,Phytic Acid,413,762,True,True,0.7390083074569702
+duloxetine,Magnesium,413,20,True,True,0.987092912197113
+metformin,Phytic Acid,794,762,True,True,0.986086368560791
+metformin,Magnesium,794,20,True,True,0.9929036498069763
+ferrous sulfate anhydrous,Phytic Acid,513,762,True,True,0.7843300104141235
+ferrous sulfate anhydrous,Magnesium,513,20,True,True,0.9998194575309753
+ferrous sulfate,Phytic Acid,1786,762,True,True,0.7777201533317566
+ferrous sulfate,Magnesium,1786,20,True,True,0.47453057765960693
+ferrous gluconate,Phytic Acid,512,762,True,True,0.6374139785766602
+ferrous gluconate,Magnesium,512,20,True,True,0.9986684322357178
+ferrous fumarate,Phytic Acid,511,762,True,True,0.9611349701881409
+ferrous fumarate,Magnesium,511,20,True,True,0.9999486207962036
+ferrous sulfate anhydrous,Gallic Acid,513,160,True,True,0.9678782820701599
+ferrous sulfate,Gallic Acid,1786,160,True,True,0.262388676404953
+ferrous gluconate,Gallic Acid,512,160,True,True,0.6833661794662476
+ferrous fumarate,Gallic Acid,511,160,True,True,0.994492769241333
+ca,Gallic Acid,1478,160,True,True,0.6971423029899597
+zn,Gallic Acid,1525,160,True,True,0.9559829831123352
+calcium carbonate,Gallic Acid,185,160,True,True,0.9934864044189453
+zinc sulfate,Gallic Acid,1414,160,True,True,0.983144998550415
+clozapine,Gallic Acid,283,160,True,True,0.9975720047950745
+theophylline,Gallic Acid,1271,160,True,True,0.9996455907821655
+diazepam,Gallic Acid,363,160,True,True,0.9976876974105835
+alprazolam,Gallic Acid,42,160,True,True,0.9943641424179077
+lorazepam,Gallic Acid,742,160,True,True,0.0749124065041542
+propranolol,Gallic Acid,1068,160,True,True,0.987858772277832
+atenolol,Gallic Acid,1724,160,True,True,0.9973946809768677
+bisoprolol,Gallic Acid,153,160,True,True,0.9850266575813293
+insulin,Gallic Acid,1615,160,True,True,0.9357559084892273
+empagliflozin,Gallic Acid,433,160,True,True,0.9610964059829712
+dapagliflozin,Gallic Acid,322,160,True,True,0.9904749989509583
+canagliflozin,Gallic Acid,190,160,True,True,0.9977965354919434
+ferrous sulfate,Caffeine,1786,1,True,True,0.01766877807676792
+ca,Caffeine,1478,1,True,True,0.13904014229774475
+zn,Caffeine,1525,1,True,True,0.9654155969619751
+calcium carbonate,Caffeine,185,1,True,True,0.9917022585868835
+zinc sulfate,Caffeine,1414,1,True,True,0.9988389611244202
+bisoprolol,Caffeine,153,1,True,True,0.9995971322059631
+insulin,Caffeine,1615,1,True,True,0.9875820875167847
+empagliflozin,Caffeine,433,1,True,True,0.9963478446006775
+dapagliflozin,Caffeine,322,1,True,True,0.9997145533561707
+canagliflozin,Caffeine,190,1,True,True,0.9998432397842407
+ferrous sulfate anhydrous,Saponins,513,1046,True,True,0.872947633266449
+ferrous sulfate,Saponins,1786,1046,True,True,0.3062213957309723
+ferrous gluconate,Saponins,512,1046,True,True,0.8284960389137268
+ferrous fumarate,Saponins,511,1046,True,True,0.9734741449356079
+ca,Saponins,1478,1046,True,True,0.2661896049976349
+zn,Saponins,1525,1046,True,True,0.9165759682655334
+calcium carbonate,Saponins,185,1046,True,True,0.985782265663147
+zinc sulfate,Saponins,1414,1046,True,True,0.9169929027557373
+ciprofloxacin,Saponins,258,1046,True,True,0.9571748971939087
+clozapine,Saponins,283,1046,True,True,0.9996370077133179
+canagliflozin,Sucrose,190,340,True,True,0.9993104934692383
+glipizide,Quercetin,588,279,True,True,0.9983730316162109
+flurbiprofen,Quercetin,546,279,True,True,0.9993101358413696
+glipizide,Allicin,588,1011,True,True,0.9638384580612183
+flurbiprofen,Allicin,546,1011,True,True,0.9635188579559326
+lisinopril,Choline,732,579,True,True,0.9388737678527832
+enalapril,Choline,435,579,True,True,0.9682961702346802
+ramipril,Choline,1092,579,True,True,0.9994514584541321
+captopril,Choline,198,579,True,True,0.9510141611099243
+perindopril,Choline,988,579,True,True,0.9900762438774109
+oxybutynin,Choline,946,579,True,True,0.9808515310287476
+ne,Choline,1774,579,True,True,0.19729012250900269
+lisinopril,Oleuropein,732,1411,True,True,0.5784035325050354
+amlodipine,Oleuropein,59,1411,True,True,0.3225057125091553
+hydrochlorothiazide,Oleuropein,604,1411,True,True,0.1291261464357376
+metoprolol,Oleuropein,818,1411,True,True,0.17492002248764038
+losartan,Oleuropein,745,1411,True,True,0.8889284729957581
+enalapril,Oleuropein,435,1411,True,True,0.48897188901901245
+ramipril,Oleuropein,1092,1411,True,True,0.5427762866020203
+captopril,Oleuropein,198,1411,True,True,0.6783012747764587
+perindopril,Oleuropein,988,1411,True,True,0.3390618860721588
+cyclosporine,Oleuropein,306,1411,True,True,0.7877600193023682
+simvastatin,Oleuropein,1174,1411,True,True,0.6061632633209229
+midazolam,Oleuropein,825,1411,True,True,0.8934293389320374
+tacrolimus,Oleuropein,1224,1411,True,True,0.420474648475647
+simvastatin,Allicin,1174,1011,True,True,0.987885594367981
+midazolam,Allicin,825,1011,True,True,0.9049229025840759
+tacrolimus,Allicin,1224,1011,True,True,0.9977232813835144
+tacrolimus,Amylopectin,1224,1801,True,True,0.9150184392929077
+insulin,Quercetin,1615,279,True,True,0.4186290502548218
+levothyroxine,Curcumin,722,738,True,True,0.9985643029212952
+insulin,Curcumin,1615,738,True,True,0.9950634837150574
+glipizide,Curcumin,588,738,True,True,0.996579110622406
+flurbiprofen,Curcumin,546,738,True,True,0.9917799830436707
+digoxin,Allicin,378,1011,True,True,0.9939669370651245
+prednisone,Vitamin K,1048,469,True,True,0.9196804761886597
+digoxin,Vitamin K,378,469,True,True,0.972285270690918
+diazepam,Vitamin K,363,469,True,True,0.8625494241714478
+alprazolam,Vitamin K,42,469,True,True,0.8437573909759521
+lorazepam,Vitamin K,742,469,True,True,0.2871893346309662
+statins,Amylopectin,1772,1801,True,True,0.7919390201568604
+cyclosporine,Amylopectin,306,1801,True,True,0.8043267130851746
+simvastatin,Amylopectin,1174,1801,True,True,0.8110002875328064
+atorvastatin,Amylopectin,96,1801,True,True,0.6010235548019409
+cyclosporine,Butyric Acid,306,679,True,True,0.7223399877548218
+simvastatin,Butyric Acid,1174,679,True,True,0.49065059423446655
+atorvastatin,Butyric Acid,96,679,True,True,0.4073651432991028
+atropine,Butyric Acid,98,679,True,True,0.5553998351097107
+oxybutynin,Butyric Acid,946,679,True,True,0.847743034362793
+ne,Butyric Acid,1774,679,True,True,0.855867862701416
+statins,Quercetin,1772,279,True,True,0.7976906895637512
+statins,Sucrose,1772,340,True,True,0.9073274731636047
+statins,D-Fructose,1772,514,True,True,0.920194685459137
+cyclosporine,Sucrose,306,340,True,True,0.9967909455299377
+cyclosporine,D-Fructose,306,514,True,True,0.9987795948982239
+insulin,Trans-Resveratrol,1615,872,True,True,0.9859026670455933
+statins,Trans-Resveratrol,1772,872,True,True,0.950639545917511
+cyclosporine,Trans-Resveratrol,306,872,True,True,0.9612149000167847
+atorvastatin,Trans-Resveratrol,96,872,True,True,0.9812768697738647
+insulin,Piperine,1615,264,True,True,0.6560056209564209
+insulin,Starch,1615,831,True,True,0.97536700963974
+tacrolimus,Starch,1224,831,True,True,0.9663887619972229
+clopidogrel,Allicin,278,1011,True,True,0.9810325503349304
+statins,Allicin,1772,1011,True,True,0.5692601203918457
+atorvastatin,Allicin,96,1011,True,True,0.986249566078186
+statins,Fat,1772,9,True,True,0.9938462376594543
+simvastatin,Fat,1174,9,True,True,0.9917279481887817
+atorvastatin,Fat,96,9,True,True,0.8551475405693054
+fe,Phytic Acid,1445,762,True,True,0.33571353554725647
+lisinopril,Phytic Acid,732,762,True,True,0.7779774069786072
+enalapril,Phytic Acid,435,762,True,True,0.9311712384223938
+ramipril,Phytic Acid,1092,762,True,True,0.9972687363624573
+captopril,Phytic Acid,198,762,True,True,0.9495022296905518
+perindopril,Phytic Acid,988,762,True,True,0.8414406776428223
+levothyroxine,Cuminaldehyde,722,1503,True,True,0.6757013201713562
+t,Iron,1824,18,True,True,0.9326222538948059
+al,Iron,1455,18,True,True,0.17550130188465118
+levothyroxine,Fat,722,9,True,True,0.9997649788856506
+t,Fat,1824,9,True,True,0.91376793384552
+al,Fat,1455,9,True,True,0.9913293123245239
+amiodarone,Fat,56,9,True,True,0.9231081008911133
+t,Cuminaldehyde,1824,1503,True,True,0.9715406894683838
+al,Cuminaldehyde,1455,1503,True,True,0.9201790690422058
+ferrous sulfate anhydrous,Anthocyanins,513,47,True,True,0.6214934587478638
+ferrous sulfate,Anthocyanins,1786,47,True,True,0.037817105650901794
+ferrous gluconate,Anthocyanins,512,47,True,True,0.6575670838356018
+ferrous fumarate,Anthocyanins,511,47,True,True,0.7431302666664124
+ferrous sulfate,Fat,1786,9,True,True,0.49567434191703796
+ferrous gluconate,Fat,512,9,True,True,0.9995800852775574
+ferrous fumarate,Fat,511,9,True,True,0.9983364939689636
+fe,Fat,1445,9,True,True,0.7779844403266907
+saquinavir,Fat,1149,9,True,True,0.9766489863395691
+digoxin,Fat,378,9,True,True,0.9828064441680908
+amiodarone,Allicin,56,1011,True,True,0.9886981248855591
+fe,Allicin,1445,1011,True,True,0.5086191296577454
+ferrous sulfate anhydrous,Acetic Acid,513,33,True,True,0.868926465511322
+ferrous sulfate,Acetic Acid,1786,33,True,True,0.7633852362632751
+ferrous gluconate,Acetic Acid,512,33,True,True,0.7090364098548889
+ferrous fumarate,Acetic Acid,511,33,True,True,0.994341254234314
+warfarin,Acetic Acid,1396,33,True,True,0.8088283538818359
+saquinavir,Acetic Acid,1149,33,True,True,0.7518078684806824
+allopurinol,Acetic Acid,36,33,True,True,0.39965224266052246
+digoxin,Acetic Acid,378,33,True,True,0.6850423216819763
+furosemide,Apigenin,563,656,True,True,0.9396971464157104
+hydrochlorothiazide,Apigenin,604,656,True,True,0.867525577545166
+torasemide,Apigenin,1308,656,True,True,0.9408944845199585
+spironolactone,Apigenin,1201,656,True,True,0.9857571721076965
+lisinopril,Apigenin,732,656,True,True,0.9738425612449646
+enalapril,Apigenin,435,656,True,True,0.9896281957626343
+ramipril,Apigenin,1092,656,True,True,0.9643463492393494
+captopril,Apigenin,198,656,True,True,0.9982774257659912
+perindopril,Apigenin,988,656,True,True,0.9681892991065979
+codeine,Carvone,287,32,True,True,0.9139096736907959
+tramadol,Carvone,1312,32,True,True,0.9345623254776001
+allopurinol,Carvone,36,32,True,True,0.7575446963310242
+colchicine,Carvone,289,32,True,True,0.8998796343803406
+al,Purine,1455,799,True,True,0.1276959627866745
+da,Purine,1603,799,True,True,0.08095260709524155
+metformin,Purine,794,799,True,True,0.9816175103187561
+levothyroxine,Purine,722,799,True,True,0.9767917990684509
+ciprofloxacin,Purine,258,799,True,True,0.5582014322280884
+colchicine,Purine,289,799,True,True,0.9655808210372925
+buspirone,Phytic Acid,174,762,True,True,0.3850193917751312
+buspirone,Iron,174,18,True,True,0.9971946477890015
+spironolactone,Phytic Acid,1201,762,True,True,0.8379209041595459
+aluminum hydroxide,Citric Acid,45,536,True,True,0.9664603471755981
+magnesium hydroxide,Citric Acid,2647,536,True,True,0.7569527626037598
+ferrous sulfate anhydrous,Citric Acid,513,536,True,True,0.49987688660621643
+ferrous sulfate,Citric Acid,1786,536,True,True,0.29171544313430786
+ferrous gluconate,Citric Acid,512,536,True,True,0.9782201051712036
+ferrous fumarate,Citric Acid,511,536,True,True,0.35716521739959717
+insulin,Soy Lecithin,1615,189,True,True,0.9506596326828003
+insulin,Cholesterol,1615,602,True,True,0.5374264121055603
+metformin,Soy Lecithin,794,189,True,True,0.819259524345398
+cyclosporine,Soy Lecithin,306,189,True,True,0.8566226959228516
+isotretinoin,Soy Lecithin,666,189,True,True,0.9949703812599182
+allopurinol,Soy Lecithin,36,189,True,True,0.39257922768592834
+allopurinol,Cholesterol,36,602,True,True,0.9867809414863586
+aluminum hydroxide,Purine,45,799,True,True,0.9055644869804382
+magnesium hydroxide,Purine,2647,799,True,True,0.9923294186592102
+ritonavir,Fat,1126,9,True,True,0.5711656212806702
+insulin,Fat,1615,9,True,True,0.4174524247646332
+metformin,Fat,794,9,True,True,0.37542611360549927
+levodopa,Fat,715,9,True,True,0.45458105206489563
+ciprofloxacin,Fat,258,9,True,True,0.9470317959785461
+tetracycline,Fat,1266,9,True,True,0.7473026514053345
+doxycycline,Fat,405,9,True,True,0.9719093441963196
+ritonavir,Amylopectin,1126,1801,True,True,0.7095292806625366
+statins,L-Leucine,1772,511,True,True,0.9737316966056824
+cyclosporine,L-Leucine,306,511,True,True,0.9874552488327026
+ritonavir,L-Leucine,1126,511,True,True,0.9959820508956909
+insulin,L-Leucine,1615,511,True,True,0.822839617729187
+allopurinol,L-Leucine,36,511,True,True,0.9986880421638489
+levodopa,L-Leucine,715,511,True,True,0.9205737709999084
+levothyroxine,L-Leucine,722,511,True,True,0.9986031651496887
+statins,Iodine,1772,492,True,True,0.7576027512550354
+statins,Alpha-Linolenic Acid,1772,1049,True,True,0.9037531614303589
+cyclosporine,Iodine,306,492,True,True,0.9922635555267334
+cyclosporine,Alpha-Linolenic Acid,306,1049,True,True,0.8688105940818787
+atorvastatin,Iodine,96,492,True,True,0.9271515011787415
+atorvastatin,Alpha-Linolenic Acid,96,1049,True,True,0.935067892074585
+simvastatin,Iodine,1174,492,True,True,0.8873966932296753
+simvastatin,Alpha-Linolenic Acid,1174,1049,True,True,0.9417238831520081
+ritonavir,Iodine,1126,492,True,True,0.8336307406425476
+ritonavir,Alpha-Linolenic Acid,1126,1049,True,True,0.5589503049850464
+insulin,Iodine,1615,492,True,True,0.13640333712100983
+metformin,Alpha-Linolenic Acid,794,1049,True,True,0.9892230033874512
+allopurinol,Iodine,36,492,True,True,0.9974014759063721
+allopurinol,Alpha-Linolenic Acid,36,1049,True,True,0.9392002820968628
+levodopa,Iodine,715,492,True,True,0.8981470465660095
+levodopa,Alpha-Linolenic Acid,715,1049,True,True,0.9613170027732849
+levothyroxine,Alpha-Linolenic Acid,722,1049,True,True,0.9949362277984619
+warfarin,Iodine,1396,492,True,True,0.9708280563354492
+ciprofloxacin,Iodine,258,492,True,True,0.9991926550865173
+ciprofloxacin,Alpha-Linolenic Acid,258,1049,True,True,0.6954779624938965
+tetracycline,Iodine,1266,492,True,True,0.999757707118988
+tetracycline,Alpha-Linolenic Acid,1266,1049,True,True,0.790999174118042
+doxycycline,Alpha-Linolenic Acid,405,1049,True,True,0.9482812881469727
+statins,Calcium,1772,2,True,True,0.9435853958129883
+insulin,Calcium,1615,2,True,True,0.35576340556144714
+levodopa,Calcium,715,2,True,True,0.7418066263198853
+torasemide,Glucose,1308,509,True,True,0.9999949932098389
+statins,Glucose,1772,509,True,True,0.8656567931175232
+isotretinoin,Glucose,666,509,True,True,0.9996688365936279
+statins,Soy Lecithin,1772,189,True,True,0.8948453664779663
+simvastatin,Soy Lecithin,1174,189,True,True,0.7474326491355896
+cyclosporine,Limonene,306,1051,True,True,0.9870265126228333
+isosorbide mononitrate,Fat,665,9,True,True,0.7583339214324951
+nitroglycerin,Fat,900,9,True,True,0.4092729389667511
+aspirin,Fat,1469,9,True,True,0.9942538142204285
+clopidogrel,Fat,278,9,True,True,0.9287635087966919
+lithium,Fat,1475,9,True,True,0.9381338357925415
+empagliflozin,Fat,433,9,True,True,0.10216901451349258
+dapagliflozin,Fat,322,9,True,True,0.8873863816261292
+canagliflozin,Fat,190,9,True,True,0.4482816159725189
+insulin,Arginine,1615,512,True,True,0.7583644390106201
+insulin,Amygdalin,1615,671,True,True,0.5785350799560547
+metformin,Amygdalin,794,671,True,True,0.9343569278717041
+statins,Arginine,1772,512,True,True,0.9652305245399475
+statins,Amygdalin,1772,671,True,True,0.8816696405410767
+cyclosporine,Arginine,306,512,True,True,0.9960693120956421
+cyclosporine,Amygdalin,306,671,True,True,0.9322643876075745
+amiodarone,Alpha-Linolenic Acid,56,1049,True,True,0.9412127137184143
+amiodarone,Amygdalin,56,671,True,True,0.9890385866165161
+simvastatin,Amygdalin,1174,671,True,True,0.9964097142219543
+sildenafil,Alpha-Linolenic Acid,1168,1049,True,True,0.8486407995223999
+sildenafil,Amygdalin,1168,671,True,True,0.9524563550949097
+t,Arginine,1824,512,True,True,0.5061655640602112
+t,Alpha-Linolenic Acid,1824,1049,True,True,0.9138491749763489
+t,Amygdalin,1824,671,True,True,0.6722337007522583
+isosorbide mononitrate,Arginine,665,512,True,True,0.9236147403717041
+isosorbide mononitrate,Alpha-Linolenic Acid,665,1049,True,True,0.8840795159339905
+isosorbide mononitrate,Amygdalin,665,671,True,True,0.8401792049407959
+nitroglycerin,Alpha-Linolenic Acid,900,1049,True,True,0.835905134677887
+nitroglycerin,Amygdalin,900,671,True,True,0.9666218161582947
+lithium,Arginine,1475,512,True,True,0.9152011275291443
+lithium,Alpha-Linolenic Acid,1475,1049,True,True,0.8767771124839783
+lithium,Amygdalin,1475,671,True,True,0.7413111925125122
+digoxin,Alpha-Linolenic Acid,378,1049,True,True,0.8772398829460144
+digoxin,Amygdalin,378,671,True,True,0.9587850570678711
+empagliflozin,Alpha-Linolenic Acid,433,1049,True,True,0.9865495562553406
+empagliflozin,Amygdalin,433,671,True,True,0.9845387935638428
+dapagliflozin,Arginine,322,512,True,True,0.9996281862258911
+dapagliflozin,Alpha-Linolenic Acid,322,1049,True,True,0.9949871301651001
+dapagliflozin,Amygdalin,322,671,True,True,0.9516488909721375
+canagliflozin,Arginine,190,512,True,True,0.9830995798110962
+canagliflozin,Alpha-Linolenic Acid,190,1049,True,True,0.9811135530471802
+canagliflozin,Amygdalin,190,671,True,True,0.8988668918609619
+amiodarone,Honey,56,177,True,True,0.9931083917617798
+sildenafil,Honey,1168,177,True,True,0.9987609386444092
+t,Honey,1824,177,True,True,0.8724139928817749
+isosorbide mononitrate,Honey,665,177,True,True,0.9448177814483643
+aspirin,Honey,1469,177,True,True,0.9614194631576538
+clopidogrel,Honey,278,177,True,True,0.9994382262229919
+diazepam,Honey,363,177,True,True,0.9732378125190735
+alprazolam,Honey,42,177,True,True,0.8671944737434387
+lorazepam,Honey,742,177,True,True,0.865953266620636
+insulin,Linalool,1615,194,True,True,0.22802744805812836
+insulin,Geraniol,1615,1320,True,True,0.8810110092163086
+metformin,Linalool,794,194,True,True,0.8041667938232422
+metformin,Geraniol,794,1320,True,True,0.7751439809799194
+diazepam,Geraniol,363,1320,True,True,0.852169394493103
+alprazolam,Linalool,42,194,True,True,0.7808818817138672
+alprazolam,Geraniol,42,1320,True,True,0.5841088891029358
+lorazepam,Linalool,742,194,True,True,0.5091095566749573
+lorazepam,Geraniol,742,1320,True,True,0.919026255607605
+lisinopril,Amylopectin,732,1801,True,True,0.7413550615310669
+enalapril,Amylopectin,435,1801,True,True,0.6246511936187744
+ramipril,Amylopectin,1092,1801,True,True,0.9050568342208862
+captopril,Amylopectin,198,1801,True,True,0.4622980058193207
+perindopril,Amylopectin,988,1801,True,True,0.7602995038032532
+spironolactone,Amylopectin,1201,1801,True,True,0.4700082242488861
+amiloride,Amylopectin,50,1801,True,True,0.903242290019989
+triamterene,Amylopectin,1321,1801,True,True,0.4956376552581787
+rs,Amylopectin,1435,1801,True,True,0.8810976147651672
+amlodipine,Amylopectin,59,1801,True,True,0.7374833822250366
+diltiazem,Amylopectin,382,1801,True,True,0.6387333273887634
+lisinopril,Butyric Acid,732,679,True,True,0.7128151059150696
+enalapril,Butyric Acid,435,679,True,True,0.3140723705291748
+ramipril,Butyric Acid,1092,679,True,True,0.74406498670578
+captopril,Butyric Acid,198,679,True,True,0.25417032837867737
+perindopril,Butyric Acid,988,679,True,True,0.3956369459629059
+spironolactone,Butyric Acid,1201,679,True,True,0.2578570246696472
+amiloride,Butyric Acid,50,679,True,True,0.635657548904419
+triamterene,Butyric Acid,1321,679,True,True,0.4092720150947571
+rs,Butyric Acid,1435,679,True,True,0.855832040309906
+amlodipine,Butyric Acid,59,679,True,True,0.6252805590629578
+diltiazem,Butyric Acid,382,679,True,True,0.36072731018066406
+warfarin,Butyric Acid,1396,679,True,True,0.622808039188385
+diazepam,Butyric Acid,363,679,True,True,0.6099216938018799
+alprazolam,Butyric Acid,42,679,True,True,0.2676863372325897
+lorazepam,Butyric Acid,742,679,True,True,0.9606188535690308
+amiloride,Magnesium,50,20,True,True,0.998736560344696
+triamterene,Magnesium,1321,20,True,True,0.9844866394996643
+rs,Potassium,1435,22,True,True,0.029978185892105103
+rs,Magnesium,1435,20,True,True,0.9777926206588745
+amlodipine,Magnesium,59,20,True,True,0.9960852861404419
+diltiazem,Magnesium,382,20,True,True,0.8699987530708313
+fe,Arginine,1445,512,True,True,0.13476146757602692
+fe,Magnesium,1445,20,True,True,0.5083716511726379
+enalapril,Magnesium,435,20,True,True,0.9966094493865967
+ramipril,Magnesium,1092,20,True,True,0.9854073524475098
+perindopril,Arginine,988,512,True,True,0.9962510466575623
+metformin,Protein,794,23,True,True,0.9136329889297485
+insulin,Protein,1615,23,True,True,0.9874964952468872
+statins,Protein,1772,23,True,True,0.9546775221824646
+cyclosporine,Protein,306,23,True,True,0.7430508732795715
+simvastatin,Protein,1174,23,True,True,0.9669344425201416
+fe,Protein,1445,23,True,True,0.4566943645477295
+lisinopril,Protein,732,23,True,True,0.9866604804992676
+enalapril,Protein,435,23,True,True,0.942070484161377
+ramipril,Protein,1092,23,True,True,0.9558756351470947
+captopril,Protein,198,23,True,True,0.8817585110664368
+perindopril,Protein,988,23,True,True,0.9554125070571899
+sildenafil,Protein,1168,23,True,True,0.9798964262008667
+t,Protein,1824,23,True,True,0.8846423625946045
+nitroglycerin,Protein,900,23,True,True,0.9306678175926208
+diazepam,Protein,363,23,True,True,0.9568317532539368
+alprazolam,Protein,42,23,True,True,0.9018739461898804
+lorazepam,Protein,742,23,True,True,0.9595624208450317
+midazolam,Protein,825,23,True,True,0.8360751867294312
+tacrolimus,Protein,1224,23,True,True,0.8994717001914978
+statins,Limonene,1772,1051,True,True,0.5147532224655151
+statins,Linalool,1772,194,True,True,0.724436342716217
+cyclosporine,Linalool,306,194,True,True,0.9473203420639038
+simvastatin,Limonene,1174,1051,True,True,0.9956586360931396
+simvastatin,Linalool,1174,194,True,True,0.8990932106971741
+fe,Limonene,1445,1051,True,True,0.7183423042297363
+fe,Linalool,1445,194,True,True,0.7774977087974548
+codeine,Fat,287,9,True,True,0.9898558855056763
+tamoxifen,Fat,1230,9,True,True,0.9496322870254517
+metoprolol,Fat,818,9,True,True,0.784763753414154
+estradiol,Fat,1797,9,True,True,0.9985912442207336
+progesterone,Fat,1061,9,True,True,0.7666884064674377
+conjugated estrogens,Fat,292,9,True,True,0.8876088261604309
+omeprazole,Fat,924,9,True,True,0.6874169111251831
+lansoprazole,Fat,690,9,True,True,0.9816848635673523
+erythromycin,Fat,456,9,True,True,0.9541736245155334
+clarithromycin,Fat,263,9,True,True,0.9874731302261353
+metformin,Sesame,794,322,True,True,0.9878835082054138
+insulin,Sesame,1615,322,True,True,0.9834651947021484
+empagliflozin,Sesame,433,322,True,True,0.5356793999671936
+dapagliflozin,Sesame,322,322,True,True,0.9985182881355286
+canagliflozin,Sesame,190,322,True,True,0.9523935317993164
+statins,Sesame,1772,322,True,True,0.923576295375824
+cyclosporine,Sesame,306,322,True,True,0.9712995290756226
+isotretinoin,Sesame,666,322,True,True,0.982620894908905
+simvastatin,Sesame,1174,322,True,True,0.9791855216026306
+orlistat,Sesame,929,322,True,True,0.9316716194152832
+codeine,Sesame,287,322,True,True,0.9328256249427795
+tamoxifen,Sesame,1230,322,True,True,0.9909031987190247
+metoprolol,Sesame,818,322,True,True,0.8856146335601807
+estradiol,Sesame,1797,322,True,True,0.985556423664093
+conjugated estrogens,Sesame,292,322,True,True,0.9519889950752258
+conjugated estrogens,Sucrose,292,340,True,True,0.894171953201294
+omeprazole,Sucrose,924,340,True,True,0.9998968839645386
+lansoprazole,Sucrose,690,340,True,True,0.9778313636779785
+erythromycin,Sucrose,456,340,True,True,0.9983470439910889
+clarithromycin,Sucrose,263,340,True,True,0.9962736368179321
+allopurinol,Potassium,36,22,True,True,0.9932689070701599
+ferrous sulfate anhydrous,Potassium,513,22,True,True,0.9725604057312012
+ferrous sulfate,Potassium,1786,22,True,True,0.015060286968946457
+ferrous fumarate,Potassium,511,22,True,True,0.9983764886856079
+aspirin,Allicin,1469,1011,True,True,0.89381343126297
+aspirin,Ginger,1469,13,True,True,0.934806764125824
+aspirin,Curcumin,1469,738,True,True,0.9125478267669678
+cyclosporine,Ginger,306,13,True,True,0.999811589717865
+simvastatin,Ginger,1174,13,True,True,0.9971311092376709
+midazolam,Ginger,825,13,True,True,0.9909133911132812
+statins,Ginger,1772,13,True,True,0.8822721242904663
+statins,Curcumin,1772,738,True,True,0.9063741564750671
+iron,Phytic Acid,658,762,True,True,0.923039436340332
+zinc sulfate,Phytic Acid,1414,762,True,True,0.9269093871116638
+t,Phytic Acid,1824,762,True,True,0.8858107924461365
+al,Phytic Acid,1455,762,True,True,0.6380226612091064
+cm,Purine,1767,799,True,True,0.013935579918324947
+aspirin,Purine,1469,799,True,True,0.7143889665603638
+omeprazole,Purine,924,799,True,True,0.9956886172294617
+diclofenac,Purine,365,799,True,True,0.8560057282447815
+ferrous sulfate,Iron,1786,18,True,True,0.03991732373833656
+zinc sulfate,Iron,1414,18,True,True,0.999671220779419
+iron,Potassium,658,22,True,True,0.9896667003631592
+ciprofloxacin,Carotene,258,718,True,True,0.985816478729248
+iron,Carotene,658,718,True,True,0.9783625602722168
+ferrous sulfate anhydrous,Carotene,513,718,True,True,0.8654966354370117
+ferrous sulfate,Carotene,1786,718,True,True,0.0931389257311821
+zinc sulfate,Carotene,1414,718,True,True,0.9393590688705444
+acarbose,Carotene,10,718,True,True,0.9965404272079468
+lisinopril,Carotene,732,718,True,True,0.9532524347305298
+enalapril,Carotene,435,718,True,True,0.9047666192054749
+ramipril,Carotene,1092,718,True,True,0.5095712542533875
+captopril,Carotene,198,718,True,True,0.9711270332336426
+perindopril,Carotene,988,718,True,True,0.7546225190162659
+buspirone,Carotene,174,718,True,True,0.8694375157356262
+spironolactone,Carotene,1201,718,True,True,0.8565122485160828
+allopurinol,Carotene,36,718,True,True,0.9350535869598389
+colchicine,Carotene,289,718,True,True,0.9962910413742065
+cyclosporine,Carotene,306,718,True,True,0.9891212582588196
+midazolam,Carotene,825,718,True,True,0.954059898853302
+tacrolimus,Carotene,1224,718,True,True,0.9784662127494812
+statins,Carotene,1772,718,True,True,0.6765283942222595
+warfarin,Carotene,1396,718,True,True,0.8978851437568665
+phenytoin,Carotene,1004,718,True,True,0.9839425086975098
+glipizide,Carotene,588,718,True,True,0.8011467456817627
+flurbiprofen,Carotene,546,718,True,True,0.9752427339553833
+retinol,Carotene,1697,718,True,True,0.003101946320384741
+t,Calcium,1824,2,True,True,0.014789450913667679
+al,Calcium,1455,2,True,True,0.028835073113441467
+tetracycline,Tyramine-Containing Foods,1266,496,True,True,0.9232000112533569
+tetracycline,Na+,1266,795,True,True,0.6902345418930054
+t,Tyramine-Containing Foods,1824,496,True,True,0.7894151210784912
+t,Na+,1824,795,True,True,0.798320472240448
+doxycycline,Tyramine-Containing Foods,405,496,True,True,0.9479741454124451
+doxycycline,Na+,405,795,True,True,0.7129977345466614
+al,Tyramine-Containing Foods,1455,496,True,True,0.8983013033866882
+al,Na+,1455,795,True,True,0.8168929219245911
+phenelzine,Na+,994,795,True,True,0.5328128933906555
+tranylcypromine,Na+,1316,795,True,True,0.6790181398391724
+isocarboxazid,Na+,662,795,True,True,0.9363624453544617
+selegiline,Na+,1158,795,True,True,0.8105883598327637
+lisinopril,Tyramine-Containing Foods,732,496,True,True,0.9854276776313782
+lisinopril,Na+,732,795,True,True,0.4463410973548889
+amlodipine,Tyramine-Containing Foods,59,496,True,True,0.8701608180999756
+amlodipine,Na+,59,795,True,True,0.639901876449585
+hydrochlorothiazide,Tyramine-Containing Foods,604,496,True,True,0.8566139340400696
+hydrochlorothiazide,Na+,604,795,True,True,0.7282646894454956
+metoprolol,Tyramine-Containing Foods,818,496,True,True,0.9181340336799622
+metoprolol,Na+,818,795,True,True,0.5334359407424927
+losartan,Tyramine-Containing Foods,745,496,True,True,0.9935459494590759
+losartan,Na+,745,795,True,True,0.3883940577507019
+phenelzine,Fat,994,9,True,True,0.9730396866798401
+tranylcypromine,Fat,1316,9,True,True,0.9982693195343018
+isocarboxazid,Fat,662,9,True,True,0.971490204334259
+selegiline,Fat,1158,9,True,True,0.904028594493866
+amlodipine,Fat,59,9,True,True,0.9746156930923462
+hydrochlorothiazide,Fat,604,9,True,True,0.9772379994392395
+losartan,Fat,745,9,True,True,0.977174699306488
+amlodipine,Capsaicin,59,80,True,True,0.9980820417404175
+hydrochlorothiazide,Capsaicin,604,80,True,True,0.9752942323684692
+metoprolol,Capsaicin,818,80,True,True,0.9989243149757385
+lisinopril,Vitamin C,732,27,True,True,0.9974344372749329
+lisinopril,Flavonoids,732,749,True,True,0.998838484287262
+ramipril,Flavonoids,1092,749,True,True,0.9954047203063965
+captopril,Vitamin C,198,27,True,True,0.9981653094291687
+captopril,Flavonoids,198,749,True,True,0.9998366832733154
+perindopril,Vitamin C,988,27,True,True,0.9974502921104431
+perindopril,Flavonoids,988,749,True,True,0.9988524913787842
+ferrous sulfate anhydrous,Flavonoids,513,749,True,True,0.9308466911315918
+ferrous sulfate,Vitamin C,1786,27,True,True,0.0058770026080310345
+ferrous sulfate,Flavonoids,1786,749,True,True,0.07543306797742844
+ferrous gluconate,Flavonoids,512,749,True,True,0.9576250910758972
+ferrous fumarate,Flavonoids,511,749,True,True,0.9963794350624084
+amlodipine,Flavonoids,59,749,True,True,0.9992154836654663
+hydrochlorothiazide,Flavonoids,604,749,True,True,0.9991913437843323
+metoprolol,Vitamin C,818,27,True,True,0.9989191293716431
+metoprolol,Flavonoids,818,749,True,True,0.9998155236244202
+aspirin,Flavonoids,1469,749,True,True,0.9692103862762451
+statins,Vitamin C,1772,27,True,True,0.9613442420959473
+statins,Flavonoids,1772,749,True,True,0.7578141093254089
+isotretinoin,Vitamin C,666,27,True,True,0.9998724460601807
+isotretinoin,Flavonoids,666,749,True,True,0.98009192943573
+amlodipine,Allicin,59,1011,True,True,0.9598888754844666
+hydrochlorothiazide,Allicin,604,1011,True,True,0.9868218898773193
+metoprolol,Allicin,818,1011,True,True,0.9804306626319885
+isotretinoin,Allicin,666,1011,True,True,0.8895723819732666
+atropine,Fat,98,9,True,True,0.42614275217056274
+oxybutynin,Fat,946,9,True,True,0.918299674987793
+ne,Fat,1774,9,True,True,0.9315090775489807
+colchicine,Fat,289,9,True,True,0.7001057267189026
+phenytoin,Fat,1004,9,True,True,0.9462980031967163
+glipizide,Fat,588,9,True,True,0.7233296036720276
+flurbiprofen,Fat,546,9,True,True,0.4653724730014801
+paracetamol,Fat,1923,9,True,True,0.96568363904953
+ethanol,Fat,1751,9,True,True,0.87445068359375
+acetaminophen,Fat,15,9,True,True,0.09210528433322906
+statins,Choline,1772,579,True,True,0.9387308955192566
+isotretinoin,Choline,666,579,True,True,0.9990243911743164
+atorvastatin,Soy Lecithin,96,189,True,True,0.4974513649940491
+atorvastatin,Choline,96,579,True,True,0.9967813491821289
+simvastatin,Choline,1174,579,True,True,0.9990301132202148
+ritonavir,Soy Lecithin,1126,189,True,True,0.7751693725585938
+ritonavir,Choline,1126,579,True,True,0.9749237895011902
+allopurinol,Choline,36,579,True,True,0.9900467991828918
+colchicine,Soy Lecithin,289,189,True,True,0.5423657298088074
+paracetamol,Soy Lecithin,1923,189,True,True,0.976813793182373
+paracetamol,Choline,1923,579,True,True,0.02166719175875187
+ethanol,Soy Lecithin,1751,189,True,True,0.6015666127204895
+ethanol,Choline,1751,579,True,True,0.0012144464999437332
+acetaminophen,Soy Lecithin,15,189,True,True,0.41402387619018555
+acetaminophen,Choline,15,579,True,True,0.9906784296035767
+acarbose,Amylopectin,10,1801,True,True,0.9601377248764038
+metformin,Allicin,794,1011,True,True,0.9821680784225464
+acarbose,Allicin,10,1011,True,True,0.8858888149261475
+lisinopril,Quercetin,732,279,True,True,0.9973834156990051
+amlodipine,Quercetin,59,279,True,True,0.9995023012161255
+hydrochlorothiazide,Quercetin,604,279,True,True,0.9988351464271545
+losartan,Allicin,745,1011,True,True,0.9802518486976624
+clopidogrel,Quercetin,278,279,True,True,0.9965839385986328
+acarbose,Fat,10,9,True,True,0.998161256313324
+cholestyramine,Sucrose,245,340,True,True,0.986962080001831
+colestipol,Sucrose,291,340,True,True,0.9962982535362244
+colestipol,Glucose,291,509,True,True,0.9999624490737915
+metoclopramide,Butyric Acid,816,679,True,True,0.7117244005203247
+domperidone,Butyric Acid,398,679,True,True,0.8078292012214661
+cholestyramine,Butyric Acid,245,679,True,True,0.774113118648529
+colestipol,Butyric Acid,291,679,True,True,0.7576742172241211
+ure,Amylopectin,1841,1801,True,True,0.7933939099311829
+lansoprazole,Na+,690,795,True,True,0.6651936173439026
+erythromycin,Na+,456,795,True,True,0.6258742213249207
+clarithromycin,Na+,263,795,True,True,0.6400414705276489
+furosemide,Na+,563,795,True,True,0.6135649085044861
+torasemide,Na+,1308,795,True,True,0.6704018115997314
+spironolactone,Na+,1201,795,True,True,0.45619580149650574
+furosemide,Phytic Acid,563,762,True,True,0.7749502062797546
+hydrochlorothiazide,Phytic Acid,604,762,True,True,0.9740205407142639
+torasemide,Phytic Acid,1308,762,True,True,0.9654631614685059
+amlodipine,Phytic Acid,59,762,True,True,0.9103381633758545
+metoprolol,Phytic Acid,818,762,True,True,0.8066707849502563
+griseofulvin,Amylopectin,596,1801,True,True,0.7238622903823853
+fe,Amylopectin,1445,1801,True,True,0.874750018119812
+levothyroxine,Amylopectin,722,1801,True,True,0.9265336990356445
+warfarin,Amylopectin,1396,1801,True,True,0.8571789860725403
+ciprofloxacin,Amylopectin,258,1801,True,True,0.956760048866272
+furosemide,Fat,563,9,True,True,0.8966161608695984
+torasemide,Fat,1308,9,True,True,0.5311805605888367
+spironolactone,Fat,1201,9,True,True,0.9210477471351624
+ketoconazole,Fat,678,9,True,True,0.7810330390930176
+itraconazole,Fat,669,9,True,True,0.9789980053901672
+enalapril,Na+,435,795,True,True,0.727363109588623
+ramipril,Na+,1092,795,True,True,0.9053519368171692
+captopril,Na+,198,795,True,True,0.42379987239837646
+perindopril,Na+,988,795,True,True,0.7367783188819885
+t,Potassium,1824,22,True,True,0.006464304868131876
+triamterene,Fat,1321,9,True,True,0.3824816644191742
+triamterene,Oleic Acid,1321,754,True,True,0.4568723738193512
+haloperidol,Fat,601,9,True,True,0.5633364319801331
+haloperidol,Oleic Acid,601,754,True,True,0.9811448454856873
+haloperidol,Alpha-Linolenic Acid,601,1049,True,True,0.8028762340545654
+codeine,Oleic Acid,287,754,True,True,0.9894495606422424
+tamoxifen,Oleic Acid,1230,754,True,True,0.9890774488449097
+spironolactone,Arginine,1201,512,True,True,0.9902757406234741
+spironolactone,Vitamin E,1201,29,True,True,0.3562256991863251
+amiloride,Vitamin E,50,29,True,True,0.8298817873001099
+triamterene,Arginine,1321,512,True,True,0.9030843377113342
+triamterene,Vitamin E,1321,29,True,True,0.6587521433830261
+isotretinoin,Arginine,666,512,True,True,0.9996379613876343
+isotretinoin,Vitamin E,666,29,True,True,0.9687278866767883
+phenelzine,Vitamin E,994,29,True,True,0.7993160486221313
+tranylcypromine,Arginine,1316,512,True,True,0.9956306219100952
+tranylcypromine,Vitamin E,1316,29,True,True,0.8444636464118958
+isocarboxazid,Vitamin E,662,29,True,True,0.965174674987793
+selegiline,Vitamin E,1158,29,True,True,0.9857285618782043
+fluoxetine,Vitamin E,541,29,True,True,0.8279345631599426
+sertraline,Vitamin E,1166,29,True,True,0.6246961355209351
+isotretinoin,Sucrose,666,340,True,True,0.9997966885566711
+tranylcypromine,Sucrose,1316,340,True,True,0.9967201352119446
+tranylcypromine,Glucose,1316,509,True,True,0.9989412426948547
+sertraline,Sucrose,1166,340,True,True,0.9999359846115112
+diazepam,Sucrose,363,340,True,True,0.9994595646858215
+lorazepam,Sucrose,742,340,True,True,0.99162757396698
+lorazepam,Glucose,742,509,True,True,0.9642207622528076
+sildenafil,Sorbitol,1168,597,True,True,0.8894846439361572
+isosorbide mononitrate,Potassium,665,22,True,True,0.8942834734916687
+isosorbide mononitrate,Sorbitol,665,597,True,True,0.8709161877632141
+nitroglycerin,Sorbitol,900,597,True,True,0.33137068152427673
+empagliflozin,Sorbitol,433,597,True,True,0.7860422730445862
+dapagliflozin,Potassium,322,22,True,True,0.9999881982803345
+dapagliflozin,Sorbitol,322,597,True,True,0.988404393196106
+canagliflozin,Sorbitol,190,597,True,True,0.9313716292381287
+phenelzine,Sorbitol,994,597,True,True,0.9590927362442017
+tranylcypromine,Potassium,1316,22,True,True,0.9997928738594055
+tranylcypromine,Sorbitol,1316,597,True,True,0.7125210165977478
+isocarboxazid,Sorbitol,662,597,True,True,0.9958533048629761
+selegiline,Sorbitol,1158,597,True,True,0.9725496172904968
+fluoxetine,Sorbitol,541,597,True,True,0.8655236959457397
+sertraline,Sorbitol,1166,597,True,True,0.9502002000808716
+sildenafil,Soy Lecithin,1168,189,True,True,0.7569102048873901
+t,Soy Lecithin,1824,189,True,True,0.9183488488197327
+isosorbide mononitrate,Soy Lecithin,665,189,True,True,0.871211588382721
+nitroglycerin,Soy Lecithin,900,189,True,True,0.563083291053772
+empagliflozin,Soy Lecithin,433,189,True,True,0.8262649774551392
+dapagliflozin,Soy Lecithin,322,189,True,True,0.9446126222610474
+canagliflozin,Soy Lecithin,190,189,True,True,0.8731324076652527
+lisinopril,Soy Lecithin,732,189,True,True,0.4555698335170746
+enalapril,Soy Lecithin,435,189,True,True,0.740655243396759
+ramipril,Soy Lecithin,1092,189,True,True,0.9784693717956543
+captopril,Soy Lecithin,198,189,True,True,0.4851769208908081
+perindopril,Soy Lecithin,988,189,True,True,0.680584728717804
+spironolactone,Soy Lecithin,1201,189,True,True,0.3206356465816498
+amiloride,Soy Lecithin,50,189,True,True,0.4077936112880707
+triamterene,Soy Lecithin,1321,189,True,True,0.20978014171123505
+phenelzine,Soy Lecithin,994,189,True,True,0.6910337209701538
+tranylcypromine,Soy Lecithin,1316,189,True,True,0.8937415480613708
+isocarboxazid,Soy Lecithin,662,189,True,True,0.9244145154953003
+selegiline,Soy Lecithin,1158,189,True,True,0.811677873134613
+fluoxetine,Soy Lecithin,541,189,True,True,0.9831603169441223
+sertraline,Soy Lecithin,1166,189,True,True,0.8792483806610107
+lisinopril,Crocin,732,454,True,True,0.9917889833450317
+enalapril,Crocin,435,454,True,True,0.9607725739479065
+ramipril,Crocin,1092,454,True,True,0.9337192177772522
+captopril,Crocin,198,454,True,True,0.9880075454711914
+perindopril,Crocin,988,454,True,True,0.9847449660301208
+spironolactone,Crocin,1201,454,True,True,0.9009620547294617
+amiloride,Crocin,50,454,True,True,0.9618479609489441
+triamterene,Crocin,1321,454,True,True,0.9696106910705566
+empagliflozin,Linalool,433,194,True,True,0.864352285861969
+empagliflozin,Geraniol,433,1320,True,True,0.9757199883460999
+dapagliflozin,Linalool,322,194,True,True,0.7142995595932007
+dapagliflozin,Geraniol,322,1320,True,True,0.969028890132904
+canagliflozin,Linalool,190,194,True,True,0.9145476818084717
+canagliflozin,Geraniol,190,1320,True,True,0.9188179969787598
+aspirin,Benzaldehyde,1469,1399,True,True,0.49693578481674194
+clopidogrel,Benzaldehyde,278,1399,True,True,0.9839302897453308
+nsaid,Benzaldehyde,1609,1399,True,True,0.9831064939498901
+ibuprofen,Benzaldehyde,618,1399,True,True,0.9968758821487427
+naproxen,Benzaldehyde,872,1399,True,True,0.9864155650138855
+cyclosporine,Benzaldehyde,306,1399,True,True,0.9329723119735718
+isotretinoin,Benzaldehyde,666,1399,True,True,0.9070059657096863
+statins,Benzaldehyde,1772,1399,True,True,0.8909810781478882
+cyclosporine,Choline,306,579,True,True,0.9729353785514832
+clopidogrel,Sucrose,278,340,True,True,0.9960635304450989
+nsaid,Sucrose,1609,340,True,True,0.9466372728347778
+nsaid,D-Fructose,1609,514,True,True,0.8912782073020935
+nsaid,Glucose,1609,509,True,True,0.9576740860939026
+ibuprofen,D-Fructose,618,514,True,True,0.9985724687576294
+ibuprofen,Glucose,618,509,True,True,0.9999741315841675
+naproxen,Sucrose,872,340,True,True,0.9973759651184082
+naproxen,D-Fructose,872,514,True,True,0.984432578086853
+naproxen,Glucose,872,509,True,True,0.9963297247886658
+isotretinoin,D-Fructose,666,514,True,True,0.9989099502563477
+metformin,Starch,794,831,True,True,0.9960512518882751
+lisinopril,Starch,732,831,True,True,0.8173159956932068
+enalapril,Starch,435,831,True,True,0.9430494904518127
+ramipril,Starch,1092,831,True,True,0.9847025275230408
+captopril,Starch,198,831,True,True,0.9693330526351929
+perindopril,Starch,988,831,True,True,0.8715552687644958
+spironolactone,Starch,1201,831,True,True,0.599816620349884
+amiloride,Starch,50,831,True,True,0.9911022186279297
+triamterene,Starch,1321,831,True,True,0.13794486224651337
+diazepam,Starch,363,831,True,True,0.9955829977989197
+alprazolam,Starch,42,831,True,True,0.9375985264778137
+lorazepam,Starch,742,831,True,True,0.8639400005340576
+omeprazole,Starch,924,831,True,True,0.9953864216804504
+lansoprazole,Starch,690,831,True,True,0.9668704867362976
+erythromycin,Starch,456,831,True,True,0.8682877421379089
+clarithromycin,Starch,263,831,True,True,0.9134983420372009
+azithromycin,Starch,112,831,True,True,0.9985439777374268
+insulin,Fiber,1615,10,True,True,0.9245978593826294
+enalapril,Fiber,435,10,True,True,0.6170918345451355
+ramipril,Fiber,1092,10,True,True,0.6169722676277161
+captopril,Fiber,198,10,True,True,0.6630110144615173
+perindopril,Fiber,988,10,True,True,0.7758426666259766
+spironolactone,Fiber,1201,10,True,True,0.7041283249855042
+amiloride,Fiber,50,10,True,True,0.9056949019432068
+triamterene,Fiber,1321,10,True,True,0.21317124366760254
+diazepam,Fiber,363,10,True,True,0.8767415881156921
+alprazolam,Fiber,42,10,True,True,0.8624706864356995
+lorazepam,Potassium,742,22,True,True,0.9548846483230591
+lorazepam,Fiber,742,10,True,True,0.9980961680412292
+lithium,Fiber,1475,10,True,True,0.6707780361175537
+phenytoin,Fiber,1004,10,True,True,0.9198703765869141
+statins,Potassium,1772,22,True,True,0.9607222676277161
+isotretinoin,Potassium,666,22,True,True,0.9984176158905029
+lithium,Potassium,1475,22,True,True,0.994637668132782
+lisinopril,Fat,732,9,True,True,0.9787825345993042
+enalapril,Fat,435,9,True,True,0.6819999814033508
+ramipril,Fat,1092,9,True,True,0.7615735530853271
+captopril,Fat,198,9,True,True,0.6700454950332642
+perindopril,Fat,988,9,True,True,0.9158920645713806
+amiloride,Fat,50,9,True,True,0.27425965666770935
+digoxin,Starch,378,831,True,True,0.9501008987426758
+lithium,Starch,1475,831,True,True,0.3824504017829895
+phenytoin,Starch,1004,831,True,True,0.9862922430038452
+lisinopril,Honey,732,177,True,True,0.9983025789260864
+enalapril,Honey,435,177,True,True,0.9927229285240173
+ramipril,Honey,1092,177,True,True,0.9987298846244812
+captopril,Honey,198,177,True,True,0.9903241395950317
+perindopril,Honey,988,177,True,True,0.9763651490211487
+amiloride,Honey,50,177,True,True,0.9951377511024475
+triamterene,Honey,1321,177,True,True,0.2694947123527527
+orlistat,Honey,929,177,True,True,0.9549285173416138
+aspirin,Alpha-Linolenic Acid,1469,1049,True,True,0.9338422417640686
+clopidogrel,Alpha-Linolenic Acid,278,1049,True,True,0.8705752491950989
+phenytoin,Alpha-Linolenic Acid,1004,1049,True,True,0.9935395121574402
+aspirin,Linalool,1469,194,True,True,0.19644388556480408
+clopidogrel,Linalool,278,194,True,True,0.8628924489021301
+warfarin,Linalool,1396,194,True,True,0.7635408639907837
+t,Glucose,1824,509,True,True,0.04690784960985184
+t,Linalool,1824,194,True,True,0.8180029392242432
+amiodarone,Linalool,56,194,True,True,0.9481515884399414
+griseofulvin,Butyric Acid,596,679,True,True,0.13767097890377045
+estradiol,Butyric Acid,1797,679,True,True,0.6862169504165649
+progesterone,Butyric Acid,1061,679,True,True,0.6447876691818237
+conjugated estrogens,Butyric Acid,292,679,True,True,0.8139567971229553
+griseofulvin,Honey,596,177,True,True,0.9755855202674866
+paracetamol,Honey,1923,177,True,True,0.34907206892967224
+atorvastatin,Honey,96,177,True,True,0.9815008640289307
+griseofulvin,Sesame,596,322,True,True,0.9357815980911255
+paracetamol,Sesame,1923,322,True,True,0.9336612224578857
+atorvastatin,Sesame,96,322,True,True,0.9393825531005859
+warfarin,Sesame,1396,322,True,True,0.9921240210533142
+diazepam,Sesame,363,322,True,True,0.8147389888763428
+alprazolam,Sesame,42,322,True,True,0.865717351436615
+lorazepam,Sesame,742,322,True,True,0.9894799590110779
+griseofulvin,Arginine,596,512,True,True,0.9963306784629822
+griseofulvin,Niacin,596,225,True,True,0.1648276299238205
+warfarin,Niacin,1396,225,True,True,0.966237485408783
+levothyroxine,Arginine,722,512,True,True,0.9997686743736267
+levothyroxine,Niacin,722,225,True,True,0.964158833026886
+phenytoin,Arginine,1004,512,True,True,0.9998829364776611
+phenytoin,Niacin,1004,225,True,True,0.8868290185928345
+orlistat,Arginine,929,512,True,True,0.9718323349952698
+orlistat,Niacin,929,225,True,True,0.9227241277694702
+fe,Glucose,1445,509,True,True,0.1933678388595581
+tamoxifen,Amylopectin,1230,1801,True,True,0.6679412126541138
+estradiol,Amylopectin,1797,1801,True,True,0.6857138276100159
+progesterone,Amylopectin,1061,1801,True,True,0.7919765114784241
+conjugated estrogens,Amylopectin,292,1801,True,True,0.8707338571548462
+conjugated estrogens,Potassium,292,22,True,True,0.903120219707489
+levonorgestrel,Amylopectin,720,1801,True,True,0.6980530619621277
+ethinylestradiol,Amylopectin,476,1801,True,True,0.9040690660476685
+buspirone,Amylopectin,174,1801,True,True,0.6650687456130981
+losartan,Amylopectin,745,1801,True,True,0.8561465740203857
+tamoxifen,Cuminaldehyde,1230,1503,True,True,0.92706298828125
+tamoxifen,Allicin,1230,1011,True,True,0.983537495136261
+estradiol,Cuminaldehyde,1797,1503,True,True,0.9691905975341797
+estradiol,Allicin,1797,1011,True,True,0.987774670124054
+progesterone,Cuminaldehyde,1061,1503,True,True,0.9115524888038635
+progesterone,Allicin,1061,1011,True,True,0.989470362663269
+conjugated estrogens,Cuminaldehyde,292,1503,True,True,0.847944974899292
+conjugated estrogens,Allicin,292,1011,True,True,0.8046886324882507
+levonorgestrel,Cuminaldehyde,720,1503,True,True,0.6733116507530212
+levonorgestrel,Allicin,720,1011,True,True,0.9779494404792786
+ethinylestradiol,Cuminaldehyde,476,1503,True,True,0.8580780625343323
+ethinylestradiol,Allicin,476,1011,True,True,0.980097234249115
+empagliflozin,Starch,433,831,True,True,0.9899965524673462
+dapagliflozin,Starch,322,831,True,True,0.9986421465873718
+canagliflozin,Starch,190,831,True,True,0.9174604415893555
+losartan,Starch,745,831,True,True,0.9748557209968567
+valsartan,Starch,1360,831,True,True,0.9930907487869263
+furosemide,Starch,563,831,True,True,0.9585006833076477
+torasemide,Starch,1308,831,True,True,0.9985596537590027
+empagliflozin,Quercetin,433,279,True,True,0.9949830770492554
+empagliflozin,Allicin,433,1011,True,True,0.9898033142089844
+dapagliflozin,Quercetin,322,279,True,True,0.9985657334327698
+dapagliflozin,Allicin,322,1011,True,True,0.9789386987686157
+canagliflozin,Quercetin,190,279,True,True,0.9991658926010132
+canagliflozin,Allicin,190,1011,True,True,0.9473457932472229
+metformin,Cuminaldehyde,794,1503,True,True,0.7115973830223083
+insulin,Apigenin,1615,656,True,True,0.8068277835845947
+insulin,Cuminaldehyde,1615,1503,True,True,0.9444164037704468
+empagliflozin,Apigenin,433,656,True,True,0.9944065809249878
+empagliflozin,Cuminaldehyde,433,1503,True,True,0.36057519912719727
+dapagliflozin,Apigenin,322,656,True,True,0.9984897375106812
+dapagliflozin,Cuminaldehyde,322,1503,True,True,0.9409920573234558
+canagliflozin,Apigenin,190,656,True,True,0.9966101050376892
+canagliflozin,Cuminaldehyde,190,1503,True,True,0.5362196564674377
+losartan,Cuminaldehyde,745,1503,True,True,0.9102542400360107
+valsartan,Apigenin,1360,656,True,True,0.9972881078720093
+valsartan,Cuminaldehyde,1360,1503,True,True,0.9858890771865845
+acarbose,Saponins,10,1046,True,True,0.9960170388221741
+metformin,Saponins,794,1046,True,True,0.9835425615310669
+propranolol,Saponins,1068,1046,True,True,0.9692753553390503
+propranolol,Starch,1068,831,True,True,0.9879326224327087
+phenytoin,Saponins,1004,1046,True,True,0.9963985681533813
+cyclosporine,Saponins,306,1046,True,True,0.9988473653793335
+acarbose,Cinnamaldehyde,10,797,True,True,0.8552722930908203
+propranolol,Allicin,1068,1011,True,True,0.982848584651947
+cyclosporine,Piperine,306,264,True,True,0.99953293800354
+cholestyramine,Allicin,245,1011,True,True,0.9954942464828491
+cholestyramine,Piperine,245,264,True,True,0.92560875415802
+folate,Folic Acid,1462,11,True,True,0.9558719396591187
+methotrexate,Carotene,802,718,True,True,0.9803588390350342
+folate,Carotene,1462,718,True,True,0.8439618945121765
+pemetrexed,Carotene,975,718,True,True,0.9284894466400146
+trimethoprim,Carotene,1836,718,True,True,0.9967494010925293
+nsaid,Carotene,1609,718,True,True,0.9780161380767822
+naproxen,Carotene,872,718,True,True,0.9936825037002563
+methotrexate,Ginger,802,13,True,True,0.986607551574707
+methotrexate,Piperine,802,264,True,True,0.9854558110237122
+folate,Curcumin,1462,738,True,True,0.7614784240722656
+folate,Ginger,1462,13,True,True,0.8318511247634888
+folate,Piperine,1462,264,True,True,0.698866605758667
+pemetrexed,Curcumin,975,738,True,True,0.9769948720932007
+pemetrexed,Ginger,975,13,True,True,0.9937926530838013
+pemetrexed,Piperine,975,264,True,True,0.8749918341636658
+trimethoprim,Ginger,1836,13,True,True,0.970442533493042
+trimethoprim,Piperine,1836,264,True,True,0.9916183352470398
+nsaid,Curcumin,1609,738,True,True,0.9465553164482117
+nsaid,Ginger,1609,13,True,True,0.9537140130996704
+nsaid,Piperine,1609,264,True,True,0.8124018311500549
+naproxen,Curcumin,872,738,True,True,0.9945492148399353
+naproxen,Ginger,872,13,True,True,0.9841826558113098
+naproxen,Piperine,872,264,True,True,0.9984775185585022
+nsaid,Allicin,1609,1011,True,True,0.905051589012146
+ibuprofen,Allicin,618,1011,True,True,0.9964189529418945
+naproxen,Allicin,872,1011,True,True,0.9888174533843994
+retinol,Allicin,1697,1011,True,True,0.11736032366752625
+isotretinoin,Myo-Inositol,666,219,True,True,0.9955214262008667
+cyclosporine,Myo-Inositol,306,219,True,True,0.834606945514679
+atropine,Lutein,98,197,True,True,0.8953646421432495
+atropine,L-Leucine,98,511,True,True,0.9990205764770508
+oxybutynin,Lutein,946,197,True,True,0.05084476247429848
+oxybutynin,L-Leucine,946,511,True,True,0.9998946189880371
+ne,Lutein,1774,197,True,True,0.47912168502807617
+ne,L-Leucine,1774,511,True,True,0.8208025693893433
+donepezil,Lutein,399,197,True,True,0.9748266935348511
+donepezil,L-Leucine,399,511,True,True,0.9966450333595276
+isotretinoin,Lutein,666,197,True,True,0.9075037240982056
+isotretinoin,L-Leucine,666,511,True,True,0.9985417127609253
+griseofulvin,Choline,596,579,True,True,0.9817666411399841
+griseofulvin,Lutein,596,197,True,True,0.7032570838928223
+griseofulvin,L-Leucine,596,511,True,True,0.9710472226142883
+cyclosporine,Lutein,306,197,True,True,0.9789606332778931
+paracetamol,Lutein,1923,197,True,True,0.8423025608062744
+paracetamol,L-Leucine,1923,511,True,True,0.005772253032773733

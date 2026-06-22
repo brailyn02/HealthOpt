@@ -1,0 +1,890 @@
+drug,food,found,score,drug_in_hkg,food_in_hkg,n_shared_enzymes,top_enzymes,explanation
+levothyroxine,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+ciprofloxacin,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+digoxin,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+levothyroxine,Ferulic Acid,False,0.0,True,False,0,,No compounds found for 'Ferulic Acid' in HKG.
+digoxin,Ferulic Acid,False,0.0,True,False,0,,No compounds found for 'Ferulic Acid' in HKG.
+lisinopril,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+warfarin,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+phenytoin,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+lisinopril,Capsaicin,False,0.0,True,False,0,,No compounds found for 'Capsaicin' in HKG.
+warfarin,Capsaicin,False,0.0,True,False,0,,No compounds found for 'Capsaicin' in HKG.
+theophylline,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+insulin,Amylopectin,False,0.0,False,False,0,,No compounds found for 'Amylopectin' in HKG.
+metformin,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+allopurinol,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+insulin,Potassium,False,0.0,False,False,0,,No compounds found for 'Potassium' in HKG.
+insulin,Cinnamaldehyde,False,0.0,False,False,0,,No compounds found for 'Cinnamaldehyde' in HKG.
+metformin,Cinnamaldehyde,False,0.0,True,False,0,,No compounds found for 'Cinnamaldehyde' in HKG.
+ramipril,Capsaicin,False,0.0,True,False,0,,No compounds found for 'Capsaicin' in HKG.
+perindopril,Capsaicin,False,0.0,True,False,0,,No compounds found for 'Capsaicin' in HKG.
+lithium,Na+,False,0.0,False,False,0,,No compounds found for 'Na+' in HKG.
+lithium,Allicin,False,0.0,False,False,0,,No compounds found for 'Allicin' in HKG.
+saquinavir,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+cyclosporine,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+diazepam,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+alprazolam,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+lorazepam,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+warfarin,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+allopurinol,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+cyclosporine,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+orlistat,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+insulin,Coumarin,False,0.0,False,False,0,,No compounds found for 'Coumarin' in HKG.
+metformin,Coumarin,False,0.0,True,False,0,,No compounds found for 'Coumarin' in HKG.
+insulin,Sucrose,False,0.0,False,False,0,,No compounds found for 'Sucrose' in HKG.
+insulin,Glucose,False,0.0,False,False,0,,No compounds found for 'Glucose' in HKG.
+insulin,Butyric Acid,False,0.0,False,False,0,,No compounds found for 'Butyric Acid' in HKG.
+metformin,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+statins,Butyric Acid,False,0.0,False,False,0,,No compounds found for 'Butyric Acid' in HKG.
+tetracycline,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+tetracycline,Magnesium,False,0.0,True,False,0,,No compounds found for 'Magnesium' in HKG.
+doxycycline,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+doxycycline,Magnesium,False,0.0,True,False,0,,No compounds found for 'Magnesium' in HKG.
+duloxetine,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+duloxetine,Magnesium,False,0.0,True,False,0,,No compounds found for 'Magnesium' in HKG.
+metformin,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+metformin,Magnesium,False,0.0,True,False,0,,No compounds found for 'Magnesium' in HKG.
+ferrous sulfate anhydrous,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+ferrous sulfate anhydrous,Magnesium,False,0.0,True,False,0,,No compounds found for 'Magnesium' in HKG.
+ferrous sulfate,Phytic Acid,False,0.0,False,False,0,,No compounds found for 'Phytic Acid' in HKG.
+ferrous sulfate,Magnesium,False,0.0,False,False,0,,No compounds found for 'Magnesium' in HKG.
+ferrous gluconate,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+ferrous gluconate,Magnesium,False,0.0,True,False,0,,No compounds found for 'Magnesium' in HKG.
+ferrous fumarate,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+ferrous fumarate,Magnesium,False,0.0,True,False,0,,No compounds found for 'Magnesium' in HKG.
+ferrous sulfate anhydrous,Gallic Acid,False,0.0,True,False,0,,No compounds found for 'Gallic Acid' in HKG.
+ferrous sulfate,Gallic Acid,False,0.0,False,False,0,,No compounds found for 'Gallic Acid' in HKG.
+ferrous gluconate,Gallic Acid,False,0.0,True,False,0,,No compounds found for 'Gallic Acid' in HKG.
+ferrous fumarate,Gallic Acid,False,0.0,True,False,0,,No compounds found for 'Gallic Acid' in HKG.
+ca,Gallic Acid,False,0.0,False,False,0,,No compounds found for 'Gallic Acid' in HKG.
+zn,Gallic Acid,False,0.0,False,False,0,,No compounds found for 'Gallic Acid' in HKG.
+calcium carbonate,Gallic Acid,False,0.0,False,False,0,,No compounds found for 'Gallic Acid' in HKG.
+zinc sulfate,Gallic Acid,False,0.0,False,False,0,,No compounds found for 'Gallic Acid' in HKG.
+clozapine,Gallic Acid,False,0.0,True,False,0,,No compounds found for 'Gallic Acid' in HKG.
+theophylline,Gallic Acid,False,0.0,True,False,0,,No compounds found for 'Gallic Acid' in HKG.
+diazepam,Gallic Acid,False,0.0,True,False,0,,No compounds found for 'Gallic Acid' in HKG.
+alprazolam,Gallic Acid,False,0.0,True,False,0,,No compounds found for 'Gallic Acid' in HKG.
+lorazepam,Gallic Acid,False,0.0,True,False,0,,No compounds found for 'Gallic Acid' in HKG.
+propranolol,Gallic Acid,False,0.0,True,False,0,,No compounds found for 'Gallic Acid' in HKG.
+atenolol,Gallic Acid,False,0.0,False,False,0,,No compounds found for 'Gallic Acid' in HKG.
+bisoprolol,Gallic Acid,False,0.0,True,False,0,,No compounds found for 'Gallic Acid' in HKG.
+insulin,Gallic Acid,False,0.0,False,False,0,,No compounds found for 'Gallic Acid' in HKG.
+empagliflozin,Gallic Acid,False,0.0,True,False,0,,No compounds found for 'Gallic Acid' in HKG.
+dapagliflozin,Gallic Acid,False,0.0,True,False,0,,No compounds found for 'Gallic Acid' in HKG.
+canagliflozin,Gallic Acid,False,0.0,True,False,0,,No compounds found for 'Gallic Acid' in HKG.
+ferrous sulfate,Caffeine,False,0.0,False,False,0,,No compounds found for 'Caffeine' in HKG.
+ca,Caffeine,False,0.0,False,False,0,,No compounds found for 'Caffeine' in HKG.
+zn,Caffeine,False,0.0,False,False,0,,No compounds found for 'Caffeine' in HKG.
+calcium carbonate,Caffeine,False,0.0,False,False,0,,No compounds found for 'Caffeine' in HKG.
+zinc sulfate,Caffeine,False,0.0,False,False,0,,No compounds found for 'Caffeine' in HKG.
+bisoprolol,Caffeine,False,0.0,True,False,0,,No compounds found for 'Caffeine' in HKG.
+insulin,Caffeine,False,0.0,False,False,0,,No compounds found for 'Caffeine' in HKG.
+empagliflozin,Caffeine,False,0.0,True,False,0,,No compounds found for 'Caffeine' in HKG.
+dapagliflozin,Caffeine,False,0.0,True,False,0,,No compounds found for 'Caffeine' in HKG.
+canagliflozin,Caffeine,False,0.0,True,False,0,,No compounds found for 'Caffeine' in HKG.
+ferrous sulfate anhydrous,Saponins,False,0.0,True,False,0,,No compounds found for 'Saponins' in HKG.
+ferrous sulfate,Saponins,False,0.0,False,False,0,,No compounds found for 'Saponins' in HKG.
+ferrous gluconate,Saponins,False,0.0,True,False,0,,No compounds found for 'Saponins' in HKG.
+ferrous fumarate,Saponins,False,0.0,True,False,0,,No compounds found for 'Saponins' in HKG.
+ca,Saponins,False,0.0,False,False,0,,No compounds found for 'Saponins' in HKG.
+zn,Saponins,False,0.0,False,False,0,,No compounds found for 'Saponins' in HKG.
+calcium carbonate,Saponins,False,0.0,False,False,0,,No compounds found for 'Saponins' in HKG.
+zinc sulfate,Saponins,False,0.0,False,False,0,,No compounds found for 'Saponins' in HKG.
+ciprofloxacin,Saponins,False,0.0,True,False,0,,No compounds found for 'Saponins' in HKG.
+clozapine,Saponins,False,0.0,True,False,0,,No compounds found for 'Saponins' in HKG.
+canagliflozin,Sucrose,False,0.0,True,False,0,,No compounds found for 'Sucrose' in HKG.
+glipizide,Quercetin,False,0.0,True,False,0,,No compounds found for 'Quercetin' in HKG.
+flurbiprofen,Quercetin,False,0.0,True,False,0,,No compounds found for 'Quercetin' in HKG.
+glipizide,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+flurbiprofen,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+lisinopril,Choline,False,0.0,True,False,0,,No compounds found for 'Choline' in HKG.
+enalapril,Choline,False,0.0,True,False,0,,No compounds found for 'Choline' in HKG.
+ramipril,Choline,False,0.0,True,False,0,,No compounds found for 'Choline' in HKG.
+captopril,Choline,False,0.0,True,False,0,,No compounds found for 'Choline' in HKG.
+perindopril,Choline,False,0.0,True,False,0,,No compounds found for 'Choline' in HKG.
+oxybutynin,Choline,False,0.0,True,False,0,,No compounds found for 'Choline' in HKG.
+ne,Choline,False,0.0,False,False,0,,No compounds found for 'Choline' in HKG.
+lisinopril,Oleuropein,False,0.0,True,False,0,,No compounds found for 'Oleuropein' in HKG.
+amlodipine,Oleuropein,False,0.0,True,False,0,,No compounds found for 'Oleuropein' in HKG.
+hydrochlorothiazide,Oleuropein,False,0.0,True,False,0,,No compounds found for 'Oleuropein' in HKG.
+metoprolol,Oleuropein,False,0.0,True,False,0,,No compounds found for 'Oleuropein' in HKG.
+losartan,Oleuropein,False,0.0,True,False,0,,No compounds found for 'Oleuropein' in HKG.
+enalapril,Oleuropein,False,0.0,True,False,0,,No compounds found for 'Oleuropein' in HKG.
+ramipril,Oleuropein,False,0.0,True,False,0,,No compounds found for 'Oleuropein' in HKG.
+captopril,Oleuropein,False,0.0,True,False,0,,No compounds found for 'Oleuropein' in HKG.
+perindopril,Oleuropein,False,0.0,True,False,0,,No compounds found for 'Oleuropein' in HKG.
+cyclosporine,Oleuropein,False,0.0,True,False,0,,No compounds found for 'Oleuropein' in HKG.
+simvastatin,Oleuropein,False,0.0,True,False,0,,No compounds found for 'Oleuropein' in HKG.
+midazolam,Oleuropein,False,0.0,True,False,0,,No compounds found for 'Oleuropein' in HKG.
+tacrolimus,Oleuropein,False,0.0,True,False,0,,No compounds found for 'Oleuropein' in HKG.
+simvastatin,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+midazolam,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+tacrolimus,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+tacrolimus,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+insulin,Quercetin,False,0.0,False,False,0,,No compounds found for 'Quercetin' in HKG.
+levothyroxine,Curcumin,False,0.0,True,False,0,,No compounds found for 'Curcumin' in HKG.
+insulin,Curcumin,False,0.0,False,False,0,,No compounds found for 'Curcumin' in HKG.
+glipizide,Curcumin,False,0.0,True,False,0,,No compounds found for 'Curcumin' in HKG.
+flurbiprofen,Curcumin,False,0.0,True,False,0,,No compounds found for 'Curcumin' in HKG.
+digoxin,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+prednisone,Vitamin K,False,0.0,True,False,0,,No compounds found for 'Vitamin K' in HKG.
+digoxin,Vitamin K,False,0.0,True,False,0,,No compounds found for 'Vitamin K' in HKG.
+diazepam,Vitamin K,False,0.0,True,False,0,,No compounds found for 'Vitamin K' in HKG.
+alprazolam,Vitamin K,False,0.0,True,False,0,,No compounds found for 'Vitamin K' in HKG.
+lorazepam,Vitamin K,False,0.0,True,False,0,,No compounds found for 'Vitamin K' in HKG.
+statins,Amylopectin,False,0.0,False,False,0,,No compounds found for 'Amylopectin' in HKG.
+cyclosporine,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+simvastatin,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+atorvastatin,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+cyclosporine,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+simvastatin,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+atorvastatin,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+atropine,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+oxybutynin,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+ne,Butyric Acid,False,0.0,False,False,0,,No compounds found for 'Butyric Acid' in HKG.
+statins,Quercetin,False,0.0,False,False,0,,No compounds found for 'Quercetin' in HKG.
+statins,Sucrose,False,0.0,False,False,0,,No compounds found for 'Sucrose' in HKG.
+statins,D-Fructose,False,0.0,False,False,0,,No compounds found for 'D-Fructose' in HKG.
+cyclosporine,Sucrose,False,0.0,True,False,0,,No compounds found for 'Sucrose' in HKG.
+cyclosporine,D-Fructose,False,0.0,True,False,0,,No compounds found for 'D-Fructose' in HKG.
+insulin,Trans-Resveratrol,False,0.0,False,False,0,,No compounds found for 'Trans-Resveratrol' in HKG.
+statins,Trans-Resveratrol,False,0.0,False,False,0,,No compounds found for 'Trans-Resveratrol' in HKG.
+cyclosporine,Trans-Resveratrol,False,0.0,True,False,0,,No compounds found for 'Trans-Resveratrol' in HKG.
+atorvastatin,Trans-Resveratrol,False,0.0,True,False,0,,No compounds found for 'Trans-Resveratrol' in HKG.
+insulin,Piperine,False,0.0,False,False,0,,No compounds found for 'Piperine' in HKG.
+insulin,Starch,False,0.0,False,False,0,,No compounds found for 'Starch' in HKG.
+tacrolimus,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+clopidogrel,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+statins,Allicin,False,0.0,False,False,0,,No compounds found for 'Allicin' in HKG.
+atorvastatin,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+statins,Fat,False,0.0,False,False,0,,No compounds found for 'Fat' in HKG.
+simvastatin,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+atorvastatin,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+fe,Phytic Acid,False,0.0,False,False,0,,No compounds found for 'Phytic Acid' in HKG.
+lisinopril,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+enalapril,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+ramipril,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+captopril,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+perindopril,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+levothyroxine,Cuminaldehyde,False,0.0,True,False,0,,No compounds found for 'Cuminaldehyde' in HKG.
+t,Iron,False,0.0,False,False,0,,No compounds found for 'Iron' in HKG.
+al,Iron,False,0.0,False,False,0,,No compounds found for 'Iron' in HKG.
+levothyroxine,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+t,Fat,False,0.0,False,False,0,,No compounds found for 'Fat' in HKG.
+al,Fat,False,0.0,False,False,0,,No compounds found for 'Fat' in HKG.
+amiodarone,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+t,Cuminaldehyde,False,0.0,False,False,0,,No compounds found for 'Cuminaldehyde' in HKG.
+al,Cuminaldehyde,False,0.0,False,False,0,,No compounds found for 'Cuminaldehyde' in HKG.
+ferrous sulfate anhydrous,Anthocyanins,False,0.0,True,False,0,,No compounds found for 'Anthocyanins' in HKG.
+ferrous sulfate,Anthocyanins,False,0.0,False,False,0,,No compounds found for 'Anthocyanins' in HKG.
+ferrous gluconate,Anthocyanins,False,0.0,True,False,0,,No compounds found for 'Anthocyanins' in HKG.
+ferrous fumarate,Anthocyanins,False,0.0,True,False,0,,No compounds found for 'Anthocyanins' in HKG.
+ferrous sulfate,Fat,False,0.0,False,False,0,,No compounds found for 'Fat' in HKG.
+ferrous gluconate,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+ferrous fumarate,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+fe,Fat,False,0.0,False,False,0,,No compounds found for 'Fat' in HKG.
+saquinavir,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+digoxin,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+amiodarone,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+fe,Allicin,False,0.0,False,False,0,,No compounds found for 'Allicin' in HKG.
+ferrous sulfate anhydrous,Acetic Acid,False,0.0,True,False,0,,No compounds found for 'Acetic Acid' in HKG.
+ferrous sulfate,Acetic Acid,False,0.0,False,False,0,,No compounds found for 'Acetic Acid' in HKG.
+ferrous gluconate,Acetic Acid,False,0.0,True,False,0,,No compounds found for 'Acetic Acid' in HKG.
+ferrous fumarate,Acetic Acid,False,0.0,True,False,0,,No compounds found for 'Acetic Acid' in HKG.
+warfarin,Acetic Acid,False,0.0,True,False,0,,No compounds found for 'Acetic Acid' in HKG.
+saquinavir,Acetic Acid,False,0.0,True,False,0,,No compounds found for 'Acetic Acid' in HKG.
+allopurinol,Acetic Acid,False,0.0,True,False,0,,No compounds found for 'Acetic Acid' in HKG.
+digoxin,Acetic Acid,False,0.0,True,False,0,,No compounds found for 'Acetic Acid' in HKG.
+furosemide,Apigenin,False,0.0,True,False,0,,No compounds found for 'Apigenin' in HKG.
+hydrochlorothiazide,Apigenin,False,0.0,True,False,0,,No compounds found for 'Apigenin' in HKG.
+torasemide,Apigenin,False,0.0,True,False,0,,No compounds found for 'Apigenin' in HKG.
+spironolactone,Apigenin,False,0.0,True,False,0,,No compounds found for 'Apigenin' in HKG.
+lisinopril,Apigenin,False,0.0,True,False,0,,No compounds found for 'Apigenin' in HKG.
+enalapril,Apigenin,False,0.0,True,False,0,,No compounds found for 'Apigenin' in HKG.
+ramipril,Apigenin,False,0.0,True,False,0,,No compounds found for 'Apigenin' in HKG.
+captopril,Apigenin,False,0.0,True,False,0,,No compounds found for 'Apigenin' in HKG.
+perindopril,Apigenin,False,0.0,True,False,0,,No compounds found for 'Apigenin' in HKG.
+codeine,Carvone,False,0.0,True,False,0,,No compounds found for 'Carvone' in HKG.
+tramadol,Carvone,False,0.0,True,False,0,,No compounds found for 'Carvone' in HKG.
+allopurinol,Carvone,False,0.0,True,False,0,,No compounds found for 'Carvone' in HKG.
+colchicine,Carvone,False,0.0,True,False,0,,No compounds found for 'Carvone' in HKG.
+al,Purine,False,0.0,False,False,0,,No compounds found for 'Purine' in HKG.
+da,Purine,False,0.0,False,False,0,,No compounds found for 'Purine' in HKG.
+metformin,Purine,False,0.0,True,False,0,,No compounds found for 'Purine' in HKG.
+levothyroxine,Purine,False,0.0,True,False,0,,No compounds found for 'Purine' in HKG.
+ciprofloxacin,Purine,False,0.0,True,False,0,,No compounds found for 'Purine' in HKG.
+colchicine,Purine,False,0.0,True,False,0,,No compounds found for 'Purine' in HKG.
+buspirone,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+buspirone,Iron,False,0.0,True,False,0,,No compounds found for 'Iron' in HKG.
+spironolactone,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+aluminum hydroxide,Citric Acid,False,0.0,False,False,0,,No compounds found for 'Citric Acid' in HKG.
+magnesium hydroxide,Citric Acid,False,0.0,False,False,0,,No compounds found for 'Citric Acid' in HKG.
+ferrous sulfate anhydrous,Citric Acid,False,0.0,True,False,0,,No compounds found for 'Citric Acid' in HKG.
+ferrous sulfate,Citric Acid,False,0.0,False,False,0,,No compounds found for 'Citric Acid' in HKG.
+ferrous gluconate,Citric Acid,False,0.0,True,False,0,,No compounds found for 'Citric Acid' in HKG.
+ferrous fumarate,Citric Acid,False,0.0,True,False,0,,No compounds found for 'Citric Acid' in HKG.
+insulin,Soy Lecithin,False,0.0,False,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+insulin,Cholesterol,False,0.0,False,False,0,,No compounds found for 'Cholesterol' in HKG.
+metformin,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+cyclosporine,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+isotretinoin,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+allopurinol,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+allopurinol,Cholesterol,False,0.0,True,False,0,,No compounds found for 'Cholesterol' in HKG.
+aluminum hydroxide,Purine,False,0.0,False,False,0,,No compounds found for 'Purine' in HKG.
+magnesium hydroxide,Purine,False,0.0,False,False,0,,No compounds found for 'Purine' in HKG.
+ritonavir,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+insulin,Fat,False,0.0,False,False,0,,No compounds found for 'Fat' in HKG.
+metformin,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+levodopa,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+ciprofloxacin,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+tetracycline,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+doxycycline,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+ritonavir,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+statins,L-Leucine,False,0.0,False,False,0,,No compounds found for 'L-Leucine' in HKG.
+cyclosporine,L-Leucine,False,0.0,True,False,0,,No compounds found for 'L-Leucine' in HKG.
+ritonavir,L-Leucine,False,0.0,True,False,0,,No compounds found for 'L-Leucine' in HKG.
+insulin,L-Leucine,False,0.0,False,False,0,,No compounds found for 'L-Leucine' in HKG.
+allopurinol,L-Leucine,False,0.0,True,False,0,,No compounds found for 'L-Leucine' in HKG.
+levodopa,L-Leucine,False,0.0,True,False,0,,No compounds found for 'L-Leucine' in HKG.
+levothyroxine,L-Leucine,False,0.0,True,False,0,,No compounds found for 'L-Leucine' in HKG.
+statins,Iodine,False,0.0,False,False,0,,No compounds found for 'Iodine' in HKG.
+statins,Alpha-Linolenic Acid,False,0.0,False,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+cyclosporine,Iodine,False,0.0,True,False,0,,No compounds found for 'Iodine' in HKG.
+cyclosporine,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+atorvastatin,Iodine,False,0.0,True,False,0,,No compounds found for 'Iodine' in HKG.
+atorvastatin,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+simvastatin,Iodine,False,0.0,True,False,0,,No compounds found for 'Iodine' in HKG.
+simvastatin,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+ritonavir,Iodine,False,0.0,True,False,0,,No compounds found for 'Iodine' in HKG.
+ritonavir,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+insulin,Iodine,False,0.0,False,False,0,,No compounds found for 'Iodine' in HKG.
+metformin,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+allopurinol,Iodine,False,0.0,True,False,0,,No compounds found for 'Iodine' in HKG.
+allopurinol,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+levodopa,Iodine,False,0.0,True,False,0,,No compounds found for 'Iodine' in HKG.
+levodopa,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+levothyroxine,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+warfarin,Iodine,False,0.0,True,False,0,,No compounds found for 'Iodine' in HKG.
+ciprofloxacin,Iodine,False,0.0,True,False,0,,No compounds found for 'Iodine' in HKG.
+ciprofloxacin,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+tetracycline,Iodine,False,0.0,True,False,0,,No compounds found for 'Iodine' in HKG.
+tetracycline,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+doxycycline,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+statins,Calcium,False,0.0,False,False,0,,No compounds found for 'Calcium' in HKG.
+insulin,Calcium,False,0.0,False,False,0,,No compounds found for 'Calcium' in HKG.
+levodopa,Calcium,False,0.0,True,False,0,,No compounds found for 'Calcium' in HKG.
+torasemide,Glucose,False,0.0,True,False,0,,No compounds found for 'Glucose' in HKG.
+statins,Glucose,False,0.0,False,False,0,,No compounds found for 'Glucose' in HKG.
+isotretinoin,Glucose,False,0.0,True,False,0,,No compounds found for 'Glucose' in HKG.
+statins,Soy Lecithin,False,0.0,False,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+simvastatin,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+cyclosporine,Limonene,False,0.0,True,False,0,,No compounds found for 'Limonene' in HKG.
+isosorbide mononitrate,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+nitroglycerin,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+aspirin,Fat,False,0.0,False,False,0,,No compounds found for 'Fat' in HKG.
+clopidogrel,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+lithium,Fat,False,0.0,False,False,0,,No compounds found for 'Fat' in HKG.
+empagliflozin,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+dapagliflozin,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+canagliflozin,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+insulin,Arginine,False,0.0,False,False,0,,No compounds found for 'Arginine' in HKG.
+insulin,Amygdalin,False,0.0,False,False,0,,No compounds found for 'Amygdalin' in HKG.
+metformin,Amygdalin,False,0.0,True,False,0,,No compounds found for 'Amygdalin' in HKG.
+statins,Arginine,False,0.0,False,False,0,,No compounds found for 'Arginine' in HKG.
+statins,Amygdalin,False,0.0,False,False,0,,No compounds found for 'Amygdalin' in HKG.
+cyclosporine,Arginine,False,0.0,True,False,0,,No compounds found for 'Arginine' in HKG.
+cyclosporine,Amygdalin,False,0.0,True,False,0,,No compounds found for 'Amygdalin' in HKG.
+amiodarone,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+amiodarone,Amygdalin,False,0.0,True,False,0,,No compounds found for 'Amygdalin' in HKG.
+simvastatin,Amygdalin,False,0.0,True,False,0,,No compounds found for 'Amygdalin' in HKG.
+sildenafil,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+sildenafil,Amygdalin,False,0.0,True,False,0,,No compounds found for 'Amygdalin' in HKG.
+t,Arginine,False,0.0,False,False,0,,No compounds found for 'Arginine' in HKG.
+t,Alpha-Linolenic Acid,False,0.0,False,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+t,Amygdalin,False,0.0,False,False,0,,No compounds found for 'Amygdalin' in HKG.
+isosorbide mononitrate,Arginine,False,0.0,True,False,0,,No compounds found for 'Arginine' in HKG.
+isosorbide mononitrate,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+isosorbide mononitrate,Amygdalin,False,0.0,True,False,0,,No compounds found for 'Amygdalin' in HKG.
+nitroglycerin,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+nitroglycerin,Amygdalin,False,0.0,True,False,0,,No compounds found for 'Amygdalin' in HKG.
+lithium,Arginine,False,0.0,False,False,0,,No compounds found for 'Arginine' in HKG.
+lithium,Alpha-Linolenic Acid,False,0.0,False,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+lithium,Amygdalin,False,0.0,False,False,0,,No compounds found for 'Amygdalin' in HKG.
+digoxin,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+digoxin,Amygdalin,False,0.0,True,False,0,,No compounds found for 'Amygdalin' in HKG.
+empagliflozin,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+empagliflozin,Amygdalin,False,0.0,True,False,0,,No compounds found for 'Amygdalin' in HKG.
+dapagliflozin,Arginine,False,0.0,True,False,0,,No compounds found for 'Arginine' in HKG.
+dapagliflozin,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+dapagliflozin,Amygdalin,False,0.0,True,False,0,,No compounds found for 'Amygdalin' in HKG.
+canagliflozin,Arginine,False,0.0,True,False,0,,No compounds found for 'Arginine' in HKG.
+canagliflozin,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+canagliflozin,Amygdalin,False,0.0,True,False,0,,No compounds found for 'Amygdalin' in HKG.
+amiodarone,Honey,True,98.1,True,True,7,CYP3A4|CYP2D6|CYP2C19|CYP2C9|CYP1A2,"CYP3A4: Honey [Arachidonic acid, Apigenin, Quercetin...] inhibitss CYP3A4; amiodarone inhibitss CYP3A4 | CYP2D6: Honey [Kaempferol] inhibitss CYP2D6; amiodarone inhibitss CYP2D6 | CYP2C19: Honey [Apigenin, Riboflavine, Myricetin...] inhibitss CYP2C19; amiodarone inhibitss CYP2C19"
+sildenafil,Honey,True,63.9,True,True,4,CYP3A4|CYP2D6|CYP2C19|CYP2C9,"CYP3A4: Honey [Arachidonic acid, Apigenin, Quercetin...] inhibitss CYP3A4; sildenafil substrate_ofs CYP3A4 | CYP2D6: Honey [Kaempferol] inhibitss CYP2D6; sildenafil substrate_ofs CYP2D6 | CYP2C19: Honey [Apigenin, Riboflavine, Myricetin...] inhibitss CYP2C19; sildenafil inhibitss CYP2C19"
+t,Honey,False,0.0,False,True,0,,No shared enzyme targets between 'Honey' compounds and 't'.
+isosorbide mononitrate,Honey,False,0.0,True,True,0,,No shared enzyme targets between 'Honey' compounds and 'isosorbide mononitrate'.
+aspirin,Honey,False,0.0,False,True,0,,No shared enzyme targets between 'Honey' compounds and 'aspirin'.
+clopidogrel,Honey,True,66.15,True,True,5,CYP3A4|CYP2C19|CYP2C9|CYP1A2|CYP2C8,"CYP3A4: Honey [Arachidonic acid, Apigenin, Quercetin...] inhibitss CYP3A4; clopidogrel substrate_ofs CYP3A4 | CYP2C19: Honey [Apigenin, Riboflavine, Myricetin...] inhibitss CYP2C19; clopidogrel substrate_ofs CYP2C19 | CYP2C9: Honey [Myricetin, Quercetin, Apigenin...] inhibitss CYP2C9; clopidogrel inhibitss CYP2C9"
+diazepam,Honey,True,58.05,True,True,4,CYP3A4|CYP2C19|CYP2C9|CYP2C8,"CYP3A4: Honey [Arachidonic acid, Apigenin, Quercetin...] inhibitss CYP3A4; diazepam inhibitss CYP3A4 | CYP2C19: Honey [Apigenin, Riboflavine, Myricetin...] inhibitss CYP2C19; diazepam inhibitss CYP2C19 | CYP2C9: Honey [Myricetin, Quercetin, Apigenin...] inhibitss CYP2C9; diazepam substrate_ofs CYP2C9"
+alprazolam,Honey,True,30.6,True,True,2,CYP3A4|CYP2C9,"CYP3A4: Honey [Arachidonic acid, Apigenin, Quercetin...] inhibitss CYP3A4; alprazolam substrate_ofs CYP3A4 | CYP2C9: Honey [Myricetin, Quercetin, Apigenin...] inhibitss CYP2C9; alprazolam substrate_ofs CYP2C9"
+lorazepam,Honey,False,0.0,True,True,0,,No shared enzyme targets between 'Honey' compounds and 'lorazepam'.
+insulin,Linalool,False,0.0,False,False,0,,No compounds found for 'Linalool' in HKG.
+insulin,Geraniol,False,0.0,False,False,0,,No compounds found for 'Geraniol' in HKG.
+metformin,Linalool,False,0.0,True,False,0,,No compounds found for 'Linalool' in HKG.
+metformin,Geraniol,False,0.0,True,False,0,,No compounds found for 'Geraniol' in HKG.
+diazepam,Geraniol,False,0.0,True,False,0,,No compounds found for 'Geraniol' in HKG.
+alprazolam,Linalool,False,0.0,True,False,0,,No compounds found for 'Linalool' in HKG.
+alprazolam,Geraniol,False,0.0,True,False,0,,No compounds found for 'Geraniol' in HKG.
+lorazepam,Linalool,False,0.0,True,False,0,,No compounds found for 'Linalool' in HKG.
+lorazepam,Geraniol,False,0.0,True,False,0,,No compounds found for 'Geraniol' in HKG.
+lisinopril,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+enalapril,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+ramipril,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+captopril,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+perindopril,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+spironolactone,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+amiloride,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+triamterene,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+rs,Amylopectin,False,0.0,False,False,0,,No compounds found for 'Amylopectin' in HKG.
+amlodipine,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+diltiazem,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+lisinopril,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+enalapril,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+ramipril,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+captopril,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+perindopril,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+spironolactone,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+amiloride,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+triamterene,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+rs,Butyric Acid,False,0.0,False,False,0,,No compounds found for 'Butyric Acid' in HKG.
+amlodipine,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+diltiazem,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+warfarin,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+diazepam,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+alprazolam,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+lorazepam,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+amiloride,Magnesium,False,0.0,True,False,0,,No compounds found for 'Magnesium' in HKG.
+triamterene,Magnesium,False,0.0,True,False,0,,No compounds found for 'Magnesium' in HKG.
+rs,Potassium,False,0.0,False,False,0,,No compounds found for 'Potassium' in HKG.
+rs,Magnesium,False,0.0,False,False,0,,No compounds found for 'Magnesium' in HKG.
+amlodipine,Magnesium,False,0.0,True,False,0,,No compounds found for 'Magnesium' in HKG.
+diltiazem,Magnesium,False,0.0,True,False,0,,No compounds found for 'Magnesium' in HKG.
+fe,Arginine,False,0.0,False,False,0,,No compounds found for 'Arginine' in HKG.
+fe,Magnesium,False,0.0,False,False,0,,No compounds found for 'Magnesium' in HKG.
+enalapril,Magnesium,False,0.0,True,False,0,,No compounds found for 'Magnesium' in HKG.
+ramipril,Magnesium,False,0.0,True,False,0,,No compounds found for 'Magnesium' in HKG.
+perindopril,Arginine,False,0.0,True,False,0,,No compounds found for 'Arginine' in HKG.
+metformin,Protein,False,0.0,True,False,0,,No compounds found for 'Protein' in HKG.
+insulin,Protein,False,0.0,False,False,0,,No compounds found for 'Protein' in HKG.
+statins,Protein,False,0.0,False,False,0,,No compounds found for 'Protein' in HKG.
+cyclosporine,Protein,False,0.0,True,False,0,,No compounds found for 'Protein' in HKG.
+simvastatin,Protein,False,0.0,True,False,0,,No compounds found for 'Protein' in HKG.
+fe,Protein,False,0.0,False,False,0,,No compounds found for 'Protein' in HKG.
+lisinopril,Protein,False,0.0,True,False,0,,No compounds found for 'Protein' in HKG.
+enalapril,Protein,False,0.0,True,False,0,,No compounds found for 'Protein' in HKG.
+ramipril,Protein,False,0.0,True,False,0,,No compounds found for 'Protein' in HKG.
+captopril,Protein,False,0.0,True,False,0,,No compounds found for 'Protein' in HKG.
+perindopril,Protein,False,0.0,True,False,0,,No compounds found for 'Protein' in HKG.
+sildenafil,Protein,False,0.0,True,False,0,,No compounds found for 'Protein' in HKG.
+t,Protein,False,0.0,False,False,0,,No compounds found for 'Protein' in HKG.
+nitroglycerin,Protein,False,0.0,True,False,0,,No compounds found for 'Protein' in HKG.
+diazepam,Protein,False,0.0,True,False,0,,No compounds found for 'Protein' in HKG.
+alprazolam,Protein,False,0.0,True,False,0,,No compounds found for 'Protein' in HKG.
+lorazepam,Protein,False,0.0,True,False,0,,No compounds found for 'Protein' in HKG.
+midazolam,Protein,False,0.0,True,False,0,,No compounds found for 'Protein' in HKG.
+tacrolimus,Protein,False,0.0,True,False,0,,No compounds found for 'Protein' in HKG.
+statins,Limonene,False,0.0,False,False,0,,No compounds found for 'Limonene' in HKG.
+statins,Linalool,False,0.0,False,False,0,,No compounds found for 'Linalool' in HKG.
+cyclosporine,Linalool,False,0.0,True,False,0,,No compounds found for 'Linalool' in HKG.
+simvastatin,Limonene,False,0.0,True,False,0,,No compounds found for 'Limonene' in HKG.
+simvastatin,Linalool,False,0.0,True,False,0,,No compounds found for 'Linalool' in HKG.
+fe,Limonene,False,0.0,False,False,0,,No compounds found for 'Limonene' in HKG.
+fe,Linalool,False,0.0,False,False,0,,No compounds found for 'Linalool' in HKG.
+codeine,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+tamoxifen,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+metoprolol,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+estradiol,Fat,False,0.0,False,False,0,,No compounds found for 'Fat' in HKG.
+progesterone,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+conjugated estrogens,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+omeprazole,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+lansoprazole,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+erythromycin,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+clarithromycin,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+metformin,Sesame,False,0.0,True,True,0,,No shared enzyme targets between 'Sesame' compounds and 'metformin'.
+insulin,Sesame,False,0.0,False,True,0,,No shared enzyme targets between 'Sesame' compounds and 'insulin'.
+empagliflozin,Sesame,True,14.4,True,True,1,ABCB1,ABCB1: Sesame [Curcumin] inhibitss ABCB1; empagliflozin substrate_ofs ABCB1
+dapagliflozin,Sesame,True,75.6,True,True,6,CYP3A4|CYP2D6|ABCB1|CYP2C9|CYP1A2,"CYP3A4: Sesame [L-Canavanine, Estrone, Conidendrin...] inhibitss CYP3A4; dapagliflozin substrate_ofs CYP3A4 | CYP2D6: Sesame [Formononetin, Bergapten, dihydrosphingosine...] inhibitss CYP2D6; dapagliflozin substrate_ofs CYP2D6 | ABCB1: Sesame [Curcumin] inhibitss ABCB1; dapagliflozin substrate_ofs ABCB1"
+canagliflozin,Sesame,True,36.0,True,True,2,CYP3A4|ABCB1,"CYP3A4: Sesame [L-Canavanine, Estrone, Conidendrin...] inhibitss CYP3A4; canagliflozin substrate_ofs CYP3A4 | ABCB1: Sesame [Curcumin] inhibitss ABCB1; canagliflozin inhibitss ABCB1"
+statins,Sesame,False,0.0,False,True,0,,No shared enzyme targets between 'Sesame' compounds and 'statins'.
+cyclosporine,Sesame,True,74.25,True,True,4,CYP3A4|CYP2D6|ABCB1|CYP2C19,"CYP3A4: Sesame [L-Canavanine, Estrone, Conidendrin...] inhibitss CYP3A4; cyclosporine inhibitss CYP3A4 | CYP2D6: Sesame [Formononetin, Bergapten, dihydrosphingosine...] inhibitss CYP2D6; cyclosporine inhibitss CYP2D6 | ABCB1: Sesame [Curcumin] inhibitss ABCB1; cyclosporine inhibitss ABCB1"
+isotretinoin,Sesame,True,18.0,True,True,1,CYP3A4,"CYP3A4: Sesame [L-Canavanine, Estrone, Conidendrin...] inhibitss CYP3A4; isotretinoin substrate_ofs CYP3A4"
+simvastatin,Sesame,True,78.75,True,True,5,CYP3A4|CYP2D6|ABCB1|CYP2C19|CYP2C9,"CYP3A4: Sesame [L-Canavanine, Estrone, Conidendrin...] inhibitss CYP3A4; simvastatin substrate_ofs CYP3A4 | CYP2D6: Sesame [Formononetin, Bergapten, dihydrosphingosine...] inhibitss CYP2D6; simvastatin substrate_ofs CYP2D6 | ABCB1: Sesame [Curcumin] inhibitss ABCB1; simvastatin inhibitss ABCB1"
+orlistat,Sesame,True,19.5,True,True,1,CYP3A4,"CYP3A4: Sesame [L-Canavanine, Estrone, Conidendrin...] inhibitss CYP3A4; orlistat inducess CYP3A4"
+codeine,Sesame,True,32.4,True,True,2,CYP3A4|CYP2D6,"CYP3A4: Sesame [L-Canavanine, Estrone, Conidendrin...] inhibitss CYP3A4; codeine substrate_ofs CYP3A4 | CYP2D6: Sesame [Formononetin, Bergapten, dihydrosphingosine...] inhibitss CYP2D6; codeine substrate_ofs CYP2D6"
+tamoxifen,Sesame,True,109.8,True,True,8,CYP3A4|CYP2D6|ABCB1|CYP2C19|CYP2C9,"CYP3A4: Sesame [L-Canavanine, Estrone, Conidendrin...] inhibitss CYP3A4; tamoxifen inhibitss CYP3A4 | CYP2D6: Sesame [Formononetin, Bergapten, dihydrosphingosine...] inhibitss CYP2D6; tamoxifen inhibitss CYP2D6 | ABCB1: Sesame [Curcumin] inhibitss ABCB1; tamoxifen inhibitss ABCB1"
+metoprolol,Sesame,True,36.0,True,True,2,CYP3A4|CYP2D6,"CYP3A4: Sesame [L-Canavanine, Estrone, Conidendrin...] inhibitss CYP3A4; metoprolol substrate_ofs CYP3A4 | CYP2D6: Sesame [Formononetin, Bergapten, dihydrosphingosine...] inhibitss CYP2D6; metoprolol inhibitss CYP2D6"
+estradiol,Sesame,False,0.0,False,True,0,,No shared enzyme targets between 'Sesame' compounds and 'estradiol'.
+conjugated estrogens,Sesame,True,45.9,True,True,3,CYP3A4|ABCB1|CYP1A2,"CYP3A4: Sesame [L-Canavanine, Estrone, Conidendrin...] inhibitss CYP3A4; conjugated estrogens substrate_ofs CYP3A4 | ABCB1: Sesame [Curcumin] inhibitss ABCB1; conjugated estrogens substrate_ofs ABCB1 | CYP1A2: Sesame [Apigenin, Chinese tannin, trans-resveratrol...] inhibitss CYP1A2; conjugated estrogens inhibitss CYP1A2"
+conjugated estrogens,Sucrose,False,0.0,True,False,0,,No compounds found for 'Sucrose' in HKG.
+omeprazole,Sucrose,False,0.0,True,False,0,,No compounds found for 'Sucrose' in HKG.
+lansoprazole,Sucrose,False,0.0,True,False,0,,No compounds found for 'Sucrose' in HKG.
+erythromycin,Sucrose,False,0.0,True,False,0,,No compounds found for 'Sucrose' in HKG.
+clarithromycin,Sucrose,False,0.0,True,False,0,,No compounds found for 'Sucrose' in HKG.
+allopurinol,Potassium,False,0.0,True,False,0,,No compounds found for 'Potassium' in HKG.
+ferrous sulfate anhydrous,Potassium,False,0.0,True,False,0,,No compounds found for 'Potassium' in HKG.
+ferrous sulfate,Potassium,False,0.0,False,False,0,,No compounds found for 'Potassium' in HKG.
+ferrous fumarate,Potassium,False,0.0,True,False,0,,No compounds found for 'Potassium' in HKG.
+aspirin,Allicin,False,0.0,False,False,0,,No compounds found for 'Allicin' in HKG.
+aspirin,Ginger,False,0.0,False,True,0,,No shared enzyme targets between 'Ginger' compounds and 'aspirin'.
+aspirin,Curcumin,False,0.0,False,False,0,,No compounds found for 'Curcumin' in HKG.
+cyclosporine,Ginger,True,74.25,True,True,4,CYP3A4|CYP2D6|ABCB1|CYP2C19,"CYP3A4: Ginger [L-Canavanine, Estrone, Luteolin...] inhibitss CYP3A4; cyclosporine inhibitss CYP3A4 | CYP2D6: Ginger [Capsaicin, Formononetin, Bergapten...] inhibitss CYP2D6; cyclosporine inhibitss CYP2D6 | ABCB1: Ginger [Curcumin] inhibitss ABCB1; cyclosporine inhibitss ABCB1"
+simvastatin,Ginger,True,99.0,True,True,7,CYP3A4|CYP2D6|ABCB1|CYP2C19|CYP2C9,"CYP3A4: Ginger [L-Canavanine, Estrone, Luteolin...] inhibitss CYP3A4; simvastatin substrate_ofs CYP3A4 | CYP2D6: Ginger [Capsaicin, Formononetin, Bergapten...] inhibitss CYP2D6; simvastatin substrate_ofs CYP2D6 | ABCB1: Ginger [Curcumin] inhibitss ABCB1; simvastatin inhibitss ABCB1"
+midazolam,Ginger,True,36.9,True,True,2,CYP3A4|ABCB1,"CYP3A4: Ginger [L-Canavanine, Estrone, Luteolin...] inhibitss CYP3A4; midazolam inhibitss CYP3A4 | ABCB1: Ginger [Curcumin] inhibitss ABCB1; midazolam substrate_ofs ABCB1"
+statins,Ginger,False,0.0,False,True,0,,No shared enzyme targets between 'Ginger' compounds and 'statins'.
+statins,Curcumin,False,0.0,False,False,0,,No compounds found for 'Curcumin' in HKG.
+iron,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+zinc sulfate,Phytic Acid,False,0.0,False,False,0,,No compounds found for 'Phytic Acid' in HKG.
+t,Phytic Acid,False,0.0,False,False,0,,No compounds found for 'Phytic Acid' in HKG.
+al,Phytic Acid,False,0.0,False,False,0,,No compounds found for 'Phytic Acid' in HKG.
+cm,Purine,False,0.0,False,False,0,,No compounds found for 'Purine' in HKG.
+aspirin,Purine,False,0.0,False,False,0,,No compounds found for 'Purine' in HKG.
+omeprazole,Purine,False,0.0,True,False,0,,No compounds found for 'Purine' in HKG.
+diclofenac,Purine,False,0.0,True,False,0,,No compounds found for 'Purine' in HKG.
+ferrous sulfate,Iron,False,0.0,False,False,0,,No compounds found for 'Iron' in HKG.
+zinc sulfate,Iron,False,0.0,False,False,0,,No compounds found for 'Iron' in HKG.
+iron,Potassium,False,0.0,True,False,0,,No compounds found for 'Potassium' in HKG.
+ciprofloxacin,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+iron,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+ferrous sulfate anhydrous,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+ferrous sulfate,Carotene,False,0.0,False,False,0,,No compounds found for 'Carotene' in HKG.
+zinc sulfate,Carotene,False,0.0,False,False,0,,No compounds found for 'Carotene' in HKG.
+acarbose,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+lisinopril,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+enalapril,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+ramipril,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+captopril,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+perindopril,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+buspirone,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+spironolactone,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+allopurinol,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+colchicine,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+cyclosporine,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+midazolam,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+tacrolimus,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+statins,Carotene,False,0.0,False,False,0,,No compounds found for 'Carotene' in HKG.
+warfarin,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+phenytoin,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+glipizide,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+flurbiprofen,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+retinol,Carotene,False,0.0,False,False,0,,No compounds found for 'Carotene' in HKG.
+t,Calcium,False,0.0,False,False,0,,No compounds found for 'Calcium' in HKG.
+al,Calcium,False,0.0,False,False,0,,No compounds found for 'Calcium' in HKG.
+tetracycline,Tyramine-Containing Foods,False,0.0,True,False,0,,No compounds found for 'Tyramine-Containing Foods' in HKG.
+tetracycline,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+t,Tyramine-Containing Foods,False,0.0,False,False,0,,No compounds found for 'Tyramine-Containing Foods' in HKG.
+t,Na+,False,0.0,False,False,0,,No compounds found for 'Na+' in HKG.
+doxycycline,Tyramine-Containing Foods,False,0.0,True,False,0,,No compounds found for 'Tyramine-Containing Foods' in HKG.
+doxycycline,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+al,Tyramine-Containing Foods,False,0.0,False,False,0,,No compounds found for 'Tyramine-Containing Foods' in HKG.
+al,Na+,False,0.0,False,False,0,,No compounds found for 'Na+' in HKG.
+phenelzine,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+tranylcypromine,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+isocarboxazid,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+selegiline,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+lisinopril,Tyramine-Containing Foods,False,0.0,True,False,0,,No compounds found for 'Tyramine-Containing Foods' in HKG.
+lisinopril,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+amlodipine,Tyramine-Containing Foods,False,0.0,True,False,0,,No compounds found for 'Tyramine-Containing Foods' in HKG.
+amlodipine,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+hydrochlorothiazide,Tyramine-Containing Foods,False,0.0,True,False,0,,No compounds found for 'Tyramine-Containing Foods' in HKG.
+hydrochlorothiazide,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+metoprolol,Tyramine-Containing Foods,False,0.0,True,False,0,,No compounds found for 'Tyramine-Containing Foods' in HKG.
+metoprolol,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+losartan,Tyramine-Containing Foods,False,0.0,True,False,0,,No compounds found for 'Tyramine-Containing Foods' in HKG.
+losartan,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+phenelzine,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+tranylcypromine,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+isocarboxazid,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+selegiline,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+amlodipine,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+hydrochlorothiazide,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+losartan,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+amlodipine,Capsaicin,False,0.0,True,False,0,,No compounds found for 'Capsaicin' in HKG.
+hydrochlorothiazide,Capsaicin,False,0.0,True,False,0,,No compounds found for 'Capsaicin' in HKG.
+metoprolol,Capsaicin,False,0.0,True,False,0,,No compounds found for 'Capsaicin' in HKG.
+lisinopril,Vitamin C,False,0.0,True,False,0,,No compounds found for 'Vitamin C' in HKG.
+lisinopril,Flavonoids,False,0.0,True,False,0,,No compounds found for 'Flavonoids' in HKG.
+ramipril,Flavonoids,False,0.0,True,False,0,,No compounds found for 'Flavonoids' in HKG.
+captopril,Vitamin C,False,0.0,True,False,0,,No compounds found for 'Vitamin C' in HKG.
+captopril,Flavonoids,False,0.0,True,False,0,,No compounds found for 'Flavonoids' in HKG.
+perindopril,Vitamin C,False,0.0,True,False,0,,No compounds found for 'Vitamin C' in HKG.
+perindopril,Flavonoids,False,0.0,True,False,0,,No compounds found for 'Flavonoids' in HKG.
+ferrous sulfate anhydrous,Flavonoids,False,0.0,True,False,0,,No compounds found for 'Flavonoids' in HKG.
+ferrous sulfate,Vitamin C,False,0.0,False,False,0,,No compounds found for 'Vitamin C' in HKG.
+ferrous sulfate,Flavonoids,False,0.0,False,False,0,,No compounds found for 'Flavonoids' in HKG.
+ferrous gluconate,Flavonoids,False,0.0,True,False,0,,No compounds found for 'Flavonoids' in HKG.
+ferrous fumarate,Flavonoids,False,0.0,True,False,0,,No compounds found for 'Flavonoids' in HKG.
+amlodipine,Flavonoids,False,0.0,True,False,0,,No compounds found for 'Flavonoids' in HKG.
+hydrochlorothiazide,Flavonoids,False,0.0,True,False,0,,No compounds found for 'Flavonoids' in HKG.
+metoprolol,Vitamin C,False,0.0,True,False,0,,No compounds found for 'Vitamin C' in HKG.
+metoprolol,Flavonoids,False,0.0,True,False,0,,No compounds found for 'Flavonoids' in HKG.
+aspirin,Flavonoids,False,0.0,False,False,0,,No compounds found for 'Flavonoids' in HKG.
+statins,Vitamin C,False,0.0,False,False,0,,No compounds found for 'Vitamin C' in HKG.
+statins,Flavonoids,False,0.0,False,False,0,,No compounds found for 'Flavonoids' in HKG.
+isotretinoin,Vitamin C,False,0.0,True,False,0,,No compounds found for 'Vitamin C' in HKG.
+isotretinoin,Flavonoids,False,0.0,True,False,0,,No compounds found for 'Flavonoids' in HKG.
+amlodipine,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+hydrochlorothiazide,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+metoprolol,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+isotretinoin,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+atropine,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+oxybutynin,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+ne,Fat,False,0.0,False,False,0,,No compounds found for 'Fat' in HKG.
+colchicine,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+phenytoin,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+glipizide,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+flurbiprofen,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+paracetamol,Fat,False,0.0,False,False,0,,No compounds found for 'Fat' in HKG.
+ethanol,Fat,False,0.0,False,False,0,,No compounds found for 'Fat' in HKG.
+acetaminophen,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+statins,Choline,False,0.0,False,False,0,,No compounds found for 'Choline' in HKG.
+isotretinoin,Choline,False,0.0,True,False,0,,No compounds found for 'Choline' in HKG.
+atorvastatin,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+atorvastatin,Choline,False,0.0,True,False,0,,No compounds found for 'Choline' in HKG.
+simvastatin,Choline,False,0.0,True,False,0,,No compounds found for 'Choline' in HKG.
+ritonavir,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+ritonavir,Choline,False,0.0,True,False,0,,No compounds found for 'Choline' in HKG.
+allopurinol,Choline,False,0.0,True,False,0,,No compounds found for 'Choline' in HKG.
+colchicine,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+paracetamol,Soy Lecithin,False,0.0,False,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+paracetamol,Choline,False,0.0,False,False,0,,No compounds found for 'Choline' in HKG.
+ethanol,Soy Lecithin,False,0.0,False,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+ethanol,Choline,False,0.0,False,False,0,,No compounds found for 'Choline' in HKG.
+acetaminophen,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+acetaminophen,Choline,False,0.0,True,False,0,,No compounds found for 'Choline' in HKG.
+acarbose,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+metformin,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+acarbose,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+lisinopril,Quercetin,False,0.0,True,False,0,,No compounds found for 'Quercetin' in HKG.
+amlodipine,Quercetin,False,0.0,True,False,0,,No compounds found for 'Quercetin' in HKG.
+hydrochlorothiazide,Quercetin,False,0.0,True,False,0,,No compounds found for 'Quercetin' in HKG.
+losartan,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+clopidogrel,Quercetin,False,0.0,True,False,0,,No compounds found for 'Quercetin' in HKG.
+acarbose,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+cholestyramine,Sucrose,False,0.0,False,False,0,,No compounds found for 'Sucrose' in HKG.
+colestipol,Sucrose,False,0.0,False,False,0,,No compounds found for 'Sucrose' in HKG.
+colestipol,Glucose,False,0.0,False,False,0,,No compounds found for 'Glucose' in HKG.
+metoclopramide,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+domperidone,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+cholestyramine,Butyric Acid,False,0.0,False,False,0,,No compounds found for 'Butyric Acid' in HKG.
+colestipol,Butyric Acid,False,0.0,False,False,0,,No compounds found for 'Butyric Acid' in HKG.
+ure,Amylopectin,False,0.0,False,False,0,,No compounds found for 'Amylopectin' in HKG.
+lansoprazole,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+erythromycin,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+clarithromycin,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+furosemide,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+torasemide,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+spironolactone,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+furosemide,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+hydrochlorothiazide,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+torasemide,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+amlodipine,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+metoprolol,Phytic Acid,False,0.0,True,False,0,,No compounds found for 'Phytic Acid' in HKG.
+griseofulvin,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+fe,Amylopectin,False,0.0,False,False,0,,No compounds found for 'Amylopectin' in HKG.
+levothyroxine,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+warfarin,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+ciprofloxacin,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+furosemide,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+torasemide,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+spironolactone,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+ketoconazole,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+itraconazole,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+enalapril,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+ramipril,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+captopril,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+perindopril,Na+,False,0.0,True,False,0,,No compounds found for 'Na+' in HKG.
+t,Potassium,False,0.0,False,False,0,,No compounds found for 'Potassium' in HKG.
+triamterene,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+triamterene,Oleic Acid,False,0.0,True,False,0,,No compounds found for 'Oleic Acid' in HKG.
+haloperidol,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+haloperidol,Oleic Acid,False,0.0,True,False,0,,No compounds found for 'Oleic Acid' in HKG.
+haloperidol,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+codeine,Oleic Acid,False,0.0,True,False,0,,No compounds found for 'Oleic Acid' in HKG.
+tamoxifen,Oleic Acid,False,0.0,True,False,0,,No compounds found for 'Oleic Acid' in HKG.
+spironolactone,Arginine,False,0.0,True,False,0,,No compounds found for 'Arginine' in HKG.
+spironolactone,Vitamin E,False,0.0,True,False,0,,No compounds found for 'Vitamin E' in HKG.
+amiloride,Vitamin E,False,0.0,True,False,0,,No compounds found for 'Vitamin E' in HKG.
+triamterene,Arginine,False,0.0,True,False,0,,No compounds found for 'Arginine' in HKG.
+triamterene,Vitamin E,False,0.0,True,False,0,,No compounds found for 'Vitamin E' in HKG.
+isotretinoin,Arginine,False,0.0,True,False,0,,No compounds found for 'Arginine' in HKG.
+isotretinoin,Vitamin E,False,0.0,True,False,0,,No compounds found for 'Vitamin E' in HKG.
+phenelzine,Vitamin E,False,0.0,True,False,0,,No compounds found for 'Vitamin E' in HKG.
+tranylcypromine,Arginine,False,0.0,True,False,0,,No compounds found for 'Arginine' in HKG.
+tranylcypromine,Vitamin E,False,0.0,True,False,0,,No compounds found for 'Vitamin E' in HKG.
+isocarboxazid,Vitamin E,False,0.0,True,False,0,,No compounds found for 'Vitamin E' in HKG.
+selegiline,Vitamin E,False,0.0,True,False,0,,No compounds found for 'Vitamin E' in HKG.
+fluoxetine,Vitamin E,False,0.0,True,False,0,,No compounds found for 'Vitamin E' in HKG.
+sertraline,Vitamin E,False,0.0,True,False,0,,No compounds found for 'Vitamin E' in HKG.
+isotretinoin,Sucrose,False,0.0,True,False,0,,No compounds found for 'Sucrose' in HKG.
+tranylcypromine,Sucrose,False,0.0,True,False,0,,No compounds found for 'Sucrose' in HKG.
+tranylcypromine,Glucose,False,0.0,True,False,0,,No compounds found for 'Glucose' in HKG.
+sertraline,Sucrose,False,0.0,True,False,0,,No compounds found for 'Sucrose' in HKG.
+diazepam,Sucrose,False,0.0,True,False,0,,No compounds found for 'Sucrose' in HKG.
+lorazepam,Sucrose,False,0.0,True,False,0,,No compounds found for 'Sucrose' in HKG.
+lorazepam,Glucose,False,0.0,True,False,0,,No compounds found for 'Glucose' in HKG.
+sildenafil,Sorbitol,False,0.0,True,False,0,,No compounds found for 'Sorbitol' in HKG.
+isosorbide mononitrate,Potassium,False,0.0,True,False,0,,No compounds found for 'Potassium' in HKG.
+isosorbide mononitrate,Sorbitol,False,0.0,True,False,0,,No compounds found for 'Sorbitol' in HKG.
+nitroglycerin,Sorbitol,False,0.0,True,False,0,,No compounds found for 'Sorbitol' in HKG.
+empagliflozin,Sorbitol,False,0.0,True,False,0,,No compounds found for 'Sorbitol' in HKG.
+dapagliflozin,Potassium,False,0.0,True,False,0,,No compounds found for 'Potassium' in HKG.
+dapagliflozin,Sorbitol,False,0.0,True,False,0,,No compounds found for 'Sorbitol' in HKG.
+canagliflozin,Sorbitol,False,0.0,True,False,0,,No compounds found for 'Sorbitol' in HKG.
+phenelzine,Sorbitol,False,0.0,True,False,0,,No compounds found for 'Sorbitol' in HKG.
+tranylcypromine,Potassium,False,0.0,True,False,0,,No compounds found for 'Potassium' in HKG.
+tranylcypromine,Sorbitol,False,0.0,True,False,0,,No compounds found for 'Sorbitol' in HKG.
+isocarboxazid,Sorbitol,False,0.0,True,False,0,,No compounds found for 'Sorbitol' in HKG.
+selegiline,Sorbitol,False,0.0,True,False,0,,No compounds found for 'Sorbitol' in HKG.
+fluoxetine,Sorbitol,False,0.0,True,False,0,,No compounds found for 'Sorbitol' in HKG.
+sertraline,Sorbitol,False,0.0,True,False,0,,No compounds found for 'Sorbitol' in HKG.
+sildenafil,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+t,Soy Lecithin,False,0.0,False,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+isosorbide mononitrate,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+nitroglycerin,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+empagliflozin,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+dapagliflozin,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+canagliflozin,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+lisinopril,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+enalapril,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+ramipril,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+captopril,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+perindopril,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+spironolactone,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+amiloride,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+triamterene,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+phenelzine,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+tranylcypromine,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+isocarboxazid,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+selegiline,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+fluoxetine,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+sertraline,Soy Lecithin,False,0.0,True,False,0,,No compounds found for 'Soy Lecithin' in HKG.
+lisinopril,Crocin,False,0.0,True,False,0,,No compounds found for 'Crocin' in HKG.
+enalapril,Crocin,False,0.0,True,False,0,,No compounds found for 'Crocin' in HKG.
+ramipril,Crocin,False,0.0,True,False,0,,No compounds found for 'Crocin' in HKG.
+captopril,Crocin,False,0.0,True,False,0,,No compounds found for 'Crocin' in HKG.
+perindopril,Crocin,False,0.0,True,False,0,,No compounds found for 'Crocin' in HKG.
+spironolactone,Crocin,False,0.0,True,False,0,,No compounds found for 'Crocin' in HKG.
+amiloride,Crocin,False,0.0,True,False,0,,No compounds found for 'Crocin' in HKG.
+triamterene,Crocin,False,0.0,True,False,0,,No compounds found for 'Crocin' in HKG.
+empagliflozin,Linalool,False,0.0,True,False,0,,No compounds found for 'Linalool' in HKG.
+empagliflozin,Geraniol,False,0.0,True,False,0,,No compounds found for 'Geraniol' in HKG.
+dapagliflozin,Linalool,False,0.0,True,False,0,,No compounds found for 'Linalool' in HKG.
+dapagliflozin,Geraniol,False,0.0,True,False,0,,No compounds found for 'Geraniol' in HKG.
+canagliflozin,Linalool,False,0.0,True,False,0,,No compounds found for 'Linalool' in HKG.
+canagliflozin,Geraniol,False,0.0,True,False,0,,No compounds found for 'Geraniol' in HKG.
+aspirin,Benzaldehyde,False,0.0,False,False,0,,No compounds found for 'Benzaldehyde' in HKG.
+clopidogrel,Benzaldehyde,False,0.0,True,False,0,,No compounds found for 'Benzaldehyde' in HKG.
+nsaid,Benzaldehyde,False,0.0,False,False,0,,No compounds found for 'Benzaldehyde' in HKG.
+ibuprofen,Benzaldehyde,False,0.0,True,False,0,,No compounds found for 'Benzaldehyde' in HKG.
+naproxen,Benzaldehyde,False,0.0,True,False,0,,No compounds found for 'Benzaldehyde' in HKG.
+cyclosporine,Benzaldehyde,False,0.0,True,False,0,,No compounds found for 'Benzaldehyde' in HKG.
+isotretinoin,Benzaldehyde,False,0.0,True,False,0,,No compounds found for 'Benzaldehyde' in HKG.
+statins,Benzaldehyde,False,0.0,False,False,0,,No compounds found for 'Benzaldehyde' in HKG.
+cyclosporine,Choline,False,0.0,True,False,0,,No compounds found for 'Choline' in HKG.
+clopidogrel,Sucrose,False,0.0,True,False,0,,No compounds found for 'Sucrose' in HKG.
+nsaid,Sucrose,False,0.0,False,False,0,,No compounds found for 'Sucrose' in HKG.
+nsaid,D-Fructose,False,0.0,False,False,0,,No compounds found for 'D-Fructose' in HKG.
+nsaid,Glucose,False,0.0,False,False,0,,No compounds found for 'Glucose' in HKG.
+ibuprofen,D-Fructose,False,0.0,True,False,0,,No compounds found for 'D-Fructose' in HKG.
+ibuprofen,Glucose,False,0.0,True,False,0,,No compounds found for 'Glucose' in HKG.
+naproxen,Sucrose,False,0.0,True,False,0,,No compounds found for 'Sucrose' in HKG.
+naproxen,D-Fructose,False,0.0,True,False,0,,No compounds found for 'D-Fructose' in HKG.
+naproxen,Glucose,False,0.0,True,False,0,,No compounds found for 'Glucose' in HKG.
+isotretinoin,D-Fructose,False,0.0,True,False,0,,No compounds found for 'D-Fructose' in HKG.
+metformin,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+lisinopril,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+enalapril,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+ramipril,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+captopril,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+perindopril,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+spironolactone,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+amiloride,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+triamterene,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+diazepam,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+alprazolam,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+lorazepam,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+omeprazole,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+lansoprazole,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+erythromycin,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+clarithromycin,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+azithromycin,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+insulin,Fiber,False,0.0,False,False,0,,No compounds found for 'Fiber' in HKG.
+enalapril,Fiber,False,0.0,True,False,0,,No compounds found for 'Fiber' in HKG.
+ramipril,Fiber,False,0.0,True,False,0,,No compounds found for 'Fiber' in HKG.
+captopril,Fiber,False,0.0,True,False,0,,No compounds found for 'Fiber' in HKG.
+perindopril,Fiber,False,0.0,True,False,0,,No compounds found for 'Fiber' in HKG.
+spironolactone,Fiber,False,0.0,True,False,0,,No compounds found for 'Fiber' in HKG.
+amiloride,Fiber,False,0.0,True,False,0,,No compounds found for 'Fiber' in HKG.
+triamterene,Fiber,False,0.0,True,False,0,,No compounds found for 'Fiber' in HKG.
+diazepam,Fiber,False,0.0,True,False,0,,No compounds found for 'Fiber' in HKG.
+alprazolam,Fiber,False,0.0,True,False,0,,No compounds found for 'Fiber' in HKG.
+lorazepam,Potassium,False,0.0,True,False,0,,No compounds found for 'Potassium' in HKG.
+lorazepam,Fiber,False,0.0,True,False,0,,No compounds found for 'Fiber' in HKG.
+lithium,Fiber,False,0.0,False,False,0,,No compounds found for 'Fiber' in HKG.
+phenytoin,Fiber,False,0.0,True,False,0,,No compounds found for 'Fiber' in HKG.
+statins,Potassium,False,0.0,False,False,0,,No compounds found for 'Potassium' in HKG.
+isotretinoin,Potassium,False,0.0,True,False,0,,No compounds found for 'Potassium' in HKG.
+lithium,Potassium,False,0.0,False,False,0,,No compounds found for 'Potassium' in HKG.
+lisinopril,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+enalapril,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+ramipril,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+captopril,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+perindopril,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+amiloride,Fat,False,0.0,True,False,0,,No compounds found for 'Fat' in HKG.
+digoxin,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+lithium,Starch,False,0.0,False,False,0,,No compounds found for 'Starch' in HKG.
+phenytoin,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+lisinopril,Honey,False,0.0,True,True,0,,No shared enzyme targets between 'Honey' compounds and 'lisinopril'.
+enalapril,Honey,False,0.0,True,True,0,,No shared enzyme targets between 'Honey' compounds and 'enalapril'.
+ramipril,Honey,False,0.0,True,True,0,,No shared enzyme targets between 'Honey' compounds and 'ramipril'.
+captopril,Honey,False,0.0,True,True,0,,No shared enzyme targets between 'Honey' compounds and 'captopril'.
+perindopril,Honey,False,0.0,True,True,0,,No shared enzyme targets between 'Honey' compounds and 'perindopril'.
+amiloride,Honey,False,0.0,True,True,0,,No shared enzyme targets between 'Honey' compounds and 'amiloride'.
+triamterene,Honey,True,10.8,True,True,1,CYP1A2,"CYP1A2: Honey [Isorhamnetin, Apigenin, Quercetin...] inhibitss CYP1A2; triamterene substrate_ofs CYP1A2"
+orlistat,Honey,True,19.5,True,True,1,CYP3A4,"CYP3A4: Honey [Arachidonic acid, Apigenin, Quercetin...] inhibitss CYP3A4; orlistat inducess CYP3A4"
+aspirin,Alpha-Linolenic Acid,False,0.0,False,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+clopidogrel,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+phenytoin,Alpha-Linolenic Acid,False,0.0,True,False,0,,No compounds found for 'Alpha-Linolenic Acid' in HKG.
+aspirin,Linalool,False,0.0,False,False,0,,No compounds found for 'Linalool' in HKG.
+clopidogrel,Linalool,False,0.0,True,False,0,,No compounds found for 'Linalool' in HKG.
+warfarin,Linalool,False,0.0,True,False,0,,No compounds found for 'Linalool' in HKG.
+t,Glucose,False,0.0,False,False,0,,No compounds found for 'Glucose' in HKG.
+t,Linalool,False,0.0,False,False,0,,No compounds found for 'Linalool' in HKG.
+amiodarone,Linalool,False,0.0,True,False,0,,No compounds found for 'Linalool' in HKG.
+griseofulvin,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+estradiol,Butyric Acid,False,0.0,False,False,0,,No compounds found for 'Butyric Acid' in HKG.
+progesterone,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+conjugated estrogens,Butyric Acid,False,0.0,True,False,0,,No compounds found for 'Butyric Acid' in HKG.
+griseofulvin,Honey,True,31.2,True,True,2,CYP3A4|CYP1A2,"CYP3A4: Honey [Arachidonic acid, Apigenin, Quercetin...] inhibitss CYP3A4; griseofulvin inducess CYP3A4 | CYP1A2: Honey [Isorhamnetin, Apigenin, Quercetin...] inhibitss CYP1A2; griseofulvin inducess CYP1A2"
+paracetamol,Honey,False,0.0,False,True,0,,No shared enzyme targets between 'Honey' compounds and 'paracetamol'.
+atorvastatin,Honey,True,76.5,True,True,5,CYP3A4|CYP2D6|CYP2C19|CYP2C9|CYP2C8,"CYP3A4: Honey [Arachidonic acid, Apigenin, Quercetin...] inhibitss CYP3A4; atorvastatin substrate_ofs CYP3A4 | CYP2D6: Honey [Kaempferol] inhibitss CYP2D6; atorvastatin inhibitss CYP2D6 | CYP2C19: Honey [Apigenin, Riboflavine, Myricetin...] inhibitss CYP2C19; atorvastatin inhibitss CYP2C19"
+griseofulvin,Sesame,True,31.2,True,True,2,CYP3A4|CYP1A2,"CYP3A4: Sesame [L-Canavanine, Estrone, Conidendrin...] inhibitss CYP3A4; griseofulvin inducess CYP3A4 | CYP1A2: Sesame [Apigenin, Chinese tannin, trans-resveratrol...] inhibitss CYP1A2; griseofulvin inducess CYP1A2"
+paracetamol,Sesame,False,0.0,False,True,0,,No shared enzyme targets between 'Sesame' compounds and 'paracetamol'.
+atorvastatin,Sesame,True,85.5,True,True,5,CYP3A4|CYP2D6|ABCB1|CYP2C19|CYP2C9,"CYP3A4: Sesame [L-Canavanine, Estrone, Conidendrin...] inhibitss CYP3A4; atorvastatin substrate_ofs CYP3A4 | CYP2D6: Sesame [Formononetin, Bergapten, dihydrosphingosine...] inhibitss CYP2D6; atorvastatin inhibitss CYP2D6 | ABCB1: Sesame [Curcumin] inhibitss ABCB1; atorvastatin inhibitss ABCB1"
+warfarin,Sesame,True,59.7,True,True,4,CYP3A4|CYP2C19|CYP2C9|CYP1A2,"CYP3A4: Sesame [L-Canavanine, Estrone, Conidendrin...] inhibitss CYP3A4; warfarin inducess CYP3A4 | CYP2C19: Sesame [Spermine, Bergapten, Psoralen...] inhibitss CYP2C19; warfarin inhibitss CYP2C19 | CYP2C9: Sesame [Curcumin, Phloretin, Progesterone...] inhibitss CYP2C9; warfarin inducess CYP2C9"
+diazepam,Sesame,True,65.25,True,True,4,CYP3A4|ABCB1|CYP2C19|CYP2C9,"CYP3A4: Sesame [L-Canavanine, Estrone, Conidendrin...] inhibitss CYP3A4; diazepam inhibitss CYP3A4 | ABCB1: Sesame [Curcumin] inhibitss ABCB1; diazepam substrate_ofs ABCB1 | CYP2C19: Sesame [Spermine, Bergapten, Psoralen...] inhibitss CYP2C19; diazepam inhibitss CYP2C19"
+alprazolam,Sesame,True,30.6,True,True,2,CYP3A4|CYP2C9,"CYP3A4: Sesame [L-Canavanine, Estrone, Conidendrin...] inhibitss CYP3A4; alprazolam substrate_ofs CYP3A4 | CYP2C9: Sesame [Curcumin, Phloretin, Progesterone...] inhibitss CYP2C9; alprazolam substrate_ofs CYP2C9"
+lorazepam,Sesame,False,0.0,True,True,0,,No shared enzyme targets between 'Sesame' compounds and 'lorazepam'.
+griseofulvin,Arginine,False,0.0,True,False,0,,No compounds found for 'Arginine' in HKG.
+griseofulvin,Niacin,False,0.0,True,False,0,,No compounds found for 'Niacin' in HKG.
+warfarin,Niacin,False,0.0,True,False,0,,No compounds found for 'Niacin' in HKG.
+levothyroxine,Arginine,False,0.0,True,False,0,,No compounds found for 'Arginine' in HKG.
+levothyroxine,Niacin,False,0.0,True,False,0,,No compounds found for 'Niacin' in HKG.
+phenytoin,Arginine,False,0.0,True,False,0,,No compounds found for 'Arginine' in HKG.
+phenytoin,Niacin,False,0.0,True,False,0,,No compounds found for 'Niacin' in HKG.
+orlistat,Arginine,False,0.0,True,False,0,,No compounds found for 'Arginine' in HKG.
+orlistat,Niacin,False,0.0,True,False,0,,No compounds found for 'Niacin' in HKG.
+fe,Glucose,False,0.0,False,False,0,,No compounds found for 'Glucose' in HKG.
+tamoxifen,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+estradiol,Amylopectin,False,0.0,False,False,0,,No compounds found for 'Amylopectin' in HKG.
+progesterone,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+conjugated estrogens,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+conjugated estrogens,Potassium,False,0.0,True,False,0,,No compounds found for 'Potassium' in HKG.
+levonorgestrel,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+ethinylestradiol,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+buspirone,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+losartan,Amylopectin,False,0.0,True,False,0,,No compounds found for 'Amylopectin' in HKG.
+tamoxifen,Cuminaldehyde,False,0.0,True,False,0,,No compounds found for 'Cuminaldehyde' in HKG.
+tamoxifen,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+estradiol,Cuminaldehyde,False,0.0,False,False,0,,No compounds found for 'Cuminaldehyde' in HKG.
+estradiol,Allicin,False,0.0,False,False,0,,No compounds found for 'Allicin' in HKG.
+progesterone,Cuminaldehyde,False,0.0,True,False,0,,No compounds found for 'Cuminaldehyde' in HKG.
+progesterone,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+conjugated estrogens,Cuminaldehyde,False,0.0,True,False,0,,No compounds found for 'Cuminaldehyde' in HKG.
+conjugated estrogens,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+levonorgestrel,Cuminaldehyde,False,0.0,True,False,0,,No compounds found for 'Cuminaldehyde' in HKG.
+levonorgestrel,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+ethinylestradiol,Cuminaldehyde,False,0.0,True,False,0,,No compounds found for 'Cuminaldehyde' in HKG.
+ethinylestradiol,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+empagliflozin,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+dapagliflozin,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+canagliflozin,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+losartan,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+valsartan,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+furosemide,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+torasemide,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+empagliflozin,Quercetin,False,0.0,True,False,0,,No compounds found for 'Quercetin' in HKG.
+empagliflozin,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+dapagliflozin,Quercetin,False,0.0,True,False,0,,No compounds found for 'Quercetin' in HKG.
+dapagliflozin,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+canagliflozin,Quercetin,False,0.0,True,False,0,,No compounds found for 'Quercetin' in HKG.
+canagliflozin,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+metformin,Cuminaldehyde,False,0.0,True,False,0,,No compounds found for 'Cuminaldehyde' in HKG.
+insulin,Apigenin,False,0.0,False,False,0,,No compounds found for 'Apigenin' in HKG.
+insulin,Cuminaldehyde,False,0.0,False,False,0,,No compounds found for 'Cuminaldehyde' in HKG.
+empagliflozin,Apigenin,False,0.0,True,False,0,,No compounds found for 'Apigenin' in HKG.
+empagliflozin,Cuminaldehyde,False,0.0,True,False,0,,No compounds found for 'Cuminaldehyde' in HKG.
+dapagliflozin,Apigenin,False,0.0,True,False,0,,No compounds found for 'Apigenin' in HKG.
+dapagliflozin,Cuminaldehyde,False,0.0,True,False,0,,No compounds found for 'Cuminaldehyde' in HKG.
+canagliflozin,Apigenin,False,0.0,True,False,0,,No compounds found for 'Apigenin' in HKG.
+canagliflozin,Cuminaldehyde,False,0.0,True,False,0,,No compounds found for 'Cuminaldehyde' in HKG.
+losartan,Cuminaldehyde,False,0.0,True,False,0,,No compounds found for 'Cuminaldehyde' in HKG.
+valsartan,Apigenin,False,0.0,True,False,0,,No compounds found for 'Apigenin' in HKG.
+valsartan,Cuminaldehyde,False,0.0,True,False,0,,No compounds found for 'Cuminaldehyde' in HKG.
+acarbose,Saponins,False,0.0,True,False,0,,No compounds found for 'Saponins' in HKG.
+metformin,Saponins,False,0.0,True,False,0,,No compounds found for 'Saponins' in HKG.
+propranolol,Saponins,False,0.0,True,False,0,,No compounds found for 'Saponins' in HKG.
+propranolol,Starch,False,0.0,True,False,0,,No compounds found for 'Starch' in HKG.
+phenytoin,Saponins,False,0.0,True,False,0,,No compounds found for 'Saponins' in HKG.
+cyclosporine,Saponins,False,0.0,True,False,0,,No compounds found for 'Saponins' in HKG.
+acarbose,Cinnamaldehyde,False,0.0,True,False,0,,No compounds found for 'Cinnamaldehyde' in HKG.
+propranolol,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+cyclosporine,Piperine,False,0.0,True,False,0,,No compounds found for 'Piperine' in HKG.
+cholestyramine,Allicin,False,0.0,False,False,0,,No compounds found for 'Allicin' in HKG.
+cholestyramine,Piperine,False,0.0,False,False,0,,No compounds found for 'Piperine' in HKG.
+folate,Folic Acid,False,0.0,False,False,0,,No compounds found for 'Folic Acid' in HKG.
+methotrexate,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+folate,Carotene,False,0.0,False,False,0,,No compounds found for 'Carotene' in HKG.
+pemetrexed,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+trimethoprim,Carotene,False,0.0,False,False,0,,No compounds found for 'Carotene' in HKG.
+nsaid,Carotene,False,0.0,False,False,0,,No compounds found for 'Carotene' in HKG.
+naproxen,Carotene,False,0.0,True,False,0,,No compounds found for 'Carotene' in HKG.
+methotrexate,Ginger,True,32.4,True,True,2,CYP3A4|ABCB1,"CYP3A4: Ginger [L-Canavanine, Estrone, Luteolin...] inhibitss CYP3A4; methotrexate substrate_ofs CYP3A4 | ABCB1: Ginger [Curcumin] inhibitss ABCB1; methotrexate substrate_ofs ABCB1"
+methotrexate,Piperine,False,0.0,True,False,0,,No compounds found for 'Piperine' in HKG.
+folate,Curcumin,False,0.0,False,False,0,,No compounds found for 'Curcumin' in HKG.
+folate,Ginger,False,0.0,False,True,0,,No shared enzyme targets between 'Ginger' compounds and 'folate'.
+folate,Piperine,False,0.0,False,False,0,,No compounds found for 'Piperine' in HKG.
+pemetrexed,Curcumin,False,0.0,True,False,0,,No compounds found for 'Curcumin' in HKG.
+pemetrexed,Ginger,False,0.0,True,True,0,,No shared enzyme targets between 'Ginger' compounds and 'pemetrexed'.
+pemetrexed,Piperine,False,0.0,True,False,0,,No compounds found for 'Piperine' in HKG.
+trimethoprim,Ginger,False,0.0,False,True,0,,No shared enzyme targets between 'Ginger' compounds and 'trimethoprim'.
+trimethoprim,Piperine,False,0.0,False,False,0,,No compounds found for 'Piperine' in HKG.
+nsaid,Curcumin,False,0.0,False,False,0,,No compounds found for 'Curcumin' in HKG.
+nsaid,Ginger,False,0.0,False,True,0,,No shared enzyme targets between 'Ginger' compounds and 'nsaid'.
+nsaid,Piperine,False,0.0,False,False,0,,No compounds found for 'Piperine' in HKG.
+naproxen,Curcumin,False,0.0,True,False,0,,No compounds found for 'Curcumin' in HKG.
+naproxen,Ginger,True,48.6,True,True,4,ABCB1|CYP2C9|CYP1A2|CYP2C8,"ABCB1: Ginger [Curcumin] inhibitss ABCB1; naproxen inhibitss ABCB1 | CYP2C9: Ginger [Curcumin, Bergapten, Psoralen...] inhibitss CYP2C9; naproxen substrate_ofs CYP2C9 | CYP1A2: Ginger [Isorhamnetin, [8]-Shogaol, cis-[6]-Shogaol...] inhibitss CYP1A2; naproxen substrate_ofs CYP1A2"
+naproxen,Piperine,False,0.0,True,False,0,,No compounds found for 'Piperine' in HKG.
+nsaid,Allicin,False,0.0,False,False,0,,No compounds found for 'Allicin' in HKG.
+ibuprofen,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+naproxen,Allicin,False,0.0,True,False,0,,No compounds found for 'Allicin' in HKG.
+retinol,Allicin,False,0.0,False,False,0,,No compounds found for 'Allicin' in HKG.
+isotretinoin,Myo-Inositol,False,0.0,True,False,0,,No compounds found for 'Myo-Inositol' in HKG.
+cyclosporine,Myo-Inositol,False,0.0,True,False,0,,No compounds found for 'Myo-Inositol' in HKG.
+atropine,Lutein,False,0.0,True,False,0,,No compounds found for 'Lutein' in HKG.
+atropine,L-Leucine,False,0.0,True,False,0,,No compounds found for 'L-Leucine' in HKG.
+oxybutynin,Lutein,False,0.0,True,False,0,,No compounds found for 'Lutein' in HKG.
+oxybutynin,L-Leucine,False,0.0,True,False,0,,No compounds found for 'L-Leucine' in HKG.
+ne,Lutein,False,0.0,False,False,0,,No compounds found for 'Lutein' in HKG.
+ne,L-Leucine,False,0.0,False,False,0,,No compounds found for 'L-Leucine' in HKG.
+donepezil,Lutein,False,0.0,True,False,0,,No compounds found for 'Lutein' in HKG.
+donepezil,L-Leucine,False,0.0,True,False,0,,No compounds found for 'L-Leucine' in HKG.
+isotretinoin,Lutein,False,0.0,True,False,0,,No compounds found for 'Lutein' in HKG.
+isotretinoin,L-Leucine,False,0.0,True,False,0,,No compounds found for 'L-Leucine' in HKG.
+griseofulvin,Choline,False,0.0,True,False,0,,No compounds found for 'Choline' in HKG.
+griseofulvin,Lutein,False,0.0,True,False,0,,No compounds found for 'Lutein' in HKG.
+griseofulvin,L-Leucine,False,0.0,True,False,0,,No compounds found for 'L-Leucine' in HKG.
+cyclosporine,Lutein,False,0.0,True,False,0,,No compounds found for 'Lutein' in HKG.
+paracetamol,Lutein,False,0.0,False,False,0,,No compounds found for 'Lutein' in HKG.
+paracetamol,L-Leucine,False,0.0,False,False,0,,No compounds found for 'L-Leucine' in HKG.

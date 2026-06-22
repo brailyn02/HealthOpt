@@ -1,0 +1,318 @@
+623	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC=C(C=C5)O)O)O)O)O)O)O)O	Isorhoifolin
+624	C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O	Ellagic Acid
+625	CN1C=NC2=C1C(=O)NC(=O)N2C	Theobromine
+626	C([C@H]([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O)O	Gluconic Acid
+627	C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O	(+)-Ursolic Acid
+628	C/C=C\SSCC=C	
+629	CC[C@H](C)[C@@H](C(=O)O)N	L-Isoleucine
+630	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O	beta-Maltose
+631	CCCCCCCCCCCCCCCC(=O)OCC(COP(=O)(O)O)O	1-Palmitoylglycerol 3-phosphate
+632	CC1(C2CCC(C2)C1=C)C	Camphene
+633	C(C(=O)O)N	Glycine
+634	C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)OC2=C(N=C(NC2=O)N)N)O)O)O)O	Vicine
+635	CC1CCC2(C(C3C(O2)CC4C3(C(=O)CC5C4CC(C6C5(CC(=O)C(C6)OC7C(C(C(C(O7)CO)OC8C(C(C(C(O8)CO)O)OC9C(C(C(CO9)O)O)O)OC2C(C(C(C(O2)CO)O)O)O)O)O)C)O)C)C)OC1	(3b,5a,6b,25R)-3,6-Dihydroxyspirostane-2,12-dione 3-[4'-(2''-glucosyl-3''-xylosyl)-galactoside]
+636	CC1=C(C(=O)C2=CC=CC=C2C1=O)C/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C	
+637	[Mg]	Magnesium
+638	CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@@H](C([C@@H](O1)N2C=CC(=NC2=O)N)O)O)OC(=O)CCCCCCCCCCCCCCC	Cdp-DG(16:0/16:0)
+639	[O-]S(=O)(=O)[O-]	Sulfate Ion
+640	[O-2].[K+].[K+]	Potassium oxide
+641	CC1=CCC(=CC1)C(C)CCCC(=C)C	1-Methyl-4-(6-methylhept-6-en-2-yl)cyclohexa-1,4-diene
+642	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O)O	Eriocitrin
+643	C1=CC(=C(C=C1C[C@@H](C(=O)O)N)O)O	Levodopa
+644	C1C[C@H](NC1)C(=O)O	L-Proline
+645	COC1=CC(=CC(=C1O)OC)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O	Malvidin
+646	C([C@H](C(=O)O)N)C(=O)O	D-Aspartic Acid
+647	C1=CC2=C(C(=C1)O)C(=CN2)CC(=NOS(=O)(=O)O)S[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O	4-Hydroxyglucobrassicin
+648	C1=CC(=CC=C1/C=C/C(=O)CC(=O)/C=C/C2=CC=C(C=C2)O)O	
+649	CCCCC/C=C\C/C=C\CCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCC/C=C\C/C=C\CCCCC	
+650	C/C=C(/C)\C(=O)O[C@H]1[C@H](OC2=C1C3=C(C=C2)C=CC(=O)O3)C(C)(C)OC(=O)/C(=C\C)/C	
+651	CCCCCCCCCCCCCCCC(=O)O	Palmitic Acid
+652	CC(=CCC/C(=C/C/C=C(\C)/C=C)/C)C	
+653	CC(=O)NC1=C2C(=C(C=C1)S(=O)(=O)[O-])C=C(C(=C2O)N=NC3=CC=CC=C3)S(=O)(=O)[O-].[Na+].[Na+]	Lignin
+654	C1CCNC1	Pyrrolidine
+655	C1C(C(OC(=O)C2=CC(=C(C(=C2C3=C(C(=C(C=C3C(=O)O1)O)O)O)O)O)O)C4C5C(C6=C(C(=C(C(=C6C(=O)O5)C7=C(C(=C(C=C7C(=O)O4)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)O)O)O	Stachyurin
+656	C(C(C(=O)O)O)(C(=O)O)O	2,3-Dihydroxybutanedioic Acid
+657	COC1=C(C=CC(=C1)CC=C)O	Eugenol
+658	CCCCCCCC/C=C\CCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCC/C=C\C/C=C\CCCCC	
+659	CCCCC/C=C\C/C=C\CCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCC/C=C\C/C=C\C/C=C\CC	
+660	C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O	Luteolin
+661	[K]	Potassium
+662	C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)O	D-Glucose
+663	[Cu]	Copper
+664	[N+](=O)([O-])[O-]	Nitrate
+665	CCOC(=O)C	Ethyl Acetate
+666	CC1=CCC(=CC1)C(C)C	Gamma-Terpinene
+667	CC(C)C[C@@H](C(=O)O)N	L-Leucine
+668	C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@@H]([C@@H]([C@H]([C@H](O2)OC[C@@H]3[C@H]([C@@H]([C@H]([C@H](O3)O[C@]4([C@H]([C@@H]([C@H](O4)CO)O)O)CO)O)O)O)O)O)O)O)O)O)O	Stachyose
+669	C1[C@H](C([C@@H](CC1(C(=O)O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O	
+670	CC1=CCC2CC1C2(C)CCC=C(C)C	alpha-Bergamotene
+671	CC1=CCCC(C1/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/CC/C=C(\C)/CCC=C(C)C)/C)/C)(C)C	
+672	CC(CCC=C(C)C)CCO	Citronellol
+673	C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)O	D-Glucose
+674	CCCCCCCCCCCCCCCCCC(=O)O	Stearic Acid
+675	CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@@H](C([C@@H](O1)N2C=CC(=NC2=O)N)O)O)OC(=O)CCCCCCC/C=C\C/C=C\CCCCC	
+676	C([C@@H](C(=O)O)N)C(=O)O	L-Aspartic Acid
+677	C[C@]12CCCC(=C)C1C[C@@H](CC2)C(C)(C)O	Zingiberol
+678	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)O	Ethinylestradiol
+679	CCCCCCCCCCCC(=O)O	Lauric Acid
+680	C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O	Quercetin
+681	II	Iodine
+682	CCCCCCCCCCC/C=C\CCCCC(=O)O	
+683	C/C=C\SS/C=C\C	
+684	CCCCC/C=C\C/C=C\C/C=C\CCCCC(=O)O	
+685	[Fe]	Iron
+686	C=CCN=C=S	Allyl Isothiocyanate
+687	CC(C)CC(C(=NC(CCC(=N)O)C(=NC(CC(=O)O)C(=NC(CCCCN)C(=O)O)O)O)O)N=C(C(CCC(=O)O)N=C(C(CC(=O)O)N=C(C(CCC(=O)O)N=C(C(C(C)O)N=C(C(CCC(=N)O)N=C(C(CCC(=N)O)N=C(C(CCC(=N)O)N=C(C(CCC(=O)O)N=C(C(CCC(=O)O)N=C(C(COP(=O)(O)O)N=C(C(CCC(=N)O)N=C(C(CC1=CC=CC=C1)N)O)O)O)O)O)O)O)O)O)O)O)O	Npc212957
+688	C1C(N(C2=C(N1)N=C(NC2=O)N)C=O)CNC3=CC=C(C=C3)C(=O)N[C@H](CCC(=O)O)C(=O)O	Ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin A; vitamin E
+689	CC1CCC(=C(C)C)C(=O)C1	p-Menth-4(8)-en-3-one
+690	CCCCCC(C(=O)NC)N	Epsilon-Polylysine
+691	C/C=C(/C=O)\C1=CC=CC=C1	
+692	C1[C@@H]([C@@H]([C@H]([C@H](O1)OC2[C@@H]([C@H](C([C@H]([C@@H]2O)O)O)O)O)O)O)O	(1R,2S,4R,5S)-6-[(2R,3R,4S,5S)-3,4,5-trihydroxyoxan-2-yl]oxycyclohexane-1,2,3,4,5-pentol
+693	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)O)O)O)O)O)O	Narirutin
+694	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O	Naringin
+695	CCCCC/C=C\C/C=C\CCCCCCCC(=O)O	
+696	CCCCCCCCCC(=O)O	Decanoic Acid
+697	C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O	alpha-D-lactose
+698	CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@@H](C([C@@H](O1)N2C=CC(=NC2=O)N)O)O)OC(=O)CCCCCCC/C=C\CCCCCCCC	
+699	O=[Ca]	Calcium Oxide
+700	COC1=CC(=CC(=C1O)OC)/C=C/C(=O)O	
+701	CC1=CC[C@@H](C=C1)[C@@H](C)CCC=C(C)C	(-)-Zingiberene
+702	C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)O[C@]3([C@H]([C@@H]([C@H](O3)CO)O)O)CO)O)O)O)O)O)O)O	Raffinose
+703	CC(C)CO	Isobutanol
+704	[Zn]	Zinc
+705	C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O	Phytate
+706	C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)O	Epigallocatechin
+707	C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O	D-Fructose
+708	C[C@@H](CCC=C(C)C)[C@H]1CCC(=C)C=C1	beta-Sesquiphellandrene
+709	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O	Hesperidin
+710	C[C@@H]1CC[C@@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O)C)C)C)OC1	Diosgenin
+711	O	Water
+712	C1[C@@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O	Catechin
+713	CC(C(=O)O)O	Lactic Acid
+714	CC1CCC2=C(C1)OC=C2C	Menthofuran
+715	C1=C(C=C(C(=C1O)O)O)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O.[Cl-]	Delphinidin Chloride
+716	C([C@@H](C(=O)O)N)O	L-Serine
+717	CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@@H](C([C@@H](O1)N2C=CC(=NC2=O)N)O)O)OC(=O)CCCCCCCCC/C=C\CCCCCC	
+718	CCOC(=O)C(C)O	Ethyl Lactate
+719	C1[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)O)OC(=O)C3=CC(=C(C(=C3)O)O)O)O)OC(=O)C4=CC(=C(C(=C4C5=C(C(=C6C7=C5C(=O)OC8=C(C(=C(C9=C(C(=C(C=C9C(=O)O1)O)O)O)C(=C78)C(=O)O6)O)O)O)O)O)O)O	Galloylpunicalin
+720	CC1=C(C2=C(CC[C@@](O2)(C)CCC[C@H](C)CCC[C@H](C)CCCC(C)C)C(=C1O)C)C	Vitamin E
+721	CCCCCCCCCCCCC/C=C/[C@H]([C@H](COP(=O)(O)OCC[N+](C)(C)C)NC=O)O	
+722	C(CC(=O)O)C(=O)C(=O)O	2-Oxoglutaric Acid
+723	CCCCCCCCCCCCCCCCCC(=O)O[C@H](COC(=O)CCCCCCCCCCCCCCC)COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@@H](C([C@@H](O1)N2C=CC(=NC2=O)N)O)O	Cdp-DG(16:0/18:0)
+724	CC(=CCC/C(=C/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C=C(/CCC=C(C)C)\C)\C)\C)/C)/C)/C)C	
+725	CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CC(=O)C6C5(CCC(C6)OC7C(C(C(C(O7)COC8C(C(C(CO8)O)O)OC(=O)C)O)O)O)C)C)C)OC1	(3b,5a,25R)-3-Hydroxyspirostan-6-one 3-[2-acetylarabinosyl-(1->6)-glucoside]
+726	CC1=C(C(=O)C2=CC=CC=C2C1=O)C/C=C(\C)/CCCC(C)CCCC(C)CCCC(C)C	
+727	COC1=CC(=CC(=C1O)O)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O	3,3',4',5,7-Pentahydroxy-5'-methoxyflavylium
+728	CC(=O)C(=O)O	Pyruvic Acid
+729	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CO)O)O)CO[C@]3([C@H]([C@@H]([C@H](O3)CO)O)O)CO[C@]4([C@H]([C@@H]([C@H](O4)CO)O)O)CO[C@]5([C@H]([C@@H]([C@H](O5)CO)O)O)CO[C@]6([C@H]([C@@H]([C@H](O6)CO)O)O)CO[C@]7([C@H]([C@@H]([C@H](O7)CO)O)O)CO[C@]8([C@H]([C@@H]([C@H](O8)CO)O)O)CO[C@]9([C@H]([C@@H]([C@H](O9)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO[C@]1([C@H]([C@@H]([C@H](O1)CO)O)O)CO)O)O)O)O	GlyTouCan:G35236GY
+730	CC1C(C(C(C(O1)CO)OC2C(C(C(C(O2)COC3C(C(C(C(O3)CO)OC)O)O)OC4C(C(C(C(O4)CO)OC)O)O)O)O)O)O	Npc214502
+731	CCC(C)(C)O	2-Methyl-2-butanol
+732	C1=CC(=CC=C1/C=C/C(=O)O)O	
+733	C1=CC=C(C=C1)C(=O)O	Benzoic Acid
+734	CCCCCC(=O)O	Hexanoic Acid
+735	CC1=CCC(CC1)C(=C)C	1-Methyl-4-Prop-1-En-2-Ylcyclohexene
+736	CCCCCCCC/C=C/CCCCCCCC(=O)O	
+737	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/CO)/C)/C	
+738	CC(=CCC/C(=C\C=O)/C)C	
+739	C[C@H]1CC/C=C(/CC(=O)[C@@H](CC1=O)C(C)C)\C	
+740	C[C@@H](C(=O)O)O	L-Lactic Acid
+741	CC1=NC=C(C(=C1O)CO)CO	Pyridoxine
+742	CC1=COC2=C1C(=O)[C@@H]([C@@](C2)(C)C=C)C(=C)C	Curzerenone
+743	CC1(C2CCC(O1)(CC2)C)C	1,8-Cineole
+744	ClCl	Chlorine
+745	C(CCN)CN	Putrescine
+746	CC(=CCCC(=C)C=C)C	Myrcene
+747	C(CC(=O)O)[C@@H](C(=O)O)N	L-Glutamic Acid
+748	C1=C(C=C(C(=C1O)O)O)C(=O)O	Gallic Acid
+749	[C@@H]1([C@H]([C@H](OC([C@@H]1O)O)C(=O)O)O)O	D-Galacturonic Acid
+750	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@H](O[C@@H]([C@@H]([C@H]2O)O)O[C@@H]3[C@H](OC([C@@H]([C@H]3O)O)O)CO)CO)O)O)O)O	O-alpha-D-Glucopyranosyl-(1->4)-O-alpha-D-glucopyranosyl-(1->4)-D-glucopyranose
+751	C1C[C@H](NC1)C(=O)O	L-Proline
+752	[S]	Hydrogen Sulfide
+753	CCCCCC=CCC=CCCCCCCCC(=O)OCC(COP(=O)([O-])OCC(COP(=O)([O-])OCC(COC(=O)CCCCCCCC=CCC=CCCCCC)OC(=O)CCCCCCCC=CCC=CCCCCC)O)OC(=O)CCCCCCCC=CCC=CCCCCC.[Na+].[Na+]	Disodium;[3-[2,3-di(octadeca-9,12-dienoyloxy)propoxy-oxidophosphoryl]oxy-2-hydroxypropyl] 2,3-di(octadeca-9,12-dienoyloxy)propyl phosphate
+754	CC(=CCC1=C(C=CC(=C1O)C(=O)/C=C/C2=CC=C(C=C2)O)OC)C	
+755	C(=C/C(=O)O)\C(=O)O	
+756	CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCC/C=C\C/C=C\C/C=C\CC	
+757	C(C(C(C(C(C=O)O)O)O)O)O.C(C(C(C(C(=O)CO)O)O)O)O	Invert Sugar
+758	CCCCCCCC(=O)O	Octanoic Acid
+759	C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O	beta-Lactose
+760	COC1=C2C(=C(C(=C1)CC=C)OC)OCO2	Apiole
+761	COC1=C(C=CC(=C1)C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4[C@@H]([C@H]([C@H](CO4)O)O)O)O)O)O.[Cl-]	Peonidin 3-arabinoside
+762	COC1=C(C=CC(=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)COC(=O)CC(=O)O)O)O)O[C@H]5[C@@H]([C@](CO5)(CO)O)O)O)O	Chrysoeriol 7-O-(6''-malonyl-apiosyl-glucoside)
+763	C1[C@H]([C@@H]([C@@H](C[C@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O	
+764	CCO	Ethanol
+765	CC(=CCC/C(=C/C=O)/C)C	
+766	C1(C(C(C(C(C1O)O)O)O)O)O	An inositol
+767	C[N+](C)(C)CCOP(=O)([O-])OC[C@@H](CO)O	Choline Alfoscerate
+768	C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N	Folic Acid
+769	C/C/1=C\CC(/C=C/C/C(=C/CC1)/C)(C)C	
+770	C1=CC(=CC=C1C(=O)O)O	4-Hydroxybenzoic Acid
+771	C(C(C(=O)O)O)C(=O)O	Malic Acid
+772	C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O	Genistin
+773	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(CCCC2(C)C)C)\C)\C)/C)/C	
+774	C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O	beta-Lactose
+775	C1CCNC(C1)C(=O)O	Pipecolic Acid
+776	CCCCCCCC/C=C\CCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCC/C=C\C/C=C\C/C=C\CC	
+777	C1C(C(C(C([NH2+]1)CO)O)O)O	Piperidines
+778	CC1=CC=C(C=C1)C(C)(C)O	p-Cymen-8-ol
+779	C1=CC(=O)OC2=CC3=C(C=CO3)C=C21	Psoralen
+780	CC(=O)N[C@@H]1[C@H](C[C@@](O[C@H]1[C@@H]([C@@H](CO)O)O)(C(=O)O)OC[C@@H]2[C@@H]([C@@H]([C@H]([C@@H](O2)O[C@H]([C@@H](CO)O)[C@@H]([C@H](C=O)O)O)O)O)O)O	6'-Sialyllactose
+781	CCCCCCCC/C=C\CCCCCCCC(=O)O	
+782	C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O)O)O)O)O	Beta-D-Glucose
+783	COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O	Hesperetin
+784	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/[C@H]2C(=CCCC2(C)C)C)/C)/C	
+785	C1=CC(=C(C=C1/C=C/C(=O)O)O)O	
+786	CC1=CCC(=C(C)C)CC1	Terpinolene
+787	CCCCCCCCC(=O)O	Nonanoic Acid
+788	C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO[C@H]5[C@@H]([C@@H]([C@H](O5)COC(=O)CC(=O)O)O)O)O)O)O)O)O	Apigenin 7-O-(6''-malonyl-apiosyl-glucoside)
+789	CC(=O)O	Acetic Acid
+790	C/C=C/SO	
+791	C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O	Kaempferol 3,7,4'-O-triglucoside
+792	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC(=C(C=C5)O)O)O)CO)O)O)O)O)O	Lonicerin
+793	C/C(=C\C=C\C=C(\C=C\C=C(\C(=O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO[C@@H]2O[C@@H]([C@H]([C@@H]([C@H]2O)O)O)CO)/C)/C)/C=C/C=C(/C(=O)O[C@@H]3O[C@@H]([C@H]([C@@H]([C@H]3O)O)O)CO[C@@H]4O[C@@H]([C@H]([C@@H]([C@H]4O)O)O)CO)\C	
+794	COC1=C(C=CC(=C1)C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)O)O)O)O.[Cl-]	Peonidin 3-galactoside
+795	CCCCCCCCCC/C=C\CCCCCCCC(=O)O	
+796	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CO)O)O)CO)O)O)O)O	Sucrose
+797	C1=CC(=CN=C1)C(=O)O	Nicotinic Acid
+798	COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O	Isorhamnetin
+799	C[C@H]([C@@H](C(=O)O)N)O	L-Threonine
+800	C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O	L-Ascorbic Acid
+801	CC1=CC=C(C=C1)[C@H](C)CCC=C(C)C	(-)-alpha-Curcumene
+802	C/C=C(/C)\C(=O)O[C@H]1[C@@H]([C@@]2([C@@H](C[C@@]3(C(=CCC4[C@]3(CCC5[C@@]4(CC[C@@H]([C@]5(C)CO)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)C)C)C2CC1(C)C)C)O)CO)OC(=O)C	
+803	C(C[C@@H](C(=O)O)N)CN=C(N)N	L-Arginine
+804	CC(=C)[C@@H]1CC[C@]2([C@H]1[C@H]3CC[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O)C)C(=O)O	Betulinic Acid
+805	CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCC(=O)O	
+806	CC(=O)NCC(=O)O	Acetylglycine
+807	COC1=CC=CC2=C1C(=CN2)CC(=NOS(=O)(=O)O)S[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O	4-Methoxyglucobrassicin
+808	C1=C(C=C(C(=C1O)O)O)C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O	Delphinidin 3-O-glucoside cation
+809	C(CC(=O)O)[C@@H](C(=O)O)N	L-Glutamic Acid
+810	[F-]	Fluoride Ion
+811	[Mg+2]	Magnesium ion
+812	C1=C(C=C(C=C1O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O	3,5-Dihydroxyphenyl beta-D-glucopyranoside
+813	C(CC(=O)O)C(=O)O	Succinic Acid
+814	C([C@@H](C(=O)O)N)SSC[C@@H](C(=O)O)N	(-)-Cystine
+815	CCCSC(CC)SS/C=C/C	
+816	C1=CC=C2C(=C1)C=CC(=O)O2	Coumarin
+817	CCCCCC=O	Hexanal
+818	CC(=CCC/C(=C/CO)/C)C	
+819	COC1=C(C=CC(=C1)C=C)O	4-Vinylguaiacol
+820	C([C@H](C([C@@H](CO)O)O)O)O	D-Arabitol
+821	CCCC/C=C\CCCCCCCC(=O)O	
+822	CC1(C(O1)COC2=C3C=CC(=O)OC3=CC4=C2C=CO4)C	4-((3,3-Dimethyloxiran-2-Yl)Methoxy)Furo(3,2-G)Chromen-7-One
+823	C[N+](C)(C)CCO	Choline
+824	C(C(=O)O)C(CC(=O)O)(C(=O)O)O	Citric Acid
+825	[Na]	Sodium
+826	C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N	L-Tryptophan
+827	C[C@@H]([C@@H]([C@H]([C@H](C=O)O)O)O)O	(2R,3R,4S,5S)-2,3,4,5-tetrahydroxyhexanal
+828	CCCC/C=C/C=C/C=C\CCCCCCCC(=O)O	
+829	CN1C=NC2=C1C(=O)N(C(=O)N2C)C	Caffeine
+830	C[C@@H]1CC[C@H]([C@@H](C1)O)C(=C)C	(-)-Isopulegol
+831	C1=CC(=C(C=C1CON)OP(=O)(O)O)Br	Rubber, natural-smoked sheet and latex solids (hevea brasiliensis)
+832	C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O)O	2-(3,4-Dihydroxyphenyl)-3,5,7-trihydroxy-1-Benzopyrylium
+833	C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O	L-Ascorbic Acid
+834	CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O	
+835	C1[C@@H]([C@@H]([C@H](C(O1)O)O)O)O	L-Arabinose
+836	COC1=CC(=CC2=C1OCO2)CC=C	Myristicin
+837	CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO	Thiamine
+838	CC1=C(C(=O)C2=CC=CC=C2C1=O)C/C=C(\C)/CCC[C@H](C)CCC[C@H](C)CCCC(C)C	
+839	CC1=CC=C(C=C1)C(C)CCC=C(C)C	Curcumene
+840	COC1=C(C=CC(=C1)/C=C/C(=O)OC2[C@@H](CC(C[C@H]2O)(C(=O)O)O)O)O	
+841	C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)COC(=O)CC(=O)O)O)O)O)O	Malonylgenistin
+842	C([C@H]([C@H]([C@@H]([C@H](CO)O)O)O)O)O	Sorbitol
+843	CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C	(-)-beta-Sitosterol
+844	CCCCCCCCCCCCCCCCCCCC(=O)O	Eicosanoic Acid
+845	CC(=CCOC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2)C	Imperatorin
+846	N	Ammonia
+847	CC1=CCC(=CC1)[C@@H](C)CC(=O)C=C(C)C	Turmerone
+848	C1=CC(=CC=C1O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O	Arbutin
+849	C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O	
+850	C1[C@@]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC(=C(C=C5)O)O)O)COC(=O)CC(=O)O)O)O)O)(CO)O	Luteolin 7-O-(2-apiosyl-6-malonyl)-glucoside
+851	CC(=O)OC[C@H](COP(=O)(O)OCCN)OC(=O)C	Glycerophospholipids, cephalins
+852	[S-2]	Sulfide ion
+853	C([C@H]([C@H](CO)O)O)O	Erythritol
+854	C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O	Epicatechin Gallate
+855	N#N	Nitrogen
+856	C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O	kaempferol 3-O-sophoroside
+857	COC1=C2C=CC(=O)OC2=CC3=C1C=CO3	Bergapten
+858	C([C@@H](C(=O)O)N)C(=O)N	(-)-Asparagine
+859	[Cl-]	Chloride
+860	CCCCCCCC/C=C/CCCCCCCC(=O)O	
+861	C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C	(-)-Menthol
+862	C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O	Mannitol
+863	C[C@@H](C(=O)O)N	L-Alanine
+864	C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O	Myricetin
+865	COC1=C(C(=C(C(=C1)CC=C)OC)OC)OC	1-Allyl-2,3,4,5-tetramethoxybenzene
+866	CSCC[C@@H](C(=O)O)N	L-Methionine
+867	COC1=CC(=CC(=C1O)O)C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O	Petunidin 3-Glucoside
+868	C1=C(C=C(C(=C1O)O)O)C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)O)O)O.[Cl-]	Delphinidin 3-galactoside
+869	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O	Rutin
+870	CC(C)(CO)[C@H](C(=O)NCCC(=O)O)O	Pantothenic Acid
+871	CC(=C)[C@@H]1C[C@@H](CC[C@@]1(C)C=C)C(C)(C)O	Elemol
+872	C(=O)(C(=O)[O-])[O-].[Ca+2]	Ethanedioic acid, calcium salt (1:1)
+873	C1[C@H]([C@@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O	
+874	[O-]P(=O)([O-])[O-]	Phosphate
+875	COC1=C(C=CC(=C1)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O	3,4',5,7-Tetrahydroxy-3'-methoxyflavylium
+876	CC1C2C(CC3C2(CCC4C3CC(C5C4(CC(C(C5)OC6C(C(C(C(O6)CO)OC7C(C(C(C(O7)CO)O)OC8C(C(C(CO8)O)O)O)OC9C(C(C(C(O9)CO)O)O)O)O)O)O)C)O)C)OC1(CCC(C)COC1C(C(C(C(O1)CO)O)O)O)OC	(2a,3b,5a,6a,22R,25R)-Furostane-22-methoxy-2,3,6,26-tetrol 3-[glucosyl-(1->2)-[xylosyl-(1->3)]-glucosyl-(1->4)-galactoside] 26-glucoside
+877	C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)O)O)O	Hyperoside
+878	COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC=C(C=C2)O)O	
+879	C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O	Diosmin
+880	CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CC(C6(C5(CCC(C6)OC7C(C(C(C(O7)CO)OC8C(C(C(C(O8)C)O)O)O)O)O)C)O)O)C)C)OC1	(25S)-Spirostane-3b,5b,6a-triol 3-[4''-rhamnosylglucoside]
+881	CCCCCCCCCCCCCC(=O)O	Myristic Acid
+882	CCCCC/C=C\C/C=C\CCCCCCCC(=O)O	
+883	CC1(C=CC2=C(O1)C=C3C(=C2OC)C=CC(=O)O3)C	Xanthoxyletin
+884	CC1C2C(CC3C2(CCC4C3CC(C5C4(CCC(C5)OC6C(C(C(C(O6)CO)OC7C(C(C(C(O7)CO)O)OC8C(C(C(CO8)O)O)O)OC9C(C(C(C(O9)CO)O)O)O)O)O)C)O)C)OC1(CCC(C)COC1C(C(C(C(O1)CO)O)O)O)OC	(3b,5a,6b,22a,25R)-Furostane-22-methoxy-3,6,26-triol 3-[glucosyl-(1->2)-[xylosyl-(1->3)]-glucosyl-(1->4)-galactoside] 26-glucoside
+885	[Se]	Selenium
+886	C(CCN)C[C@@H](C(=O)O)N	L-Lysine
+887	C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	Cholesterol
+888	C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O	
+889	CCCC(=O)O	Butyric Acid
+890	CC1C2C3CCC4C5(CCC(C(C5CCC4(C3(CCC2(CC=C1C)C)C)C)(C)C)O)C	Pseudotaraxasterol
+891	COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O	
+892	C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O	Kaempferol
+893	C1[C@H](C([C@@H](CC1(C(=O)O)O)O)O)O	Quinate
+894	C1=CC(=CC=C1/C=C/C(=O)O)O	
+895	CC1=CC2=C(C(=C(C(=C2C(C)C)O)O)C=O)C(=C1C3=C(C4=C(C=C3C)C(=C(C(=C4C=O)O)O)C(C)C)O)O	Gossypol
+896	C([C@@H]1[C@H]([C@@H]([C@@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O[C@@H]3[C@H](O[C@H]([C@H]([C@H]3O)O)O[C@H]4[C@H](O[C@H]([C@H]([C@H]4O)O)O)CO)CO)CO)O)O)O)O	alpha-D-Mannan
+897	[C@@H]1([C@@H]([C@H](O[C@H]([C@@H]1O)O)C(=O)O)O)O	beta-D-glucopyranuronic acid
+898	[Cr]	Chromium
+899	C[C@H](CCC(=C)C(C)(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C	24-Methylene,25-methylcholesta-5-en-3beta-ol
+900	C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O	Uridine
+901	CC1(C2CCC(=C)C1C2)C	Beta-Pinene
+902	C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O	Apigenin
+903	CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C	(-)-beta-Sitosterol
+904	C1=C(NC=N1)C[C@@H](C(=O)O)N	L-Histidine
+905	[P]	Phosphine
+906	COC1=C(C=CC(=C1)/C=C/C(=O)O)O	
+907	CC(C)CCO	Isoamyl Alcohol
+908	C/C/1=C\CCC(=C)[C@H]2CC([C@@H]2CC1)(C)C	
+909	C(=O)(C(=O)O)O	Oxalic Acid
+910	CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)C[C@@H]([C@@H]([C@@H](CO)O)O)O	Riboflavin
+911	C1[C@H]([C@@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O	(-)-Gallocatechin gallate
+912	CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCC/C=C\C/C=C\CCCCC	
+913	CCCCCCC(=O)O	Heptanoic Acid
+914	[Mn]	Manganese
+915	CCCC/C=C/C=C/C=O	
+916	C[C@H](C(=O)O)O	D-Lactic Acid
+917	C(C1[C@H](C(C(C(O1)O)O)O)O[C@H]2C(C(C(C(O2)CO)O)O)O)O	Deae-cellulose
+918	C(C(CO)O)O	Glycerol
+919	C1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2CO[C@H]([C@@H]([C@H]2OS(=O)(=O)O)OS(=O)(=O)O)O)OS(=O)(=O)O)OS(=O)(=O)O)O	Xylan Sulfate
+920	C1[C@H]([C@@H]([C@H](C(O1)O)O)O)O	D-Xylose
+921	[Ca]	Calcium
+922	C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O	Naringenin
+923	C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O	Daidzin
+924	CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OC5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)C)C)C(C)C.CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OC5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)C)C)C(C)C.CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OC5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)C)C)C(=C)C	bis((3R,4S,5S,6R)-2-[[(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-ethyl-6-methylheptan-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-yl]oxy]-6-(hydroxymethyl)oxane-3,4,5-triol);(3R,4S,5S,6R)-2-[[(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-ethyl-6-methylhept-6-en-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-yl]oxy]-6-(hydroxymethyl)oxane-3,4,5-triol
+925	C([C@@H]1[C@@H]([C@@H]([C@H](C(O1)O)O)O)O)O	D-Galactose
+926	C(CCN)CCN	Cadaverine
+927	C([C@@H](C(=O)O)O)C(=O)O	L-Malic Acid
+928	CC1(C=CC2=C(O1)C=C3C(=C2)C=CC(=O)O3)C	Xanthyletin
+929	CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C2=C(C[C@H](CC2(C)C)O)C)/C)/C	
+930	COC1=C(C=C(C=C1)/C=C/C2=CC(=CC(=C2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O	
+931	C[C@H]1CC[C@@H]2[C@]13CC(=C(C)C)[C@](O3)(C=C2C)O	Curcumenol
+932	C1=CC(=CC=C1C[C@@H](C(=O)O)N)O	L-Tyrosine
+933	CN	Methylamine
+934	C/C(=C\C=C\C=C(/C)\C=C\C=C(/C)\C=C=C1[C@](C[C@H](CC1(C)C)O)(C)O)/C=C/C=C(/C)\C=C\[C@]23[C@](O2)(C[C@H](CC3(C)C)O)C	
+935	C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC4=C(C(=C(C=C4[C@@H]5[C@@H](CC6=C(C=C(C=C6O5)O)O)O)O)O)C(=O)C(=C3)O)O	Theaflavin (Standard)
+936	CC1=CC=C(C=C1)C(C)C	P-Cymene
+937	C1=CC=C(C=C1)[C@H](C#N)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O)O	Amygdalin
+938	C(CC(=O)N)[C@@H](C(=O)O)N	L-Glutamine
+939	C1[C@@H]([C@@H]([C@H](C(O1)O)O)O)O	L-Arabinose
+940	CN\1CC(=O)N/C1=N\P(=O)(O)O	

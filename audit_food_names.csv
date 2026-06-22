@@ -1,0 +1,112 @@
+food_name,canonical,dfinder_id,dfinder_name,in_foodb,issues,action
+Acetic Acid (Vinegar),Acetic Acid,33,Acetic Acid,,OK,strip qualifier — use Acetic Acid node
+Albumin,Albumin,414,Arbutin,YES,FUZZY-MATCH,FUZZY → Arbutin
+Allicin,Allicin,1011,Allicin,YES,OK,OK — exact match in DFinder
+Allicin-LateAdd,Allicin,1011,Allicin,,INTERNAL-KEY,cooking-stage tag — merge to Allicin
+Amygdalin,Amygdalin,671,Amygdalin,YES,OK,OK — exact match in DFinder
+Amylopectin,Amylopectin,1801,Amylopectin,YES,OK,OK — exact match in DFinder
+Amylose,Amylose,540,Maltose,YES,FUZZY-MATCH,FUZZY → Maltose
+Apigenin,Apigenin,656,Apigenin,YES,OK,OK — exact match in DFinder
+Ascorbic Acid,Vitamin C,27,Vitamin C,YES,OK,Vitamin C = Ascorbic Acid (DrugBank name)
+Benzaldehyde,Benzaldehyde,1399,Benzaldehyde,YES,OK,OK — exact match in DFinder
+Beta-Carotene,Beta-Carotene,718,Carotene,YES,FUZZY-MATCH,FUZZY → Carotene
+Beta-Glucan,Soluble Fiber,1084,Beta-D-Glucopyranose,YES,FUZZY-MATCH,merge — beta-glucan is soluble fiber
+BraidedLattice+3mm,,,,,INTERNAL-KEY|DROP|MISSING,structural descriptor — drop
+Butter,Butter,324,Sheabutter,,FUZZY-MATCH,FUZZY → Sheabutter
+Butter Emulsion,Butter,,,,MISSING,use Butter node
+Butyric Acid,Butyric Acid,679,Butyric Acid,,OK,OK — exact match in DFinder
+CO₂,CO₂,,,,MISSING,NOT IN DFINDER — review needed
+Caffeine,Caffeine,1,Caffeine,YES,OK,OK — exact match in DFinder
+Calcium,Calcium,2,Calcium,YES,OK,OK — exact match in DFinder
+Capsaicin,Capsaicin,80,Capsaicin,YES,OK,OK — exact match in DFinder
+Carvone (Caraway/Karouiya),Carvone,32,Carvone,,OK,strip qualifier — use Carvone node
+Cholesterol,Cholesterol,602,Cholesterol,YES,OK,OK — exact match in DFinder
+Choline,Choline,579,Choline,YES,OK,OK — exact match in DFinder
+Cinnamaldehyde,Cinnamaldehyde,797,Cinnamaldehyde,YES,OK,OK — exact match in DFinder
+Citric Acid,Citric Acid,536,Citric Acid,,OK,OK — exact match in DFinder
+Coumarin,Coumarin,645,Coumarin,YES,OK,OK — exact match in DFinder
+Crocin,Crocin,454,Crocin,YES,OK,OK — exact match in DFinder
+CuminAldehyde,Cuminaldehyde,1503,Cuminaldehyde,YES,OK,canonical
+Cuminaldehyde,Cuminaldehyde,1503,Cuminaldehyde,YES,OK,canonical
+Curcumin,Curcumin,738,Curcumin,YES,OK,OK — exact match in DFinder
+DenseMatrix,DenseMatrix,,,,INTERNAL-KEY|MISSING,NOT IN DFINDER — review needed
+Double-Fried Lecithin (Almond Paste),Lecithin,,,,MISSING,use Lecithin node
+Ferulic Acid,Ferulic Acid,763,Ferulic Acid,YES,OK,OK — exact match in DFinder
+Flavonoids,Flavonoids,749,Flavonoids,YES,OK,OK — exact match in DFinder
+Folate,Folic Acid,11,Folic Acid,,OK,DFinder uses Folic Acid
+Fructose,Fructose,514,D-Fructose,,FUZZY-MATCH,FUZZY → D-Fructose
+FructoseGlucose,Glucose,509,Glucose,,OK,use Glucose node
+Gelatinised Starch,Starch,831,Starch,,OK,gelatinised starch → Starch node
+Geraniol,Geraniol,1320,Geraniol,YES,OK,OK — exact match in DFinder
+Gingerol,Gingerol,13,Ginger,,FUZZY-MATCH,FUZZY → Ginger
+Glucobrassicin,Glucobrassicin,644,4-Methoxyglucobrassicin,YES,FUZZY-MATCH,FUZZY → 4-Methoxyglucobrassicin
+Glucose,Glucose,509,Glucose,YES,OK,OK — exact match in DFinder
+Glucose/Fructose (Honey / Sugar Syrup),Glucose,509,Glucose,,OK,use Glucose node (honey = glucose+fructose)
+Grain Starch,Starch,831,Starch,,OK,use canonical Starch node
+Heme Iron,Heme Iron,1161,Hemin,,FUZZY-MATCH,FUZZY → Hemin
+High-Fat Meal — Saturated Fats,Saturated Fats,,,,MISSING,simplify
+Honey,Honey,177,Honey,,OK,OK — exact match in DFinder
+Honey Synergy,Honey,177,Honey,,OK,internal key — use Honey
+HydrationMatrix,,,,,INTERNAL-KEY|DROP|MISSING,internal structural key — drop
+Icing Sugar,Icing Sugar,,,,MISSING,NOT IN DFINDER — review needed
+Inositol,Inositol,670,An Inositol,,FUZZY-MATCH,FUZZY → An Inositol
+Insoluble Fiber,Fiber,10,Fiber,,OK,DFinder uses Fiber node
+Iodine,Iodine,492,Iodine,YES,OK,OK — exact match in DFinder
+L-Arginine,L-Arginine,512,Arginine,,FUZZY-MATCH,canonical
+LArginine,L-Arginine,512,Arginine,,FUZZY-MATCH,merge duplicate
+Large Neutral Amino Acids,Large Neutral Amino Acids,,,,MISSING,NOT IN DFINDER — review needed
+Lecithin,Lecithin,189,Soy Lecithin,,FUZZY-MATCH,FUZZY → Soy Lecithin
+Leucine,Leucine,511,L-Leucine,,FUZZY-MATCH,FUZZY → L-Leucine
+Limonene,Limonene,1051,Limonene,YES,OK,OK — exact match in DFinder
+Linalool,Linalool,194,Linalool,YES,OK,OK — exact match in DFinder
+Lipid,Fat,9,Fat,,OK,use DFinder canonical node
+LipidCoatedStarch,Starch,831,Starch,,INTERNAL-KEY,internal key — use Starch
+LipidSponge,Fat,9,Fat,,INTERNAL-KEY,internal key
+Lutein,Lutein,197,Lutein,YES,OK,OK — exact match in DFinder
+Magnesium,Magnesium,20,Magnesium,,OK,OK — exact match in DFinder
+Maillard,Maillard,,,,MISSING,NOT IN DFINDER — review needed
+Mg2,Magnesium,20,Magnesium,,OK,merge duplicate
+Minerals,Minerals,,,,MISSING,NOT IN DFINDER — review needed
+Na,Sodium,25,Sodium,,OK,merge — Na = sodium
+Na+,Na+,795,Na+,YES,OK,OK — exact match in DFinder
+Nasunin,Nasunin,1511,Casuarinin,,FUZZY-MATCH,FUZZY → Casuarinin
+Niacin,Niacin,225,Niacin,,OK,canonical — check DFinder
+Non-Heme Iron,Non-Heme Iron,,,,MISSING,canonical
+NonHemeIron,Non-Heme Iron,,,,MISSING,merge duplicate
+Oleic Acid,Oleic Acid,754,Oleic Acid,YES,OK,OK — exact match in DFinder
+Oleuropein,Oleuropein,1411,Oleuropein,YES,OK,OK — exact match in DFinder
+Omega-3,Omega-3 Fatty Acids,,,,MISSING,merge duplicate
+Omega3,Omega-3 Fatty Acids,,,,MISSING,merge duplicate
+Phthalides,Phthalides,,,,MISSING,NOT IN DFINDER — review needed
+Phytic Acid,Phytic Acid,762,Phytic Acid,YES,OK,OK — exact match in DFinder
+Phytic Acid (Reduced — Fermented),Phytic Acid,762,Phytic Acid,,OK,use Phytic Acid node
+Piperine,Piperine,264,Piperine,YES,OK,OK — exact match in DFinder
+Plant Protein,Plant Protein,23,Protein,,FUZZY-MATCH,FUZZY → Protein
+Potassium,Potassium,22,Potassium,YES,OK,OK — exact match in DFinder
+Potassium (Date Paste — High Load),Potassium,22,Potassium,,OK,strip qualifier — use Potassium node
+Protein,Protein,23,Protein,,OK,OK — exact match in DFinder
+Purines,Purines,799,Purine,,FUZZY-MATCH,FUZZY → Purine
+Pyrodextrins+InsolFiber,Pyrodextrins+InsolFiber,,,,INTERNAL-KEY|MISSING,NOT IN DFINDER — review needed
+Quercetin,Quercetin,279,Quercetin,YES,OK,OK — exact match in DFinder
+Resveratrol,Resveratrol,872,Trans-Resveratrol,,FUZZY-MATCH,FUZZY → Trans-Resveratrol
+SCFAs,SCFAs,,,,MISSING,NOT IN DFINDER — review needed
+Saponins,Saponins,1046,Saponins,YES,OK,OK — exact match in DFinder
+Sat.Fats,Saturated Fats,,,,MISSING,merge duplicate
+Saturated Fats,Saturated Fats,,,,MISSING,NOT IN DFINDER — review needed
+Saturated Lipids,Saturated Fats,,,,MISSING,merge duplicate
+Sesamin,Sesamin,322,Sesame,,FUZZY-MATCH,FUZZY → Sesame
+Sesamolin,Sesamolin,1227,Sesamol,YES,FUZZY-MATCH,FUZZY → Sesamol
+Shortcrust-FriableMatrix,,,,,INTERNAL-KEY|DROP|MISSING,internal structural key — drop
+Sodium Bicarbonate,Sodium Bicarbonate,1663,Sodium Carbonate,,FUZZY-MATCH,FUZZY → Sodium Carbonate
+SolFiber,Soluble Fiber,10,Fiber,,FUZZY-MATCH,merge duplicate
+Soluble Fiber,Soluble Fiber,,,,MISSING,NOT IN DFINDER — review needed
+Soluble Fiber (Pectin),Soluble Fiber,,,,MISSING,use Soluble Fiber node
+Sorbitol,Sorbitol,597,Sorbitol,,OK,OK — exact match in DFinder
+Sucrose,Sucrose,340,Sucrose,YES,OK,OK — exact match in DFinder
+Tannins,Tannins,1339,Betanin,,FUZZY-MATCH,FUZZY → Betanin
+Triglycerides (Dietary Fat),Fat,9,Fat,,OK,use Fat node
+Tyramine,Tyramine,1179,Thymine,,FUZZY-MATCH,FUZZY → Thymine
+Vitamin E,Vitamin E,29,Vitamin E,,OK,OK — exact match in DFinder
+Vitamin K,Vitamin K,469,Vitamin K,,OK,OK — exact match in DFinder
+W: Amylopectin,Amylopectin,1801,Amylopectin,,INTERNAL-KEY,internal prefix — strip W:
+WalnutALA,WalnutALA,,,,MISSING,NOT IN DFINDER — review needed

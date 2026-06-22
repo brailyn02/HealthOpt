@@ -1,0 +1,14 @@
+HKG Build Stats
+========================================
+  step1_foodb_matched_to_chembl                : 8,133
+  step1_compound_cyp_triplets                  : 1,887
+  step2_food_compound_triplets                 : 4,141,216
+  step3_drug_cyp_triplets                      : 12,574
+  total_triplets                               : 4,155,677
+  unique_heads                                 : 3,238
+  unique_tails                                 : 63,345
+  unique_relations                             : 7
+  nodes_FOOD                                   : 962
+  nodes_COMPOUND                               : 61,287
+  nodes_TARGET                                 : 2,058
+  nodes_DRUG                                   : 1,351

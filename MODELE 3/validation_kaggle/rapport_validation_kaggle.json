@@ -1,0 +1,57 @@
+{
+  "projet": "HealthOpt — Modèle 3 Hormonal",
+  "version": "1.0.0",
+  "dataset": {
+    "name": "FedCycleData071012 (Kaggle)",
+    "n_cycles": 1656,
+    "n_patients": 159,
+    "n_days_total": 48458,
+    "n_predictions": 1470
+  },
+  "modele_A_regression": {
+    "MAE": 1.1447,
+    "RMSE": 1.898,
+    "R2": 0.9219,
+    "pass": true
+  },
+  "modele_B_classification": {
+    "accuracy": 0.9503,
+    "recall_HIGH": 0,
+    "pass": true
+  },
+  "modele_C_cyp450": {
+    "R2_moyen": 0.7973,
+    "par_enzyme": {
+      "CYP3A4_modulation_pct": {
+        "MAE": 1.033,
+        "R2": 0.8503
+      },
+      "CYP2C19_modulation_pct": {
+        "MAE": 1.1925,
+        "R2": 0.748
+      },
+      "CYP1A2_modulation_pct": {
+        "MAE": 0.5445,
+        "R2": 0.8998
+      },
+      "CYP2D6_modulation_pct": {
+        "MAE": 0.7143,
+        "R2": 0.7056
+      },
+      "CYP2C9_modulation_pct": {
+        "MAE": 0.72,
+        "R2": 0.7955
+      },
+      "UGT1A4_modulation_pct": {
+        "MAE": 0.6503,
+        "R2": 0.7845
+      }
+    },
+    "pass": true
+  },
+  "risk_distribution": {
+    "LOW": 972,
+    "MODERATE": 444,
+    "REDUCED_EFFICACY": 54
+  }
+}

@@ -1,0 +1,21 @@
+drug,food,csv_fusion_guess,exact_fusion,exact_confidence,exact_flags,exact_graph_score,exact_kge_score,exact_lgn_score,exact_norm_graph,exact_norm_kge,exact_norm_lgn,exact_mechanistic_support,exact_explanation
+Levothyroxine,Phytic Acid,,0.9685,HIGH,HIDDEN_MECHANISM,0.0,0.0,0.9685,0.0,0.0,0.9685,0.0,No significant interaction signal detected for Levothyroxine × Phytic Acid.
+Ciprofloxacin,Phytic Acid,,0.8834,MEDIUM,HIDDEN_MECHANISM,0.0,0.0,0.8834,0.0,0.0,0.8834,0.0,No significant interaction signal detected for Ciprofloxacin × Phytic Acid.
+Digoxin,Phytic Acid,,0.8754,MEDIUM,HIDDEN_MECHANISM,0.0,0.0,0.8754,0.0,0.0,0.8754,0.0,No significant interaction signal detected for Digoxin × Phytic Acid.
+Levothyroxine,Ferulic Acid,,0.8651,MEDIUM,HIDDEN_MECHANISM,0.0,0.0,0.8651,0.0,0.0,0.8651,0.0,No significant interaction signal detected for Levothyroxine × Ferulic Acid.
+Digoxin,Ferulic Acid,,0.8705,MEDIUM,HIDDEN_MECHANISM,0.0,0.0,0.8705,0.0,0.0,0.8705,0.0,No significant interaction signal detected for Digoxin × Ferulic Acid.
+Lisinopril,Allicin,,0.9937,HIGH,HIDDEN_MECHANISM,0.0,0.0,0.9937,0.0,0.0,0.9937,0.0,No significant interaction signal detected for Lisinopril × Allicin.
+Warfarin,Allicin,,0.9817,HIGH,HIDDEN_MECHANISM,0.0,0.0,0.9817,0.0,0.0,0.9817,0.0,No significant interaction signal detected for Warfarin × Allicin.
+Phenytoin,Allicin,,0.9976,HIGH,HIDDEN_MECHANISM,0.0,0.0,0.9976,0.0,0.0,0.9976,0.0,No significant interaction signal detected for Phenytoin × Allicin.
+Lisinopril,Capsaicin,,0.9887,HIGH,EXPERT_REVIEW,0.0,38.7558,0.9887,0.0,0.337,0.9887,0.35,"Primary mechanism: Kge Pathway (TENTATIVE). Secondary enzymatic evidence: ABCB1, CYP3A4, FGA. Layer evidence: Graph 0.000 (norm 0.000), KGE 38.756 (norm 0.337), LightGCN 0.989 (norm 0.989); Fusion 0.9887."
+Warfarin,Capsaicin,,0.8736,HIGH,EXPERT_REVIEW,0.0,42.4427,0.9558,0.0,0.3691,0.9558,0.35,"Primary mechanism: Kge Pathway (TENTATIVE). Secondary enzymatic evidence: CYP3A4, ABCB1, CYP2C8. Layer evidence: Graph 0.000 (norm 0.000), KGE 42.443 (norm 0.369), LightGCN 0.956 (norm 0.956); Fusion 0.8736."
+Theophylline,Phytic Acid,,0.9869,HIGH,HIDDEN_MECHANISM,0.0,0.0,0.9869,0.0,0.0,0.9869,0.0,No significant interaction signal detected for Theophylline × Phytic Acid.
+insulin,Amylopectin,,0.8713,MEDIUM,HIDDEN_MECHANISM,0.0,0.0,0.8713,0.0,0.0,0.8713,0.0,No significant interaction signal detected for insulin × Amylopectin.
+Metformin,Amylopectin,,0.8869,MEDIUM,HIDDEN_MECHANISM,0.0,0.0,0.8869,0.0,0.0,0.8869,0.0,No significant interaction signal detected for Metformin × Amylopectin.
+Allopurinol,Amylopectin,,0.8583,MEDIUM,HIDDEN_MECHANISM,0.0,0.0,0.8583,0.0,0.0,0.8583,0.0,No significant interaction signal detected for Allopurinol × Amylopectin.
+insulin,Potassium,,0.097,INSUFFICIENT,,0.0,0.0,0.097,0.0,0.0,0.097,0.0,No significant interaction signal detected for insulin × Potassium.
+insulin,Cinnamaldehyde,,0.9403,HIGH,HIDDEN_MECHANISM,0.0,0.0,0.9403,0.0,0.0,0.9403,0.0,No significant interaction signal detected for insulin × Cinnamaldehyde.
+Metformin,Cinnamaldehyde,,0.928,HIGH,HIDDEN_MECHANISM,0.0,0.0,0.928,0.0,0.0,0.928,0.0,No significant interaction signal detected for Metformin × Cinnamaldehyde.
+Ramipril,Capsaicin,,0.9891,HIGH,EXPERT_REVIEW,0.0,31.7701,0.9891,0.0,0.2763,0.9891,0.35,"Primary mechanism: Kge Pathway (TENTATIVE). Secondary enzymatic evidence: ABCB1, CYP3A4, CPE. Layer evidence: Graph 0.000 (norm 0.000), KGE 31.770 (norm 0.276), LightGCN 0.989 (norm 0.989); Fusion 0.9891."
+Perindopril,Capsaicin,,0.9964,HIGH,EXPERT_REVIEW,0.0,34.4487,0.9964,0.0,0.2996,0.9964,0.35,"Primary mechanism: Kge Pathway (TENTATIVE). Secondary enzymatic evidence: ABCB1, CYP3A4, CPE. Layer evidence: Graph 0.000 (norm 0.000), KGE 34.449 (norm 0.300), LightGCN 0.996 (norm 0.996); Fusion 0.9964."
+Lithium,Na+,,0.7896,MEDIUM,,0.0,0.0,0.7896,0.0,0.0,0.7896,0.0,No significant interaction signal detected for Lithium × Na+.

@@ -1,0 +1,57 @@
+food_name,food_id,drug_name,drug_id,verdict
+Capsaicin,80,theophylline,1271,LIT-confirmed
+Piperine,264,warfarin,1396,LIT-confirmed
+Piperine,264,theophylline,1271,LIT-confirmed
+Potassium,22,enalapril,435,LIT-confirmed
+Potassium,22,theophylline,1271,LIT-confirmed
+Capsaicin,80,enalapril,435,LIT-confirmed
+Quercetin,279,orlistat,929,PubMed-NLP
+Caffeine,1,clozapine,283,DrugBank-named
+Caffeine,1,alprazolam,42,LIT-confirmed
+Sucrose,340,empagliflozin,433,LIT-confirmed
+Quercetin,279,phenytoin,1004,DrugBank-named
+Quercetin,279,atorvastatin,96,PubMed-NLP
+Sucrose,340,simvastatin,1174,DrugBank-named
+Purine,799,febuxostat,496,LIT-confirmed
+Potassium,22,levothyroxine,722,LIT-confirmed
+Potassium,22,ciprofloxacin,258,LIT-confirmed
+L-Leucine,511,atorvastatin,96,DrugBank-text
+Calcium,2,atorvastatin,96,DrugBank-text
+Calcium,2,ritonavir,1126,DrugBank-text
+Calcium,2,warfarin,1396,LIT-confirmed
+Calcium,2,doxycycline,405,LIT-confirmed
+Glucose,509,cyclosporine,306,LIT-confirmed
+Arginine,512,metformin,794,PubMed-NLP
+Arginine,512,sildenafil,1168,PubMed-NLP
+Arginine,512,empagliflozin,433,PubMed-NLP
+Linalool,194,diazepam,363,LIT-confirmed
+Potassium,22,amiloride,50,LIT-confirmed
+Magnesium,20,perindopril,988,PubMed-NLP
+Potassium,22,febuxostat,496,PubMed-NLP
+Potassium,22,ferrous gluconate,512,LIT-confirmed
+Ginger,13,warfarin,1396,DrugBank-named
+Iron,18,ciprofloxacin,258,DrugBank-text
+Calcium,2,lisinopril,732,DrugBank-text
+Vitamin C,27,enalapril,435,DrugBank-text
+Vitamin C,27,ramipril,1092,DrugBank-text
+Vitamin C,27,ferrous sulfate anhydrous,513,LIT-confirmed
+Vitamin C,27,ferrous gluconate,512,LIT-confirmed
+Vitamin C,27,ferrous fumarate,511,LIT-confirmed
+Fat,9,griseofulvin,596,PubMed-NLP
+Potassium,22,tamoxifen,1230,PubMed-NLP
+Arginine,512,phenelzine,994,DrugBank-text
+Arginine,512,isocarboxazid,662,DrugBank-text
+Arginine,512,selegiline,1158,DrugBank-text
+Sucrose,340,phenelzine,994,DrugBank-text
+Glucose,509,selegiline,1158,DrugBank-text
+Potassium,22,canagliflozin,190,PubMed-NLP
+Potassium,22,isocarboxazid,662,DrugBank-text
+Sucrose,340,aspirin,1469,PubMed-NLP
+Glucose,509,amiodarone,56,DrugBank-named
+Potassium,22,progesterone,1061,PubMed-NLP
+Potassium,22,torasemide,1308,LIT-confirmed
+Starch,831,acarbose,10,PubMed-NLP
+Folic Acid,11,pemetrexed,975,PubMed-NLP
+Folic Acid,11,trimethoprim,1836,PubMed-NLP
+Curcumin,738,trimethoprim,1836,PubMed-NLP
+Curcumin,738,ibuprofen,618,DrugBank-named

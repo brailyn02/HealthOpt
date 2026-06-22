@@ -1,0 +1,57 @@
+dish,manual_n,runtime_n,overlap_n,manual_only_n,runtime_only_n,manual_compounds,runtime_compounds,overlap_compounds
+adas,5,4,4,1,0,allicin | cuminaldehyde | non heme iron | phytic acid | potassium,allicin | cuminaldehyde | phytic acid | potassium,allicin | cuminaldehyde | phytic acid | potassium
+atay,4,4,2,2,2,caffeine | saponins | sucrose glucose | tannins,caffeine | glucose | saponins | sucrose,caffeine | saponins
+baghrir,4,3,1,3,2,amylopectin | butyric acid scfas | co2 | sucrose glucose,amylopectin | glucose | sucrose,amylopectin
+baklawa,7,1,1,6,0,amygdalin | gelatinisedstarch | honey | laminatedgluten | larginine | omega3 | saturated fats,amygdalin,amygdalin
+batata bel-jelbana,7,6,6,1,0,allicin | amylose | cinnamaldehyde | essaa | leucine | piperine | saponins,allicin | amylose | cinnamaldehyde | leucine | piperine | saponins,allicin | amylose | cinnamaldehyde | leucine | piperine | saponins
+batata red sauce,6,5,5,1,0,allicin | apigenin | cuminaldehyde | gelatinised starch | potassium | quercetin,allicin | apigenin | cuminaldehyde | potassium | quercetin,allicin | apigenin | cuminaldehyde | potassium | quercetin
+berkoukes,4,5,3,1,2,amylose amylopectin | capsaicin | curcumin | lycopene,amylopectin | amylose | capsaicin | curcumin | lycopene,capsaicin | curcumin | lycopene
+bourak jazairi,8,4,4,4,0,acrylamide | amylopectin | calcium | iodine | large neutral amino acids | omega3 | purines | saturated fats,acrylamide | amylopectin | calcium | iodine,acrylamide | amylopectin | calcium | iodine
+bouzlouf/chtitha,4,3,2,2,1,capsaicin | cuminaldehyde | purines | s allicin,allicin | capsaicin | cuminaldehyde,capsaicin | cuminaldehyde
+bradj,6,5,5,1,0,cinnamaldehyde | eugenol | lignans | linalool | omega3 | potassium,cinnamaldehyde | eugenol | lignans | linalool | potassium,cinnamaldehyde | eugenol | lignans | linalool | potassium
+brik,6,3,3,3,0,acrylamide | choline | cuminaldehyde | lecithin | purines | saturated fats,acrylamide | choline | cuminaldehyde,acrylamide | choline | cuminaldehyde
+chakchouka,5,5,5,0,0,allicin | capsaicin | choline | lycopene | quercetin,allicin | capsaicin | choline | lycopene | quercetin,allicin | capsaicin | choline | lycopene | quercetin
+chakhchoukha,6,15,5,1,10,amylopectin | capsaicin | cinnamaldehyde | lycopene | potassium | purines,allicin | amylopectin | beta carotene | capsaicin | cinnamaldehyde | cuminaldehyde | hydroxytyrosol | iron | lutein | lycopene | oleuropein | potassium | quercetin | s allylcysteine | zinc,amylopectin | capsaicin | cinnamaldehyde | lycopene | potassium
+chorba bidha,4,2,2,2,0,cinnamaldehyde | citric acid | phytic acid | purines,cinnamaldehyde | phytic acid,cinnamaldehyde | phytic acid
+chorba frik / jari,6,2,2,4,0,magnesium | menthol | phytic acid | rosmarinicacid | smoked roasted pahs | soluble fiber,menthol | phytic acid,menthol | phytic acid
+chou-fleur,6,5,5,1,0,allicin | amylopectin | cuminaldehyde | i3c | lycopene | potassium,allicin | amylopectin | cuminaldehyde | lycopene | potassium,allicin | amylopectin | cuminaldehyde | lycopene | potassium
+couscous,2,2,2,0,0,ferulic acid | phytic acid,ferulic acid | phytic acid,ferulic acid | phytic acid
+dchicha with klila,5,3,2,3,1,beta glucan | calcium | na | saturated fats | tyramine,beta glucan | calcium | sodium,beta glucan | calcium
+djelbana b'garnon,7,2,2,5,0,cynarin | gelatin | gelatinisedflour | inositol | leucine | silymarin | solfiber,gelatin | leucine,gelatin | leucine
+dolma,6,4,4,2,0,allicin | amylose | apigenin | cucurbitacin | solanine | vitamin k,allicin | amylose | apigenin | solanine,allicin | amylose | apigenin | solanine
+doubara (biskria),5,4,4,1,0,allicin | capsaicin | cuminaldehyde | phytic acid | purines,allicin | capsaicin | cuminaldehyde | phytic acid,allicin | capsaicin | cuminaldehyde | phytic acid
+douwara / bakbouka,7,5,5,2,0,allicin | curcumin | gingerol | lycopene | phytic acid | potassium | purines,allicin | curcumin | lycopene | phytic acid | potassium,allicin | curcumin | lycopene | phytic acid | potassium
+dziriyet,8,6,6,2,0,albumin | benzaldehyde | choline | fructose | glucose | pacs | resveratrol | sucrose,albumin | benzaldehyde | choline | glucose | resveratrol | sucrose,albumin | benzaldehyde | choline | glucose | resveratrol | sucrose
+fritte omelette,7,3,3,4,0,acrylamidemaillard | cck | choline | leucine | lutein | oxidisedlipids | starchlipid,choline | leucine | lutein,choline | leucine | lutein
+ftir,4,2,1,3,1,amylopectin | na | triglycerides | zerofermentation,amylopectin | sodium,amylopectin
+garantita/karentica,6,3,3,3,0,capsaicin | cuminaldehyde | non heme fe | phytic acid | plant protein | purines,capsaicin | cuminaldehyde | phytic acid,capsaicin | cuminaldehyde | phytic acid
+griwech,7,3,3,4,0,3mm | braidedlattice | honey synergy | linalool | maillard | sesamin | sesamolin,linalool | sesamin | sesamolin,linalool | sesamin | sesamolin
+guedid / kadid,4,2,1,3,1,ages | allicin | na | tyramine,allicin | sodium,allicin
+harira,3,2,2,1,0,beta glucan | carvone | purines,beta glucan | carvone,beta glucan | carvone
+hmiss,4,4,4,0,0,allicin | capsaicin | lycopene | oleic acid,allicin | capsaicin | lycopene | oleic acid,allicin | capsaicin | lycopene | oleic acid
+hommos,6,2,2,4,0,cuminaldehyde | nonhemeiron | olive oil | phytic acid | purines | sodium bicarbonate,cuminaldehyde | phytic acid,cuminaldehyde | phytic acid
+kaak nakach,6,2,2,4,0,co | insoluble fiber | linalool | lipidcoatedstarch | potassium | sodium bicarbonate,linalool | potassium,linalool | potassium
+la soupe (veg+redlentil),8,3,3,5,0,allicin lateadd | beta carotene | curcumin | folate | gingerol | minerals | piperine | soluble fiber,beta carotene | curcumin | piperine,beta carotene | curcumin | piperine
+lahm lhalou,5,5,3,2,2,amygdalin | butyric acid | cinnamaldehyde | coumarin | sucrose glucose,amygdalin | cinnamaldehyde | coumarin | glucose | sucrose,amygdalin | cinnamaldehyde | coumarin
+loubia,8,6,6,2,0,allicin | beta carotene | cuminaldehyde | phaseolamin | phytic acid | potassium | purines | saponins,allicin | beta carotene | cuminaldehyde | phytic acid | potassium | saponins,allicin | beta carotene | cuminaldehyde | phytic acid | potassium | saponins
+makroud el-koucha,3,2,2,1,0,amylopectin | butyric acid scfas | linalool,amylopectin | linalool,amylopectin | linalool
+matlouh,5,3,2,3,1,amylopectin | co2 | hydrationmatrix | na | phytic acid,amylopectin | phytic acid | sodium,amylopectin | phytic acid
+mbessas,4,1,1,3,0,amylopectin | densematrix | lipid | maillard ages,amylopectin,amylopectin
+mederbel,5,2,2,3,0,acetic acid | allicin | lipidsponge | nasunin | purines,allicin | nasunin,allicin | nasunin
+merguez,4,2,2,2,0,capsaicin | cuminaldehyde | heme iron | sat fats,capsaicin | cuminaldehyde,capsaicin | cuminaldehyde
+mesfouf,4,3,2,2,1,amylopectin | butyric acid | resveratrol | sucrose fructose,amylopectin | resveratrol | sucrose,amylopectin | resveratrol
+mhadjeb (a=spicy/b=plain),6,5,5,1,0,allicin | amylopectin | capsaicin | lycopene | quercetin | triglycerides,allicin | amylopectin | capsaicin | lycopene | quercetin,allicin | amylopectin | capsaicin | lycopene | quercetin
+mhancha,3,0,0,3,0,l arginine | niacin | oxidised lipids,,
+mthawem / methoum,4,2,2,2,0,allicin | cinnamaldehyde | purines | saturated lipids,allicin | cinnamaldehyde,allicin | cinnamaldehyde
+osban / osbane,6,4,4,2,0,allicin | apigenin | piperine | purines | quercetin | triglycerides,allicin | apigenin | piperine | quercetin,allicin | apigenin | piperine | quercetin
+qtayef,5,1,1,4,0,ellagitannins | fructoseglucose | linalool | sha ra strands | walnutala,linalool,linalool
+rechta,5,5,5,0,0,amylopectin | cinnamaldehyde | curcumin | glucobrassicin | quercetin,amylopectin | cinnamaldehyde | curcumin | glucobrassicin | quercetin,amylopectin | cinnamaldehyde | curcumin | glucobrassicin | quercetin
+shbah el-safra,7,5,3,4,2,crocin | l arginine | potassium | safranal | sorbitol | sucrose glucose | vitamin e,crocin | glucose | potassium | safranal | sucrose,crocin | potassium | safranal
+tajine zeitoun,4,4,4,0,0,allicin | cinnamaldehyde | curcumin | oleuropein,allicin | cinnamaldehyde | curcumin | oleuropein,allicin | cinnamaldehyde | curcumin | oleuropein
+tamina,5,3,2,3,1,butter emulsion | pyrodextrins | sesamin | sesamolin | sucrose icing sugar,sesamin | sesamolin | sucrose,sesamin | sesamolin
+taminat l-ghars,6,1,1,5,0,butter | grain starch | honey | insolfiber | potassium | pyrodextrins,potassium,potassium
+tcharak (a=aryan/b=meskar),7,4,4,3,0,albumin | larginine | limonene | linalool | mg2 | protein | shortcrust friablematrix,albumin | limonene | linalool | mg2,albumin | limonene | linalool | mg2
+tilitili / tlitli,4,4,4,0,0,amylopectin | choline | cinnamaldehyde | piperine,amylopectin | choline | cinnamaldehyde | piperine,amylopectin | choline | cinnamaldehyde | piperine
+trida (w: white sauce,4,3,2,2,1,butyric acid | choline | quercetin | w amylopectin,amylopectin | choline | quercetin,choline | quercetin
+zfiti / zviti,4,4,4,0,0,allicin | capsaicin | phytic acid | piperine,allicin | capsaicin | phytic acid | piperine,allicin | capsaicin | phytic acid | piperine
+zlabia,1,1,1,0,0,limonene,limonene,limonene

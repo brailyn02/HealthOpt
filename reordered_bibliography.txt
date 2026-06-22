@@ -1,0 +1,138 @@
+REORDERED BIBLIOGRAPHY (by order of appearance)
+============================================================
+
+[1] Ministère de l’Industrie Pharmaceutique, Algérie, “Nomenclature Nationale des
+Produits Pharmaceutiques,”
+
+[8] F. P. Guengerich, “Cytochrome P450 3A4: Regulation and Role in Drug
+Metabolism,”Annual Review of Pharmacology and Toxicology, vol. 39, pp. 1–
+17, 1999.
+
+[9] X. He, K. Deng, X. Wang, Y. Li, Y. Zhang, and M. Wang, “LightGCN: Simplifying
+and Powering Graph Convolution Network for Recommendation,” inProceedings
+of the 43rd International ACM SIGIR Conference on Research and Development in
+Information Retrieval (SIGIR ’20), New York, NY, USA: ACM, 2020, pp. 639–648.
+
+[10] Z. Sun, Z.-H. Deng, J.-Y. Nie, and J. Tang, “RotatE: Knowledge Graph Embedding
+by Relational Rotation in Complex Space,” in7th International Conference on
+Learning Representations (ICLR 2019), OpenReview.net, 2019.
+
+[11] S. Rendle, C. Freudenthaler, Z. Gantner, and L. Schmidt-Thieme, “BPR: Bayesian
+Personalized Ranking from Implicit Feedback,” inProceedings of the Twenty-Fifth
+Conference on Uncertainty in Artificial Intelligence (UAI ’09), AUAI Press, 2009,
+pp. 452–461.
+
+[12] G. Landrum et al., “RDKit: Open-source cheminformatics,”
+
+[13] J. B. Schwartz, “The influence of sex on pharmacokinetics,”Clinical Phar-
+macokinetics, vol. 42, no. 2, pp. 107–121, 2003.
+
+[18] P. B. Pennell et al., “The impact of pregnancy and childbirth on the metabolism
+of lamotrigine,”Neurology, vol. 62, no. 2, pp. 292–295, 2004.
+
+[20] D. S. Wishart et al., “DrugBank 5.0: a major update to the DrugBank database for
+2018,”Nucleic Acids Research, vol. 46, no. D1, pp. D1074–D1082, 2018.
+
+[21] N. Madera-Salcedo et al., “POMELO: A Comprehensive Database and Search
+Engine for Plant Metabolites and Their Interactions with Drugs,”J. Chemical
+Information and Modeling, vol. 62, 2022.
+
+[22] D. S. Wishart et al., “FooDB: The Food Database,”Nucleic Acids Research, 2018.
+
+[28] Lexicomp, “Lexi-Drugs Online Database,”UpToDate Lexidrug, Wolters Kluwer
+Health, Inc., Riverwoods, IL, 2026.
+
+[29] IBM Micromedex, “Micromedex DrugRef Database,”Truven Health Analytics,
+IBM Watson Health, Greenwood Village, CO, 2026.
+
+[30] Drugs.com, “Drugs.com Drug Information Database,”Drug Site Trust, Auckland,
+New Zealand, 2026.
+
+[31] O. P. Soldin and D. R. Mattison, “Sex differences in pharmacokinetics and pharma-
+codynamics,”Clinical Pharmacokinetics, vol. 48, no. 3, pp. 143–157, 2009.
+
+[15] A. Kasarinaite et al., “The Influence of the Menstrual Cycle on Pharmacokinetics:
+A Systematic Review,”Clinical Pharmacokinetics, vol. 62, no. 6, pp. 817–833, 2023.
+
+[2] H. Lee et al., “Construction of a corpus for drug–food interaction extraction from
+biomedical literature,”Database, vol. 2023, baad075, 2023.
+
+[37] S. Husain, “Drug-Food Interactions Dataset,” Kaggle, 2023.
+
+[38] B. Zdrazil, E. Felix, F. Hunter, et al., “The ChEMBL Database in 2023: a drug
+discovery platform spanning multiple bioactivity data types and time periods,”
+Nucleic Acids Research, vol. 51, no. D1, pp. D1180–D1192, 2023.
+
+[3] N.Bisht, “MenstrualCycleData(FedCycleData),” Kaggle, 2024.
+
+[16] R. B. Stricker et al., “The menstrual cycle and drug metabolism,”Pharmacoge-
+nomics, vol. 7, no. 6, pp. 877–885, 2006.
+
+[19] F. Franconi and I. Campesi, “Pharmacogenomics, pharmacokinetics and pharmaco-
+dynamics: interaction with biological differences between men and women,”British
+J. Pharmacology, vol. 171, no. 3, pp. 580–594, 2014.
+
+[39] S. Kim, J. Chen, T. Cheng, et al., “PubChem 2023 update,”Nucleic Acids
+Research, vol. 51, no. D1, pp. D1373–D1380, 2023.
+
+[33] D. I. Thurnham, L. D. McCabe, S. Haldar, F. T. Wieringa, C. A. Northrop-Clewes,
+and G. P. McCabe, “Adjusting plasma ferritin concentrations to remove the effects
+of subclinical inflammation in the assessment of iron deficiency,”The American
+HealthOpt — Master Thesis SDSI 2025/2026
+Bibliography 79
+Journal of Clinical Nutrition, vol. 92, no. 3, pp. 546–555, 2010.
+
+[34] World Health Organization, “Serum ferritin concentrations for the assessment of
+iron status and iron deficiency in populations,” Geneva: World Health Organization,
+2011.
+
+[35] Institute of Medicine (US) Committee to Review Dietary Reference Intakes for
+Vitamin D and Calcium, “Dietary Reference Intakes for Calcium and Vitamin D,”
+A. C. Ross, C. L. Taylor, A. L. Yaktine, and H. B. Del Valle, Eds. Washington,
+DC: National Academies Press, 2011.
+
+[36] American Diabetes Association Professional Practice Committee, “Standards of
+Care in Diabetes—2023,”Diabetes Care, vol. 46, no. Supp. 1, pp. S1–S291, 2023.
+
+[4] Y.-C. Chen et al., “Poor correlation between 6𝛽-hydroxycortisol:cortisol molar
+ratios and midazolam clearance as measure of hepatic CYP3A activity,”British
+Journal of Clinical Pharmacology, vol. 62, no. 2, pp. 188–195, 2006.
+
+[26] T. Luo, Z. Lu, J. Zhang, et al., “DFinder: A novel end-to-end graph-based deep
+learning method to identify drug-food interactions,”Briefings in Bioinformatics,
+vol. 24, no. 2, 2023.
+
+[5] National Center for Health Statistics, “National Health and Nutrition Examination
+Survey (NHANES),” CDC, 1999–2023.
+
+[6] Korea Centers for Disease Control and Prevention, “Korea National Health and
+Nutrition Examination Survey (KNHANES),” 2007–2016.
+
+[7] U.S.DepartmentofAgriculture, “FoodDataCentral,” AgriculturalResearchService.
+
+[14] J. Crockett, D. Critchley, B. Tayo, and G. Morrison, “A phase 1, randomized,
+pharmacokinetic trial of the effect of different meal compositions, whole milk, and
+alcohol on cannabidiol exposure and safety in healthy subjects,”Epilepsia, vol. 61,
+no. 2, pp. 269–277, 2020.
+
+[17] A. Reimers, G. Helde, and E. Brodtkorb, “Ethinyl estradiol, not progestogens,
+reduces lamotrigine serum concentrations,”Epilepsia, vol. 46, no. 9, pp. 1414–1417,
+2005.
+
+[23] National Library of Medicine (US), “PubMed,” National Center for Biotechnology
+Information.
+
+[24] B. Lacruz-Pleguezuelos et al., “FooDrugs: a comprehensive food–drug interactions
+database with text documents and transcriptional data,”Database, vol. 2023,
+baad075, 2023.
+
+[25] IMDEA Food CompuBio, “FooDrugs: a bioinformatic tool to research potential
+food–drug interactions,”
+
+[27] M. Whirl-Carrillo et al., “An evidence-based framework for evaluating pharma-
+cogenomics knowledge for personalized medicine,”Clinical Pharmacology & Thera-
+peutics, vol. 110, no. 3, pp. 563–572, 2021.
+
+[32] D. Rogers and M. Hahn, “Extended-connectivity fingerprints,”Journal of Chemical
+Information and Modeling, vol. 50, no. 5, pp. 742–754, 2010.
+

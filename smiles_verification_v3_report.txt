@@ -1,0 +1,478 @@
+SMILES Verification Report v3 — name-vs-smiles CID cross-check
+======================================================================
+
+SUMMARY
+  ERROR                                         1
+  SMILES_OK_NAME_NOT_IN_PUBCHEM                 17
+  SMILES_OK_NAME_LOOKUP_FAILED                  61
+  TOTAL                                         79
+
+======================================================================
+  ERROR  (1)
+======================================================================
+
+  Line      : 2592
+  Label     : Sesamin abbrev.
+  SMILES    : C1OC2=CC(=CC=C2)CC3CC(=O)OC4=CC=C(C=C34)OC
+
+======================================================================
+  SMILES_OK_NAME_NOT_IN_PUBCHEM  (17)
+======================================================================
+
+  Line      : 312
+  Label     : Benzo[a]pyrene rep.
+  SMILES    : C1=CC2=C(C=C1)C=C3C=CC=CC3=C2
+  CID(smiles): 8418  → anthracene
+
+
+  Line      : 320
+  Label     : Pectin rep.
+  SMILES    : OC1OC(C(=O)O)CC(O)C1O
+  CID(smiles): 4632231  → 4,5,6-trihydroxyoxane-2-carboxylic acid
+
+
+  Line      : 953
+  Label     : starch fragment
+  SMILES    : C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)O)O)O)O)O)O)O)O
+  CID(smiles): 872  → 6-[[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]oxane-2,3,4,5-tetrol
+
+
+  Line      : 1024
+  Label     : Uric Acid product
+  SMILES    : C12C(=O)NC(=O)NC1=C(NC(=O)N2)O
+
+
+  Line      : 1467
+  Label     : Butyric Acid rep.
+  SMILES    : CCCC(=O)O
+  CID(smiles): 264  → butanoic acid
+
+
+  Line      : 1828
+  Label     : EPA repr.
+  SMILES    : CCCCC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCC(=O)O
+  CID(smiles): 6441454  → (4Z,7Z,10Z,13Z,16Z)-docosa-4,7,10,13,16-pentaenoic acid
+
+
+  Line      : 2555
+  Label     : Maltose rep.
+  SMILES    : OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O
+  CID(smiles): 5793  → (3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol
+
+
+  Line      : 3025
+  Label     : Ca chelate repr.
+  SMILES    : [Ca+2]
+  CID(smiles): 271  → calcium(2+)
+
+
+  Line      : 3560
+  Label     : Na ion
+  SMILES    : [Na+]
+  CID(smiles): 923  → sodium(1+)
+
+
+  Line      : 3847
+  Label     : K ion
+  SMILES    : [K+]
+  CID(smiles): 813  → potassium(1+)
+
+
+  Line      : 3902
+  Label     : ALA
+  SMILES    : CCC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O
+  CID(smiles): 135073985  → (9Z,12Z,15Z)-nonadeca-9,12,15-trienoic acid
+
+
+  Line      : 4051
+  Label     : Phosphatidylcholine
+  SMILES    : C[N+](C)(C)CCO
+  CID(smiles): 305  → 2-hydroxyethyl(trimethyl)azanium
+
+
+  Line      : 4502
+  Label     : Pectin represent.
+  SMILES    : OC[C@@H]1OC(O)[C@H](O)[C@@H](O)[C@H]1O
+  CID(smiles): 10219674  → (3R,4S,5R,6S)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol
+
+
+  Line      : 4686
+  Label     : ALA
+  SMILES    : OC(=O)CCC/C=C\C/C=C\C/C=C\CCCCCCCCC
+
+
+  Line      : 5178
+  Label     : Glucose unit
+  SMILES    : OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O
+  CID(smiles): 5793  → (3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol
+
+
+  Line      : 5194
+  Label     : Lycopene simplified
+  SMILES    : CC(=CCC/C(=C\CCC=C(C)C)/C)C
+
+
+  Line      : 5464
+  Label     : Folate core
+  SMILES    : Nc1nc2ncc(CNc3ccc(CC(=O)[O-])cc3)nc2c(=O)[nH]1
+
+======================================================================
+  SMILES_OK_NAME_LOOKUP_FAILED  (61)
+======================================================================
+
+  Line      : 302
+  Label     : Phytic Acid
+  SMILES    : OP(=O)(O)OC1C(OP(=O)(O)O)C(OP(=O)(O)O)C(OP(=O)(O)O)C(OP(=O)(O)O)C1OP(=O)(O)O
+  CID(smiles): 890  → (2,3,4,5,6-pentaphosphonooxycyclohexyl) dihydrogen phosphate
+
+
+  Line      : 327
+  Label     : Rosmarinic Acid
+  SMILES    : OC(=O)C(Cc1ccc(O)c(O)c1)OC(=O)/C=C/c1ccc(O)c(O)c1
+  CID(smiles): 5315615  → 3-(3,4-dihydroxyphenyl)-2-[(E)-3-(3,4-dihydroxyphenyl)prop-2-enoyl]oxypropanoic acid
+
+
+  Line      : 431
+  Label     : Sucrose
+  SMILES    : OC[C@H]1O[C@@](CO)(O[C@@H]2[C@@H](O)[C@H](O)[C@@H](O)[C@H]2O)[C@@H](O)[C@@H]1O
+
+
+  Line      : 840
+  Label     : Sucrose
+  SMILES    : C(C1C(C(C(C(O1)OC2(C(C(C(O2)CO)O)O)CO)O)O)O)O
+  CID(smiles): 1115  → 2-[3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol
+
+
+  Line      : 1031
+  Label     : Butyric Acid
+  SMILES    : CCCC(=O)O
+  CID(smiles): 264  → butanoic acid
+
+
+  Line      : 1150
+  Label     : Curcumin
+  SMILES    : COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O
+  CID(smiles): 969516  → (1E,6E)-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione
+
+
+  Line      : 1154
+  Label     : 6-Gingerol
+  SMILES    : CCCCCC(CC(=O)CC1=CC(=C(C=C1)OC)O)O
+
+
+  Line      : 1479
+  Label     : Uric Acid
+  SMILES    : C12C(=O)NC(=O)NC1=C(NC(=O)N2)O
+
+
+  Line      : 1544
+  Label     : Apigenin
+  SMILES    : O=C1CC(c2ccc(O)cc2)Oc3cc(O)cc(O)c13
+  CID(smiles): 932  → 5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one
+
+
+  Line      : 1551
+  Label     : Carvone
+  SMILES    : O=C1CC(=C(C)C)CC(=C1)C
+
+
+  Line      : 1614
+  Label     : IP6
+  SMILES    : C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O
+  CID(smiles): 890  → (2,3,4,5,6-pentaphosphonooxycyclohexyl) dihydrogen phosphate
+
+
+  Line      : 1699
+  Label     : Citric Acid
+  SMILES    : OC(=O)CC(O)(CC(=O)O)C(=O)O
+  CID(smiles): 311  → 2-hydroxypropane-1,2,3-tricarboxylic acid
+
+
+  Line      : 1725
+  Label     : Lecithin/PC
+  SMILES    : CCCCCCCCCCCCCCCC(=O)OCC(OC(=O)CCCCCCCC)COP([O-])(=O)OCC[N+](C)(C)C
+  CID(smiles): 15166682  → (3-hexadecanoyloxy-2-nonanoyloxypropyl) 2-(trimethylazaniumyl)ethyl phosphate
+
+
+  Line      : 1797
+  Label     : Oleic Acid
+  SMILES    : CCCCCCCC/C=C\CCCCCCCC(=O)O
+  CID(smiles): 445639  → (Z)-octadec-9-enoic acid
+
+
+  Line      : 1927
+  Label     : Fructose
+  SMILES    : OC[C@@H]1O[C@](O)(CO)[C@@H](O)[C@H]1O
+  CID(smiles): 89810768  → (2R,3S,4R,5S)-2,5-bis(hydroxymethyl)oxolane-2,3,4-triol
+
+
+  Line      : 1930
+  Label     : Glucose
+  SMILES    : OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O
+  CID(smiles): 5793  → (3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol
+
+
+  Line      : 1970
+  Label     : Choline
+  SMILES    : C[N+](C)(C)CCO
+  CID(smiles): 305  → 2-hydroxyethyl(trimethyl)azanium
+
+
+  Line      : 1983
+  Label     : Limonene
+  SMILES    : CC(=C)[C@@H]1CCC(=CC1)C
+  CID(smiles): 440917  → (4R)-1-methyl-4-prop-1-en-2-ylcyclohexene
+
+
+  Line      : 2073
+  Label     : Palmitic Acid
+  SMILES    : CCCCCCCCCCCCCCCC(=O)O
+  CID(smiles): 985  → hexadecanoic acid
+
+
+  Line      : 2094
+  Label     : L-Arginine
+  SMILES    : NC(=N)NCCC[C@@H](N)C(=O)O
+  CID(smiles): 71070  → (2R)-2-amino-5-(diaminomethylideneamino)pentanoic acid
+
+
+  Line      : 2096
+  Label     : Resveratrol
+  SMILES    : Oc1ccc(/C=C/c2cc(O)cc(O)c2)cc1
+  CID(smiles): 445154  → 5-[(E)-2-(4-hydroxyphenyl)ethenyl]benzene-1,3-diol
+
+
+  Line      : 2137
+  Label     : Linalool
+  SMILES    : CC(=CCCC(C)(O)C=C)C
+  CID(smiles): 6549  → 3,7-dimethylocta-1,6-dien-3-ol
+
+
+  Line      : 2139
+  Label     : Geraniol
+  SMILES    : OC/C=C(\C)CCC=C(C)C
+  CID(smiles): 637566  → (2E)-3,7-dimethylocta-2,6-dien-1-ol
+
+
+  Line      : 2273
+  Label     : Magnesium ion
+  SMILES    : [Mg+2]
+  CID(smiles): 888  → magnesium(2+)
+
+
+  Line      : 2292
+  Label     : Cinnamaldehyde
+  SMILES    : O=C/C=C/c1ccccc1
+  CID(smiles): 637511  → (E)-3-phenylprop-2-enal
+
+
+  Line      : 2294
+  Label     : Eugenol
+  SMILES    : C(c1ccc(O)c(OC)c1)C=C
+  CID(smiles): 3314  → 2-methoxy-4-prop-2-enylphenol
+
+
+  Line      : 2576
+  Label     : Butyrate
+  SMILES    : CCCC(=O)O
+  CID(smiles): 264  → butanoic acid
+
+
+  Line      : 2610
+  Label     : Sucrose
+  SMILES    : OC[C@H]1O[C@@H](O[C@@]2(CO)O[C@H](O)[C@@H](O)[C@@H]2O)[C@@H](O)[C@@H]1O
+
+
+  Line      : 2686
+  Label     : Lycopene
+  SMILES    : CC(=CCC=C(C)C=CC=C(C)CCC=C(C)C=CC=C(C)CCC=C(C)C)C
+
+
+  Line      : 2708
+  Label     : Allicin
+  SMILES    : C=CCSS(=O)CC=C
+  CID(smiles): 65036  → 3-prop-2-enylsulfinylsulfanylprop-1-ene
+
+
+  Line      : 2710
+  Label     : Gingerol
+  SMILES    : CCCCCC(O)CC(=O)CCc1ccc(O)c(OC)c1
+  CID(smiles): 3473  → 5-hydroxy-1-(4-hydroxy-3-methoxyphenyl)decan-3-one
+
+
+  Line      : 3044
+  Label     : Tyramine
+  SMILES    : NCCc1ccc(O)cc1
+  CID(smiles): 5610  → 4-(2-aminoethyl)phenol
+
+
+  Line      : 3128
+  Label     : Ascorbic Acid
+  SMILES    : OC[C@H](O)[C@H]1OC(=O)C(O)=C1O
+  CID(smiles): 54670067  → (2R)-2-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan-5-one
+
+
+  Line      : 3255
+  Label     : Hypoxanthine
+  SMILES    : O=c1[nH]cnc2[nH]cnc12
+  CID(smiles): 135398638  → 1,7-dihydropurin-6-one
+
+
+  Line      : 3346
+  Label     : Allicin
+  SMILES    : O=S(=O)(CC=C)CC=C
+  CID(smiles): 159797  → 3-prop-2-enylsulfonylprop-1-ene
+
+
+  Line      : 3348
+  Label     : Quercetin
+  SMILES    : O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12
+  CID(smiles): 5280343  → 2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one
+
+
+  Line      : 3356
+  Label     : Capsaicin
+  SMILES    : CC(C)/C=C/CCCCC(=O)NCC1=CC(=C(C=C1)O)OC
+  CID(smiles): 1548943  → (E)-N-[(4-hydroxy-3-methoxyphenyl)methyl]-8-methylnon-6-enamide
+
+
+  Line      : 3368
+  Label     : Tripalmitin
+  SMILES    : CCCCCCCCCCCCCCCC(=O)OC...
+  CID(smiles): 8181  → methyl hexadecanoate
+
+
+  Line      : 3679
+  Label     : Acrylamide
+  SMILES    : C=CC(=O)N
+  CID(smiles): 6579  → prop-2-enamide
+
+
+  Line      : 3759
+  Label     : Linoleic Acid
+  SMILES    : CCCCCC/C=C\C/C=C\CCCCCCCC(=O)O
+  CID(smiles): 12137791  → (9Z,12Z)-nonadeca-9,12-dienoic acid
+
+
+  Line      : 4030
+  Label     : Sorbitol
+  SMILES    : OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
+  CID(smiles): 5780  → (2R,3R,4R,5S)-hexane-1,2,3,4,5,6-hexol
+
+
+  Line      : 4069
+  Label     : Safranal
+  SMILES    : CC1=C(C=O)C(C)(C)CCC1
+  CID(smiles): 9895  → 2,6,6-trimethylcyclohexene-1-carbaldehyde
+
+
+  Line      : 4214
+  Label     : Benzaldehyde
+  SMILES    : O=Cc1ccccc1
+  CID(smiles): 240  → benzaldehyde
+
+
+  Line      : 4412
+  Label     : Bicarbonate
+  SMILES    : OC(=O)[O-].[Na+]
+  CID(smiles): 516892  → sodium hydrogen carbonate
+
+
+  Line      : 4545
+  Label     : Palmitate
+  SMILES    : CCCCCCCCCCCCCCCC(=O)O
+  CID(smiles): 985  → hexadecanoic acid
+
+
+  Line      : 4661
+  Label     : Maltose
+  SMILES    : OC[C@H]1OC(O[C@@H]2[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O2)[C@H](O)[C@@H](O)[C@@H]1O
+  CID(smiles): 5321995  → (2R,3S,4S,5R)-2-(hydroxymethyl)-6-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxane-3,4,5-triol
+
+
+  Line      : 4737
+  Label     : Linalool
+  SMILES    : CC(C)=CCCC(C)(O)C=C
+  CID(smiles): 6549  → 3,7-dimethylocta-1,6-dien-3-ol
+
+
+  Line      : 4855
+  Label     : 4-HNE
+  SMILES    : CCCCCC=CC(O)CC=O
+  CID(smiles): 71337232  → 3-hydroxydec-4-enal
+
+
+  Line      : 5165
+  Label     : I3C
+  SMILES    : OCC1=CNC2=CC=CC=C12
+  CID(smiles): 3712  → 1H-indol-3-ylmethanol
+
+
+  Line      : 5208
+  Label     : Cuminaldehyde
+  SMILES    : O=Cc1ccc(C(C)C)cc1
+  CID(smiles): 326  → 4-propan-2-ylbenzaldehyde
+
+
+  Line      : 5273
+  Label     : Lycopene
+  SMILES    : CC(=CCC/C(=C\CCC=C(C)C)/C)C
+
+
+  Line      : 5287
+  Label     : Quercetin
+  SMILES    : OC1=CC(=C2C(=O)C=C(OC2=C1O)c3ccc(O)c(O)c3)O
+  CID(smiles): 5281648  → 2-(3,4-dihydroxyphenyl)-5,7,8-trihydroxychromen-4-one
+
+
+  Line      : 5302
+  Label     : Apigenin
+  SMILES    : O=C1CC(=CC2=CC(O)=CC(O)=C12)c3ccc(O)cc3
+
+
+  Line      : 5376
+  Label     : L-Leucine
+  SMILES    : CC(C)C[C@@H](N)C(=O)O
+  CID(smiles): 439524  → (2R)-2-amino-4-methylpentanoic acid
+
+
+  Line      : 5409
+  Label     : Piperine
+  SMILES    : O=C(/C=C/C=C/c1ccc2c(c1)OCO2)N1CCCCC1
+  CID(smiles): 638024  → (2E,4E)-5-(1,3-benzodioxol-5-yl)-1-piperidin-1-ylpenta-2,4-dien-1-one
+
+
+  Line      : 5479
+  Label     : Beta-Carotene
+  SMILES    : CC(=CCC=C(C)CCC=C(C)CCC=C(C)C)C
+
+
+  Line      : 5498
+  Label     : Curcumin
+  SMILES    : O=C(/C=C/c1ccc(O)c(OC)c1)CC(=O)/C=C/c1ccc(O)c(OC)c1
+  CID(smiles): 969516  → (1E,6E)-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione
+
+
+  Line      : 5514
+  Label     : Allicin
+  SMILES    : O=S(CC=C)CC=C
+  CID(smiles): 161032  → 3-prop-2-enylsulfinylprop-1-ene
+
+
+  Line      : 5583
+  Label     : Inositol
+  SMILES    : OC1C(O)C(O)C(O)C(O)C1O
+  CID(smiles): 892  → cyclohexane-1,2,3,4,5,6-hexol
+
+
+  Line      : 5659
+  Label     : Acrylamide
+  SMILES    : NC(=O)C=C
+  CID(smiles): 6579  → prop-2-enamide
+
+
+  Line      : 5676
+  Label     : Choline
+  SMILES    : OCC[N+](C)(C)C
+  CID(smiles): 305  → 2-hydroxyethyl(trimethyl)azanium
+

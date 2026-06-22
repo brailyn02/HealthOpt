@@ -1,0 +1,3896 @@
+==============================================================================
+  MEDICINAL PLANT – DRUG INTERACTION REPORT
+==============================================================================
+
+Sources:
+  [DB] DrugBank curated food-drug pairs   (drugbank_drug_food_named.csv)
+  [PM] PubMed text-mined key sentences    (dfi_interactions_from_keysentences.csv)
+  [TM] Text-mining corpus                 (foodrugs_interactions.csv)
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Medicago sativa (Alfalfa)
+──────────────────────────────────────────────────────────────────────────────
+
+  [TM] Text-mining corpus — 220 drug(s):
+       • (e)-zeatin
+       • -stimulated
+       • 2-Heptanol
+       • 2-heptanone
+       • 3H
+       • 9,11-linoleic acid
+       • AS-48
+       • Acetate
+       • Acyrthosiphon
+       • Ad
+       • Al(3+
+       • AlCl3
+       • Alfalfa mosaic virus
+       • Alginate-based antimicrobial coating
+       • Amaferm
+       • Artemisia sieberi leaves
+       • Arypsin inhibitor
+       • BDE-209
+       • BDE-47
+       • Biochar
+       • Butyrate
+       • CCl (4
+       • CCl (4)
+       • CF
+       • CH
+       • CH4
+       • CHO
+       • CO2
+       • Chitosan
+       • Cinmethylin
+       • Coumarin + DIMBOA
+       • Cyanamide
+       • DIMBOA
+       • DM
+       • ETH
+       • Ensiling
+       • Ethylene
+       • Flourensia cernua
+       • French Marigold
+       • GPx
+       • Garciella
+       • GsACA1
+       • H2O2
+       • H2S
+       • HCl-Pi
+       • L.
+       • LDL-Cholesterol
+       • LP11AG
+       • LPS
+       • LP + sucrose
+       • Lactobacillus
+       • Lactobacillus pentosus 3-27
+       • MDA
+       • Medicago
+       • Medicago sativa
+       • Medicago sativa L.
+       • Melatonin
+       • MsSiR
+       • MsTHI1
+       • N. cadamba leaves
+       • N2O
+       • NH(3)-N
+       • NH3-N
+       • NO3
+       • NaOH
+       • Nitric Oxide
+       • NodRm-1
+       • OM
+       • Permethrin
+       • Phosphorus
+       • Potassium
+       • Propionate
+       • R. meliloti
+       • Roscovitine
+       • S-ALF
+       • S.
+       • S. plumbizincicola
+       • SFE
+       • Se
+       • Spectinomycin
+       • Subacute ruminal acidosis
+       • Superoxide dismutase
+       • T. roseum
+       • TiO2
+       • VFA
+       • VLDL-cholesterol
+       • ZZUA493
+       • Zinc oxide nanoparticles
+       • acetate
+       • acetylglycine
+       • acriflavin
+       • aged BC
+       • alpha-tocopherol
+       • amino acid
+       • amino acids
+       • aminoglycoside
+       • anti-elastase PI insecticide
+       • antibiotics
+       • antimicrobial
+       • argon
+       • atALKBH9B
+       • betaine
+       • brassinolide
+       • butyrate
+       • carbohydrates
+       • carbon
+       • cefsulodin
+       • chloride
+       • chlorophyll
+       • chlorpyrifos
+       • cinnamon oil
+       • cis-beta-ocimene
+       • copper
+       • coumarin
+       • coumestrol
+       • cysteine synthase
+       • d-lactic acid
+       • decamethrin
+       • differentially expression genes
+       • disaccharides
+       • docosahexaenoic
+       • docosapentaenoic
+       • eicosapentaenoic
+       • eicosatrienoic
+       • endophyte-infected
+       • fatty acid
+       • fatty acids
+       • ferrous sulfate
+       • folates
+       • formic acid
+       • fosmidomycin
+       • fructooligosaccharide
+       • germanium
+       • glutamic acid
+       • glutamic-pyruvate
+       • graphene oxide
+       • greenfeed
+       • hydrogen-rich water
+       • indoleacetic acid
+       • iron
+       • l-5-oxo-2-pyrrolidinecarboxylic acid
+       • l-asparagine
+       • l-cysteine
+       • l-methionine
+       • l-proline
+       • l-serine
+       • laccase
+       • lactic acid
+       • levoglutamide
+       • lipopolysaccharide
+       • lipopolysaccharide-induced
+       • lumichrome
+       • magnesium
+       • malic acid
+       • malondialdehyde
+       • melatonin
+       • meliloti
+       • microRNA156
+       • monensin
+       • monoterpene
+       • nickel
+       • nitrate
+       • nitrate nitrogen
+       • nitrate reductase
+       • nitric oxide
+       • nitric oxide (NO)
+       • nitrogen
+       • nitrous oxide
+       • nordihydroguaiaretic acid
+       • oleic acid
+       • orchardgrass
+       • ovalbumin
+       • oxytetracycline
+       • palmitic acid
+       • phosphate
+       • phosphatidylcholine
+       • phospholipid
+       • phosphorus
+       • physically effective NDF
+       • phytomelatonin complex
+       • polyunsaturated fatty acid
+       • polyunsaturated fatty acids
+       • potassium
+       • potassium (K)
+       • potentially toxic elements
+       • propionate
+       • protein-enriched fraction
+       • pyrene
+       • pyroligneous acid
+       • quaternary ammonium compounds
+       • quercetin 3-rutinoside
+       • ryegrass
+       • salicylic acid
+       • scopoletin
+       • selenite
+       • selenium
+       • sesquiterpene
+       • shikimate
+       • siderophores
+       • sodium acetate-1, 2-(14)C
+       • sodium nitroprusside
+       • sodium propionate
+       • stearic acid
+       • sulfide
+       • tannins
+       • tetracycline
+       • tricarboxylic acid
+       • trichloroethylene
+       • triclosan
+       • triglyceride
+       • tympanic colic
+       • urea-treated
+       • vancomycin
+       • volatile fatty acid
+       • warfarin
+       • water-soluble carbohydrates
+       • wollastonite
+       • xanthine
+       • zinc oxide
+       • γ-tocopherol
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Momordica charantia (Bitter Melon)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 11 interaction record(s):
+       Drug      : STZ
+       Food ref  : Momordica charantia
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The hypoglycaemic effect observed with combination of rosiglitazone and MC was significantly more compared to either of the drugs given alone.
+
+       Drug      : rosiglitazone
+       Food ref  : Momordica charantia
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The hypoglycaemic effect observed with combination of rosiglitazone and MC was significantly more compared to either of the drugs given alone.
+
+       Drug      : streptozotocin
+       Food ref  : Momordica charantia
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The hypoglycaemic effect observed with combination of rosiglitazone and MC was significantly more compared to either of the drugs given alone.
+
+       Drug      : uPA
+       Food ref  : bitter melon leaf extract
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : The results of zymography showed that BMLE inhibited the secretion of MMP-2, MMP-9 and urokinase plasminogen activator (uPA) from PLS10.
+
+       Drug      : STZ
+       Food ref  : methanolic extract of Momordica charantia L
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The present study was undertaken to determine the interaction of rosiglitazone, a PPAR-gamma agonist with methanolic extract of Momordica charantia L (MC), an herbal drug used widely as an antidiabeti
+
+       Drug      : rosiglitazone
+       Food ref  : methanolic extract of Momordica charantia L
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The present study was undertaken to determine the interaction of rosiglitazone, a PPAR-gamma agonist with methanolic extract of Momordica charantia L (MC), an herbal drug used widely as an antidiabeti
+
+       Drug      : streptozotocin
+       Food ref  : methanolic extract of Momordica charantia L
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The present study was undertaken to determine the interaction of rosiglitazone, a PPAR-gamma agonist with methanolic extract of Momordica charantia L (MC), an herbal drug used widely as an antidiabeti
+
+       Drug      : STZ
+       Food ref  : Momordica charantia
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : On the basis of results obtained, it may be concluded that the treatment of Momordica charantia seed varieties may effectively normalize the impaired oxidative stress in streptozotocin induced-diabete
+
+       Drug      : streptozotocin
+       Food ref  : Momordica charantia
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : On the basis of results obtained, it may be concluded that the treatment of Momordica charantia seed varieties may effectively normalize the impaired oxidative stress in streptozotocin induced-diabete
+
+       Drug      : trypsin
+       Food ref  : Momordica charantia
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : BGIT had 88% homology with bitter gourd inhibitor against an acidic amino acid-specific endopeptidase (BGIA) consisting of 68 amino acid residues and inhibited not only trypsin but also subtilisin Car
+
+       Drug      : streptozotocin
+       Food ref  : Momordica charantia
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The results clearly suggest that seeds of Momordica charantia treated group may effectively normalize the impaired antioxidant status in streptozotocin induced-diabetes than the glibenclamide treated 
+
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Berberis vulgaris (Barberry)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 4 interaction record(s):
+       Drug      : nitric oxide
+       Food ref  : Berberis vulgaris
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : Barberry extract showed potent antioxidative capacity through decreasing TBARS, NO and the oxidation of DPPH that associated with GPx and SOD hyperactivation.
+
+       Drug      : NO
+       Food ref  : Berberis vulgaris
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : Barberry extract showed potent antioxidative capacity through decreasing TBARS, NO and the oxidation of DPPH that associated with GPx and SOD hyperactivation.
+
+       Drug      : AChE
+       Food ref  : Berberis vulgaris
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : Barberry extract showed potent antioxidative capacity through decreasing TBARS, NO and the oxidation of DPPH that associated with GPx and SOD hyperactivation.
+
+       Drug      : acetylcholinesterase
+       Food ref  : Berberis vulgaris
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : Barberry extract showed potent antioxidative capacity through decreasing TBARS, NO and the oxidation of DPPH that associated with GPx and SOD hyperactivation.
+
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Vaccinium (genus) (Blueberry/Bilberry)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 15 interaction record(s):
+       Drug      : acetylcholine
+       Food ref  : blueberry
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Aortas harvested from BB-fed animals exhibited significantly reduced contractile responses (to L-phenylephrine) compared to those fed the control chow or high-fat diets.
+
+       Drug      : L-phenylephrine
+       Food ref  : blueberry
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Aortas harvested from BB-fed animals exhibited significantly reduced contractile responses (to L-phenylephrine) compared to those fed the control chow or high-fat diets.
+
+       Drug      : Phe
+       Food ref  : blueberry
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The WB diet partially restored Phe-induced constrictor responses and attenuated Ach-induced relaxant responses in OZR.
+
+       Drug      : Phenylephrine
+       Food ref  : blueberry
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The WB diet partially restored Phe-induced constrictor responses and attenuated Ach-induced relaxant responses in OZR.
+
+       Drug      : Ach
+       Food ref  : blueberry
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The WB diet partially restored Phe-induced constrictor responses and attenuated Ach-induced relaxant responses in OZR.
+
+       Drug      : acetylcholine
+       Food ref  : blueberry
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The WB diet partially restored Phe-induced constrictor responses and attenuated Ach-induced relaxant responses in OZR.
+
+       Drug      : PGI2
+       Food ref  : blueberry
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The WB diet partially restored Phe-induced constrictor responses and attenuated Ach-induced relaxant responses in OZR.
+
+       Drug      : claudin-4
+       Food ref  : blueberry anthocyanins-enriched extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Improvement of all above-mentioned physiological and biochemical parameters was exhibited in BAE groups, with a dose-dependent manner.
+
+       Drug      : cyclophosphamide
+       Food ref  : blueberry anthocyanins-enriched extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Improvement of all above-mentioned physiological and biochemical parameters was exhibited in BAE groups, with a dose-dependent manner.
+
+       Drug      : CTX
+       Food ref  : blueberry anthocyanins-enriched extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Improvement of all above-mentioned physiological and biochemical parameters was exhibited in BAE groups, with a dose-dependent manner.
+
+       Drug      : testosterone
+       Food ref  : Vaccinium macrocarpon
+       Evidence  : RCTs  |  Modality: positive
+       Sentence  : There was no influence on blood testosterone or serum CRP levels.
+
+       Drug      : pentobarbital
+       Food ref  : Vaccinium bracteatum Thunb. fruit
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In addition, VBFW significantly reduced the sleep latency and increased total sleep duration in pentobarbital-induced sleeping behaviors in mice.
+
+       Drug      : CORT
+       Food ref  : Vaccinium bracteatum Thunb. fruit
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In addition, VBFW significantly reduced the sleep latency and increased total sleep duration in pentobarbital-induced sleeping behaviors in mice.
+
+       Drug      : norepinephrine
+       Food ref  : Vaccinium bracteatum Thunb. fruit
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In addition, VBFW significantly reduced the sleep latency and increased total sleep duration in pentobarbital-induced sleeping behaviors in mice.
+
+       Drug      : corticosterone
+       Food ref  : Vaccinium bracteatum Thunb. fruit
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In addition, VBFW significantly reduced the sleep latency and increased total sleep duration in pentobarbital-induced sleeping behaviors in mice.
+
+
+  [TM] Text-mining corpus — 16 drug(s):
+       • Anthocyanin-derived
+       • Blueberry scorch virus
+       • Cinnamic Acids
+       • GSH-Px
+       • HbA1c
+       • T-SOD
+       • acute myocardial infarction
+       • anticoagulants
+       • aspirin
+       • bilberry extract
+       • d-glucose
+       • estrone sulfate
+       • hippuric acid
+       • nitric oxide
+       • nitrogen
+       • ozone
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Apium graveolens (Celery)
+──────────────────────────────────────────────────────────────────────────────
+
+  [DB] DrugBank — 1 drug(s):
+       • Trioxsalen
+
+  [PM] PubMed key-sentences — 4 interaction record(s):
+       Drug      : cannabinoid
+       Food ref  : celery
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : We show that falcarinol exhibits binding affinity to both human CB receptors but selectively alkylates the anandamide binding site in the CB(1) receptor (K(i)=594nM), acting as covalent inverse agonis
+
+       Drug      : anandamide
+       Food ref  : celery
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : We show that falcarinol exhibits binding affinity to both human CB receptors but selectively alkylates the anandamide binding site in the CB(1) receptor (K(i)=594nM), acting as covalent inverse agonis
+
+       Drug      : CB
+       Food ref  : celery
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : We show that falcarinol exhibits binding affinity to both human CB receptors but selectively alkylates the anandamide binding site in the CB(1) receptor (K(i)=594nM), acting as covalent inverse agonis
+
+       Drug      : histamine
+       Food ref  : celery
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : We show that falcarinol exhibits binding affinity to both human CB receptors but selectively alkylates the anandamide binding site in the CB(1) receptor (K(i)=594nM), acting as covalent inverse agonis
+
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Matricaria chamomilla (Chamomile)
+──────────────────────────────────────────────────────────────────────────────
+
+  [DB] DrugBank — 1 drug(s):
+       • Lepirudin
+
+  [PM] PubMed key-sentences — 5 interaction record(s):
+       Drug      : clomipramine
+       Food ref  : chamomile
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In the present study, we found that cotreatment with clomipramine and inhalation of Roman chamomile attenuated depression-like behavior in a forced swim test.
+
+       Drug      : corticosterone
+       Food ref  : chamomile
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In the present study, we found that cotreatment with clomipramine and inhalation of Roman chamomile attenuated depression-like behavior in a forced swim test.
+
+       Drug      : MMS
+       Food ref  : chamomile
+       Evidence  : Case report  |  Modality: positive
+       Sentence  : Our results suggest that CO may be an effective antimutagen that could be considered for further st
+
+       Drug      : daunorubicin
+       Food ref  : chamomile
+       Evidence  : Case report  |  Modality: positive
+       Sentence  : Our results suggest that CO may be an effective antimutagen that could be considered for further st
+
+       Drug      : methyl methanesulfonate
+       Food ref  : chamomile
+       Evidence  : Case report  |  Modality: positive
+       Sentence  : Our results suggest that CO may be an effective antimutagen that could be considered for further st
+
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Syzygium aromaticum (Clove)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 4 interaction record(s):
+       Drug      : glucose
+       Food ref  : Syzygium aqueum
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : We observed that, S. aqueum leaf extract (0.04-5 μg/ml) and its six bioactive compounds (0.08-10 μM) at non-cytotoxic concentrations were effectively enhance adipogenesis, stimulate glucose uptake and
+
+       Drug      : ketorolac
+       Food ref  : Syzygium aromaticum
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In addition, this study shows that eugenol, a metabolite present in S. aromaticum, and ursolic acid, a metabolite present in R. officinalis, also synergized the antinociceptive effect of ketorolac
+
+       Drug      : cyclophosphamide
+       Food ref  : Syzygium cumini extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Pretreatments with SCE significantly inhibited the frequencies of aberrant metaphases, CAs, MN formation, and cytotoxicity in mouse bone marrow cells induced by CP. SCE also produced a significant red
+
+       Drug      : CP
+       Food ref  : Syzygium cumini extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Pretreatments with SCE significantly inhibited the frequencies of aberrant metaphases, CAs, MN formation, and cytotoxicity in mouse bone marrow cells induced by CP. SCE also produced a significant red
+
+
+  [TM] Text-mining corpus — 24 drug(s):
+       • (e)-2-phenyl-2-butenal
+       • Methane
+       • Polyphenol
+       • acetylglycine
+       • alfala
+       • aspirin
+       • biochanin a
+       • coumarin
+       • crude protein
+       • d-lactic acid
+       • formononetin
+       • hydroxysteroid
+       • isoflavones
+       • l-asparagine
+       • l-tyrosine
+       • nitrogen
+       • orchardgrass
+       • phenylalanine
+       • quantitative insulin sensitivity check index
+       • riboflavine
+       • salicylate
+       • sucrose
+       • tamoxifen
+       • warfarin
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Sambucus nigra (Elderberry)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 1 interaction record(s):
+       Drug      : calcium
+       Food ref  : Sambucus williamsii HANCE
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : The upregulation of serum alkaline phosphatase, serum osteocalcin as well as urinary deoxypyridinoline levels by OVX was suppressed by treatment with SWH extracts in rats (p&lt;0.05, vs. OVX control g
+
+
+  [TM] Text-mining corpus — 12 drug(s):
+       • Sambucol
+       • d-glucose
+       • elderflower
+       • eleutherococcus
+       • estradiol
+       • glucosamine
+       • glutathione
+       • influenza
+       • nitric oxide
+       • progesterone
+       • t-BOOH
+       • tert-butyl hydroperoxide
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Trigonella foenum-graecum (Fenugreek)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 3 interaction record(s):
+       Drug      : selenite
+       Food ref  : Trigonella foenum-graecum
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : A fall in GSH and a rise in malondialdehyde levels were observed in control as compared to normal lenses.
+
+       Drug      : sodium selenite
+       Food ref  : Trigonella foenum-graecum
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : A fall in GSH and a rise in malondialdehyde levels were observed in control as compared to normal lenses.
+
+       Drug      : sildenafil
+       Food ref  : Trigonella foenum-graecum
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Oral administration of Nigella sativa resulted in reduction of AUC0-∞, C max and t 1/2 as compared to the control.
+
+
+  [TM] Text-mining corpus — 60 drug(s):
+       • 4-hydroxy isoleucine
+       • CeO2
+       • Dextromethorphan
+       • EDAC
+       • HFHSD-induced
+       • L. plantarum
+       • Lactoferrin
+       • Melatonin
+       • Nettle
+       • Oregano Extract
+       • Phenol
+       • acetone
+       • agarose
+       • amino acids
+       • anticoagulants
+       • antioxidant
+       • aspirin
+       • bile acids
+       • biochar
+       • bortezomib
+       • carbon
+       • carotenoid
+       • chickpea
+       • chitosan
+       • chloroform
+       • chlorophyll
+       • chlorophyll a
+       • chlorophyll b
+       • choline-docosahexaenoic acid
+       • chondroitin-glucosamine
+       • chromium
+       • cinnamon
+       • copper
+       • curcumin
+       • cypermethrin
+       • cypermethrin-induced
+       • d-glucose
+       • epiestradiol
+       • gasoline
+       • gilthead seabream
+       • glimepiride
+       • isoflavone
+       • levo dihydroxy phenylalanine
+       • malondialdehyde
+       • melatonin
+       • metformin
+       • nickel
+       • nicotine-induced
+       • nitrate
+       • onion
+       • pentose phosphate
+       • salt-induced
+       • sapogenins
+       • saponin-rich
+       • selenite-induced
+       • sucrose
+       • testosterone
+       • triglycerides
+       • trigonelline
+       • warfarin
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Morinda citrifolia (Noni)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 14 interaction record(s):
+       Drug      : Haloperidol
+       Food ref  : Morinda citrifolia Linn
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : MMC (1-40 mg/mL), scopoletin (1-200 μg/mL), and rutin hydrate (0.6-312.6 μg/mL) dose-dependently inhibited the contractility evoked by submaximal concentrations of both dopamine and noradrenaline, res
+
+       Drug      : dopamine
+       Food ref  : Morinda citrifolia Linn
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : MMC (1-40 mg/mL), scopoletin (1-200 μg/mL), and rutin hydrate (0.6-312.6 μg/mL) dose-dependently inhibited the contractility evoked by submaximal concentrations of both dopamine and noradrenaline, res
+
+       Drug      : noradrenaline
+       Food ref  : Morinda citrifolia Linn
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : MMC (1-40 mg/mL), scopoletin (1-200 μg/mL), and rutin hydrate (0.6-312.6 μg/mL) dose-dependently inhibited the contractility evoked by submaximal concentrations of both dopamine and noradrenaline, res
+
+       Drug      : prazosin
+       Food ref  : Morinda citrifolia Linn
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : MMC (1-40 mg/mL), scopoletin (1-200 μg/mL), and rutin hydrate (0.6-312.6 μg/mL) dose-dependently inhibited the contractility evoked by submaximal concentrations of both dopamine and noradrenaline, res
+
+       Drug      : naloxone
+       Food ref  : Morinda citrifolia
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : These effects were not suppressed by pretreatment with naloxone (1 mg/kg, intraperitoneally (i.p.)), an opioid receptor antagonist
+
+       Drug      : histamine
+       Food ref  : Morinda citrifolia
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : These effects were not suppressed by pretreatment with naloxone (1 mg/kg, intraperitoneally (i.p.)), an opioid receptor antagonist
+
+       Drug      : diazepam
+       Food ref  : noni
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The administration of MMC (1?g/kg, p.o.) and diazepam (1?mg/kg, i.p.) significantly attenuated anxiety-like behaviour in mice by increasing the percentage of time spent and number of entries in the op
+
+       Drug      : 4-chloro-DL-phenylalanine methyl ester hydrochloride
+       Food ref  : noni
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The administration of MMC (1?g/kg, p.o.) and diazepam (1?mg/kg, i.p.) significantly attenuated anxiety-like behaviour in mice by increasing the percentage of time spent and number of entries in the op
+
+       Drug      : AMPT
+       Food ref  : noni
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The administration of MMC (1?g/kg, p.o.) and diazepam (1?mg/kg, i.p.) significantly attenuated anxiety-like behaviour in mice by increasing the percentage of time spent and number of entries in the op
+
+       Drug      : bicuculline
+       Food ref  : noni
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The administration of MMC (1?g/kg, p.o.) and diazepam (1?mg/kg, i.p.) significantly attenuated anxiety-like behaviour in mice by increasing the percentage of time spent and number of entries in the op
+
+       Drug      : α-methyl-DL-tyrosine
+       Food ref  : noni
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The administration of MMC (1?g/kg, p.o.) and diazepam (1?mg/kg, i.p.) significantly attenuated anxiety-like behaviour in mice by increasing the percentage of time spent and number of entries in the op
+
+       Drug      : flumazenil
+       Food ref  : noni
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The administration of MMC (1?g/kg, p.o.) and diazepam (1?mg/kg, i.p.) significantly attenuated anxiety-like behaviour in mice by increasing the percentage of time spent and number of entries in the op
+
+       Drug      : desipramine
+       Food ref  : noni
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The administration of MMC (1?g/kg, p.o.) and diazepam (1?mg/kg, i.p.) significantly attenuated anxiety-like behaviour in mice by increasing the percentage of time spent and number of entries in the op
+
+       Drug      : WAY 100635
+       Food ref  : noni
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The administration of MMC (1?g/kg, p.o.) and diazepam (1?mg/kg, i.p.) significantly attenuated anxiety-like behaviour in mice by increasing the percentage of time spent and number of entries in the op
+
+
+  [TM] Text-mining corpus — 15 drug(s):
+       • AGB
+       • Tfam
+       • acetyl-coenzyme
+       • anandamide
+       • capsaicinoids
+       • capsazepine
+       • d-glucose
+       • dopamine
+       • fatty acid
+       • isoflurane
+       • nitrite
+       • phenylephrine
+       • proton
+       • serotonin
+       • somatostatin
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Rosmarinus officinalis (Rosemary)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 17 interaction record(s):
+       Drug      : ketorolac
+       Food ref  : Rosmarinus officinalis L.
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In addition, this study shows that eugenol, a metabolite present in S. aromaticum, and ursolic acid, a metabolite present in R. officinalis, also synergized the antinociceptive effect of ketorolac
+
+       Drug      : 2,2-diphenyl-1-picrylhydrazyl
+       Food ref  : Rosmarinus officinalis
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In mice, nepitrin reversed the amnesia induced by scopolamine as indicated by a dose-dependent increase in spontaneous alternation performance in the Y-maze task (p &lt;0.05 versus scopolamine) and in
+
+       Drug      : DPPH
+       Food ref  : Rosmarinus officinalis
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In mice, nepitrin reversed the amnesia induced by scopolamine as indicated by a dose-dependent increase in spontaneous alternation performance in the Y-maze task (p &lt;0.05 versus scopolamine) and in
+
+       Drug      : acetylcholinesterase
+       Food ref  : Rosmarinus officinalis
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In mice, nepitrin reversed the amnesia induced by scopolamine as indicated by a dose-dependent increase in spontaneous alternation performance in the Y-maze task (p &lt;0.05 versus scopolamine) and in
+
+       Drug      : 2'-azinobis-3-ethylbenzothiazoline-6-sulfonic acid
+       Food ref  : Rosmarinus officinalis
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In mice, nepitrin reversed the amnesia induced by scopolamine as indicated by a dose-dependent increase in spontaneous alternation performance in the Y-maze task (p &lt;0.05 versus scopolamine) and in
+
+       Drug      : ABTS
+       Food ref  : Rosmarinus officinalis
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In mice, nepitrin reversed the amnesia induced by scopolamine as indicated by a dose-dependent increase in spontaneous alternation performance in the Y-maze task (p &lt;0.05 versus scopolamine) and in
+
+       Drug      : AChE
+       Food ref  : Rosmarinus officinalis
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In mice, nepitrin reversed the amnesia induced by scopolamine as indicated by a dose-dependent increase in spontaneous alternation performance in the Y-maze task (p &lt;0.05 versus scopolamine) and in
+
+       Drug      : scopolamine
+       Food ref  : Rosmarinus officinalis
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In mice, nepitrin reversed the amnesia induced by scopolamine as indicated by a dose-dependent increase in spontaneous alternation performance in the Y-maze task (p &lt;0.05 versus scopolamine) and in
+
+       Drug      : buterylcholinesterase
+       Food ref  : Rosmarinus officinalis
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In mice, nepitrin reversed the amnesia induced by scopolamine as indicated by a dose-dependent increase in spontaneous alternation performance in the Y-maze task (p &lt;0.05 versus scopolamine) and in
+
+       Drug      : donepezil
+       Food ref  : Rosmarinus officinalis
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In mice, nepitrin reversed the amnesia induced by scopolamine as indicated by a dose-dependent increase in spontaneous alternation performance in the Y-maze task (p &lt;0.05 versus scopolamine) and in
+
+       Drug      : BuChE
+       Food ref  : Rosmarinus officinalis
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In mice, nepitrin reversed the amnesia induced by scopolamine as indicated by a dose-dependent increase in spontaneous alternation performance in the Y-maze task (p &lt;0.05 versus scopolamine) and in
+
+       Drug      : ChE
+       Food ref  : rosemary
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : ChE isoforms activity was significantly decreased in brain and liver of rosemary treated mice.
+
+       Drug      : AChE
+       Food ref  : rosemary
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : ChE isoforms activity was significantly decreased in brain and liver of rosemary treated mice.
+
+       Drug      : liver cholinesterase
+       Food ref  : rosemary
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : ChE isoforms activity was significantly decreased in brain and liver of rosemary treated mice.
+
+       Drug      : cholinesterase
+       Food ref  : rosemary
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : ChE isoforms activity was significantly decreased in brain and liver of ""rosemary treated"" mice.
+
+       Drug      : ChE
+       Food ref  : rosemary
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : ChE isoforms activity was significantly decreased in brain and liver of ""rosemary treated"" mice.
+
+       Drug      : AChE
+       Food ref  : rosemary
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : ChE isoforms activity was significantly decreased in brain and liver of ""rosemary treated"" mice.
+
+
+  [TM] Text-mining corpus — 75 drug(s):
+       • (+)-alpha-pinene
+       • (±)-camphor
+       • 1,8-cineole
+       • 2-isopropyl-5-methylphenol
+       • 5-Aminolevulinic Acid
+       • A.
+       • Ascaridole-rich
+       • CO-
+       • COVID-19
+       • Carnosol
+       • Chitosan
+       • Donepezil
+       • EMF
+       • Elansary
+       • Etoposide
+       • Etoposide-
+       • Gentamicin
+       • H.
+       • KHCO3
+       • Methyl jasmonates
+       • NaOAc
+       • Salicylic Acid-Regulated
+       • Sorafenib
+       • UV-induced
+       • acyclovir
+       • administered
+       • alpha-tocopherol
+       • anticancer
+       • astaxanthine
+       • beta-thujone
+       • carnosol
+       • chemotherapeutic
+       • corticotropin
+       • d-camphor
+       • d-glucose
+       • doxorubicin
+       • epiestradiol
+       • erythorbate
+       • etoposide
+       • etoposide-
+       • eugenol
+       • green tea polyphenols
+       • histamine
+       • induced
+       • irritant contact dermatitis
+       • isoborneol
+       • l-alanine
+       • l-asparagine
+       • l-aspartic acid
+       • l-methionine
+       • lutein
+       • malondialdehyde
+       • marjoram
+       • monoterpene α-pinene
+       • monoterpenoid 1,8-cineole
+       • nitrite
+       • norepinephrine
+       • oxygen
+       • oxytetracycline
+       • phenolic abietane diterpene
+       • phosphate
+       • salvin
+       • silver
+       • silymarin
+       • sodium-lauryl-sulfate-induced
+       • strontium
+       • thyme
+       • tocopherylquinone
+       • total mood disturbance
+       • triglyceride
+       • triterpenes
+       • ursolic acid
+       • vasorelaxant
+       • vinblastine
+       • α-Tocopheryl acetate
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Salvia officinalis (Sage)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 5 interaction record(s):
+       Drug      : chlorzoxazone
+       Food ref  : common sage
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : The major findings were that St John's wort was the most potent CYP-modulating herb, showing a dose-dependent induction/inhibition of both CYP2C19 and CYP2E1, with induction at low dosages and inhibit
+
+       Drug      : S-mephenytoin
+       Food ref  : common sage
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : The major findings were that St John's wort was the most potent CYP-modulating herb, showing a dose-dependent induction/inhibition of both CYP2C19 and CYP2E1, with induction at low dosages and inhibit
+
+       Drug      : digoxin
+       Food ref  : sage
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : St. John's wort was the strongest inhibiting herb with an IC(50) value of 15.4 microg/ml, followed by common sage, Ginkgo biloba, common valerian, horse chestnut and Echinacea purpurea.
+
+       Drug      : aminoglycosides
+       Food ref  : sage
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : We found that a crude extract from Salvia officinalis (sage) reduced the minimum inhibitory concentrations (MICs) of aminoglycosides in vancomycin-resistant enterococci (VRE).
+
+       Drug      : gentamicin
+       Food ref  : sage
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : We found that a crude extract from Salvia officinalis (sage) reduced the minimum inhibitory concentrations (MICs) of aminoglycosides in vancomycin-resistant enterococci (VRE).
+
+
+  [TM] Text-mining corpus — 44 drug(s):
+       • 1-methylbutanol
+       • 2-ethylhexanol
+       • CAR
+       • DD95
+       • GlcN
+       • L.
+       • Mn + Mg
+       • NAC
+       • S.
+       • SS2
+       • Schisandra chinensis powder
+       • Sodium lactate
+       • Sorbitol
+       • acetylglycine
+       • aldehydes
+       • antimicrobials
+       • arginyl
+       • azoxymethane-induced
+       • bacteriocin
+       • calcium salts
+       • carbonyl
+       • erythromycin
+       • ethyl acetate
+       • ethyl hexanoate
+       • fatty acids
+       • hematin
+       • hydrocarbons
+       • ketones
+       • l-serine
+       • magnesium
+       • mango peel pectin
+       • methyl ketones
+       • monoamine
+       • nitric oxide
+       • nitrite
+       • nitrogen
+       • pistachio hull extract
+       • potassium lactate-sodium diacetate
+       • serotonin
+       • sodium chloride
+       • sodium nitrite
+       • sucrose
+       • surimi
+       • thiobarbituric acid
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Thymus vulgaris (Thyme)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 4 interaction record(s):
+       Drug      : 5-fluorouracil
+       Food ref  : Thyme
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Interestingly, the TE-pretreated rats administered with 5-FLU had reduced enzyme activities compared with untreated 5-FLU rats.
+
+       Drug      : 5-FLU
+       Food ref  : Thyme
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Interestingly, the TE-pretreated rats administered with 5-FLU had reduced enzyme activities compared with untreated 5-FLU rats.
+
+       Drug      : 5-fluorouracil
+       Food ref  : Thymus vulgaris
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The result revealed that untreated 5-FLU rats had increased enzyme activities, which was reduced in the normal rats treated TE compared to NC.
+
+       Drug      : 5-FLU
+       Food ref  : Thymus vulgaris
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The result revealed that untreated 5-FLU rats had increased enzyme activities, which was reduced in the normal rats treated TE compared to NC.
+
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Mentha x piperita (Peppermint)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 5 interaction record(s):
+       Drug      : naloxone
+       Food ref  : Mentha
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In the acetic acid-induced writhing test, we observed that (-)-carvone-treated mice exhibited a significant decrease in the number of writhes when 100 and 200 mg/kg was administered.
+
+       Drug      : nicotine
+       Food ref  : Mentha spicata
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : M. spicata contained bioactive compounds that possess important antioxidant potential and protected liver and erythrocytes against nicotine-induced dam
+
+       Drug      : insulin
+       Food ref  : Mentha piperita
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : A quicker peaking of the satiety marker cholecystokinin than HFD and control groups was brought about by all treatments, PMAE and PWAE exhibiting sustained satiety.
+
+       Drug      : glucose
+       Food ref  : Mentha piperita
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : A quicker peaking of the satiety marker cholecystokinin than HFD and control groups was brought about by all treatments, PMAE and PWAE exhibiting sustained satiety.
+
+       Drug      : GSH
+       Food ref  : Mentha piperita
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : A quicker peaking of the satiety marker cholecystokinin than HFD and control groups was brought about by all treatments, PMAE and PWAE exhibiting sustained satiety.
+
+
+  [TM] Text-mining corpus — 73 drug(s):
+       • (±)-menthone
+       • 4-hydroxybenzoic acid
+       • 4-phenylbutyric acid
+       • Acanthopanax
+       • Arabidopsis
+       • CO2
+       • Conyza linifolia
+       • D.
+       • D. suzukii
+       • Eco-Polysorbate
+       • Heptanal
+       • Herpes simplex virus type 1
+       • IgE
+       • Italo-Mitcham
+       • MEV
+       • NEO212
+       • NEO412
+       • Nicotine-induced
+       • Nonalcoholic fatty liver disease
+       • Omeprazole
+       • Plant growth promoting bacteria
+       • SA-treated
+       • Salicylic acid
+       • TMZ-resistant
+       • TP
+       • Tipifarnib
+       • Viola
+       • Xanthine
+       • abscisic acid
+       • alpha-tocopherol
+       • aminoglycosides
+       • anthocyanins
+       • anticoagulants
+       • apigenin 7-glucoside
+       • bortezomib
+       • cadmium
+       • carnosol
+       • carotenoid
+       • carotenoids
+       • chlorpromazine
+       • chondroitin-glucosamine
+       • codeine
+       • coumarin, resin, rutin, volatile oil drug combination
+       • d-camphor
+       • d-glucose
+       • dextran sulfate sodium-induced
+       • dietitian
+       • dopamine agonists
+       • esters
+       • extraction, respectively. The predominant phenolic of peppermint
+       • histamine
+       • imiquimod-induced
+       • irradiated chitosan
+       • l-methionine
+       • lovastatin
+       • maltodextrin
+       • melatonin
+       • menthol
+       • methicillin-resistant
+       • mevalonic acid-pyrophosphate
+       • monoterpene
+       • naltrexone
+       • nicotine
+       • pentoxifylline
+       • phenylacetic acid
+       • pulegone
+       • salicylic acid
+       • sinapinic acid
+       • statins
+       • temozolomide
+       • triglyceride
+       • triglycerides
+       • ylang-ylang
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Linum usitatissimum (Flaxseed)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 3 interaction record(s):
+       Drug      : glutathione
+       Food ref  : linseed
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Compared with control, bucks fed the SMI and LML diets had higher (P &lt; 0.001) blood plasma total antioxidant capacity (0.98 ± 0.12, 1.50 ± 0.13, and 2.29 ± 0.17?mM/L for CON, SMI, and LML, respecti
+
+       Drug      : triiodothyronine
+       Food ref  : linseed
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Compared with control, bucks fed the SMI and LML diets had higher (P &lt; 0.001) blood plasma total antioxidant capacity (0.98 ± 0.12, 1.50 ± 0.13, and 2.29 ± 0.17?mM/L for CON, SMI, and LML, respecti
+
+       Drug      : testosterone
+       Food ref  : linseed
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Compared with control, bucks fed the SMI and LML diets had higher (P &lt; 0.001) blood plasma total antioxidant capacity (0.98 ± 0.12, 1.50 ± 0.13, and 2.29 ± 0.17?mM/L for CON, SMI, and LML, respecti
+
+
+  [TM] Text-mining corpus — 195 drug(s):
+       • (z,z)-9,12-octadecadienoic acid
+       • -vaccenic acid
+       • 10-oxo-cis-12-cis-15-octadecadienoic acid
+       • 16alpha-hydroxyestrone
+       • 17 beta-estradiol
+       • 17alpha-ethynylestradiol
+       • 2-hydroxyestrone
+       • 2-methoxyestradiol
+       • 3,4-dihydroxyphenylethanol
+       • ALA-rich
+       • Alpha linolenic acid
+       • CCl(4)
+       • CH(4)
+       • CH4
+       • CI
+       • CON
+       • Coenzyme Q10
+       • D. sissoo
+       • DA linseed oil
+       • Doxorubicin
+       • Echium oil
+       • Enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase
+       • F(1)-phytoprostane
+       • GflaxLC
+       • HDL
+       • Joncryl ADR
+       • Linusorbs
+       • M. sexta
+       • Mediterranean-like
+       • OM
+       • PGFM
+       • PUFA
+       • PUFAs
+       • RF
+       • ROS
+       • Rodriguez-Leyva
+       • SBP
+       • TAG
+       • TP-induced
+       • TVA
+       • Tween
+       • VLDL
+       • [1-9-NαC]-linusorb B3
+       • [14C]acetate
+       • alpha-linolenic
+       • alpha-linolenic acid
+       • alpha-tocopherol
+       • angiotensin II
+       • anti-betaGPI
+       • anti-estrogens
+       • anti-hypertensive medication
+       • anti-nutrients
+       • arabinoxylans
+       • arachidonic
+       • arachidonic acid
+       • argon
+       • aromatase inhibitors
+       • beta-carotene
+       • bioactive compound difficult.||Hypothesis: Flaxseed lignan (SDG) extract
+       • bleomycin
+       • buprenorphine propionate
+       • buprenorphine-loaded
+       • butyric acid
+       • cadmium
+       • calcite
+       • calcium
+       • captopril
+       • carbohydrate
+       • carbohydrates
+       • carbon
+       • carboxylate
+       • carotenoids
+       • castrates
+       • chinese tannin
+       • cholesterol
+       • clonidine
+       • conjugated linoleic acids
+       • creatinine
+       • cyanidin 3-(6'-acetyl-galactoside)
+       • cyclophosphamide
+       • cyclophosphamide-
+       • d-glucose
+       • delta 5-desaturase
+       • dextran sodium sulfate
+       • dihydralazine
+       • doconexent
+       • docosahexaenoic
+       • docosahexaenoic acids
+       • eicosanoids
+       • eicosapentaenoic
+       • eicosapentaenoic acid
+       • eicosapentaenoic-
+       • eicosatetraenoic-
+       • enterodiol
+       • enterolactone
+       • epoxide
+       • estradiol
+       • estrone sulfate
+       • ethanol-induced
+       • ethyl esters
+       • extra-virgin olive oils
+       • fatty acid
+       • fatty acids
+       • fish oil
+       • flaxseed-based
+       • fructosamine
+       • glycosides
+       • hesperidin
+       • high-density lipoprotein cholesterol
+       • high-temperature, microtime processing
+       • hippuric acid
+       • hydrogen cyanide
+       • hydrogenated coconut oil
+       • in ovo feeding
+       • induced
+       • iodine
+       • isoflavonoid
+       • isoproterenol-induced
+       • l-ascorbic acid
+       • lactulose
+       • lactulose/mannitol
+       • lauric
+       • linoleic acids
+       • linseed oil and 2% -malate
+       • low-density lipoprotein cholesterol
+       • malic acid
+       • menhaden
+       • methane
+       • methicillin-resistant
+       • monensin
+       • monounsaturated fatty acids
+       • myristic
+       • n-3 fatty acids
+       • n-3 polyunsaturated fatty acid
+       • n-pentanol
+       • nitrate
+       • nitric oxide
+       • nitro-L-arginine methyl ester
+       • nitrogen
+       • oestrogen
+       • oleic acid
+       • omega-3
+       • omega-3 PUFA
+       • omega-3 fatty acid
+       • omega-3 fatty acids
+       • omega-3 polyunsaturated fatty acid
+       • orlistat
+       • oxygen
+       • oxylipins
+       • palmitic acid
+       • palmitic acids
+       • peroxide
+       • peroxisome proliferators-activated receptor alpha
+       • phenolic acids
+       • phosphatidylethanolamine
+       • phospholipids
+       • poly(lactic acid)-thermoplastic starch
+       • polyunsaturated fatty acids
+       • procoagulant activity
+       • progesterone
+       • prostaglandin
+       • psyllium
+       • pyridoxine
+       • saturated fatty acids
+       • secoisolariciresinol
+       • secoisolariciresinol diglucoside
+       • selenomethionine
+       • silica gel
+       • silica-treated
+       • sorbitan trioleate
+       • soybean oil injected group
+       • stearic acid
+       • steroid
+       • superoxide
+       • tamoxifen
+       • tannin
+       • testosterone
+       • testosterone propionate
+       • thiobarbituric acid
+       • thromboxane
+       • thromboxane B2
+       • tomato lycopene-rich extract
+       • total cholesterol
+       • trans-fatty acids
+       • trans11
+       • triacylglycerol
+       • triglyceride
+       • triglycerides
+       • tripeptide
+       • type 2 diabetes mellitus
+       • urea formaldehyde condensation polymer
+       • vitamin B₆
+       • xylene
+       • α- Tocopherol
+       • β-hydroxbutyrate
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Carica papaya (Papaya)
+──────────────────────────────────────────────────────────────────────────────
+
+  [TM] Text-mining corpus — 70 drug(s):
+       • 1-aminocyclopropane-1-carboxylic acid
+       • C.
+       • C. papaya leaf scCO2 extract with 5% ethanol
+       • CCEO
+       • Carotenoids
+       • Chi
+       • Chlorpyrifos-Induced
+       • Chromium
+       • EPG4
+       • Eksotika
+       • Endo-PG I
+       • Endopolygalacturonase
+       • F. sulawesiense
+       • GA3
+       • HPMC-AgNPs
+       • KCl
+       • Kazeem
+       • LN
+       • Levothyroxine
+       • M. circinelloides
+       • MPEO
+       • MVEO
+       • Melatonin
+       • P. falciparum
+       • PEG
+       • Papaya
+       • Papaya MsrB1
+       • Polyphenol
+       • Prostacyclin analogues
+       • Zika virus
+       • alcohol-induced
+       • antrasen
+       • artesunate
+       • aspirin
+       • auxin
+       • benzyl isothiocyanate
+       • beta-carotene
+       • brassinolide
+       • calcium
+       • calcium gluconate
+       • carbachol
+       • carotenoids
+       • chitosan
+       • chymopapain
+       • d-lactic acid
+       • galectin-3
+       • glycyl
+       • jasmonic acid
+       • l-cysteine
+       • l-histidine
+       • lactis
+       • levoglutamide
+       • mancozeb
+       • melatonin
+       • metformin
+       • nitric oxide
+       • nitrogen
+       • ozone
+       • papaya meleira virus
+       • papaya sticky disease
+       • phenylephrine
+       • polyphenol
+       • rSCC antigen-1
+       • sodium reduced fermented fish
+       • t-BOOH-induced
+       • thiol
+       • thiram
+       • trypomastigotes
+       • vitamin E.
+       • ziram
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Allium sativum (Garlic)
+──────────────────────────────────────────────────────────────────────────────
+
+  [DB] DrugBank — 83 drug(s):
+       • (R)-warfarin
+       • (S)-Warfarin
+       • Abciximab
+       • Acenocoumarol
+       • Acetylsalicylic acid
+       • Alteplase
+       • Amediplase
+       • Ancrod
+       • Anistreplase
+       • Antithrombin Alfa
+       • Antithrombin III human
+       • Apixaban
+       • Ardeparin
+       • Argatroban
+       • Bemiparin
+       • Beraprost
+       • Betrixaban
+       • Bivalirudin
+       • Cangrelor
+       • Certoparin
+       • Clorindione
+       • Coumarin
+       • Dabigatran
+       • Dabigatran etexilate
+       • Dalteparin
+       • Danaparoid
+       • Darexaban
+       • Defibrotide
+       • Desirudin
+       • Desmoteplase
+       • Dextran
+       • Dicoumarol
+       • Diphenadione
+       • Dipyridamole
+       • Ditazole
+       • Drotrecogin alfa
+       • Edetic acid
+       • Edoxaban
+       • Enoxaparin
+       • Epoprostenol
+       • Eptifibatide
+       • Ethyl biscoumacetate
+       • Ferulic acid
+       • Floctafenine
+       • Fluindione
+       • Fondaparinux
+       • GW-813893
+       • Gabexate
+       • Ginkgo biloba
+       • Heparin
+       • Ibritumomab tiuxetan
+       • Idraparinux
+       • Iloprost
+       • Lepirudin
+       • Letaxaban
+       • Melagatran
+       • Monteplase
+       • Nadroparin
+       • Nafamostat
+       • Otamixaban
+       • Parnaparin
+       • Phenindione
+       • Phenprocoumon
+       • Prasugrel
+       • Protein C
+       • Protein S human
+       • Reteplase
+       • Reviparin
+       • Rivaroxaban
+       • Saruplase
+       • Semuloparin
+       • Streptokinase
+       • Sulodexide
+       • Tenecteplase
+       • Ticagrelor
+       • Tinzaparin
+       • Tioclomarol
+       • Tocopherylquinone
+       • Triflusal
+       • Urokinase
+       • Vorapaxar
+       • Warfarin
+       • Ximelagatran
+
+  [PM] PubMed key-sentences — 12 interaction record(s):
+       Drug      : methylmercury
+       Food ref  : Garlic
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Garlic alcoholic extract may be effective in reducing the effect of methylmercury-induced adenosine deaminase, which may be due to its sulphur-containing compounds.
+
+       Drug      : indinavir
+       Food ref  : garlic preparations
+       Evidence  : others  |  Modality: positive
+       Sentence  : In transplant patients, self-medication with St John's wort (Hypericum perforatum) has led to a drop in plasma levels of the immunosuppressant drug cyclosporine, causing tissue rejection.
+
+       Drug      : amitriptyline
+       Food ref  : garlic preparations
+       Evidence  : others  |  Modality: positive
+       Sentence  : In transplant patients, self-medication with St John's wort (Hypericum perforatum) has led to a drop in plasma levels of the immunosuppressant drug cyclosporine, causing tissue rejection.
+
+       Drug      : cyclosporine
+       Food ref  : garlic preparations
+       Evidence  : others  |  Modality: positive
+       Sentence  : In transplant patients, self-medication with St John's wort (Hypericum perforatum) has led to a drop in plasma levels of the immunosuppressant drug cyclosporine, causing tissue rejection.
+
+       Drug      : nevirapine
+       Food ref  : garlic preparations
+       Evidence  : others  |  Modality: positive
+       Sentence  : In transplant patients, self-medication with St John's wort (Hypericum perforatum) has led to a drop in plasma levels of the immunosuppressant drug cyclosporine, causing tissue rejection.
+
+       Drug      : STZ
+       Food ref  : garlic
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The results showed that these spices and their mixture significantly alleviated (80-97?%, P?&lt;?0·05-0·001) signs of the metabolic syndrome (hyperglycaemia and dyslipidaemia), the elevation in athero
+
+       Drug      : nicotinamide
+       Food ref  : garlic
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The results showed that these spices and their mixture significantly alleviated (80-97?%, P?&lt;?0·05-0·001) signs of the metabolic syndrome (hyperglycaemia and dyslipidaemia), the elevation in athero
+
+       Drug      : insulin
+       Food ref  : garlic
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The results showed that these spices and their mixture significantly alleviated (80-97?%, P?&lt;?0·05-0·001) signs of the metabolic syndrome (hyperglycaemia and dyslipidaemia), the elevation in athero
+
+       Drug      : streptozotocin
+       Food ref  : garlic
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The results showed that these spices and their mixture significantly alleviated (80-97?%, P?&lt;?0·05-0·001) signs of the metabolic syndrome (hyperglycaemia and dyslipidaemia), the elevation in athero
+
+       Drug      : glutathione
+       Food ref  : Garlic
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : We have demonstrated that methylmercury-induced inhibition was antagonized by garlic alcoholic extract, but sodium selenate did not alter enzyme activity.
+
+       Drug      : methylmercury
+       Food ref  : Garlic
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : We have demonstrated that methylmercury-induced inhibition was antagonized by garlic alcoholic extract, but sodium selenate did not alter enzyme activity.
+
+       Drug      : sodium selenate
+       Food ref  : Garlic
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : We have demonstrated that methylmercury-induced inhibition was antagonized by garlic alcoholic extract, but sodium selenate did not alter enzyme activity.
+
+
+  [TM] Text-mining corpus — 279 drug(s):
+       • (all-E)-lycopene
+       • (poly)phenols
+       • 2-propenyl thiosulfate
+       • 5-fluorouracil
+       • 5-hydroxymethyl-2-furancarboxaldehyde
+       • 8-SPT
+       • A.
+       • AD-induced
+       • ADP-induced
+       • AMF + Se
+       • APAP
+       • AS-101
+       • ATSB
+       • Acetate-Induced
+       • Ajoene
+       • Allicin
+       • Allium
+       • Allyl sulfur compounds
+       • Ampicillin-Resistant
+       • Antibiotics
+       • Ascorbic acid
+       • B. duncani
+       • Bifenazate
+       • C. rosea
+       • CCl₄-induced
+       • CI
+       • CO
+       • Ca (OH)2
+       • Calcium Phosphate
+       • CySSA
+       • DAS-ELISA
+       • DMBA
+       • DMBA-induced
+       • DSS-Induced
+       • Deoxy Corticosterone Acetate-Salt
+       • Dextran Sodium Sulfate-Induced
+       • Diallyl disulfide
+       • Diallyl-disulfide
+       • ENaC
+       • EPA
+       • F2-isoprostanes
+       • FORTOVASE
+       • Garlic
+       • Gentamicin
+       • H2S
+       • HDL-cholesterol
+       • HIV protease inhibitors
+       • HL-60
+       • HS
+       • Homocysteine
+       • Iris yellow spot virus
+       • LDL
+       • LDL-cholesterol
+       • Lipopolysaccharide
+       • M.
+       • Mercuric chloride
+       • Metadoxine
+       • Metformin
+       • N-nitroso
+       • N-nitrosomorpholine
+       • NAPQI
+       • PE
+       • Perotto
+       • Propranolol
+       • Rheumatoid arthritis
+       • S-Allylmercaptocysteine
+       • S-allyl cysteine
+       • S-allyl-L-cysteine
+       • S.
+       • STZ-induced
+       • Se
+       • Se-methyl-selenocysteine
+       • Shigella
+       • TNFα-induced
+       • TiO2NPs
+       • Tween-80
+       • V. album
+       • Verapamil
+       • Veratrum
+       • WOMAC
+       • Zearalenone
+       • acetaminophen
+       • acetaminophen-induced
+       • acetylcholine
+       • acetylglycine
+       • acetylsalicyclic acid
+       • acetylsalicylic acid
+       • action of time-released garlic powder tablets
+       • adenosine diphosphate
+       • ajoene
+       • alk(en)yl thiosulfates
+       • allexiviruses
+       • allicin
+       • allicin bioavailability or bioequivalence
+       • alliin
+       • alliin lyase
+       • allium-derived
+       • allopurinol
+       • alloxan
+       • allyl
+       • allyl mercaptan
+       • allyl mercapturic acid
+       • allyl methyl sulfide
+       • allyl sulfide
+       • allyl sulfides
+       • allyl sulfur compounds
+       • amino acids
+       • amoxycillin
+       • anethum graveolens
+       • angiotensin I
+       • angiotensin II
+       • angiotensin-converting enzyme (
+       • anguilliseptica
+       • anthracene-induced
+       • anti-AIDS drugs
+       • anticoagulants
+       • antineoplastic drugs
+       • antioxidant compounds
+       • antiretrovirals
+       • aromatase inhibitors
+       • aspirin
+       • atenolol
+       • atorvastatin
+       • bromobenzene
+       • busulfan-induced
+       • calcium
+       • captopril
+       • carotid intima-media thickness
+       • carvedilol
+       • cefotaxime
+       • chlorpropamide
+       • cholesterol
+       • chrysotile
+       • cilazapril
+       • cincalok
+       • citric acid
+       • clindamycin
+       • collagen
+       • copper
+       • creatinine
+       • cyclosporine A
+       • cypermethrin
+       • d-glucose
+       • d-lactic acid
+       • d-penicillamine
+       • darunavir
+       • darunavir/saquinavir
+       • dextran sodium sulfate
+       • dextran sodium sulfate-induced
+       • diallyl disulfide
+       • diallyl trisulfide
+       • diallylthiosulfinate
+       • diltiazem
+       • dimercaptosuccinic acid
+       • dithiothreitol
+       • docetaxol
+       • epinephrine
+       • erythromycin
+       • ethyl acetate
+       • eugenol
+       • fasting plasma glucose
+       • fatty acid
+       • fatty acids
+       • fexofenadine
+       • fipronil
+       • fipronil-induced
+       • fluconazole
+       • fluindione
+       • galacto-oligosaccharides
+       • garlic virus B
+       • glutathione
+       • glycerol
+       • gochujang
+       • heterocyclic aromatic amine
+       • homocysteine
+       • hydrochlorothiazide
+       • hydrogen peroxide silver disinfectant
+       • hydrogen sulfide
+       • hydroperoxide
+       • hyperforin
+       • indole
+       • indomethacin
+       • inducible nitric oxide synthases
+       • iron
+       • iron-induced
+       • isoprenaline-induced
+       • l-alanine
+       • l-asparagine
+       • l-aspartic acid
+       • l-cysteine
+       • l-histidine
+       • lactic acid
+       • lamivudine
+       • lead
+       • low-allicin
+       • mercuric chloride
+       • methane
+       • methanogens
+       • methylmercury
+       • meticillin-resistant
+       • metronidazole
+       • monocarboxylate
+       • monocarboxylic acids
+       • n-methylaniline
+       • nifedipine
+       • nitazoxanide
+       • nitrate
+       • nitric oxide
+       • nitrosomorpholine
+       • nonsteroidal anti-inflammatory drugs-induced
+       • noradrenaline
+       • norfloxacin
+       • nucleoside reverse transcriptase inhibitors
+       • oligosaccharides
+       • omeprazole
+       • oregano
+       • organophosphate
+       • organosulfur
+       • organosulfur compounds
+       • organosulfurs
+       • organosulphur
+       • oxidative stress
+       • oxygen
+       • paracetamol
+       • phenolic acid
+       • phenylephrine
+       • phenylmercury
+       • pimagedine
+       • polycyclic hydrocarbons
+       • polymorphonuclear leukocytes
+       • polymyxin B
+       • polyphenol
+       • polyphenols
+       • potassium
+       • probiotics
+       • propionate
+       • propranolol
+       • protamine sulfate-induced
+       • proton pump inhibitor
+       • pyridoxine
+       • quercetin 3-rutinoside
+       • retinol
+       • rifampin
+       • ritonavir
+       • saquinavir
+       • selective antibiotic
+       • selenite
+       • selenium
+       • sertraline
+       • silver
+       • skatole
+       • sodium chloride
+       • sodium selenate
+       • sodium selenite
+       • statin
+       • sterols
+       • streptozotocin-induced
+       • sucuk
+       • sulfide
+       • sulfur
+       • terbuthylazine-treated
+       • testosterone
+       • tetracycline
+       • tetraploids
+       • theophylline
+       • thiamine
+       • thiols
+       • thiosulfinates
+       • thromboxane
+       • tobramycin
+       • tramadol
+       • triglyceride
+       • triglycerides
+       • vasoconstrictor prostanoids
+       • verapamil
+       • warfarin
+       • warfarin sodium
+       • α
+       • β-arteether
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Ginkgo biloba (Ginkgo)
+──────────────────────────────────────────────────────────────────────────────
+
+  [DB] DrugBank — 83 drug(s):
+       • (R)-warfarin
+       • (S)-Warfarin
+       • Abciximab
+       • Acenocoumarol
+       • Acetylsalicylic acid
+       • Alteplase
+       • Amediplase
+       • Ancrod
+       • Anistreplase
+       • Antithrombin Alfa
+       • Antithrombin III human
+       • Apixaban
+       • Ardeparin
+       • Argatroban
+       • Bemiparin
+       • Beraprost
+       • Betrixaban
+       • Bivalirudin
+       • Cangrelor
+       • Certoparin
+       • Clorindione
+       • Coumarin
+       • Dabigatran
+       • Dabigatran etexilate
+       • Dalteparin
+       • Danaparoid
+       • Darexaban
+       • Defibrotide
+       • Desirudin
+       • Desmoteplase
+       • Dextran
+       • Dicoumarol
+       • Diphenadione
+       • Dipyridamole
+       • Ditazole
+       • Drotrecogin alfa
+       • Edetic acid
+       • Edoxaban
+       • Enoxaparin
+       • Epoprostenol
+       • Eptifibatide
+       • Ethyl biscoumacetate
+       • Ferulic acid
+       • Floctafenine
+       • Fluindione
+       • Fondaparinux
+       • GW-813893
+       • Gabexate
+       • Ginkgo biloba
+       • Heparin
+       • Ibritumomab tiuxetan
+       • Idraparinux
+       • Iloprost
+       • Lepirudin
+       • Letaxaban
+       • Melagatran
+       • Monteplase
+       • Nadroparin
+       • Nafamostat
+       • Otamixaban
+       • Parnaparin
+       • Phenindione
+       • Phenprocoumon
+       • Prasugrel
+       • Protein C
+       • Protein S human
+       • Reteplase
+       • Reviparin
+       • Rivaroxaban
+       • Saruplase
+       • Semuloparin
+       • Streptokinase
+       • Sulodexide
+       • Tenecteplase
+       • Ticagrelor
+       • Tinzaparin
+       • Tioclomarol
+       • Tocopherylquinone
+       • Triflusal
+       • Urokinase
+       • Vorapaxar
+       • Warfarin
+       • Ximelagatran
+
+  [PM] PubMed key-sentences — 46 interaction record(s):
+       Drug      : acetylcholine
+       Food ref  : Ginkgo biloba extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Furthermore, GBE feeding did not affect contractile response to phenylephrine, relaxation responses to not only sodium nitroprusside but also acetylcholine, and protein levels of endothelium nitric ox
+
+       Drug      : sodium nitroprusside
+       Food ref  : Ginkgo biloba extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Furthermore, GBE feeding did not affect contractile response to phenylephrine, relaxation responses to not only sodium nitroprusside but also acetylcholine, and protein levels of endothelium nitric ox
+
+       Drug      : phenylephrine
+       Food ref  : Ginkgo biloba extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Furthermore, GBE feeding did not affect contractile response to phenylephrine, relaxation responses to not only sodium nitroprusside but also acetylcholine, and protein levels of endothelium nitric ox
+
+       Drug      : clopidogrel
+       Food ref  : Ginkgo
+       Evidence  : others  |  Modality: positive
+       Sentence  : Some herbs can increase the AUC or Cmax of clopidogrel, such as Scutellarin, Danggui, Gegen, Sauchinone and Dengzhan Shengmai capsules.
+
+       Drug      : losartan
+       Food ref  : Ginkgo biloba
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In addition, hypertension-induced increases in tumor necrosis factor-alpha (TNF-α), interleukin-6 (IL-6) and interleukin-1β (IL-1β)) levels in renal tissues were inhibited by EGb761
+
+       Drug      : dopamine
+       Food ref  : Ginkgo
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : However, following chronic (100 mg.kg(-1)/14 days/once daily) treatment, the same dose significantly increased extracellular dopamine and noradrenaline levels, while 5-HT levels were unaffected.
+
+       Drug      : galanthamine
+       Food ref  : extract of Ginkgo biloba
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Piracetam, an extract of Ginkgo biloba, dihydroergocristine and a combination of raubasine with dihydroergocristine, all attenuated the amnesia induced by scopolamine.
+
+       Drug      : dihydroergocristine
+       Food ref  : extract of Ginkgo biloba
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Piracetam, an extract of Ginkgo biloba, dihydroergocristine and a combination of raubasine with dihydroergocristine, all attenuated the amnesia induced by scopolamine.
+
+       Drug      : nicergoline
+       Food ref  : extract of Ginkgo biloba
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Piracetam, an extract of Ginkgo biloba, dihydroergocristine and a combination of raubasine with dihydroergocristine, all attenuated the amnesia induced by scopolamine.
+
+       Drug      : scopolamine
+       Food ref  : extract of Ginkgo biloba
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Piracetam, an extract of Ginkgo biloba, dihydroergocristine and a combination of raubasine with dihydroergocristine, all attenuated the amnesia induced by scopolamine.
+
+       Drug      : Piracetam
+       Food ref  : extract of Ginkgo biloba
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Piracetam, an extract of Ginkgo biloba, dihydroergocristine and a combination of raubasine with dihydroergocristine, all attenuated the amnesia induced by scopolamine.
+
+       Drug      : Raubasine
+       Food ref  : extract of Ginkgo biloba
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Piracetam, an extract of Ginkgo biloba, dihydroergocristine and a combination of raubasine with dihydroergocristine, all attenuated the amnesia induced by scopolamine.
+
+       Drug      : Tacrine
+       Food ref  : extract of Ginkgo biloba
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Piracetam, an extract of Ginkgo biloba, dihydroergocristine and a combination of raubasine with dihydroergocristine, all attenuated the amnesia induced by scopolamine.
+
+       Drug      : haloperidol
+       Food ref  : Ginkgo biloba
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In study one, EGb761 and vitamin E, administered by an oral gavage for 5 weeks during withdrawal from chronic haloperidol treatment, decreased VCMs significantly, showing 83.8 and 91.0% reduction, res
+
+       Drug      : NFP
+       Food ref  : Ginkgo biloba leaf extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : However, the maximal plasma NFP concentration, the area under the concentration-time curve and absolute bioavailability after oral administration of NFP (5 mg/kg) were significantly increased by simul
+
+       Drug      : nifedipine
+       Food ref  : Ginkgo biloba leaf extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : However, the maximal plasma NFP concentration, the area under the concentration-time curve and absolute bioavailability after oral administration of NFP (5 mg/kg) were significantly increased by simul
+
+       Drug      : testosterone
+       Food ref  : Ginkgo
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The plasma testosterone levels; corporal, testicular, and accessory glands weight; gonadosomatic index, volumetric proportion; and absolute volume of testicular components did not change after the tre
+
+       Drug      : chlorzoxazone
+       Food ref  : Ginkgo biloba
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : The major findings were that St John's wort was the most potent CYP-modulating herb, showing a dose-dependent induction/inhibition of both CYP2C19 and CYP2E1, with induction at low dosages and inhibit
+
+       Drug      : S-mephenytoin
+       Food ref  : Ginkgo biloba
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : The major findings were that St John's wort was the most potent CYP-modulating herb, showing a dose-dependent induction/inhibition of both CYP2C19 and CYP2E1, with induction at low dosages and inhibit
+
+       Drug      : metformin
+       Food ref  : Ginkgo biloba
+       Evidence  : RCTs  |  Modality: positive
+       Sentence  : This study determined the effects of Ginkgo biloba (GKB) extract as an adjuvant to Met in patients with uncontrolled T
+
+       Drug      : Met
+       Food ref  : Ginkgo biloba
+       Evidence  : RCTs  |  Modality: positive
+       Sentence  : This study determined the effects of Ginkgo biloba (GKB) extract as an adjuvant to Met in patients with uncontrolled T
+
+       Drug      : vancomycin
+       Food ref  : Ginkgo biloba
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Co-administration of alpha-lipoic acid, Ginkgo biloba extract, melatonin or amrinone with vancomycin prevented the increases in the urea, creatinine and melondialdehyde levels and also resulted in hig
+
+       Drug      : melatonin
+       Food ref  : Ginkgo biloba
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Co-administration of alpha-lipoic acid, Ginkgo biloba extract, melatonin or amrinone with vancomycin prevented the increases in the urea, creatinine and melondialdehyde levels and also resulted in hig
+
+       Drug      : amrinone
+       Food ref  : Ginkgo biloba
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Co-administration of alpha-lipoic acid, Ginkgo biloba extract, melatonin or amrinone with vancomycin prevented the increases in the urea, creatinine and melondialdehyde levels and also resulted in hig
+
+       Drug      : digoxin
+       Food ref  : Ginkgo
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : St. John's wort was the strongest inhibiting herb with an IC(50) value of 15.4 microg/ml, followed by common sage, Ginkgo biloba, common valerian, horse chestnut and Echinacea purpurea.
+
+       Drug      : tolbutamide
+       Food ref  : Ginkgo
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Ginkgo extract inhibited human liver microsomal CYP2C9 with an apparent Ki=14.8 microg/mL, and the inhibition was increased by acid hydrolysis (apparent Ki=9.1 microg/mL).
+
+       Drug      : diclofenac
+       Food ref  : Ginkgo
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Ginkgo extract inhibited human liver microsomal CYP2C9 with an apparent Ki=14.8 microg/mL, and the inhibition was increased by acid hydrolysis (apparent Ki=9.1 microg/mL).
+
+       Drug      : warfarin
+       Food ref  : Ginkgo
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Ginkgo extract inhibited human liver microsomal CYP2C9 with an apparent Ki=14.8 microg/mL, and the inhibition was increased by acid hydrolysis (apparent Ki=9.1 microg/mL).
+
+       Drug      : bupropion
+       Food ref  : Ginkgo biloba extract
+       Evidence  : RCTs  |  Modality: positive
+       Sentence  : Ginkgo biloba extract administration resulted in no significant effects on the AUC(0-infinity) of bupropion and hydroxybupropion.
+
+       Drug      : Hydroxybupropion
+       Food ref  : Ginkgo biloba extract
+       Evidence  : RCTs  |  Modality: positive
+       Sentence  : Ginkgo biloba extract administration resulted in no significant effects on the AUC(0-infinity) of bupropion and hydroxybupropion.
+
+       Drug      : NFP
+       Food ref  : Ginkgo biloba leaf extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Simultaneous oral ingestion of GBE (240 mg) did not significantly affect any of the mean pharmacokinetic parameters of either NFP or dehydronifedipine, a major metabolite of NFP, after oral administra
+
+       Drug      : dehydronifedipine
+       Food ref  : Ginkgo biloba leaf extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Simultaneous oral ingestion of GBE (240 mg) did not significantly affect any of the mean pharmacokinetic parameters of either NFP or dehydronifedipine, a major metabolite of NFP, after oral administra
+
+       Drug      : nifedipine
+       Food ref  : Ginkgo biloba leaf extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Simultaneous oral ingestion of GBE (240 mg) did not significantly affect any of the mean pharmacokinetic parameters of either NFP or dehydronifedipine, a major metabolite of NFP, after oral administra
+
+       Drug      : acetylcholine
+       Food ref  : Ginkgo biloba extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The GBE-containing diet did not affect the negative and positive actions of isolated atria that were produced by acetylcholine and isoproterenol, respectively.
+
+       Drug      : isoproterenol
+       Food ref  : Ginkgo biloba extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The GBE-containing diet did not affect the negative and positive actions of isolated atria that were produced by acetylcholine and isoproterenol, respectively.
+
+       Drug      : Sodium nitroprusside
+       Food ref  : Ginkgo biloba extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The GBE-containing diet did not affect the negative and positive actions of isolated atria that were produced by acetylcholine and isoproterenol, respectively.
+
+       Drug      : salt
+       Food ref  : Ginkgo biloba extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The GBE-containing diet did not affect the negative and positive actions of isolated atria that were produced by acetylcholine and isoproterenol, respectively.
+
+       Drug      : anticoagulants
+       Food ref  : Ginkgo
+       Evidence  : others  |  Modality: positive
+       Sentence  : Ginkgo biloba extract, advertised as improving cognitive functioning, has been reported to cause spontaneous bleeding, and it may interact with anticoagulants and antiplatelet agents.
+
+       Drug      : norepinephrine
+       Food ref  : Ginkgo
+       Evidence  : others  |  Modality: positive
+       Sentence  : Ginkgo biloba extract, advertised as improving cognitive functioning, has been reported to cause spontaneous bleeding, and it may interact with anticoagulants and antiplatelet agents.
+
+       Drug      : dopamine
+       Food ref  : Ginkgo
+       Evidence  : others  |  Modality: positive
+       Sentence  : Ginkgo biloba extract, advertised as improving cognitive functioning, has been reported to cause spontaneous bleeding, and it may interact with anticoagulants and antiplatelet agents.
+
+       Drug      : antiplatelet
+       Food ref  : Ginkgo
+       Evidence  : others  |  Modality: positive
+       Sentence  : Ginkgo biloba extract, advertised as improving cognitive functioning, has been reported to cause spontaneous bleeding, and it may interact with anticoagulants and antiplatelet agents.
+
+       Drug      : warfarin
+       Food ref  : Ginkgo
+       Evidence  : others  |  Modality: positive
+       Sentence  : Ginkgo biloba extract, advertised as improving cognitive functioning, has been reported to cause spontaneous bleeding, and it may interact with anticoagulants and antiplatelet agents.
+
+       Drug      : serotonin
+       Food ref  : Ginkgo
+       Evidence  : others  |  Modality: positive
+       Sentence  : Ginkgo biloba extract, advertised as improving cognitive functioning, has been reported to cause spontaneous bleeding, and it may interact with anticoagulants and antiplatelet agents.
+
+       Drug      : antidepressants
+       Food ref  : Ginkgo
+       Evidence  : others  |  Modality: positive
+       Sentence  : Ginkgo biloba extract, advertised as improving cognitive functioning, has been reported to cause spontaneous bleeding, and it may interact with anticoagulants and antiplatelet agents.
+
+       Drug      : cilostazol
+       Food ref  : Ginkgo biloba extracts
+       Evidence  : RCTs  |  Modality: positive
+       Sentence  : The change of aggregation after administration of cilostazol plus GBE seemed to be 1.31 times higher compared with cilostazol plus placebo, without statistical significance (P = 0.20).
+
+       Drug      : yohimbine
+       Food ref  : Ginkgo
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Acute oral pre-treatment with doses of 50, 100, or 200 mg/kg (but not 25 mg/kg) of extract of Ginkgo biloba prevented the reduction in choice accuracy induced by 4 mg/kg yohimbine
+
+
+  [TM] Text-mining corpus — 36 drug(s):
+       • 5-HT₃receptor
+       • Angiotensin II-Induced
+       • DSS-Induced
+       • GABA
+       • Ginkgo
+       • Ginkgo biloba
+       • L-nitro-arginine methyl ester
+       • MK-801
+       • Magnesium
+       • anesthetics
+       • antihistamines
+       • antioxidant
+       • astaxanthine
+       • aura
+       • azelastine
+       • bilobalide
+       • bupivacaine-induced
+       • carotenoid
+       • cetirizine dihydrochloride
+       • cyano-7-nitroquinoxaline-2,3-dione
+       • fatty acid
+       • gemcitabine
+       • gentamicin-induced
+       • ginkgolide A
+       • ginkgolide B
+       • glutamic acid
+       • homocysteine
+       • hydrogen peroxide
+       • hydrogen sulfide
+       • nicardipine
+       • nitric oxide-induced
+       • oleic acid
+       • oleic acid-induced
+       • propranolol
+       • riboflavine
+       • sterols
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Panax ginseng (Ginseng)
+──────────────────────────────────────────────────────────────────────────────
+
+  [DB] DrugBank — 6 drug(s):
+       • Abciximab
+       • Ardeparin
+       • Dicoumarol
+       • Fondaparinux
+       • Lepirudin
+       • Phenindione
+
+  [PM] PubMed key-sentences — 38 interaction record(s):
+       Drug      : clopidogrel
+       Food ref  : Panax notoginseng
+       Evidence  : others  |  Modality: positive
+       Sentence  : Some herbs can increase the AUC or Cmax of clopidogrel, such as Scutellarin, Danggui, Gegen, Sauchinone and Dengzhan Shengmai capsules.
+
+       Drug      : cannabinoid
+       Food ref  : Panax ginseng
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : We show that falcarinol exhibits binding affinity to both human CB receptors but selectively alkylates the anandamide binding site in the CB(1) receptor (K(i)=594nM), acting as covalent inverse agonis
+
+       Drug      : anandamide
+       Food ref  : Panax ginseng
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : We show that falcarinol exhibits binding affinity to both human CB receptors but selectively alkylates the anandamide binding site in the CB(1) receptor (K(i)=594nM), acting as covalent inverse agonis
+
+       Drug      : CB
+       Food ref  : Panax ginseng
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : We show that falcarinol exhibits binding affinity to both human CB receptors but selectively alkylates the anandamide binding site in the CB(1) receptor (K(i)=594nM), acting as covalent inverse agonis
+
+       Drug      : histamine
+       Food ref  : Panax ginseng
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : We show that falcarinol exhibits binding affinity to both human CB receptors but selectively alkylates the anandamide binding site in the CB(1) receptor (K(i)=594nM), acting as covalent inverse agonis
+
+       Drug      : MMC
+       Food ref  : Ginseng
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : MMC combined with RMe showed stronger antitumor effects against the ascites form of mouse Ehrlich ascites carcinoma and rat ascites hepatoma AH 130 than MMC combined with WMe
+
+       Drug      : mitomycin
+       Food ref  : Ginseng
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : MMC combined with RMe showed stronger antitumor effects against the ascites form of mouse Ehrlich ascites carcinoma and rat ascites hepatoma AH 130 than MMC combined with WMe
+
+       Drug      : miltefosine
+       Food ref  : Red ginseng
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : ginseng
+
+       Drug      : indinavir
+       Food ref  : American ginseng
+       Evidence  : Observational in human  |  Modality: positive
+       Sentence  : There was no difference in the area-under the plasma-concentration-time curve after the co-administration of AG, compared to IDV alone (n = 13).
+
+       Drug      : IDV
+       Food ref  : American ginseng
+       Evidence  : Observational in human  |  Modality: positive
+       Sentence  : There was no difference in the area-under the plasma-concentration-time curve after the co-administration of AG, compared to IDV alone (n = 13).
+
+       Drug      : cisplatin
+       Food ref  : ginseng
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Treatment with KRGE via oral route significantly reduced the cisplatin-induced nausea and vomiting in a dose-dependent manner
+
+       Drug      : spironolactone
+       Food ref  : ginseng
+       Evidence  : others  |  Modality: positive
+       Sentence  : Additionally, ginseng may cause headache, tremulousness, and manic episodes in patients treated with phenelzine sulfate
+
+       Drug      : phenelzine sulfate
+       Food ref  : ginseng
+       Evidence  : others  |  Modality: positive
+       Sentence  : Additionally, ginseng may cause headache, tremulousness, and manic episodes in patients treated with phenelzine sulfate
+
+       Drug      : acetylcholine
+       Food ref  : Korean red ginseng
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : In vitro, SA1 significantly enhanced the relaxation responses to acetylcholine.
+
+       Drug      : docetaxel
+       Food ref  : Panax ginseng
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : Compared to treatment with Rg3 or chemotherapy alone, combined treatment was more effective (i.e., there were synergistic effects) in the inhibition of cancer cell growth and induction of apoptosis an
+
+       Drug      : taurocholate
+       Food ref  : Panax notoginseng Ledeb
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The significant protection effects of Panax notoginseng saponins suggested its potential in treating taurocholate induced-acute pancreatitis.
+
+       Drug      : indinavir
+       Food ref  : ginseng
+       Evidence  : others  |  Modality: positive
+       Sentence  : In transplant patients, self-medication with St John's wort (Hypericum perforatum) has led to a drop in plasma levels of the immunosuppressant drug cyclosporine, causing tissue rejection.
+
+       Drug      : amitriptyline
+       Food ref  : ginseng
+       Evidence  : others  |  Modality: positive
+       Sentence  : In transplant patients, self-medication with St John's wort (Hypericum perforatum) has led to a drop in plasma levels of the immunosuppressant drug cyclosporine, causing tissue rejection.
+
+       Drug      : cyclosporine
+       Food ref  : ginseng
+       Evidence  : others  |  Modality: positive
+       Sentence  : In transplant patients, self-medication with St John's wort (Hypericum perforatum) has led to a drop in plasma levels of the immunosuppressant drug cyclosporine, causing tissue rejection.
+
+       Drug      : nevirapine
+       Food ref  : ginseng
+       Evidence  : others  |  Modality: positive
+       Sentence  : In transplant patients, self-medication with St John's wort (Hypericum perforatum) has led to a drop in plasma levels of the immunosuppressant drug cyclosporine, causing tissue rejection.
+
+       Drug      : thrombin
+       Food ref  : Panax ginseng
+       Evidence  : others  |  Modality: positive
+       Sentence  : G-Rp1 markedly inhibited platelet aggregation induced by collagen, thrombin or ADP.
+
+       Drug      : anticoagulants
+       Food ref  : Ginseng
+       Evidence  : others  |  Modality: positive
+       Sentence  : Ginkgo biloba extract, advertised as improving cognitive functioning, has been reported to cause spontaneous bleeding, and it may interact with anticoagulants and antiplatelet agents.
+
+       Drug      : norepinephrine
+       Food ref  : Ginseng
+       Evidence  : others  |  Modality: positive
+       Sentence  : Ginkgo biloba extract, advertised as improving cognitive functioning, has been reported to cause spontaneous bleeding, and it may interact with anticoagulants and antiplatelet agents.
+
+       Drug      : dopamine
+       Food ref  : Ginseng
+       Evidence  : others  |  Modality: positive
+       Sentence  : Ginkgo biloba extract, advertised as improving cognitive functioning, has been reported to cause spontaneous bleeding, and it may interact with anticoagulants and antiplatelet agents.
+
+       Drug      : antiplatelet
+       Food ref  : Ginseng
+       Evidence  : others  |  Modality: positive
+       Sentence  : Ginkgo biloba extract, advertised as improving cognitive functioning, has been reported to cause spontaneous bleeding, and it may interact with anticoagulants and antiplatelet agents.
+
+       Drug      : warfarin
+       Food ref  : Ginseng
+       Evidence  : others  |  Modality: positive
+       Sentence  : Ginkgo biloba extract, advertised as improving cognitive functioning, has been reported to cause spontaneous bleeding, and it may interact with anticoagulants and antiplatelet agents.
+
+       Drug      : serotonin
+       Food ref  : Ginseng
+       Evidence  : others  |  Modality: positive
+       Sentence  : Ginkgo biloba extract, advertised as improving cognitive functioning, has been reported to cause spontaneous bleeding, and it may interact with anticoagulants and antiplatelet agents.
+
+       Drug      : antidepressants
+       Food ref  : Ginseng
+       Evidence  : others  |  Modality: positive
+       Sentence  : Ginkgo biloba extract, advertised as improving cognitive functioning, has been reported to cause spontaneous bleeding, and it may interact with anticoagulants and antiplatelet agents.
+
+       Drug      : pidotimod
+       Food ref  : ginseng
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The combination of pidotimod and RGAP restored concanavalin A-induced splenic T cell proliferation and LPS-stimulated B cell proliferation significantly.
+
+       Drug      : indinavir
+       Food ref  : Ginseng
+       Evidence  : Observational in human  |  Modality: positive
+       Sentence  : IDV decreases insulin sensitivity, which is unaltered by AG co-administration.
+
+       Drug      : protease inhibitors
+       Food ref  : Ginseng
+       Evidence  : Observational in human  |  Modality: positive
+       Sentence  : IDV decreases insulin sensitivity, which is unaltered by AG co-administration.
+
+       Drug      : IDV
+       Food ref  : Ginseng
+       Evidence  : Observational in human  |  Modality: positive
+       Sentence  : IDV decreases insulin sensitivity, which is unaltered by AG co-administration.
+
+       Drug      : PI
+       Food ref  : Ginseng
+       Evidence  : Observational in human  |  Modality: positive
+       Sentence  : IDV decreases insulin sensitivity, which is unaltered by AG co-administration.
+
+       Drug      : thrombin
+       Food ref  : Panax notoginseng saponins
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In conclusion, these data suggested that PNS could suppress thrombin-induced platelet aggregation in vitro and effectively improve hypercoagulable state in vivo and PNS-induced activation of PPAR-γ an
+
+       Drug      : ACh
+       Food ref  : Panax ginseng
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : Co-treatment of ginsenoside Rg2, CK, or M4 with ACh inhibited I(ACh) in oocytes expressing (alpha3beta4 nicotinic ACh receptor with reversible and dose-dependent manner.
+
+       Drug      : acetylcholine
+       Food ref  : Panax ginseng
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : Co-treatment of ginsenoside Rg2, CK, or M4 with ACh inhibited I(ACh) in oocytes expressing (alpha3beta4 nicotinic ACh receptor with reversible and dose-dependent manner.
+
+       Drug      : bovine serum albumin
+       Food ref  : Panax ginseng
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : Co-treatment of ginsenoside Rg2, CK, or M4 with ACh inhibited I(ACh) in oocytes expressing (alpha3beta4 nicotinic ACh receptor with reversible and dose-dependent manner.
+
+       Drug      : BSA
+       Food ref  : Panax ginseng
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : Co-treatment of ginsenoside Rg2, CK, or M4 with ACh inhibited I(ACh) in oocytes expressing (alpha3beta4 nicotinic ACh receptor with reversible and dose-dependent manner.
+
+
+  [TM] Text-mining corpus — 186 drug(s):
+       • 20S-protopanaxadiol
+       • ACTH
+       • AOM/DSS-induced
+       • APAP-induced
+       • Asian
+       • Astragali
+       • CP-induced
+       • CTX
+       • Ca~(2+)-Mg~(2+)-ATP
+       • Cyclophosphamide-Induced
+       • Dai-kenchu-to
+       • Desulfovibrio
+       • Dexamethasone-Induced
+       • Digoxin
+       • Dihydrolipoamide dehydrogenase
+       • Dopamine
+       • Ephedrine
+       • Fusarium
+       • Gal-3-induced
+       • Ginkgo
+       • Ginseng
+       • Ginsenoside
+       • Ginsenoside Rg1
+       • Ginsenoside Rh2
+       • Ginsenoside compound K
+       • Ginsenosides
+       • H2O2
+       • HIV protease inhibitors
+       • IIEF-5
+       • JI39
+       • Klotho
+       • Korean
+       • L-NAME
+       • LPV-r
+       • M.
+       • MDA
+       • Maltol
+       • Meyer
+       • N-acetyl-cysteine
+       • N-ethyl-N-nitrosourea
+       • N-methyl-N-nitrosourea
+       • Phencyclidine-Induced
+       • ROS
+       • S.
+       • SG
+       • SPT
+       • Salicylic acid
+       • Semen
+       • Shen-Fu
+       • Shenfu decoction
+       • T. atroviridae
+       • TXM
+       • Tacrolimus-induced
+       • UVB-induced
+       • Ultraviolet-Induced
+       • Withagenin
+       • acetylchoine
+       • acetylsalicylic acid
+       • adenosine monophosphate
+       • albendazole sulfoxide
+       • alcohol-induced
+       • alkaloids
+       • amphetamine
+       • androgen
+       • angiotensin II
+       • angiotensin II-induced
+       • anti-inflammatory
+       • antiallergic
+       • antineuroinflammatory agent
+       • antioxidative
+       • arsenic trioxide
+       • azoxymethane/dextran sodium sulfate-induced
+       • beta-elemene
+       • biological intracontrol treatment
+       • bromsulphthalein
+       • calcineurin inhibitors
+       • carbohydrate
+       • carbon
+       • catecholamine
+       • ciprofloxacin
+       • cisplatin
+       • cisplatin-induced
+       • cocaine
+       • corticosteroids
+       • corticosterone
+       • corticotropin
+       • creatinine
+       • cyclophosphamide
+       • cyclophosphamide-induced
+       • cyclosporine-induced
+       • d-glucose
+       • dhCer
+       • dhSph
+       • digoxin
+       • dopamine
+       • estrone sulfate
+       • ethanol-induced
+       • ethyl-N-nitrosourea
+       • fatty acid
+       • fluoxetine
+       • fructus schizandrae, radix ginseng, radix ophiopogonis drug combination
+       • ginseng total saponins
+       • ginsenoside Rb1
+       • ginsenoside Rg3
+       • ginsenosides
+       • glucose
+       • glutamic acid
+       • glutathione
+       • golden flower fungus
+       • guanethidine
+       • hepatocellular carcinoma
+       • histamine
+       • huperzine A
+       • hydrochloric acid
+       • hydrogen peroxide
+       • imatinib-induced
+       • insulin
+       • kainic acid
+       • l-cysteine
+       • lamotrigine
+       • malonaldehyde
+       • mandipropamid
+       • methamphetamine
+       • methyl jasmonate
+       • methyl-N-nitrosourea
+       • minocycline
+       • monoamine
+       • monosaccharide
+       • morphine
+       • nicotine
+       • nicotine-induced
+       • nitric oxide
+       • nitric oxide (
+       • nitrogen
+       • noise-induced hearing loss
+       • non-ginsenosides
+       • officinale-Panax
+       • opiates
+       • oxalic acid
+       • oxaliplatin-induced
+       • oxygen
+       • paclitaxel
+       • pentagastrin-induced
+       • phenelzine
+       • phenelzine sulfate
+       • phenol
+       • phenolic acid
+       • phosphate
+       • phosphatidylinositol
+       • pituitary-adrenocortical system
+       • potassium
+       • psychostimulants
+       • quercetin 3-rutinoside
+       • quinone
+       • red ginseng extract B
+       • reserpine
+       • reserpine-induced
+       • rosiglitazone
+       • rosiglitazone-supported
+       • salicylic acid
+       • scopolamine-induced
+       • selegiline
+       • semen raphani
+       • serotonin
+       • silver nitrate
+       • sodium chloride
+       • steroid-induced
+       • succinic acid
+       • sulfide
+       • sulfite
+       • superoxide
+       • tacrolimus
+       • tamoxifen
+       • testosterone
+       • tobramycin
+       • tonic
+       • triglyceride
+       • ultraviolet B (
+       • ultraviolet B-induced
+       • urea
+       • uridine diphosphate
+       • vasorelaxative
+       • vitamin K
+       • warfarin
+       • warfarin sodium
+       • zidovudine
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Panax quinquefolius (American Ginseng)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 9 interaction record(s):
+       Drug      : indinavir
+       Food ref  : American ginseng
+       Evidence  : Observational in human  |  Modality: positive
+       Sentence  : There was no difference in the area-under the plasma-concentration-time curve after the co-administration of AG, compared to IDV alone (n = 13).
+
+       Drug      : IDV
+       Food ref  : American ginseng
+       Evidence  : Observational in human  |  Modality: positive
+       Sentence  : There was no difference in the area-under the plasma-concentration-time curve after the co-administration of AG, compared to IDV alone (n = 13).
+
+       Drug      : indinavir
+       Food ref  : American ginseng
+       Evidence  : Observational in human  |  Modality: positive
+       Sentence  : IDV decreases insulin sensitivity, which is unaltered by AG co-administration.
+
+       Drug      : protease inhibitors
+       Food ref  : American ginseng
+       Evidence  : Observational in human  |  Modality: positive
+       Sentence  : IDV decreases insulin sensitivity, which is unaltered by AG co-administration.
+
+       Drug      : IDV
+       Food ref  : American ginseng
+       Evidence  : Observational in human  |  Modality: positive
+       Sentence  : IDV decreases insulin sensitivity, which is unaltered by AG co-administration.
+
+       Drug      : PI
+       Food ref  : American ginseng
+       Evidence  : Observational in human  |  Modality: positive
+       Sentence  : IDV decreases insulin sensitivity, which is unaltered by AG co-administration.
+
+       Drug      : morphine
+       Food ref  : Panax quinquefolius
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Pseudoginsenoside-F11 (PF11) is an ocotillol-type saponin that is isolated from Panax quinquefolius (American ginseng) and was shown to have neuroprotective effects to promote learning and memory and 
+
+       Drug      : METH
+       Food ref  : Panax quinquefolius
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Pseudoginsenoside-F11 (PF11) is an ocotillol-type saponin that is isolated from Panax quinquefolius (American ginseng) and was shown to have neuroprotective effects to promote learning and memory and 
+
+       Drug      : methamphetamine
+       Food ref  : Panax quinquefolius
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Pseudoginsenoside-F11 (PF11) is an ocotillol-type saponin that is isolated from Panax quinquefolius (American ginseng) and was shown to have neuroprotective effects to promote learning and memory and 
+
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Psidium guajava (Guava)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 3 interaction record(s):
+       Drug      : HSL
+       Food ref  : Psidium guajava
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The results show that PG extract significantly decreased (P?&lt;?0.05) HSL activity in adipose tissue and liver of diabetic animals which was accompanied by increased glycogen levels, reduced serum tr
+
+       Drug      : glycogen
+       Food ref  : Psidium guajava
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The results show that PG extract significantly decreased (P?&lt;?0.05) HSL activity in adipose tissue and liver of diabetic animals which was accompanied by increased glycogen levels, reduced serum tr
+
+       Drug      : lipase
+       Food ref  : Psidium guajava
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The results show that PG extract significantly decreased (P?&lt;?0.05) HSL activity in adipose tissue and liver of diabetic animals which was accompanied by increased glycogen levels, reduced serum tr
+
+
+  [TM] Text-mining corpus — 27 drug(s):
+       • (9z)-lycopene
+       • 17alpha-ethynylestradiol
+       • A. dispersus
+       • CCEO
+       • CO2
+       • Chitosan
+       • Guajadial
+       • Melatonin
+       • Nalanthamala
+       • Psidii
+       • acetaminophen‑induced
+       • acetaminophen‑induced cytotoxicity. Acetaminophen
+       • alloxan-treated
+       • calcium salt
+       • carotenoid
+       • chlorhexidine
+       • cimetidine
+       • d-glucose
+       • kaolins
+       • metformin
+       • methylmercaptan
+       • phenol
+       • phenols
+       • sodium
+       • sucrose
+       • trehalose
+       • triglycerides
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Glycyrrhiza glabra (Licorice Root)
+──────────────────────────────────────────────────────────────────────────────
+
+  [DB] DrugBank — 23 drug(s):
+       • Amiloride
+       • Amlodipine
+       • Captopril
+       • Diltiazem
+       • Enalapril
+       • Fosinopril
+       • Furosemide
+       • Hydrochlorothiazide
+       • Lenvatinib
+       • Lisinopril
+       • Metoprolol
+       • Moexipril
+       • Nadolol
+       • Nifedipine
+       • Oxprenolol
+       • Perindopril
+       • Practolol
+       • Prazosin
+       • Propranolol
+       • Quinapril
+       • Sennosides
+       • Spirapril
+       • Trandolapril
+
+  [PM] PubMed key-sentences — 27 interaction record(s):
+       Drug      : Lop
+       Food ref  : herbal mixtures of Liriope platyphylla, Glycyrrhiza uralensis, and Cinnamomum cassia
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In addition, reverse transcription polymerase chain reaction and Western blot revealed an increase in the muscarinic acetylcholine receptors (mAChRs) in the Lop+LGC-treated group compared to the Lop+V
+
+       Drug      : loperamide
+       Food ref  : herbal mixtures of Liriope platyphylla, Glycyrrhiza uralensis, and Cinnamomum cassia
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In addition, reverse transcription polymerase chain reaction and Western blot revealed an increase in the muscarinic acetylcholine receptors (mAChRs) in the Lop+LGC-treated group compared to the Lop+V
+
+       Drug      : interferon
+       Food ref  : licorice
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In addition, the antiviral activities of GR on influenza virus infection in mice were not demonstrated when it was administered to infected mice in combination with anti-gamma interferon (anti-IFN-gam
+
+       Drug      : M-pred
+       Food ref  : methanolic extract of Glycyrrhiza glabra
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Pulmonary inflammatory and fibrotic indices in the G. glabra and M-pred groups significantly reduced compared with BLM group.
+
+       Drug      : Methyl-prednisolone
+       Food ref  : methanolic extract of Glycyrrhiza glabra
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Pulmonary inflammatory and fibrotic indices in the G. glabra and M-pred groups significantly reduced compared with BLM group.
+
+       Drug      : BLM
+       Food ref  : methanolic extract of Glycyrrhiza glabra
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Pulmonary inflammatory and fibrotic indices in the G. glabra and M-pred groups significantly reduced compared with BLM group.
+
+       Drug      : bleomycin
+       Food ref  : methanolic extract of Glycyrrhiza glabra
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Pulmonary inflammatory and fibrotic indices in the G. glabra and M-pred groups significantly reduced compared with BLM group.
+
+       Drug      : verapamil
+       Food ref  : licorice root
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In conclusion, licorice root drink decreased verapamil systemic exposure both after single dose and after daily doses for 14 d
+
+       Drug      : MTX
+       Food ref  : licorice
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In conclusion, 18β-GA protected against MTX-induced liver injury, possibly by activating Nrf2 and PPARγ, and subsequent attenuation of inflammation, oxidative stress and apoptosis.
+
+       Drug      : methotrexate
+       Food ref  : licorice
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In conclusion, 18β-GA protected against MTX-induced liver injury, possibly by activating Nrf2 and PPARγ, and subsequent attenuation of inflammation, oxidative stress and apoptosis.
+
+       Drug      : spironolactone
+       Food ref  : Licorice
+       Evidence  : others  |  Modality: positive
+       Sentence  : Additionally, ginseng may cause headache, tremulousness, and manic episodes in patients treated with phenelzine sulfate
+
+       Drug      : phenelzine sulfate
+       Food ref  : Licorice
+       Evidence  : others  |  Modality: positive
+       Sentence  : Additionally, ginseng may cause headache, tremulousness, and manic episodes in patients treated with phenelzine sulfate
+
+       Drug      : triamterene
+       Food ref  : licorice
+       Evidence  : others  |  Modality: positive
+       Sentence  : In type 1-like diabetic rats induced by streptozotocin (STZ-treated rats), GA increased the level of plasma GLP-1, which was blocked by triamterene at a dose sufficient to inhibit Takeda G-protein-cou
+
+       Drug      : streptozotocin
+       Food ref  : licorice
+       Evidence  : others  |  Modality: positive
+       Sentence  : In type 1-like diabetic rats induced by streptozotocin (STZ-treated rats), GA increased the level of plasma GLP-1, which was blocked by triamterene at a dose sufficient to inhibit Takeda G-protein-cou
+
+       Drug      : estrogen
+       Food ref  : licorice
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : Glabridin (1-10microM) significantly increased the growth of MC3T3-E1 cells and caused a significant elevation of alkaline phosphatase (ALP) activity, collagen content and osteocalcin secretion in the
+
+       Drug      : tamoxifen
+       Food ref  : licorice
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : Glabridin (1-10microM) significantly increased the growth of MC3T3-E1 cells and caused a significant elevation of alkaline phosphatase (ALP) activity, collagen content and osteocalcin secretion in the
+
+       Drug      : cisplatin
+       Food ref  : Licorice
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : When treating HK-2 cells with LE or GA, both of them alleviated cisplatin-induced cytotoxicity and apoptosis.
+
+       Drug      : cisplatin
+       Food ref  : licorice extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The combination of the licorice extract and cisplatin diminished the therapeutic efficacy of cisplatin but promoted considerably antitumor activity of the licorice extract
+
+       Drug      : famotidine
+       Food ref  : aqueous licorice extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Combination therapy of both FT and licorice showed higher anti-ulcer activity than either of them alone.
+
+       Drug      : diclofenac
+       Food ref  : aqueous licorice extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Combination therapy of both FT and licorice showed higher anti-ulcer activity than either of them alone.
+
+       Drug      : diclofinac
+       Food ref  : aqueous licorice extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Combination therapy of both FT and licorice showed higher anti-ulcer activity than either of them alone.
+
+       Drug      : indomethacin
+       Food ref  : aqueous licorice extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Combination therapy of both FT and licorice showed higher anti-ulcer activity than either of them alone.
+
+       Drug      : FT
+       Food ref  : aqueous licorice extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Combination therapy of both FT and licorice showed higher anti-ulcer activity than either of them alone.
+
+       Drug      : DS
+       Food ref  : aqueous licorice extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Combination therapy of both FT and licorice showed higher anti-ulcer activity than either of them alone.
+
+       Drug      : diclofenac sodium
+       Food ref  : aqueous licorice extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Combination therapy of both FT and licorice showed higher anti-ulcer activity than either of them alone.
+
+       Drug      : estrogen
+       Food ref  : licorice
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : The extract exhibited estrogenic effects similar to 17beta- estradiol (E2) and induced apoptosis at the same dose level (100 microg/ml) in MCF-7 breast cancer cells, results were associated with up-re
+
+       Drug      : estradiol
+       Food ref  : licorice
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : The extract exhibited estrogenic effects similar to 17beta- estradiol (E2) and induced apoptosis at the same dose level (100 microg/ml) in MCF-7 breast cancer cells, results were associated with up-re
+
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Nasturtium officinale (Watercress)
+──────────────────────────────────────────────────────────────────────────────
+
+  [TM] Text-mining corpus — 16 drug(s):
+       • Cys-acetaminophen
+       • Ethanol
+       • acetaldehyde
+       • acetaminophen
+       • alpha-tocopherol
+       • carotenoid
+       • chlorzoxazone
+       • cyclophosphamide
+       • cyclophosphamide-induced
+       • cysteine acetaminophen
+       • glucosinolate
+       • glutathione
+       • isoniazid
+       • lutein
+       • phenethyl isothiocyanate
+       • γ-tocopherol
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Ferula assa-foetida (Asafoetida)
+──────────────────────────────────────────────────────────────────────────────
+
+  [TM] Text-mining corpus — 1 drug(s):
+       • hydrogen peroxide
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Zingiber officinale (Ginger)
+──────────────────────────────────────────────────────────────────────────────
+
+  [DB] DrugBank — 83 drug(s):
+       • (R)-warfarin
+       • (S)-Warfarin
+       • Abciximab
+       • Acenocoumarol
+       • Acetylsalicylic acid
+       • Alteplase
+       • Amediplase
+       • Ancrod
+       • Anistreplase
+       • Antithrombin Alfa
+       • Antithrombin III human
+       • Apixaban
+       • Ardeparin
+       • Argatroban
+       • Bemiparin
+       • Beraprost
+       • Betrixaban
+       • Bivalirudin
+       • Cangrelor
+       • Certoparin
+       • Clorindione
+       • Coumarin
+       • Dabigatran
+       • Dabigatran etexilate
+       • Dalteparin
+       • Danaparoid
+       • Darexaban
+       • Defibrotide
+       • Desirudin
+       • Desmoteplase
+       • Dextran
+       • Dicoumarol
+       • Diphenadione
+       • Dipyridamole
+       • Ditazole
+       • Drotrecogin alfa
+       • Edetic acid
+       • Edoxaban
+       • Enoxaparin
+       • Epoprostenol
+       • Eptifibatide
+       • Ethyl biscoumacetate
+       • Ferulic acid
+       • Floctafenine
+       • Fluindione
+       • Fondaparinux
+       • GW-813893
+       • Gabexate
+       • Ginkgo biloba
+       • Heparin
+       • Ibritumomab tiuxetan
+       • Idraparinux
+       • Iloprost
+       • Lepirudin
+       • Letaxaban
+       • Melagatran
+       • Monteplase
+       • Nadroparin
+       • Nafamostat
+       • Otamixaban
+       • Parnaparin
+       • Phenindione
+       • Phenprocoumon
+       • Prasugrel
+       • Protein C
+       • Protein S human
+       • Reteplase
+       • Reviparin
+       • Rivaroxaban
+       • Saruplase
+       • Semuloparin
+       • Streptokinase
+       • Sulodexide
+       • Tenecteplase
+       • Ticagrelor
+       • Tinzaparin
+       • Tioclomarol
+       • Tocopherylquinone
+       • Triflusal
+       • Urokinase
+       • Vorapaxar
+       • Warfarin
+       • Ximelagatran
+
+  [PM] PubMed key-sentences — 13 interaction record(s):
+       Drug      : AChE
+       Food ref  : Zingiber
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Enhanced memory, increased neuronal density, decreased AChE activity and decreased oxidative stress status together with activated pERK1/2 were observed in the hippocampus of CP1-treated rats.
+
+       Drug      : metformin
+       Food ref  : Zingiberaceae
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In normal animals, co-administration of NA?+?MET and CE?+?MET resulted in significant increase (p?&lt;?0.05) in Cmax, AUC0-∞, t1/2, and reduction of CL and Vd.
+
+       Drug      : MET
+       Food ref  : Zingiberaceae
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In normal animals, co-administration of NA?+?MET and CE?+?MET resulted in significant increase (p?&lt;?0.05) in Cmax, AUC0-∞, t1/2, and reduction of CL and Vd.
+
+       Drug      : bacitracin
+       Food ref  : 10-gingerol
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : In the presence of 10-gingerol at 1/10 concentration of its own MIC, the MIC of arbekacin was lowered by 1/32 to 1/16
+
+       Drug      : arbekacin
+       Food ref  : 10-gingerol
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : In the presence of 10-gingerol at 1/10 concentration of its own MIC, the MIC of arbekacin was lowered by 1/32 to 1/16
+
+       Drug      : polymixin B
+       Food ref  : 10-gingerol
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : In the presence of 10-gingerol at 1/10 concentration of its own MIC, the MIC of arbekacin was lowered by 1/32 to 1/16
+
+       Drug      : STZ
+       Food ref  : ginger rhizome
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The results showed that these spices and their mixture significantly alleviated (80-97?%, P?&lt;?0·05-0·001) signs of the metabolic syndrome (hyperglycaemia and dyslipidaemia), the elevation in athero
+
+       Drug      : nicotinamide
+       Food ref  : ginger rhizome
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The results showed that these spices and their mixture significantly alleviated (80-97?%, P?&lt;?0·05-0·001) signs of the metabolic syndrome (hyperglycaemia and dyslipidaemia), the elevation in athero
+
+       Drug      : insulin
+       Food ref  : ginger rhizome
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The results showed that these spices and their mixture significantly alleviated (80-97?%, P?&lt;?0·05-0·001) signs of the metabolic syndrome (hyperglycaemia and dyslipidaemia), the elevation in athero
+
+       Drug      : streptozotocin
+       Food ref  : ginger rhizome
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The results showed that these spices and their mixture significantly alleviated (80-97?%, P?&lt;?0·05-0·001) signs of the metabolic syndrome (hyperglycaemia and dyslipidaemia), the elevation in athero
+
+       Drug      : insulin
+       Food ref  : Zingiber officinale
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : A quicker peaking of the satiety marker cholecystokinin than HFD and control groups was brought about by all treatments, PMAE and PWAE exhibiting sustained satiety.
+
+       Drug      : glucose
+       Food ref  : Zingiber officinale
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : A quicker peaking of the satiety marker cholecystokinin than HFD and control groups was brought about by all treatments, PMAE and PWAE exhibiting sustained satiety.
+
+       Drug      : GSH
+       Food ref  : Zingiber officinale
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : A quicker peaking of the satiety marker cholecystokinin than HFD and control groups was brought about by all treatments, PMAE and PWAE exhibiting sustained satiety.
+
+
+  [TM] Text-mining corpus — 220 drug(s):
+       • (s)-[6]-gingerol
+       • -Gingerol
+       • -adrenergic antagonist
+       • -gingerol
+       • 10-G
+       • 17alpha-ethynylestradiol
+       • 2-isopropyl-5-methylphenol
+       • 5-HT-induced
+       • 5-hydroxytryptamine
+       • 6
+       • 6-Shoagol
+       • 6-shogaol (
+       • 8-paradol
+       • A.
+       • ACE
+       • AlCl(3
+       • Antioxidants
+       • BBM
+       • CO(2)
+       • Cedrol
+       • Celecoxib
+       • Chemotherapy-induced nausea and vomiting
+       • Cisplatin-Induced
+       • Citrobacter
+       • Curcumin
+       • Cyclophosphamide-Induced
+       • DMBA-stimulated
+       • DSS-induced
+       • DSS-treated
+       • Diterpenes
+       • Dopamine
+       • F
+       • FITC-dextran
+       • Fatty acid
+       • Fluconazole
+       • GEE
+       • Ginger
+       • Guanyuan
+       • HFD-induced
+       • Ibuprofen
+       • KCl-induced
+       • L-NAME
+       • L-citrulline
+       • L. rohita
+       • LPS-induced
+       • MAO-A
+       • MDA-MB-231
+       • Mahlavu
+       • Metformin
+       • Moreira
+       • N. oryzae
+       • NO
+       • Naltrexone
+       • Nanostructure Lipid Carrier
+       • Oxygen
+       • Paullinia
+       • R.
+       • Rhodes
+       • Ruthenium
+       • SCO-induced
+       • SD10
+       • SL
+       • SMZ, 1 mg L-1 OFL and 1 mg L-1
+       • Terpene
+       • Tetracycline
+       • Trypsin
+       • Zhenwu
+       • [(14)C] guanidinium
+       • [(3)H]choline
+       • [6]-shogaol
+       • [8]-gingerol
+       • acetone
+       • acetylsalicylic acid
+       • acute respiratory distress syndrome
+       • adenosine triphosphate
+       • alkaloids
+       • alkanone
+       • allyl sulfide
+       • amiloride
+       • amino acids
+       • anthracene-induced
+       • anti-inflammatory
+       • antibiotics
+       • anticancer drug
+       • antiemetic
+       • antiemetic compounds
+       • antiemetic drug
+       • antiemetic drugs
+       • antiemetic medication
+       • antihistamines
+       • aprepitant
+       • aspirin
+       • atorvastatin
+       • atropine
+       • benzo[a]pyrene
+       • bile acids
+       • cadmium
+       • calcitriol-dependent
+       • calcium
+       • capsaicin
+       • capsaicin-induced
+       • capsaicin-like
+       • capsazepine
+       • carbachol
+       • carboplatin
+       • chloride
+       • chrysin
+       • ciprofloxacin
+       • cisplatin
+       • cisplatin-induced
+       • clopidogrel
+       • crizotinib
+       • d-glucose
+       • dasatinib and quercetin
+       • daunorubicin
+       • dazomet
+       • dexamethasone
+       • dexmedmoidine
+       • dexmodetomidine
+       • diclofenac
+       • difenoconazole
+       • dimethyl sulfone
+       • dimethylamine
+       • docetaxel
+       • dopamine agonists
+       • doxorubicin
+       • droperidol
+       • epinephrine
+       • ethanol
+       • eugenol
+       • eutectic mixture of sucrose and citric acid in ethanol
+       • fatty acids
+       • gabapentin
+       • gentamicin
+       • gentamicin-induced
+       • gingerol
+       • gingerols
+       • glucose-6-phosphate
+       • glutamic acid
+       • glutathione
+       • glycosides
+       • granisetron
+       • herpes simplex virus type 2
+       • hesperetin
+       • higenamine
+       • hydroxypropyl-β-cyclodextrin
+       • interferon
+       • irinotecan
+       • iron
+       • isoproterenol
+       • kaempferol
+       • l-tyrosine
+       • labetalol-induced
+       • lindane-induced
+       • magnolol
+       • malic acid
+       • malondialdehyde
+       • metformin
+       • metoclopramide
+       • metronidazole
+       • monosodium glutamate
+       • morphine
+       • muira puama
+       • muscarinic antagonists
+       • natural deep eutectic solvents
+       • ng,ng-dimethyl-l-arginine
+       • nicardipine
+       • nifedipine
+       • nitric oxide
+       • nitrite
+       • non-steroidal anti-inflammatory drugs
+       • ondansetron
+       • oseltamivir
+       • oxaliplatin-resistant
+       • oxygen
+       • peroxyl
+       • phenylalanine
+       • polyphenol
+       • posaconazole
+       • pro-oxidant
+       • propranolol
+       • prostaglandin
+       • pterostilbene
+       • purine
+       • pyridoxine
+       • retinoic acid
+       • ruthenium
+       • sICAM-1
+       • serotonin
+       • sesquiterpenes
+       • shogaol
+       • shogaols
+       • silver
+       • sodium nitroprusside-induced
+       • steroid
+       • sterols
+       • streptozotocin
+       • succinic acid
+       • sulfamethoxazole
+       • sulfide
+       • tacrolimus
+       • tadalafil
+       • tamoxifen
+       • tannins
+       • terpenoids
+       • testosterone
+       • tetracycline
+       • tetrodotoxin
+       • thromboxane B2
+       • triterpenes
+       • tropisetron
+       • vanilloid
+       • vanilloid receptor
+       • vanilloid-1
+       • vincristine-induced
+       • warfarin
+       • warfarin sodium
+       • yohimbine
+       • zinc chloride
+       • α-mangostin
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Crataegus monogyna (Hawthorn)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 3 interaction record(s):
+       Drug      : serine
+       Food ref  : Crataegus
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : WS 1442 induced a concentration-dependent vasodilation in isolated vessel rings that had been precontracted by 10 microM phenylephrine (concentration for halfmaximal relaxation (IC(50)): rat: 15.1 +/-
+
+       Drug      : papaverine
+       Food ref  : Crataegus
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : WS 1442 induced a concentration-dependent vasodilation in isolated vessel rings that had been precontracted by 10 microM phenylephrine (concentration for halfmaximal relaxation (IC(50)): rat: 15.1 +/-
+
+       Drug      : phenylephrine
+       Food ref  : Crataegus
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : WS 1442 induced a concentration-dependent vasodilation in isolated vessel rings that had been precontracted by 10 microM phenylephrine (concentration for halfmaximal relaxation (IC(50)): rat: 15.1 +/-
+
+
+  [TM] Text-mining corpus — 26 drug(s):
+       • Doxorubicin-Induced
+       • HC-DID
+       • Iberiotoxin
+       • N(G)-nitro-L-arginine methyl ester
+       • NO
+       • Nitric Oxide
+       • Procyanidins
+       • Sonidor®
+       • amifostine
+       • anticoagulants
+       • corn starch-hawthorn mixtures
+       • d-glucose
+       • digoxin
+       • fatty acid
+       • glibenclamide
+       • indomethacin
+       • methylene blue
+       • monoterpenoids
+       • muscarinic antagonists
+       • nitric oxide-mediated
+       • pectin pentaoligosaccharide
+       • polyphenols
+       • sterols
+       • triacylglycerol
+       • vitamin K
+       • β-blockers
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Crataegus laevigata (Hawthorn)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 3 interaction record(s):
+       Drug      : serine
+       Food ref  : Crataegus
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : WS 1442 induced a concentration-dependent vasodilation in isolated vessel rings that had been precontracted by 10 microM phenylephrine (concentration for halfmaximal relaxation (IC(50)): rat: 15.1 +/-
+
+       Drug      : papaverine
+       Food ref  : Crataegus
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : WS 1442 induced a concentration-dependent vasodilation in isolated vessel rings that had been precontracted by 10 microM phenylephrine (concentration for halfmaximal relaxation (IC(50)): rat: 15.1 +/-
+
+       Drug      : phenylephrine
+       Food ref  : Crataegus
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : WS 1442 induced a concentration-dependent vasodilation in isolated vessel rings that had been precontracted by 10 microM phenylephrine (concentration for halfmaximal relaxation (IC(50)): rat: 15.1 +/-
+
+
+  [TM] Text-mining corpus — 26 drug(s):
+       • Doxorubicin-Induced
+       • HC-DID
+       • Iberiotoxin
+       • N(G)-nitro-L-arginine methyl ester
+       • NO
+       • Nitric Oxide
+       • Procyanidins
+       • Sonidor®
+       • amifostine
+       • anticoagulants
+       • corn starch-hawthorn mixtures
+       • d-glucose
+       • digoxin
+       • fatty acid
+       • glibenclamide
+       • indomethacin
+       • methylene blue
+       • monoterpenoids
+       • muscarinic antagonists
+       • nitric oxide-mediated
+       • pectin pentaoligosaccharide
+       • polyphenols
+       • sterols
+       • triacylglycerol
+       • vitamin K
+       • β-blockers
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Taraxacum officinale (Dandelion)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 1 interaction record(s):
+       Drug      : thrombin
+       Food ref  : Taraxacum platycarpum
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : It inhibited thrombin and kallikrein, but did not hydrolyze fibrinogen
+
+
+  [TM] Text-mining corpus — 23 drug(s):
+       • 2-phenylethanol
+       • Dendrigraft poly-L-lysines
+       • H2O2
+       • O2-
+       • PUFA
+       • Polysaccharide
+       • TA-G
+       • Taraxacum officinale
+       • antibiotics
+       • benzaldehyde
+       • benzyl alcohol
+       • benzyl benzoate
+       • benzyl cyanide
+       • calli
+       • fatty acids
+       • l-serine
+       • monoammonium glycyrrhizinate
+       • ofcis-3-hexenyl acetate
+       • phenylacetaldehyde
+       • polystyrene
+       • probiotic
+       • taraxasterol
+       • triglyceride
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Vaccinium myrtillus (Bilberry)
+──────────────────────────────────────────────────────────────────────────────
+
+  [TM] Text-mining corpus — 15 drug(s):
+       • Anthocyanin-derived
+       • Cinnamic Acids
+       • GSH-Px
+       • HbA1c
+       • T-SOD
+       • acute myocardial infarction
+       • anticoagulants
+       • aspirin
+       • bilberry extract
+       • d-glucose
+       • estrone sulfate
+       • hippuric acid
+       • nitric oxide
+       • nitrogen
+       • ozone
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Vaccinium macrocarpon (Cranberry)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 6 interaction record(s):
+       Drug      : nizatidine
+       Food ref  : cranberry juice
+       Evidence  : Case report  |  Modality: positive
+       Sentence  : Results indicate that administration of nizatidine mixed with apple sauce, cranberry juice, or vegetable juice reduces the bioavailability approximately 30--40% relative to administration of a nizatid
+
+       Drug      : homocysteine
+       Food ref  : cranberry juice
+       Evidence  : RCTs  |  Modality: positive
+       Sentence  : After consuming reduced-energy cranberry juice (0·7 litres/d) containing 0·4mg folic acid for 60 d, the cranberry-treated group showed an increase in adiponectin (P=0·010) and folic acid (P=0·033) and
+
+       Drug      : folic acid
+       Food ref  : cranberry juice
+       Evidence  : RCTs  |  Modality: positive
+       Sentence  : After consuming reduced-energy cranberry juice (0·7 litres/d) containing 0·4mg folic acid for 60 d, the cranberry-treated group showed an increase in adiponectin (P=0·010) and folic acid (P=0·033) and
+
+       Drug      : warfarin
+       Food ref  : cranberry juice
+       Evidence  : Case report  |  Modality: positive
+       Sentence  : Few published reports have suggested a substantial interaction between cranberry juice and warfarin, although a definite link could not be established.
+
+       Drug      : warfarin
+       Food ref  : Cranberry
+       Evidence  : Case report  |  Modality: positive
+       Sentence  : Cranberry juice at 240 ml twice daily does not alter the pharmacodynamics of warfarin.
+
+       Drug      : testosterone
+       Food ref  : Vaccinium macrocarpon
+       Evidence  : RCTs  |  Modality: positive
+       Sentence  : There was no influence on blood testosterone or serum CRP levels.
+
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Vitis vinifera (Grape)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 11 interaction record(s):
+       Drug      : AlCl3
+       Food ref  : Vitis vinifera Leaves Polyphenolic
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Treatment of AD-rats with VLP extract (100mg/kg body weight/day) improved neurobehavioral changes, as evidenced by the improvement in brain function, as well as, modulation of most biochemical markers
+
+       Drug      : Al
+       Food ref  : Vitis vinifera Leaves Polyphenolic
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Treatment of AD-rats with VLP extract (100mg/kg body weight/day) improved neurobehavioral changes, as evidenced by the improvement in brain function, as well as, modulation of most biochemical markers
+
+       Drug      : Aluminum
+       Food ref  : Vitis vinifera Leaves Polyphenolic
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Treatment of AD-rats with VLP extract (100mg/kg body weight/day) improved neurobehavioral changes, as evidenced by the improvement in brain function, as well as, modulation of most biochemical markers
+
+       Drug      : aluminum chloride
+       Food ref  : Vitis vinifera Leaves Polyphenolic
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Treatment of AD-rats with VLP extract (100mg/kg body weight/day) improved neurobehavioral changes, as evidenced by the improvement in brain function, as well as, modulation of most biochemical markers
+
+       Drug      : morphine
+       Food ref  : Grape seed proanthocyanidin extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Oral pretreatment with SJW (100-1000 mg/kg) and HPE (30-300 mg/kg) attenuated significantly times of licking/biting both first and second phases of formalin injection in mice in the dose-dependent man
+
+       Drug      : Naloxone
+       Food ref  : Grape seed proanthocyanidin extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Oral pretreatment with SJW (100-1000 mg/kg) and HPE (30-300 mg/kg) attenuated significantly times of licking/biting both first and second phases of formalin injection in mice in the dose-dependent man
+
+       Drug      : NO
+       Food ref  : Grape seed proanthocyanidin extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Oral pretreatment with SJW (100-1000 mg/kg) and HPE (30-300 mg/kg) attenuated significantly times of licking/biting both first and second phases of formalin injection in mice in the dose-dependent man
+
+       Drug      : opioidergic system
+       Food ref  : Grape seed proanthocyanidin extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Oral pretreatment with SJW (100-1000 mg/kg) and HPE (30-300 mg/kg) attenuated significantly times of licking/biting both first and second phases of formalin injection in mice in the dose-dependent man
+
+       Drug      : glutathione
+       Food ref  : Vitis vinifera
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Liver histopathology of TAM-intoxicated:rats showed pathological changes.
+
+       Drug      : silymarin
+       Food ref  : Vitis vinifera
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Liver histopathology of TAM-intoxicated:rats showed pathological changes.
+
+       Drug      : tamoxifen
+       Food ref  : Vitis vinifera
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Liver histopathology of TAM-intoxicated:rats showed pathological changes.
+
+
+  [TM] Text-mining corpus — 5 drug(s):
+       • Dextran Sodium Sulfate-Induced
+       • bradykinin
+       • grapeseed
+       • nitric oxide
+       • oxygen
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Triticum aestivum (Wheatgrass)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 1 interaction record(s):
+       Drug      : cisplatin
+       Food ref  : Triticum Sativum
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In vivo, Lisosan G has been shown to protect against cisplatin induced toxicity, and the use of this compound in the prevention of cirrhosis and steatosis has been recently been proposed thanks to its
+
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Arctium lappa (Burdock)
+──────────────────────────────────────────────────────────────────────────────
+
+  [TM] Text-mining corpus — 4 drug(s):
+       • arctiin
+       • ferric oxide
+       • lithocholic acid
+       • malondialdehyde
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Curcuma longa (Turmeric)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 17 interaction record(s):
+       Drug      : Ag
+       Food ref  : Curcuma longa
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : Pretreatment with curcumin significantly inhibited IL-12 production by macrophages stimulated with either lipopolysaccharide (LPS) or head-killed Listeria monocytogenes (HKL).
+
+       Drug      : daunorubicin
+       Food ref  : Curcuma longa
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : Significantly less daunorubicin reduction was detected after incubating A549 cell lysates with increasing concentrations of curcumin (up to 60% less with 50 μM curcumin), suggesting a beneficial effec
+
+       Drug      : metformin
+       Food ref  : Turmeric
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In normal animals, co-administration of NA?+?MET and CE?+?MET resulted in significant increase (p?&lt;?0.05) in Cmax, AUC0-∞, t1/2, and reduction of CL and Vd.
+
+       Drug      : MET
+       Food ref  : Turmeric
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : In normal animals, co-administration of NA?+?MET and CE?+?MET resulted in significant increase (p?&lt;?0.05) in Cmax, AUC0-∞, t1/2, and reduction of CL and Vd.
+
+       Drug      : doxorubicin
+       Food ref  : Curcuma longa
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : Ascorbic acid and N-acetylcysteine had modest effects on the protection of doxorubicin-induced cytotoxicity while trolox showed insignificant protective effect.
+
+       Drug      : glutathione
+       Food ref  : Curcuma longa
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The DBP-induced injuries in biochemical, spermatological parameters and histological structure of testis were recovered by treatment with kolaviron or curcumin.
+
+       Drug      : di-n-butylphthalate
+       Food ref  : Curcuma longa
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The DBP-induced injuries in biochemical, spermatological parameters and histological structure of testis were recovered by treatment with kolaviron or curcumin.
+
+       Drug      : DBP
+       Food ref  : Curcuma longa
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The DBP-induced injuries in biochemical, spermatological parameters and histological structure of testis were recovered by treatment with kolaviron or curcumin.
+
+       Drug      : testosterone
+       Food ref  : Curcuma longa
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The DBP-induced injuries in biochemical, spermatological parameters and histological structure of testis were recovered by treatment with kolaviron or curcumin.
+
+       Drug      : dexamethasone
+       Food ref  : turmeric
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Addition of cisplatin or paclitaxel by (10, 50 and 100 μM) to hepatic microsomes from normal or turmeric pretreated rats caused a concentration dependent inhibition of CYP2E1, with an evidence of less
+
+       Drug      : pyrazole
+       Food ref  : turmeric
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Addition of cisplatin or paclitaxel by (10, 50 and 100 μM) to hepatic microsomes from normal or turmeric pretreated rats caused a concentration dependent inhibition of CYP2E1, with an evidence of less
+
+       Drug      : paclitaxel
+       Food ref  : turmeric
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Addition of cisplatin or paclitaxel by (10, 50 and 100 μM) to hepatic microsomes from normal or turmeric pretreated rats caused a concentration dependent inhibition of CYP2E1, with an evidence of less
+
+       Drug      : cisplatin
+       Food ref  : turmeric
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Addition of cisplatin or paclitaxel by (10, 50 and 100 μM) to hepatic microsomes from normal or turmeric pretreated rats caused a concentration dependent inhibition of CYP2E1, with an evidence of less
+
+       Drug      : STZ
+       Food ref  : turmeric
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The results showed that these spices and their mixture significantly alleviated (80-97?%, P?&lt;?0·05-0·001) signs of the metabolic syndrome (hyperglycaemia and dyslipidaemia), the elevation in athero
+
+       Drug      : nicotinamide
+       Food ref  : turmeric
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The results showed that these spices and their mixture significantly alleviated (80-97?%, P?&lt;?0·05-0·001) signs of the metabolic syndrome (hyperglycaemia and dyslipidaemia), the elevation in athero
+
+       Drug      : insulin
+       Food ref  : turmeric
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The results showed that these spices and their mixture significantly alleviated (80-97?%, P?&lt;?0·05-0·001) signs of the metabolic syndrome (hyperglycaemia and dyslipidaemia), the elevation in athero
+
+       Drug      : streptozotocin
+       Food ref  : turmeric
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : The results showed that these spices and their mixture significantly alleviated (80-97?%, P?&lt;?0·05-0·001) signs of the metabolic syndrome (hyperglycaemia and dyslipidaemia), the elevation in athero
+
+
+  [TM] Text-mining corpus — 1 drug(s):
+       • tacrolimus
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Nelumbo nucifera (Lotus)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 5 interaction record(s):
+       Drug      : prednisolone
+       Food ref  : Nelumbo nucifera Gaertn
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Our data showed that neferine significantly restored the significant reductions in body weights, the increased levels of lung index and hydroxyproline, the abnormal histological findings, the serum SP
+
+       Drug      : amiodarone
+       Food ref  : Nelumbo nucifera Gaertn
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Our data showed that neferine significantly restored the significant reductions in body weights, the increased levels of lung index and hydroxyproline, the abnormal histological findings, the serum SP
+
+       Drug      : pirfenidone
+       Food ref  : Nelumbo nucifera Gaertn
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Our data showed that neferine significantly restored the significant reductions in body weights, the increased levels of lung index and hydroxyproline, the abnormal histological findings, the serum SP
+
+       Drug      : Glutathione
+       Food ref  : Nelumbonucifera
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : In a 3-4,5-dimethylthiazol-2-yl-2,5 diphenyltetrazolium bromide assay, combined with the GSH modulators l-buthionine sulfoximine or N-acetyl-l-cysteine, neferine treatment of MDCK-hCYP3A4 and HepG2 ce
+
+       Drug      : GSH
+       Food ref  : Nelumbonucifera
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : In a 3-4,5-dimethylthiazol-2-yl-2,5 diphenyltetrazolium bromide assay, combined with the GSH modulators l-buthionine sulfoximine or N-acetyl-l-cysteine, neferine treatment of MDCK-hCYP3A4 and HepG2 ce
+
+
+  [TM] Text-mining corpus — 75 drug(s):
+       • 8-hydroxyisodiospyrin
+       • ACC
+       • AgNPs
+       • Alkaloids
+       • Ammonium Nitrogen
+       • Browning
+       • CoreValve/EvolutR
+       • Dexamethasone-Induced
+       • Di-naphthodiospyrol
+       • Ethanol/HCl-Induced
+       • Fe3+
+       • GABA
+       • HIV Protease Inhibitor-induced
+       • HYTLO1
+       • Imatinib
+       • L-NAME
+       • La3+
+       • Lotus
+       • Mesorhizobium
+       • NO
+       • Nitric Oxide
+       • OxyME
+       • Permanent pacemaker implantation
+       • Phenylalanine ammonia
+       • Salicylic acid
+       • Sodium bicarbonate
+       • UV-C
+       • acetylglycine
+       • alkaloid
+       • alkaloids
+       • analgesic
+       • antioxidants
+       • ascorbic acid
+       • bacA
+       • carbohydrates
+       • carboxymethyl pachyman
+       • d-pinitol
+       • diospyrin
+       • doxorubicin-mediated
+       • esomeprazole
+       • ethanolic
+       • ethno
+       • fatty acid
+       • ferritin
+       • heparin-like
+       • human-derived renal proximal tubule epithelial cells
+       • hydroxyisodiospyrin
+       • iron ions
+       • isoflavonoid
+       • kainic acid
+       • l-asparagine
+       • lanthanum ions
+       • loti
+       • malondialdehyde
+       • melatonin
+       • methyl-3-hydroxypyridine-5-carboxylic acid dioxygenase
+       • methyl-jasmonate
+       • neurotoxins-induced
+       • nitrate
+       • nitric oxide (
+       • nitrogen
+       • nitrogen-fixing bacteroids
+       • oxalic acid
+       • pentose phosphate
+       • phenol
+       • polyphenol
+       • polyphenols
+       • pyruvic acid
+       • steroid
+       • sterols
+       • tannin
+       • terpenoid
+       • theophylline-stimulated
+       • triglyceride
+       • zinc oxide
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Origanum vulgare (Oregano)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 1 interaction record(s):
+       Drug      : cholinesterase
+       Food ref  : Origanum majorana
+       Evidence  : others  |  Modality: positive
+       Sentence  : Interestingly, cholinesterase inhibitory activity was also found with IC(50) values of 36.40 ?g/mL.
+
+
+  [TM] Text-mining corpus — 2 drug(s):
+       • carbohydrates
+       • monosodium glutamate
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Hibiscus sabdariffa
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 3 interaction record(s):
+       Drug      : CPA
+       Food ref  : Hibiscus sabdariffa
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Under the conditions tested, H. sabdariffa L. presented a protective effect to CPA-induced damage to DNA of the treated animals, and it is a potential candidate as a chemopreventive agent against carc
+
+       Drug      : cyclophosphamide
+       Food ref  : Hibiscus sabdariffa
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Under the conditions tested, H. sabdariffa L. presented a protective effect to CPA-induced damage to DNA of the treated animals, and it is a potential candidate as a chemopreventive agent against carc
+
+       Drug      : Reserpine
+       Food ref  : Hibiscus rosa sinensis
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Reserpine treated rats significantly developed vacuous chewing movements and tongue protrusions however, coadministration of Hibiscus rosa sinensis roots extract (100, 200 and 300 mg/kg, per orally) a
+
+
+  [TM] Text-mining corpus — 1 drug(s):
+       • anti-diabetic
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Althaea officinalis (Marshmallow)
+──────────────────────────────────────────────────────────────────────────────
+
+  [TM] Text-mining corpus — 1 drug(s):
+       • Aloe
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Satureja hortensis (Summer Savory)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 1 interaction record(s):
+       Drug      : cyclophosphamide
+       Food ref  : Satureja montana extract
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Oral daily administration of S.montana extract (50mg/kg/day) for 7days before and 7days after an intraperitoneal injection of cyclophosphamide (200mg/kg) restored the reduced relative testicular weigh
+
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Silybum marianum (Milk Thistle)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 6 interaction record(s):
+       Drug      : AZT
+       Food ref  : Silybum marianum
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Simultaneous treatment of SBN (100 mg/kg b.w. p.o., daily for 45 days) significantly protected the liver against hepatotoxicity, oxidative stress and hyperlipidaemia induced by AZT, and this alleviati
+
+       Drug      : zidovudine
+       Food ref  : Silybum marianum
+       Evidence  : animal in-vivo  |  Modality: positive
+       Sentence  : Simultaneous treatment of SBN (100 mg/kg b.w. p.o., daily for 45 days) significantly protected the liver against hepatotoxicity, oxidative stress and hyperlipidaemia induced by AZT, and this alleviati
+
+       Drug      : indinavir
+       Food ref  : Milk thistle
+       Evidence  : others  |  Modality: positive
+       Sentence  : In transplant patients, self-medication with St John's wort (Hypericum perforatum) has led to a drop in plasma levels of the immunosuppressant drug cyclosporine, causing tissue rejection.
+
+       Drug      : amitriptyline
+       Food ref  : Milk thistle
+       Evidence  : others  |  Modality: positive
+       Sentence  : In transplant patients, self-medication with St John's wort (Hypericum perforatum) has led to a drop in plasma levels of the immunosuppressant drug cyclosporine, causing tissue rejection.
+
+       Drug      : cyclosporine
+       Food ref  : Milk thistle
+       Evidence  : others  |  Modality: positive
+       Sentence  : In transplant patients, self-medication with St John's wort (Hypericum perforatum) has led to a drop in plasma levels of the immunosuppressant drug cyclosporine, causing tissue rejection.
+
+       Drug      : nevirapine
+       Food ref  : Milk thistle
+       Evidence  : others  |  Modality: positive
+       Sentence  : In transplant patients, self-medication with St John's wort (Hypericum perforatum) has led to a drop in plasma levels of the immunosuppressant drug cyclosporine, causing tissue rejection.
+
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Senegalia senegal (Gum Arabic)
+──────────────────────────────────────────────────────────────────────────────
+
+  [TM] Text-mining corpus — 5 drug(s):
+       • 8-hydroxy-2-methoxy-6-methyl-1,4-naphthoquinone
+       • ascorbic acid
+       • chalcopyrite
+       • hydrocolloids
+       • phenols
+
+──────────────────────────────────────────────────────────────────────────────
+  PLANT: Trifolium pratense (Red Clover)
+──────────────────────────────────────────────────────────────────────────────
+
+  [PM] PubMed key-sentences — 2 interaction record(s):
+       Drug      : DMBA
+       Food ref  : Trifolium pratense
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : A concomitant treatment with 7,12-dimethylbenzaanthracene (DMBA) and biochanin A markedly reduced the DMBA-inducible EROD activity and CYP1A1 mRNA level.
+
+       Drug      : 7,12-dimethylbenzaanthracene
+       Food ref  : Trifolium pratense
+       Evidence  : in-vitro  |  Modality: positive
+       Sentence  : A concomitant treatment with 7,12-dimethylbenzaanthracene (DMBA) and biochanin A markedly reduced the DMBA-inducible EROD activity and CYP1A1 mRNA level.
+
+
+  [TM] Text-mining corpus — 24 drug(s):
+       • (e)-2-phenyl-2-butenal
+       • Methane
+       • Polyphenol
+       • acetylglycine
+       • alfala
+       • aspirin
+       • biochanin a
+       • coumarin
+       • crude protein
+       • d-lactic acid
+       • formononetin
+       • hydroxysteroid
+       • isoflavones
+       • l-asparagine
+       • l-tyrosine
+       • nitrogen
+       • orchardgrass
+       • phenylalanine
+       • quantitative insulin sensitivity check index
+       • riboflavine
+       • salicylate
+       • sucrose
+       • tamoxifen
+       • warfarin
+
+==============================================================================
+  SUMMARY: 42 / 53 plants had at least one matched interaction.
+==============================================================================

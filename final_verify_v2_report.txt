@@ -1,0 +1,7 @@
+Final SMILES Verification v2
+====================================================================================================
+
+  OK  CID=7847                      Sweet Tajine)                            CID=7847 | prop-2-enal
+  INVALID/UNKNOWN (HTTP_400)        Ta'am)                                   CID=None | 
+
+SUMMARY: 0 targeted MATCH, 1 FAIL/MISMATCH, 2 untargeted

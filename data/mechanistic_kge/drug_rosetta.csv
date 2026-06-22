@@ -1,0 +1,5000 @@
+lgn_id,lgn_name,hkg_name,in_mech_kge
+0,(R)-warfarin,(R)-warfarin,True
+1,(S)-Warfarin,(S)-Warfarin,True
+2,Abacavir,Abacavir,True
+3,Abaloparatide,Abaloparatide,True
+4,Abciximab,Abciximab,True
+5,Abemaciclib,Abemaciclib,True
+6,Abiraterone,Abiraterone,True
+7,Abrocitinib,Abrocitinib,True
+8,Acalabrutinib,Acalabrutinib,True
+9,Acamprosate,Acamprosate,True
+10,Acarbose,Acarbose,True
+11,Acebutolol,Acebutolol,True
+12,Aceclofenac,Aceclofenac,True
+13,Acenocoumarol,Acenocoumarol,True
+14,Acepromazine,Acepromazine,True
+15,Acetaminophen,Acetaminophen,True
+16,Acetazolamide,Acetazolamide,True
+17,Acetohexamide,Acetohexamide,True
+18,Acetohydroxamic acid,Acetohydroxamic acid,True
+19,Acetylsalicylic acid,Acetylsalicylic acid,True
+20,Acitretin,Acitretin,True
+21,Activated charcoal,,False
+22,Acyclovir,Acyclovir,True
+23,Adagrasib,Adagrasib,True
+24,Adefovir dipivoxil,Adefovir dipivoxil,True
+25,Adenosine,Adenosine,True
+26,Afatinib,Afatinib,True
+27,Albendazole,Albendazole,True
+28,Alcloxa,,False
+29,Alectinib,Alectinib,True
+30,Alendronic acid,Alendronic acid,True
+31,Alfacalcidol,Alfacalcidol,True
+32,Alfuzosin,Alfuzosin,True
+33,Alimemazine,Alimemazine,True
+34,Aliskiren,Aliskiren,True
+35,Alitretinoin,Alitretinoin,True
+36,Allopurinol,Allopurinol,True
+37,Almasilate,,False
+38,Almotriptan,Almotriptan,True
+39,Alogliptin,Alogliptin,True
+40,Alosetron,Alosetron,True
+41,Alpelisib,Alpelisib,True
+42,Alprazolam,Alprazolam,True
+43,Alteplase,Alteplase,True
+44,Altretamine,,False
+45,Aluminum hydroxide,,False
+46,Alvimopan,Alvimopan,True
+47,Amantadine,Amantadine,True
+48,Amediplase,Amediplase,True
+49,Amifampridine,Amifampridine,True
+50,Amiloride,Amiloride,True
+51,Amineptine,Amineptine,True
+52,Aminocaproic acid,Aminocaproic acid,True
+53,Aminoglutethimide,Aminoglutethimide,True
+54,Aminophylline,Aminophylline,True
+55,Aminosalicylic acid,Aminosalicylic acid,True
+56,Amiodarone,Amiodarone,True
+57,Amisulpride,Amisulpride,True
+58,Amitriptyline,Amitriptyline,True
+59,Amlodipine,Amlodipine,True
+60,Amobarbital,Amobarbital,True
+61,Amoxapine,Amoxapine,True
+62,Amoxicillin,Amoxicillin,True
+63,Amphetamine,Amphetamine,True
+64,Ampicillin,Ampicillin,True
+65,Amprenavir,Amprenavir,True
+66,Amyl Nitrite,Amyl Nitrite,True
+67,Anagrelide,Anagrelide,True
+68,Anastrozole,Anastrozole,True
+69,Ancrod,Ancrod,True
+70,Anethole trithione,Anethole trithione,True
+71,Anileridine,Anileridine,True
+72,Anistreplase,Anistreplase,True
+73,Antipyrine,Antipyrine,True
+74,Antithrombin Alfa,Antithrombin Alfa,True
+75,Antithrombin III human,Antithrombin III human,True
+76,Apalutamide,Apalutamide,True
+77,Apixaban,Apixaban,True
+78,Apomorphine,Apomorphine,True
+79,Apremilast,Apremilast,True
+80,Aprepitant,Aprepitant,True
+81,Aprocitentan,Aprocitentan,True
+82,Ardeparin,Ardeparin,True
+83,Argatroban,Argatroban,True
+84,Arimoclomol,Arimoclomol,True
+85,Aripiprazole,Aripiprazole,True
+86,Armodafinil,Armodafinil,True
+87,Artemether,Artemether,True
+88,Asciminib,Asciminib,True
+89,Ascorbic acid,Ascorbic acid,True
+90,Asenapine,Asenapine,True
+91,Astemizole,Astemizole,True
+92,Asunaprevir,Asunaprevir,True
+93,Atazanavir,Atazanavir,True
+94,Atogepant,Atogepant,True
+95,Atomoxetine,Atomoxetine,True
+96,Atorvastatin,Atorvastatin,True
+97,Atovaquone,Atovaquone,True
+98,Atropine,Atropine,True
+99,Attapulgite,,False
+100,Auranofin,Auranofin,True
+101,Avacopan,Avacopan,True
+102,Avanafil,Avanafil,True
+103,Avapritinib,Avapritinib,True
+104,Avatrombopag,Avatrombopag,True
+105,Avelumab,Avelumab,True
+106,Axitinib,Axitinib,True
+107,Azatadine,Azatadine,True
+108,Azathioprine,Azathioprine,True
+109,Azelaic acid,Azelaic acid,True
+110,Azelastine,Azelastine,True
+111,Azilsartan medoxomil,Azilsartan medoxomil,True
+112,Azithromycin,Azithromycin,True
+113,Bacampicillin,Bacampicillin,True
+114,Baclofen,Baclofen,True
+115,Baloxavir marboxil,Baloxavir marboxil,True
+116,Balsalazide,Balsalazide,True
+117,Baricitinib,Baricitinib,True
+118,Bazedoxifene,Bazedoxifene,True
+119,Bedaquiline,Bedaquiline,True
+120,Belumosudil,Belumosudil,True
+121,Belzutifan,Belzutifan,True
+122,Bemiparin,Bemiparin,True
+123,Bempedoic acid,Bempedoic acid,True
+124,Benazepril,Benazepril,True
+125,Bendroflumethiazide,Bendroflumethiazide,True
+126,Benserazide,Benserazide,True
+127,Benzatropine,Benzatropine,True
+128,Benzgalantamine,Benzgalantamine,True
+129,Benzhydrocodone,Benzhydrocodone,True
+130,Benznidazole,,False
+131,Benzonatate,Benzonatate,True
+132,Benzphetamine,Benzphetamine,True
+133,Bepotastine,Bepotastine,True
+134,Bepridil,Bepridil,True
+135,Beraprost,Beraprost,True
+136,Berotralstat,Berotralstat,True
+137,Betahistine,Betahistine,True
+138,Betaine,Betaine,True
+139,Betaxolol,Betaxolol,True
+140,Bethanechol,Bethanechol,True
+141,Betrixaban,Betrixaban,True
+142,Bexagliflozin,Bexagliflozin,True
+143,Bexarotene,Bexarotene,True
+144,Bezafibrate,Bezafibrate,True
+145,Bicalutamide,Bicalutamide,True
+146,Bictegravir,Bictegravir,True
+147,Bilastine,Bilastine,True
+148,Binimetinib,Binimetinib,True
+149,Biotin,Biotin,True
+150,Biperiden,Biperiden,True
+151,Bisacodyl,Bisacodyl,True
+152,Bismuth subcitrate potassium,Bismuth subcitrate potassium,True
+153,Bisoprolol,Bisoprolol,True
+154,Bivalirudin,Bivalirudin,True
+155,Boceprevir,Boceprevir,True
+156,Bortezomib,Bortezomib,True
+157,Bosentan,Bosentan,True
+158,Bosutinib,Bosutinib,True
+159,Brentuximab vedotin,Brentuximab vedotin,True
+160,Brexanolone,Brexanolone,True
+161,Brexpiprazole,Brexpiprazole,True
+162,Brigatinib,Brigatinib,True
+163,Brimonidine,Brimonidine,True
+164,Brincidofovir,Brincidofovir,True
+165,Brivaracetam,Brivaracetam,True
+166,Bromazepam,Bromazepam,True
+167,Bromocriptine,Bromocriptine,True
+168,Bromotheophylline,Bromotheophylline,True
+169,Brompheniramine,Brompheniramine,True
+170,Budesonide,Budesonide,True
+171,Bumetanide,Bumetanide,True
+172,Buprenorphine,Buprenorphine,True
+173,Bupropion,Bupropion,True
+174,Buspirone,Buspirone,True
+175,Busulfan,Busulfan,True
+176,Butabarbital,Butabarbital,True
+177,Butalbital,Butalbital,True
+178,Butorphanol,Butorphanol,True
+179,Cabazitaxel,Cabazitaxel,True
+180,Cabergoline,Cabergoline,True
+181,Cabotegravir,Cabotegravir,True
+182,Cabozantinib,Cabozantinib,True
+183,Calcifediol,Calcifediol,True
+184,Calcium acetate,,False
+185,Calcium carbonate,,False
+186,Calcium citrate,Calcium citrate,True
+187,Calcium gluconate,,False
+188,Calcium polycarbophil,,False
+189,Camostat,Camostat,True
+190,Canagliflozin,Canagliflozin,True
+191,Canakinumab,Canakinumab,True
+192,Candesartan cilexetil,Candesartan cilexetil,True
+193,Cangrelor,Cangrelor,True
+194,Cannabidiol,Cannabidiol,True
+195,Capecitabine,Capecitabine,True
+196,Capivasertib,Capivasertib,True
+197,Capmatinib,Capmatinib,True
+198,Captopril,Captopril,True
+199,Carbamazepine,Carbamazepine,True
+200,Carbenicillin,Carbenicillin,True
+201,Carbinoxamine,Carbinoxamine,True
+202,Carbocisteine,Carbocisteine,True
+203,Carboplatin,Carboplatin,True
+204,Carglumic acid,Carglumic acid,True
+205,Cariprazine,Cariprazine,True
+206,Carisoprodol,Carisoprodol,True
+207,Carmustine,Carmustine,True
+208,Carvedilol,Carvedilol,True
+209,Cedazuridine,Cedazuridine,True
+210,Cefaclor,Cefaclor,True
+211,Cefadroxil,Cefadroxil,True
+212,Cefamandole,Cefamandole,True
+213,Cefdinir,Cefdinir,True
+214,Cefditoren,Cefditoren,True
+215,Cefixime,Cefixime,True
+216,Cefoperazone,Cefoperazone,True
+217,Cefotetan,Cefotetan,True
+218,Cefpodoxime,Cefpodoxime,True
+219,Cefprozil,Cefprozil,True
+220,Cefradine,Cefradine,True
+221,Ceftibuten,Ceftibuten,True
+222,Cefuroxime,Cefuroxime,True
+223,Celecoxib,Celecoxib,True
+224,Celiprolol,Celiprolol,True
+225,Cenobamate,Cenobamate,True
+226,Centella asiatica,,False
+227,Cephalexin,Cephalexin,True
+228,Ceritinib,Ceritinib,True
+229,Cerivastatin,Cerivastatin,True
+230,Certoparin,,False
+231,Cetirizine,Cetirizine,True
+232,Chloral hydrate,,False
+233,Chlorambucil,Chlorambucil,True
+234,Chloramphenicol,Chloramphenicol,True
+235,Chlorcyclizine,Chlorcyclizine,True
+236,Chlordiazepoxide,Chlordiazepoxide,True
+237,Chlorhexidine,Chlorhexidine,True
+238,Chloroquine,Chloroquine,True
+239,Chlorpheniramine,Chlorpheniramine,True
+240,Chlorpromazine,Chlorpromazine,True
+241,Chlorpropamide,Chlorpropamide,True
+242,Chlorprothixene,Chlorprothixene,True
+243,Chlorthalidone,Chlorthalidone,True
+244,Chlorzoxazone,Chlorzoxazone,True
+245,Cholestyramine,,False
+246,Cholic Acid,Cholic Acid,True
+247,Choline C-11,,False
+248,Chromic chloride,Chromic chloride,True
+249,Chromium,Chromium,True
+250,Chromium nicotinate,Chromium nicotinate,True
+251,Chromium picolinate,,False
+252,Chymotrypsin,,False
+253,Cilazapril,Cilazapril,True
+254,Cilostazol,Cilostazol,True
+255,Cimetidine,Cimetidine,True
+256,Cinacalcet,Cinacalcet,True
+257,Cinolazepam,Cinolazepam,True
+258,Ciprofloxacin,Ciprofloxacin,True
+259,Cisapride,Cisapride,True
+260,Cisplatin,Cisplatin,True
+261,Citalopram,Citalopram,True
+262,Cladribine,Cladribine,True
+263,Clarithromycin,Clarithromycin,True
+264,Clavulanic acid,Clavulanic acid,True
+265,Clemastine,Clemastine,True
+266,Clidinium,Clidinium,True
+267,Clindamycin,Clindamycin,True
+268,Clobazam,Clobazam,True
+269,Clodronic acid,Clodronic acid,True
+270,Clofarabine,Clofarabine,True
+271,Clofazimine,Clofazimine,True
+272,Clofedanol,Clofedanol,True
+273,Clofibrate,Clofibrate,True
+274,Clomifene,Clomifene,True
+275,Clomipramine,Clomipramine,True
+276,Clonazepam,Clonazepam,True
+277,Clonidine,Clonidine,True
+278,Clopidogrel,Clopidogrel,True
+279,Clorazepic acid,Clorazepic acid,True
+280,Clorindione,,False
+281,Cloxacillin,Cloxacillin,True
+282,Cloxazolam,Cloxazolam,True
+283,Clozapine,Clozapine,True
+284,Cobicistat,Cobicistat,True
+285,Cobimetinib,Cobimetinib,True
+286,Cocarboxylase,Cocarboxylase,True
+287,Codeine,Codeine,True
+288,Coenzyme M,,False
+289,Colchicine,Colchicine,True
+290,Colesevelam,,False
+291,Colestipol,,False
+292,Conjugated estrogens,Conjugated estrogens,True
+293,Copanlisib,Copanlisib,True
+294,Copper oxodotreotide Cu-64,Copper oxodotreotide Cu-64,True
+295,Cortisone acetate,Cortisone acetate,True
+296,Coumarin,Coumarin,True
+297,Crizotinib,Crizotinib,True
+298,Crofelemer,Crofelemer,True
+299,Cromoglicic acid,Cromoglicic acid,True
+300,Cyanocobalamin,Cyanocobalamin,True
+301,Cyclandelate,Cyclandelate,True
+302,Cyclizine,Cyclizine,True
+303,Cyclobenzaprine,Cyclobenzaprine,True
+304,Cyclophosphamide,Cyclophosphamide,True
+305,Cycloserine,Cycloserine,True
+306,Cyclosporine,Cyclosporine,True
+307,Cyproheptadine,Cyproheptadine,True
+308,Cyproterone acetate,Cyproterone acetate,True
+309,Cysteamine,Cysteamine,True
+310,Dabigatran,Dabigatran,True
+311,Dabigatran etexilate,Dabigatran etexilate,True
+312,Dabrafenib,Dabrafenib,True
+313,Dacarbazine,Dacarbazine,True
+314,Daclatasvir,Daclatasvir,True
+315,Dacomitinib,Dacomitinib,True
+316,Dalfampridine,Dalfampridine,True
+317,Dalteparin,Dalteparin,True
+318,Danaparoid,Danaparoid,True
+319,Danazol,Danazol,True
+320,Danicopan,Danicopan,True
+321,Dantrolene,Dantrolene,True
+322,Dapagliflozin,Dapagliflozin,True
+323,Daprodustat,Daprodustat,True
+324,Dapsone,Dapsone,True
+325,Darbepoetin alfa,Darbepoetin alfa,True
+326,Darexaban,Darexaban,True
+327,Daridorexant,Daridorexant,True
+328,Darifenacin,Darifenacin,True
+329,Darolutamide,Darolutamide,True
+330,Darunavir,Darunavir,True
+331,Dasabuvir,Dasabuvir,True
+332,Dasatinib,Dasatinib,True
+333,Debrisoquine,Debrisoquine,True
+334,Deferasirox,Deferasirox,True
+335,Deferiprone,Deferiprone,True
+336,Defibrotide,Defibrotide,True
+337,Deflazacort,Deflazacort,True
+338,Delafloxacin,Delafloxacin,True
+339,Delamanid,Delamanid,True
+340,Delavirdine,Delavirdine,True
+341,Demeclocycline,Demeclocycline,True
+342,Denosumab,Denosumab,True
+343,Desipramine,Desipramine,True
+344,Desirudin,Desirudin,True
+345,Desloratadine,Desloratadine,True
+346,Desmoteplase,Desmoteplase,True
+347,Desvenlafaxine,Desvenlafaxine,True
+348,Deucravacitinib,Deucravacitinib,True
+349,Deuruxolitinib,Deuruxolitinib,True
+350,Deutetrabenazine,Deutetrabenazine,True
+351,Dexamethasone,Dexamethasone,True
+352,Dexbrompheniramine,Dexbrompheniramine,True
+353,Dexchlorpheniramine maleate,Dexchlorpheniramine maleate,True
+354,Dexfenfluramine,Dexfenfluramine,True
+355,Dexlansoprazole,Dexlansoprazole,True
+356,Dexmethylphenidate,Dexmethylphenidate,True
+357,Dextran,,False
+358,Dextroamphetamine,Dextroamphetamine,True
+359,Dextromethorphan,Dextromethorphan,True
+360,Dextropropoxyphene,Dextropropoxyphene,True
+361,Dextrothyroxine,Dextrothyroxine,True
+362,Diamorphine,Diamorphine,True
+363,Diazepam,Diazepam,True
+364,Dichloralphenazone,,False
+365,Diclofenac,Diclofenac,True
+366,Diclofenamide,Diclofenamide,True
+367,Dicloxacillin,Dicloxacillin,True
+368,Dicoumarol,Dicoumarol,True
+369,Dicyclomine,Dicyclomine,True
+370,Didanosine,Didanosine,True
+371,Dienogest,Dienogest,True
+372,Diethylcarbamazine,Diethylcarbamazine,True
+373,Diethylpropion,Diethylpropion,True
+374,Difelikefalin,Difelikefalin,True
+375,Difenoxin,Difenoxin,True
+376,Diflunisal,Diflunisal,True
+377,Digitoxin,Digitoxin,True
+378,Digoxin,Digoxin,True
+379,Dihydrocodeine,Dihydrocodeine,True
+380,Dihydroergotamine,Dihydroergotamine,True
+381,Diiodohydroxyquinoline,,False
+382,Diltiazem,Diltiazem,True
+383,Dimenhydrinate,Dimenhydrinate,True
+384,Dimethyl fumarate,Dimethyl fumarate,True
+385,Diosmin,Diosmin,True
+386,Diphenadione,Diphenadione,True
+387,Diphenhydramine,Diphenhydramine,True
+388,Diphenoxylate,Diphenoxylate,True
+389,Dipyridamole,Dipyridamole,True
+390,Diroximel fumarate,Diroximel fumarate,True
+391,Disopyramide,Disopyramide,True
+392,Disulfiram,Disulfiram,True
+393,Ditazole,,False
+394,Docetaxel,Docetaxel,True
+395,Dofetilide,Dofetilide,True
+396,Dolasetron,Dolasetron,True
+397,Dolutegravir,Dolutegravir,True
+398,Domperidone,Domperidone,True
+399,Donepezil,Donepezil,True
+400,Doravirine,Doravirine,True
+401,Doxazosin,Doxazosin,True
+402,Doxepin,Doxepin,True
+403,Doxercalciferol,Doxercalciferol,True
+404,Doxorubicin,Doxorubicin,True
+405,Doxycycline,Doxycycline,True
+406,Doxylamine,Doxylamine,True
+407,Dronabinol,Dronabinol,True
+408,Dronedarone,Dronedarone,True
+409,Drospirenone,Drospirenone,True
+410,Drotrecogin alfa,Drotrecogin alfa,True
+411,Droxidopa,Droxidopa,True
+412,Dulaglutide,Dulaglutide,True
+413,Duloxetine,Duloxetine,True
+414,Dutasteride,Dutasteride,True
+415,Duvelisib,Duvelisib,True
+416,Dyclonine,Dyclonine,True
+417,Ebastine,Ebastine,True
+418,Edaravone,Edaravone,True
+419,Edetic acid,Edetic acid,True
+420,Edoxaban,Edoxaban,True
+421,Efavirenz,Efavirenz,True
+422,Eflornithine,Eflornithine,True
+423,Elacestrant,Elacestrant,True
+424,Elafibranor,Elafibranor,True
+425,Elagolix,Elagolix,True
+426,Elbasvir,Elbasvir,True
+427,Eletriptan,Eletriptan,True
+428,Elexacaftor,Elexacaftor,True
+429,Eliglustat,Eliglustat,True
+430,Eltrombopag,Eltrombopag,True
+431,Eluxadoline,Eluxadoline,True
+432,Elvitegravir,Elvitegravir,True
+433,Empagliflozin,Empagliflozin,True
+434,Emtricitabine,Emtricitabine,True
+435,Enalapril,Enalapril,True
+436,Enasidenib,Enasidenib,True
+437,Encorafenib,Encorafenib,True
+438,Enoxaparin,Enoxaparin,True
+439,Entacapone,Entacapone,True
+440,Entecavir,Entecavir,True
+441,Entrectinib,Entrectinib,True
+442,Enzalutamide,Enzalutamide,True
+443,Epirubicin,Epirubicin,True
+444,Eplerenone,Eplerenone,True
+445,Eplontersen,Eplontersen,True
+446,Epoprostenol,Epoprostenol,True
+447,Eprosartan,Eprosartan,True
+448,Eptifibatide,Eptifibatide,True
+449,Eravacycline,Eravacycline,True
+450,Erdafitinib,Erdafitinib,True
+451,Ergoloid mesylate,Ergoloid mesylate,True
+452,Ergotamine,Ergotamine,True
+453,Erlotinib,Erlotinib,True
+454,Ertugliflozin,Ertugliflozin,True
+455,Erythrityl tetranitrate,Erythrityl tetranitrate,True
+456,Erythromycin,Erythromycin,True
+457,Erythropoietin,Erythropoietin,True
+458,Escitalopram,Escitalopram,True
+459,Esketamine,Esketamine,True
+460,Eslicarbazepine acetate,Eslicarbazepine acetate,True
+461,Esomeprazole,Esomeprazole,True
+462,Estazolam,Estazolam,True
+463,Esterified estrogens,Esterified estrogens,True
+464,Estetrol,Estetrol,True
+465,Estradiol acetate,Estradiol acetate,True
+466,Estradiol cypionate,Estradiol cypionate,True
+467,Estradiol valerate,Estradiol valerate,True
+468,Estramustine,Estramustine,True
+469,Estrone,Estrone,True
+470,Estrone sulfate,Estrone sulfate,True
+471,Eszopiclone,Eszopiclone,True
+472,Etacrynic acid,Etacrynic acid,True
+473,Etafedrine,Etafedrine,True
+474,Ethambutol,Ethambutol,True
+475,Ethchlorvynol,Ethchlorvynol,True
+476,Ethinylestradiol,Ethinylestradiol,True
+477,Ethionamide,Ethionamide,True
+478,Ethosuximide,Ethosuximide,True
+479,Ethotoin,Ethotoin,True
+480,Ethyl biscoumacetate,Ethyl biscoumacetate,True
+481,Etidronic acid,Etidronic acid,True
+482,Etodolac,Etodolac,True
+483,Etonogestrel,Etonogestrel,True
+484,Etoposide,Etoposide,True
+485,Etoricoxib,Etoricoxib,True
+486,Etrasimod,Etrasimod,True
+487,Etravirine,Etravirine,True
+488,Etretinate,Etretinate,True
+489,Everolimus,Everolimus,True
+490,Exemestane,Exemestane,True
+491,Exenatide,Exenatide,True
+492,Ezetimibe,Ezetimibe,True
+493,Ezogabine,Ezogabine,True
+494,Famciclovir,Famciclovir,True
+495,Famotidine,Famotidine,True
+496,Febuxostat,Febuxostat,True
+497,Fecal microbiota,,False
+498,Fedratinib,Fedratinib,True
+499,Felbamate,Felbamate,True
+500,Felodipine,Felodipine,True
+501,Fenfluramine,Fenfluramine,True
+502,Fenofibrate,Fenofibrate,True
+503,Fenofibric acid,Fenofibric acid,True
+504,Fenoldopam,Fenoldopam,True
+505,Fenoprofen,Fenoprofen,True
+506,Fenoterol,Fenoterol,True
+507,Fentanyl,Fentanyl,True
+508,Ferric cation,Ferric cation,True
+509,Ferric maltol,Ferric maltol,True
+510,Ferrous ascorbate,Ferrous ascorbate,True
+511,Ferrous fumarate,Ferrous fumarate,True
+512,Ferrous gluconate,Ferrous gluconate,True
+513,Ferrous sulfate anhydrous,Ferrous sulfate anhydrous,True
+514,Ferulic acid,Ferulic acid,True
+515,Fesoterodine,Fesoterodine,True
+516,Fexinidazole,Fexinidazole,True
+517,Fexofenadine,Fexofenadine,True
+518,Fidanacogene elaparvovec,,False
+519,Fidaxomicin,Fidaxomicin,True
+520,Finasteride,Finasteride,True
+521,Finerenone,Finerenone,True
+522,Fingolimod,Fingolimod,True
+523,Flavin adenine dinucleotide,Flavin adenine dinucleotide,True
+524,Flavin mononucleotide,Flavin mononucleotide,True
+525,Flavoxate,Flavoxate,True
+526,Flecainide,Flecainide,True
+527,Fleroxacin,Fleroxacin,True
+528,Flibanserin,Flibanserin,True
+529,Floctafenine,,False
+530,Flucloxacillin,Flucloxacillin,True
+531,Fluconazole,Fluconazole,True
+532,Fludarabine,Fludarabine,True
+533,Fludeoxyglucose (18F),Fludeoxyglucose (18F),True
+534,Fludiazepam,Fludiazepam,True
+535,Fludrocortisone,Fludrocortisone,True
+536,Fluindione,Fluindione,True
+537,Flumazenil,Flumazenil,True
+538,Flunarizine,Flunarizine,True
+539,Flunitrazepam,Flunitrazepam,True
+540,Fluorodopa (18F),Fluorodopa (18F),True
+541,Fluoxetine,Fluoxetine,True
+542,Fluoxymesterone,Fluoxymesterone,True
+543,Flupentixol,Flupentixol,True
+544,Fluphenazine,Fluphenazine,True
+545,Flurazepam,Flurazepam,True
+546,Flurbiprofen,Flurbiprofen,True
+547,Fluspirilene,Fluspirilene,True
+548,Flutamide,Flutamide,True
+549,Fluvastatin,Fluvastatin,True
+550,Fluvoxamine,Fluvoxamine,True
+551,Fomepizole,Fomepizole,True
+552,Fondaparinux,Fondaparinux,True
+553,Fosamprenavir,Fosamprenavir,True
+554,Fosaprepitant,Fosaprepitant,True
+555,Fosfomycin,Fosfomycin,True
+556,Fosinopril,Fosinopril,True
+557,Fosnetupitant,Fosnetupitant,True
+558,Fosphenytoin,Fosphenytoin,True
+559,Fostamatinib,Fostamatinib,True
+560,Fostemsavir,Fostemsavir,True
+561,Frovatriptan,Frovatriptan,True
+562,Fruquintinib,Fruquintinib,True
+563,Furosemide,Furosemide,True
+564,Fusidic acid,Fusidic acid,True
+565,Futibatinib,Futibatinib,True
+566,GW-813893,GW-813893,True
+567,Gabapentin,Gabapentin,True
+568,Gabapentin enacarbil,Gabapentin enacarbil,True
+569,Gabexate,Gabexate,True
+570,Galantamine,Galantamine,True
+571,Galcanezumab,Galcanezumab,True
+572,Ganaxolone,Ganaxolone,True
+573,Ganciclovir,Ganciclovir,True
+574,Gatifloxacin,Gatifloxacin,True
+575,Gefapixant,Gefapixant,True
+576,Gefitinib,Gefitinib,True
+577,Gemfibrozil,Gemfibrozil,True
+578,Gemifloxacin,Gemifloxacin,True
+579,Gepirone,Gepirone,True
+580,Gilteritinib,Gilteritinib,True
+581,Gimeracil,Gimeracil,True
+582,Ginkgo biloba,Ginkgo biloba,True
+583,Givinostat,Givinostat,True
+584,Glasdegib,Glasdegib,True
+585,Glecaprevir,Glecaprevir,True
+586,Gliclazide,Gliclazide,True
+587,Glimepiride,Glimepiride,True
+588,Glipizide,Glipizide,True
+589,Glutethimide,Glutethimide,True
+590,Glyburide,Glyburide,True
+591,Glycerol phenylbutyrate,Glycerol phenylbutyrate,True
+592,Glycopyrronium,Glycopyrronium,True
+593,Granisetron,Granisetron,True
+594,Grazoprevir,Grazoprevir,True
+595,Grepafloxacin,Grepafloxacin,True
+596,Griseofulvin,Griseofulvin,True
+597,Guaifenesin,Guaifenesin,True
+598,Guanethidine,Guanethidine,True
+599,Guanfacine,Guanfacine,True
+600,Halofantrine,Halofantrine,True
+601,Haloperidol,Haloperidol,True
+602,Heparin,Heparin,True
+603,Hydralazine,Hydralazine,True
+604,Hydrochlorothiazide,Hydrochlorothiazide,True
+605,Hydrocodone,Hydrocodone,True
+606,Hydrocortisone,Hydrocortisone,True
+607,Hydroflumethiazide,Hydroflumethiazide,True
+608,Hydrogen fluoride,,False
+609,Hydromorphone,Hydromorphone,True
+610,Hydroxychloroquine,Hydroxychloroquine,True
+611,Hydroxyurea,Hydroxyurea,True
+612,Hydroxyzine,Hydroxyzine,True
+613,Hyoscyamine,Hyoscyamine,True
+614,Ibandronate,Ibandronate,True
+615,Ibrexafungerp,Ibrexafungerp,True
+616,Ibritumomab tiuxetan,Ibritumomab tiuxetan,True
+617,Ibrutinib,Ibrutinib,True
+618,Ibuprofen,Ibuprofen,True
+619,Icosapent ethyl,,False
+620,Idebenone,,False
+621,Idelalisib,Idelalisib,True
+622,Idraparinux,Idraparinux,True
+623,Ifosfamide,Ifosfamide,True
+624,Iloperidone,Iloperidone,True
+625,Iloprost,Iloprost,True
+626,Imatinib,Imatinib,True
+627,Imipramine,Imipramine,True
+628,Imiquimod,Imiquimod,True
+629,Inavolisib,Inavolisib,True
+630,Indapamide,Indapamide,True
+631,Indinavir,Indinavir,True
+632,Indium In-111 chloride,,False
+633,Indium In-111 pentetreotide,,False
+634,Indomethacin,Indomethacin,True
+635,Infigratinib,Infigratinib,True
+636,Ingenol mebutate,Ingenol mebutate,True
+637,Inotersen,Inotersen,True
+638,Insulin aspart,Insulin aspart,True
+639,Insulin degludec,Insulin degludec,True
+640,Insulin detemir,Insulin detemir,True
+641,Insulin glulisine,Insulin glulisine,True
+642,Insulin human,Insulin human,True
+643,Insulin icodec,Insulin icodec,True
+644,Insulin pork,Insulin pork,True
+645,Interferon alfa-2a,Interferon alfa-2a,True
+646,Interferon alfa-2b,Interferon alfa-2b,True
+647,Interferon alfa-n1,Interferon alfa-n1,True
+648,Interferon beta-1a,Interferon beta-1a,True
+649,Interferon beta-1b,Interferon beta-1b,True
+650,Interferon gamma-1b,Interferon gamma-1b,True
+651,Iodide I-123,,False
+652,Iodide I-131,,False
+653,Iodine,Iodine,True
+654,Ioflupane I-123,Ioflupane I-123,True
+655,Iothalamic acid,,False
+656,Ioxaglic acid,,False
+657,Irbesartan,Irbesartan,True
+658,Iron,Iron,True
+659,Iron sucrose,,False
+660,Isavuconazole,Isavuconazole,True
+661,Isavuconazonium,Isavuconazonium,True
+662,Isocarboxazid,Isocarboxazid,True
+663,Isoniazid,Isoniazid,True
+664,Isosorbide dinitrate,Isosorbide dinitrate,True
+665,Isosorbide mononitrate,Isosorbide mononitrate,True
+666,Isotretinoin,Isotretinoin,True
+667,Isradipine,Isradipine,True
+668,Istradefylline,Istradefylline,True
+669,Itraconazole,Itraconazole,True
+670,Ivabradine,Ivabradine,True
+671,Ivacaftor,Ivacaftor,True
+672,Ivermectin,Ivermectin,True
+673,Ivosidenib,Ivosidenib,True
+674,Ixabepilone,Ixabepilone,True
+675,Ixazomib,Ixazomib,True
+676,Ketamine,Ketamine,True
+677,Ketazolam,Ketazolam,True
+678,Ketoconazole,Ketoconazole,True
+679,Ketoprofen,Ketoprofen,True
+680,Ketorolac,Ketorolac,True
+681,Ketotifen,Ketotifen,True
+682,L-Acetylleucine,L-Acetylleucine,True
+683,L-Glutamine,L-Glutamine,True
+684,Labetalol,Labetalol,True
+685,Lacosamide,Lacosamide,True
+686,Lactitol,,False
+687,Lactulose,Lactulose,True
+688,Lamivudine,Lamivudine,True
+689,Lamotrigine,Lamotrigine,True
+690,Lansoprazole,Lansoprazole,True
+691,Lanthanum carbonate,,False
+692,Lapatinib,Lapatinib,True
+693,Larotrectinib,Larotrectinib,True
+694,Lasmiditan,Lasmiditan,True
+695,Lazertinib,Lazertinib,True
+696,Ledipasvir,Ledipasvir,True
+697,Lefamulin,Lefamulin,True
+698,Leflunomide,Leflunomide,True
+699,Lemborexant,Lemborexant,True
+700,Lenacapavir,Lenacapavir,True
+701,Lenalidomide,Lenalidomide,True
+702,Leniolisib,Leniolisib,True
+703,Lenvatinib,Lenvatinib,True
+704,Lepirudin,Lepirudin,True
+705,Lercanidipine,Lercanidipine,True
+706,Lesinurad,Lesinurad,True
+707,Letaxaban,Letaxaban,True
+708,Letermovir,Letermovir,True
+709,Letrozole,Letrozole,True
+710,Levamisole,Levamisole,True
+711,Levamlodipine,Levamlodipine,True
+712,Levetiracetam,Levetiracetam,True
+713,Levocarnitine,Levocarnitine,True
+714,Levocetirizine,Levocetirizine,True
+715,Levodopa,Levodopa,True
+716,Levofloxacin,Levofloxacin,True
+717,Levoketoconazole,Levoketoconazole,True
+718,Levomefolic acid,Levomefolic acid,True
+719,Levomilnacipran,Levomilnacipran,True
+720,Levonorgestrel,Levonorgestrel,True
+721,Levorphanol,Levorphanol,True
+722,Levothyroxine,Levothyroxine,True
+723,Linaclotide,Linaclotide,True
+724,Linagliptin,Linagliptin,True
+725,Lindane,Lindane,True
+726,Linezolid,Linezolid,True
+727,Linzagolix,Linzagolix,True
+728,Liothyronine,Liothyronine,True
+729,Liotrix,Liotrix,True
+730,Liraglutide,Liraglutide,True
+731,Lisdexamfetamine,Lisdexamfetamine,True
+732,Lisinopril,Lisinopril,True
+733,Lithium carbonate,Lithium carbonate,True
+734,Lithium citrate,Lithium citrate,True
+735,Lixisenatide,Lixisenatide,True
+736,Lofexidine,Lofexidine,True
+737,Lomefloxacin,Lomefloxacin,True
+738,Lomitapide,Lomitapide,True
+739,Lonafarnib,Lonafarnib,True
+740,Lopinavir,Lopinavir,True
+741,Loracarbef,Loracarbef,True
+742,Lorazepam,Lorazepam,True
+743,Lorcaserin,Lorcaserin,True
+744,Lorlatinib,Lorlatinib,True
+745,Losartan,Losartan,True
+746,Lovastatin,Lovastatin,True
+747,Loxapine,Loxapine,True
+748,Loxoprofen,Loxoprofen,True
+749,Lubiprostone,Lubiprostone,True
+750,Lumacaftor,Lumacaftor,True
+751,Lumateperone,Lumateperone,True
+752,Lumefantrine,Lumefantrine,True
+753,Lumiracoxib,Lumiracoxib,True
+754,Lurasidone,Lurasidone,True
+755,Lusutrombopag,Lusutrombopag,True
+756,Lutein,Lutein,True
+757,Lymecycline,Lymecycline,True
+758,Macimorelin,Macimorelin,True
+759,Macitentan,Macitentan,True
+760,Magaldrate,,False
+761,Magnesium,Magnesium,True
+762,Magnesium ascorbate,,False
+763,Magnesium chloride,,False
+764,Magnesium citrate,,False
+765,Magnesium glycinate,,False
+766,Magnesium oxide,,False
+767,Maprotiline,Maprotiline,True
+768,Maralixibat,Maralixibat,True
+769,Maraviroc,Maraviroc,True
+770,Maribavir,Maribavir,True
+771,Mavorixafor,Mavorixafor,True
+772,Mazindol,Mazindol,True
+773,Mebendazole,Mebendazole,True
+774,Mecamylamine,Mecamylamine,True
+775,Mecasermin,Mecasermin,True
+776,Mecasermin rinfabate,Mecasermin rinfabate,True
+777,Meclizine,Meclizine,True
+778,Meclofenamic acid,Meclofenamic acid,True
+779,Medroxyprogesterone acetate,Medroxyprogesterone acetate,True
+780,Mefenamic acid,Mefenamic acid,True
+781,Mefloquine,Mefloquine,True
+782,Megestrol acetate,Megestrol acetate,True
+783,Melagatran,Melagatran,True
+784,Melatonin,Melatonin,True
+785,Meloxicam,Meloxicam,True
+786,Memantine,Memantine,True
+787,Meperidine,Meperidine,True
+788,Meprobamate,Meprobamate,True
+789,Mepyramine,Mepyramine,True
+790,Mercaptopurine,Mercaptopurine,True
+791,Mesalazine,Mesalazine,True
+792,Mesoridazine,Mesoridazine,True
+793,Metaxalone,,False
+794,Metformin,Metformin,True
+795,Methacholine,Methacholine,True
+796,Methadone,Methadone,True
+797,Methazolamide,Methazolamide,True
+798,Methenamine,,False
+799,Methionine,Methionine,True
+800,Methocarbamol,Methocarbamol,True
+801,Methohexital,Methohexital,True
+802,Methotrexate,Methotrexate,True
+803,Methotrimeprazine,Methotrimeprazine,True
+804,Methoxsalen,Methoxsalen,True
+805,Methoxyflurane,Methoxyflurane,True
+806,Methscopolamine bromide,Methscopolamine bromide,True
+807,Methsuximide,Methsuximide,True
+808,Methylcellulose,,False
+809,Methyldopa,Methyldopa,True
+810,Methylergometrine,Methylergometrine,True
+811,Methylnaltrexone,Methylnaltrexone,True
+812,Methylphenidate,Methylphenidate,True
+813,Methylprednisolone,Methylprednisolone,True
+814,Methyprylon,Methyprylon,True
+815,Methysergide,Methysergide,True
+816,Metoclopramide,Metoclopramide,True
+817,Metolazone,Metolazone,True
+818,Metoprolol,Metoprolol,True
+819,Metreleptin,Metreleptin,True
+820,Metronidazole,Metronidazole,True
+821,Metyrapone,Metyrapone,True
+822,Metyrosine,Metyrosine,True
+823,Mevastatin,Mevastatin,True
+824,Mexiletine,Mexiletine,True
+825,Midazolam,Midazolam,True
+826,Midodrine,Midodrine,True
+827,Midostaurin,Midostaurin,True
+828,Mifepristone,Mifepristone,True
+829,Migalastat,Migalastat,True
+830,Miglitol,Miglitol,True
+831,Miglustat,Miglustat,True
+832,Milnacipran,Milnacipran,True
+833,Miltefosine,Miltefosine,True
+834,Minocycline,Minocycline,True
+835,Minoxidil,Minoxidil,True
+836,Mipomersen,Mipomersen,True
+837,Mirabegron,Mirabegron,True
+838,Mirtazapine,Mirtazapine,True
+839,Misoprostol,Misoprostol,True
+840,Mitapivat,Mitapivat,True
+841,Mitotane,Mitotane,True
+842,Mobocertinib,Mobocertinib,True
+843,Moclobemide,Moclobemide,True
+844,Modafinil,Modafinil,True
+845,Moexipril,Moexipril,True
+846,Molindone,Molindone,True
+847,Molnupiravir,,False
+848,Momelotinib,Momelotinib,True
+849,Monopotassium phosphate,,False
+850,Montelukast,Montelukast,True
+851,Monteplase,,False
+852,Morphine,Morphine,True
+853,Moxidectin,Moxidectin,True
+854,Moxifloxacin,Moxifloxacin,True
+855,Mycophenolate mofetil,Mycophenolate mofetil,True
+856,Mycophenolic acid,Mycophenolic acid,True
+857,Nabilone,Nabilone,True
+858,Nabumetone,Nabumetone,True
+859,Nadolol,Nadolol,True
+860,Nadroparin,Nadroparin,True
+861,Nafamostat,Nafamostat,True
+862,Nafarelin,Nafarelin,True
+863,Nafcillin,Nafcillin,True
+864,Naftazone,,False
+865,Nalbuphine,Nalbuphine,True
+866,Naldemedine,Naldemedine,True
+867,Nalidixic acid,Nalidixic acid,True
+868,Nalmefene,Nalmefene,True
+869,Naloxegol,Naloxegol,True
+870,Naloxone,Naloxone,True
+871,Naltrexone,Naltrexone,True
+872,Naproxen,Naproxen,True
+873,Naratriptan,Naratriptan,True
+874,Nateglinide,Nateglinide,True
+875,Nebivolol,Nebivolol,True
+876,Nefazodone,Nefazodone,True
+877,Nelfinavir,Nelfinavir,True
+878,Neratinib,Neratinib,True
+879,Netupitant,Netupitant,True
+880,Nevirapine,Nevirapine,True
+881,Niacin,Niacin,True
+882,Nicardipine,Nicardipine,True
+883,Nicotine,Nicotine,True
+884,Nifedipine,Nifedipine,True
+885,Nifurtimox,Nifurtimox,True
+886,Nilotinib,Nilotinib,True
+887,Nilutamide,Nilutamide,True
+888,Nilvadipine,Nilvadipine,True
+889,Nimodipine,Nimodipine,True
+890,Nintedanib,Nintedanib,True
+891,Niraparib,Niraparib,True
+892,Nirmatrelvir,Nirmatrelvir,True
+893,Nirogacestat,Nirogacestat,True
+894,Nisoldipine,Nisoldipine,True
+895,Nitazoxanide,Nitazoxanide,True
+896,Nitisinone,Nitisinone,True
+897,Nitrazepam,Nitrazepam,True
+898,Nitrendipine,Nitrendipine,True
+899,Nitrofurantoin,Nitrofurantoin,True
+900,Nitroglycerin,Nitroglycerin,True
+901,Nizatidine,Nizatidine,True
+902,Norethisterone,Norethisterone,True
+903,Norfloxacin,Norfloxacin,True
+904,Norgestimate,Norgestimate,True
+905,Norgestrel,Norgestrel,True
+906,Normethadone,,False
+907,Nortriptyline,Nortriptyline,True
+908,Nylidrin,Nylidrin,True
+909,Obeticholic acid,Obeticholic acid,True
+910,Obinutuzumab,,False
+911,Octreotide,Octreotide,True
+912,Odevixibat,Odevixibat,True
+913,Ofloxacin,Ofloxacin,True
+914,Olanzapine,Olanzapine,True
+915,Olaparib,Olaparib,True
+916,Olmesartan,Olmesartan,True
+917,Olsalazine,Olsalazine,True
+918,Olutasidenib,Olutasidenib,True
+919,Omadacycline,Omadacycline,True
+920,Omaveloxolone,Omaveloxolone,True
+921,Ombitasvir,Ombitasvir,True
+922,Omega-3-acid ethyl esters,Omega-3-acid ethyl esters,True
+923,Omega-3-carboxylic acids,Omega-3-carboxylic acids,True
+924,Omeprazole,Omeprazole,True
+925,Ondansetron,Ondansetron,True
+926,Opicapone,Opicapone,True
+927,Opium,Opium,True
+928,Orciprenaline,Orciprenaline,True
+929,Orlistat,Orlistat,True
+930,Orphenadrine,Orphenadrine,True
+931,Oseltamivir,Oseltamivir,True
+932,Osilodrostat,Osilodrostat,True
+933,Osimertinib,Osimertinib,True
+934,Ospemifene,Ospemifene,True
+935,Otamixaban,Otamixaban,True
+936,Oteracil,,False
+937,Oteseconazole,Oteseconazole,True
+938,Ox bile extract,,False
+939,Oxaprozin,Oxaprozin,True
+940,Oxatomide,Oxatomide,True
+941,Oxazepam,Oxazepam,True
+942,Oxcarbazepine,Oxcarbazepine,True
+943,Oxilofrine,,False
+944,Oxprenolol,Oxprenolol,True
+945,Oxtriphylline,Oxtriphylline,True
+946,Oxybutynin,Oxybutynin,True
+947,Oxycodone,Oxycodone,True
+948,Oxymorphone,Oxymorphone,True
+949,Oxyphenbutazone,Oxyphenbutazone,True
+950,Oxytetracycline,Oxytetracycline,True
+951,Ozanimod,Ozanimod,True
+952,Paclitaxel,Paclitaxel,True
+953,Pacritinib,Pacritinib,True
+954,Palbociclib,Palbociclib,True
+955,Paliperidone,Paliperidone,True
+956,Palonosetron,Palonosetron,True
+957,Palovarotene,Palovarotene,True
+958,Pancrelipase,,False
+959,Pancrelipase amylase,,False
+960,Pancrelipase lipase,,False
+961,Pancrelipase protease,,False
+962,Panobinostat,Panobinostat,True
+963,Pantoprazole,Pantoprazole,True
+964,Pargyline,Pargyline,True
+965,Paricalcitol,Paricalcitol,True
+966,Paritaprevir,Paritaprevir,True
+967,Parnaparin,,False
+968,Paromomycin,Paromomycin,True
+969,Paroxetine,Paroxetine,True
+970,Patiromer,,False
+971,Pazopanib,Pazopanib,True
+972,Pegaspargase,Pegaspargase,True
+973,Peginterferon alfa-2a,Peginterferon alfa-2a,True
+974,Peginterferon alfa-2b,Peginterferon alfa-2b,True
+975,Pemetrexed,Pemetrexed,True
+976,Pemigatinib,Pemigatinib,True
+977,Pemoline,,False
+978,Penicillamine,Penicillamine,True
+979,Pentaerythritol tetranitrate,Pentaerythritol tetranitrate,True
+980,Pentazocine,Pentazocine,True
+981,Pentosan polysulfate,Pentosan polysulfate,True
+982,Pentoxifylline,Pentoxifylline,True
+983,Pentoxyverine,Pentoxyverine,True
+984,Pepsin,,False
+985,Perampanel,Perampanel,True
+986,Pergolide,Pergolide,True
+987,Periciazine,Periciazine,True
+988,Perindopril,Perindopril,True
+989,Perphenazine,Perphenazine,True
+990,Pexidartinib,Pexidartinib,True
+991,Phenacemide,Phenacemide,True
+992,Phenazopyridine,Phenazopyridine,True
+993,Phendimetrazine,Phendimetrazine,True
+994,Phenelzine,Phenelzine,True
+995,Phenindamine,Phenindamine,True
+996,Phenindione,Phenindione,True
+997,Phenobarbital,Phenobarbital,True
+998,Phenoxymethylpenicillin,Phenoxymethylpenicillin,True
+999,Phenprocoumon,Phenprocoumon,True
+1000,Phentermine,Phentermine,True
+1001,Phenylbutazone,Phenylbutazone,True
+1002,Phenylbutyric acid,Phenylbutyric acid,True
+1003,Phenylpropanolamine,Phenylpropanolamine,True
+1004,Phenytoin,Phenytoin,True
+1005,Pibrentasvir,Pibrentasvir,True
+1006,Picosulfuric acid,Picosulfuric acid,True
+1007,Pilocarpine,Pilocarpine,True
+1008,Pimavanserin,Pimavanserin,True
+1009,Pimozide,Pimozide,True
+1010,Pinaverium,Pinaverium,True
+1011,Pindolol,Pindolol,True
+1012,Pioglitazone,Pioglitazone,True
+1013,Piperazine,Piperazine,True
+1014,Pipotiazine,Pipotiazine,True
+1015,Pirenzepine,Pirenzepine,True
+1016,Pirfenidone,Pirfenidone,True
+1017,Piroxicam,Piroxicam,True
+1018,Pirtobrutinib,Pirtobrutinib,True
+1019,Pitavastatin,Pitavastatin,True
+1020,Pitolisant,Pitolisant,True
+1021,Pivampicillin,Pivampicillin,True
+1022,Pivmecillinam,Pivmecillinam,True
+1023,Pizotifen,Pizotifen,True
+1024,Plantago seed,,False
+1025,Plecanatide,Plecanatide,True
+1026,Polatuzumab vedotin,Polatuzumab vedotin,True
+1027,Polyethylene glycol,Polyethylene glycol,True
+1028,Polythiazide,Polythiazide,True
+1029,Pomalidomide,Pomalidomide,True
+1030,Ponatinib,Ponatinib,True
+1031,Ponesimod,Ponesimod,True
+1032,Posaconazole,Posaconazole,True
+1033,Potassium bicarbonate,Potassium bicarbonate,True
+1034,Potassium chloride,Potassium chloride,True
+1035,Potassium citrate,,False
+1036,Practolol,Practolol,True
+1037,Pralsetinib,Pralsetinib,True
+1038,Pramipexole,Pramipexole,True
+1039,Pramlintide,Pramlintide,True
+1040,Prasugrel,Prasugrel,True
+1041,Pravastatin,Pravastatin,True
+1042,Prazepam,Prazepam,True
+1043,Praziquantel,Praziquantel,True
+1044,Prazosin,Prazosin,True
+1045,Prednisolone,Prednisolone,True
+1046,Prednisolone acetate,Prednisolone acetate,True
+1047,Prednisolone phosphate,Prednisolone phosphate,True
+1048,Prednisone,Prednisone,True
+1049,Pregabalin,Pregabalin,True
+1050,Pretomanid,Pretomanid,True
+1051,Prilocaine,Prilocaine,True
+1052,Primaquine,Primaquine,True
+1053,Primidone,Primidone,True
+1054,Probenecid,Probenecid,True
+1055,Probucol,Probucol,True
+1056,Procainamide,Procainamide,True
+1057,Procarbazine,Procarbazine,True
+1058,Procaterol,Procaterol,True
+1059,Prochlorperazine,Prochlorperazine,True
+1060,Procyclidine,Procyclidine,True
+1061,Progesterone,Progesterone,True
+1062,Proguanil,Proguanil,True
+1063,Promazine,Promazine,True
+1064,Promethazine,Promethazine,True
+1065,Propafenone,Propafenone,True
+1066,Propantheline,Propantheline,True
+1067,Propiverine,Propiverine,True
+1068,Propranolol,Propranolol,True
+1069,Propylthiouracil,Propylthiouracil,True
+1070,Protein C,Protein C,True
+1071,Protein S human,Protein S human,True
+1072,Protirelin,Protirelin,True
+1073,Prucalopride,Prucalopride,True
+1074,Pseudoephedrine,Pseudoephedrine,True
+1075,Pyrazinamide,Pyrazinamide,True
+1076,Pyridostigmine,Pyridostigmine,True
+1077,Pyrimethamine,Pyrimethamine,True
+1078,Quazepam,Quazepam,True
+1079,Quetiapine,Quetiapine,True
+1080,Quinagolide,Quinagolide,True
+1081,Quinapril,Quinapril,True
+1082,Quinethazone,Quinethazone,True
+1083,Quinidine,Quinidine,True
+1084,Quinine,Quinine,True
+1085,Quizartinib,Quizartinib,True
+1086,Rabeprazole,Rabeprazole,True
+1087,Racepinephrine,Racepinephrine,True
+1088,Radium Ra 223 dichloride,,False
+1089,Raloxifene,Raloxifene,True
+1090,Raltegravir,Raltegravir,True
+1091,Ramelteon,Ramelteon,True
+1092,Ramipril,Ramipril,True
+1093,Ranitidine,Ranitidine,True
+1094,Ranolazine,Ranolazine,True
+1095,Rasagiline,Rasagiline,True
+1096,Rebamipide,Rebamipide,True
+1097,Regadenoson,Regadenoson,True
+1098,Regorafenib,Regorafenib,True
+1099,Relugolix,Relugolix,True
+1100,Remifentanil,Remifentanil,True
+1101,Remimazolam,Remimazolam,True
+1102,Repaglinide,Repaglinide,True
+1103,Repotrectinib,Repotrectinib,True
+1104,Reserpine,Reserpine,True
+1105,Resmetirom,Resmetirom,True
+1106,Reteplase,Reteplase,True
+1107,Reviparin,,False
+1108,Revumenib,Revumenib,True
+1109,Ribavirin,Ribavirin,True
+1110,Ribociclib,Ribociclib,True
+1111,Rifabutin,Rifabutin,True
+1112,Rifampin,Rifampin,True
+1113,Rifamycin,Rifamycin,True
+1114,Rifapentine,Rifapentine,True
+1115,Rifaximin,Rifaximin,True
+1116,Rilmenidine,Rilmenidine,True
+1117,Rilpivirine,Rilpivirine,True
+1118,Riluzole,Riluzole,True
+1119,Rimegepant,Rimegepant,True
+1120,Riociguat,Riociguat,True
+1121,Ripretinib,Ripretinib,True
+1122,Risdiplam,Risdiplam,True
+1123,Risedronic acid,Risedronic acid,True
+1124,Risperidone,Risperidone,True
+1125,Ritlecitinib,Ritlecitinib,True
+1126,Ritonavir,Ritonavir,True
+1127,Rivaroxaban,Rivaroxaban,True
+1128,Rivastigmine,Rivastigmine,True
+1129,Rizatriptan,Rizatriptan,True
+1130,Rofecoxib,Rofecoxib,True
+1131,Roflumilast,Roflumilast,True
+1132,Rolapitant,Rolapitant,True
+1133,Rolitetracycline,Rolitetracycline,True
+1134,Romidepsin,Romidepsin,True
+1135,Romosozumab,Romosozumab,True
+1136,Ropinirole,Ropinirole,True
+1137,Rosiglitazone,Rosiglitazone,True
+1138,Rosuvastatin,Rosuvastatin,True
+1139,Roxadustat,Roxadustat,True
+1140,Rucaparib,Rucaparib,True
+1141,Rufinamide,Rufinamide,True
+1142,Rupatadine,Rupatadine,True
+1143,Ruxolitinib,Ruxolitinib,True
+1144,Safinamide,Safinamide,True
+1145,Salmon calcitonin,Salmon calcitonin,True
+1146,Salsalate,Salsalate,True
+1147,Samidorphan,Samidorphan,True
+1148,Sapropterin,Sapropterin,True
+1149,Saquinavir,Saquinavir,True
+1150,Sarecycline,Sarecycline,True
+1151,Saruplase,,False
+1152,Saxagliptin,Saxagliptin,True
+1153,Scopolamine,Scopolamine,True
+1154,Secnidazole,Secnidazole,True
+1155,Secobarbital,Secobarbital,True
+1156,Segesterone acetate,Segesterone acetate,True
+1157,Seladelpar,Seladelpar,True
+1158,Selegiline,Selegiline,True
+1159,Selinexor,Selinexor,True
+1160,Selpercatinib,Selpercatinib,True
+1161,Selumetinib,Selumetinib,True
+1162,Semaglutide,Semaglutide,True
+1163,Semuloparin,,False
+1164,Sennosides,Sennosides,True
+1165,Serdexmethylphenidate,Serdexmethylphenidate,True
+1166,Sertraline,Sertraline,True
+1167,Sevelamer,,False
+1168,Sildenafil,Sildenafil,True
+1169,Silicon,,False
+1170,Silodosin,Silodosin,True
+1171,Silodrate,,False
+1172,Simeprevir,Simeprevir,True
+1173,Simethicone,Simethicone,True
+1174,Simvastatin,Simvastatin,True
+1175,Siponimod,Siponimod,True
+1176,Sirolimus,Sirolimus,True
+1177,Sitagliptin,Sitagliptin,True
+1178,Sitaxentan,Sitaxentan,True
+1179,Sodium bicarbonate,Sodium bicarbonate,True
+1180,Sodium citrate,Sodium citrate,True
+1181,Sodium feredetate,,False
+1182,Sodium fluoride,Sodium fluoride,True
+1183,Sodium lauryl sulfate,Sodium lauryl sulfate,True
+1184,Sodium oxybate,Sodium oxybate,True
+1185,"Sodium phosphate, dibasic","Sodium phosphate, dibasic",True
+1186,"Sodium phosphate, dibasic, unspecified form",,False
+1187,"Sodium phosphate, monobasic, unspecified form","Sodium phosphate, monobasic, unspecified form",True
+1188,Sofosbuvir,Sofosbuvir,True
+1189,Solifenacin,Solifenacin,True
+1190,Solriamfetol,Solriamfetol,True
+1191,Sonidegib,Sonidegib,True
+1192,Sorafenib,Sorafenib,True
+1193,Sotagliflozin,Sotagliflozin,True
+1194,Sotalol,Sotalol,True
+1195,Sotorasib,Sotorasib,True
+1196,Spaglumic acid,Spaglumic acid,True
+1197,Sparsentan,Sparsentan,True
+1198,Spinosad,Spinosad,True
+1199,Spiramycin,Spiramycin,True
+1200,Spirapril,Spirapril,True
+1201,Spironolactone,Spironolactone,True
+1202,Stavudine,Stavudine,True
+1203,Stiripentol,Stiripentol,True
+1204,Streptokinase,Streptokinase,True
+1205,Strontium ranelate,,False
+1206,Succimer,,False
+1207,Sucralfate,Sucralfate,True
+1208,Sufentanil,Sufentanil,True
+1209,Sulfadoxine,Sulfadoxine,True
+1210,Sulfamethizole,Sulfamethizole,True
+1211,Sulfasalazine,Sulfasalazine,True
+1212,Sulfinpyrazone,Sulfinpyrazone,True
+1213,Sulindac,Sulindac,True
+1214,Sulodexide,Sulodexide,True
+1215,Sulopenem etzadroxil,Sulopenem etzadroxil,True
+1216,Sulpiride,Sulpiride,True
+1217,Sulthiame,Sulthiame,True
+1218,Sumatriptan,Sumatriptan,True
+1219,Sunitinib,Sunitinib,True
+1220,Suvorexant,Suvorexant,True
+1221,"Synthetic Conjugated Estrogens, A","Synthetic Conjugated Estrogens, A",True
+1222,"Synthetic Conjugated Estrogens, B","Synthetic Conjugated Estrogens, B",True
+1223,Tacrine,Tacrine,True
+1224,Tacrolimus,Tacrolimus,True
+1225,Tadalafil,Tadalafil,True
+1226,Tafamidis,Tafamidis,True
+1227,Tafenoquine,Tafenoquine,True
+1228,Talazoparib,Talazoparib,True
+1229,Taliglucerase alfa,,False
+1230,Tamoxifen,Tamoxifen,True
+1231,Tamsulosin,Tamsulosin,True
+1232,Tapentadol,Tapentadol,True
+1233,Tasimelteon,Tasimelteon,True
+1234,Tazemetostat,Tazemetostat,True
+1235,Technetium Tc-99m disofenin,,False
+1236,Technetium Tc-99m mebrofenin,Technetium Tc-99m mebrofenin,True
+1237,Technetium Tc-99m medronate,,False
+1238,Technetium Tc-99m sulfur colloid,,False
+1239,Tecovirimat,Tecovirimat,True
+1240,Tedizolid phosphate,Tedizolid phosphate,True
+1241,Tegafur,Tegafur,True
+1242,Tegaserod,Tegaserod,True
+1243,Telaprevir,Telaprevir,True
+1244,Telbivudine,Telbivudine,True
+1245,Telithromycin,Telithromycin,True
+1246,Telmisartan,Telmisartan,True
+1247,Telotristat ethyl,Telotristat ethyl,True
+1248,Temazepam,Temazepam,True
+1249,Temozolomide,Temozolomide,True
+1250,Temsirolimus,Temsirolimus,True
+1251,Tenapanor,Tenapanor,True
+1252,Tenecteplase,Tenecteplase,True
+1253,Teniposide,Teniposide,True
+1254,Tenofovir,Tenofovir,True
+1255,Tenofovir alafenamide,Tenofovir alafenamide,True
+1256,Tenofovir disoproxil,Tenofovir disoproxil,True
+1257,Tenoxicam,Tenoxicam,True
+1258,Tepotinib,Tepotinib,True
+1259,Terazosin,Terazosin,True
+1260,Terbinafine,Terbinafine,True
+1261,Terfenadine,Terfenadine,True
+1262,Teriflunomide,Teriflunomide,True
+1263,Teriparatide,Teriparatide,True
+1264,Testosterone undecanoate,Testosterone undecanoate,True
+1265,Tetrabenazine,Tetrabenazine,True
+1266,Tetracycline,Tetracycline,True
+1267,Tetraferric tricitrate decahydrate,Tetraferric tricitrate decahydrate,True
+1268,Tetrofosmin,,False
+1269,Tezacaftor,Tezacaftor,True
+1270,Thalidomide,Thalidomide,True
+1271,Theophylline,Theophylline,True
+1272,Thiethylperazine,Thiethylperazine,True
+1273,Thiopental,Thiopental,True
+1274,Thioproperazine,Thioproperazine,True
+1275,Thioridazine,Thioridazine,True
+1276,Thiotepa,Thiotepa,True
+1277,Thiothixene,Thiothixene,True
+1278,Tiagabine,Tiagabine,True
+1279,Tianeptine,Tianeptine,True
+1280,Tiaprofenic acid,Tiaprofenic acid,True
+1281,Tibolone,Tibolone,True
+1282,Ticagrelor,Ticagrelor,True
+1283,Ticlopidine,Ticlopidine,True
+1284,Tilactase,,False
+1285,Tiludronic acid,Tiludronic acid,True
+1286,Tinidazole,Tinidazole,True
+1287,Tinzaparin,Tinzaparin,True
+1288,Tioclomarol,,False
+1289,Tioguanine,Tioguanine,True
+1290,Tiopronin,Tiopronin,True
+1291,Tiotropium,Tiotropium,True
+1292,Tipiracil,Tipiracil,True
+1293,Tipranavir,Tipranavir,True
+1294,Tirzepatide,Tirzepatide,True
+1295,Tivozanib,Tivozanib,True
+1296,Tizanidine,Tizanidine,True
+1297,Tocopherylquinone,,False
+1298,Tofacitinib,Tofacitinib,True
+1299,Tolazamide,Tolazamide,True
+1300,Tolbutamide,Tolbutamide,True
+1301,Tolcapone,Tolcapone,True
+1302,Tolevamer,,False
+1303,Tolmetin,Tolmetin,True
+1304,Tolterodine,Tolterodine,True
+1305,Tolvaptan,Tolvaptan,True
+1306,Topiramate,Topiramate,True
+1307,Topotecan,Topotecan,True
+1308,Torasemide,Torasemide,True
+1309,Toremifene,Toremifene,True
+1310,Tovorafenib,Tovorafenib,True
+1311,Trabectedin,Trabectedin,True
+1312,Tramadol,Tramadol,True
+1313,Trametinib,Trametinib,True
+1314,Trandolapril,Trandolapril,True
+1315,Tranexamic acid,Tranexamic acid,True
+1316,Tranylcypromine,Tranylcypromine,True
+1317,Trastuzumab emtansine,Trastuzumab emtansine,True
+1318,Trazodone,Trazodone,True
+1319,Treprostinil,Treprostinil,True
+1320,Tretinoin,Tretinoin,True
+1321,Triamterene,Triamterene,True
+1322,Triazavirin,,False
+1323,Triazolam,Triazolam,True
+1324,Triclabendazole,Triclabendazole,True
+1325,Triethylenetetramine,Triethylenetetramine,True
+1326,Trifluoperazine,Trifluoperazine,True
+1327,Trifluridine,Trifluridine,True
+1328,Triflusal,Triflusal,True
+1329,Triheptanoin,Triheptanoin,True
+1330,Trihexyphenidyl,Trihexyphenidyl,True
+1331,Trimebutine,Trimebutine,True
+1332,Trimetazidine,Trimetazidine,True
+1333,Trimethadione,Trimethadione,True
+1334,Trimethobenzamide,Trimethobenzamide,True
+1335,Trimipramine,Trimipramine,True
+1336,Trioxsalen,,False
+1337,Triprolidine,Triprolidine,True
+1338,Trofinetide,Trofinetide,True
+1339,Tropisetron,Tropisetron,True
+1340,Trospium,Trospium,True
+1341,Trovafloxacin,Trovafloxacin,True
+1342,Tucatinib,Tucatinib,True
+1343,Ubidecarenone,Ubidecarenone,True
+1344,Ubrogepant,Ubrogepant,True
+1345,Ulipristal,Ulipristal,True
+1346,Umbralisib,Umbralisib,True
+1347,Upadacitinib,Upadacitinib,True
+1348,Urea C-13,,False
+1349,Urea C-14,,False
+1350,Uridine triacetate,,False
+1351,Urokinase,Urokinase,True
+1352,Ursodeoxycholic acid,Ursodeoxycholic acid,True
+1353,Vadadustat,Vadadustat,True
+1354,Valaciclovir,Valaciclovir,True
+1355,Valbenazine,Valbenazine,True
+1356,Valdecoxib,Valdecoxib,True
+1357,Valganciclovir,Valganciclovir,True
+1358,Valoctocogene roxaparvovec,,False
+1359,Valproic acid,Valproic acid,True
+1360,Valsartan,Valsartan,True
+1361,Vamorolone,Vamorolone,True
+1362,Vancomycin,Vancomycin,True
+1363,Vandetanib,Vandetanib,True
+1364,Vardenafil,Vardenafil,True
+1365,Varenicline,Varenicline,True
+1366,Velpatasvir,Velpatasvir,True
+1367,Vemurafenib,Vemurafenib,True
+1368,Venetoclax,Venetoclax,True
+1369,Venlafaxine,Venlafaxine,True
+1370,Verapamil,Verapamil,True
+1371,Vericiguat,Vericiguat,True
+1372,Vibegron,Vibegron,True
+1373,Vibrio cholerae CVD 103-HgR strain live antigen,,False
+1374,Vigabatrin,Vigabatrin,True
+1375,Vilazodone,Vilazodone,True
+1376,Vildagliptin,Vildagliptin,True
+1377,Viloxazine,Viloxazine,True
+1378,Vinblastine,Vinblastine,True
+1379,Vincristine,Vincristine,True
+1380,Vindesine,Vindesine,True
+1381,Vinflunine,Vinflunine,True
+1382,Vinorelbine,Vinorelbine,True
+1383,Vismodegib,Vismodegib,True
+1384,Vitamin D,Vitamin D,True
+1385,Vitamin E,Vitamin E,True
+1386,Voclosporin,Voclosporin,True
+1387,Vonoprazan,Vonoprazan,True
+1388,Vorapaxar,Vorapaxar,True
+1389,Vorasidenib,Vorasidenib,True
+1390,Voriconazole,Voriconazole,True
+1391,Vorinostat,Vorinostat,True
+1392,Vortioxetine,Vortioxetine,True
+1393,Vosoritide,Vosoritide,True
+1394,Voxelotor,Voxelotor,True
+1395,Voxilaprevir,Voxilaprevir,True
+1396,Warfarin,Warfarin,True
+1397,Xanomeline,Xanomeline,True
+1398,Ximelagatran,Ximelagatran,True
+1399,Yohimbine,Yohimbine,True
+1400,Zafirlukast,Zafirlukast,True
+1401,Zalcitabine,Zalcitabine,True
+1402,Zaleplon,Zaleplon,True
+1403,Zanubrutinib,Zanubrutinib,True
+1404,Zeaxanthin,,False
+1405,Ziconotide,Ziconotide,True
+1406,Zidovudine,Zidovudine,True
+1407,Zileuton,Zileuton,True
+1408,Zinc,Zinc,True
+1409,Zinc acetate,Zinc acetate,True
+1410,Zinc ascorbate,,False
+1411,Zinc citrate,,False
+1412,Zinc gluconate,,False
+1413,Zinc oxide,,False
+1414,Zinc sulfate,,False
+1415,"Zinc sulfate, unspecified form","Zinc sulfate, unspecified form",True
+1416,Ziprasidone,Ziprasidone,True
+1417,Zolmitriptan,Zolmitriptan,True
+1418,Zolpidem,Zolpidem,True
+1419,Zonisamide,Zonisamide,True
+1420,Zopiclone,Zopiclone,True
+1421,Zuclopenthixol,Zuclopenthixol,True
+1422,Zuranolone,Zuranolone,True
+1423,Sulfinpyr,,False
+1424,"Synthetic Conjugated Estrogens1201,Spironolactone,pharmaceutical,",,False
+1425,lepin,,False
+1426,FSH,,False
+1427,statin,,False
+1428,cyclosporin A,,False
+1429,5-hydroxyindole acetic acid,,False
+1430,Vioxx,,False
+1431,arsenite,,False
+1432,arginine,,False
+1433,corticosterone,,False
+1434,phenelzine sulfate,,False
+1435,RS,,False
+1436,streptomycin,,False
+1437,L-NAME,,False
+1438,diethylnitrosamine,,False
+1439,Se-Pt,,False
+1440,sodium arsenite,,False
+1441,25-hydroyvitamin D,,False
+1442,ammonia,,False
+1443,thiobarbituric acid-reactive substances,,False
+1444,Fluoride,,False
+1445,Fe,,False
+1446,(S)-3,,False
+1447,AChE,,False
+1448,cannabinoid,,False
+1449,SOD,,False
+1450,CAT,,False
+1451,T(3),,False
+1452,MET,,False
+1453,BSA,,False
+1454,CIS,,False
+1455,Al,,False
+1456,pancreatic lipase,,False
+1457,corticosteroid,,False
+1458,TP,,False
+1459,proton-pump inhibitors,,False
+1460,tetracycline hydrochloride,,False
+1461,25-hydroxyvitamin D,,False
+1462,folate,,False
+1463,pentobarbital,,False
+1464,acetate,,False
+1465,pidotimod,,False
+1466,platinum,,False
+1467,4-chloro-DL-phenylalanine methyl ester hydrochloride,,False
+1468,Streptozotocin,,False
+1469,aspirin,,False
+1470,PTH,,False
+1471,AMB,,False
+1472,antidepressants,,False
+1473,dehydroepiandrosterone,,False
+1474,IDV,,False
+1475,Lithium,,False
+1476,hydrogen peroxide,,False
+1477,PB,,False
+1478,Ca,,False
+1479,Soy isoflavone aglycone,,False
+1480,salicylic acid,,False
+1481,dextran sulfate sodium,,False
+1482,alcohol,,False
+1483,aminoglycosides,,False
+1484,hydroquinone,,False
+1485,oyster protein hydrolysates,,False
+1486,glucuronide,,False
+1487,L-NMMA,,False
+1488,CBZ,,False
+1489,deoxycholic acid,,False
+1490,diclofinac,,False
+1491,leptin,,False
+1492,selenite,,False
+1493,DOX,,False
+1494,hemin,,False
+1495,acetylcholine,,False
+1496,histamine,,False
+1497,KCl,,False
+1498,acetylcholine esterase,,False
+1499,mitomycin,,False
+1500,5-fluorouracil,,False
+1501,BLM,,False
+1502,Mg,,False
+1503,daunorubicin,,False
+1504,AST,,False
+1505,Phenylephrine,,False
+1506,protease inhibitors,,False
+1507,Raubasine,,False
+1508,luteinizing hormone,,False
+1509,Calcitriol,,False
+1510,quercetin,,False
+1511,hPTH,,False
+1512,M-pred,,False
+1513,talinolol,,False
+1514,ZnSO4,,False
+1515,arsenicated,,False
+1516,ETP,,False
+1517,opioidergic system,,False
+1518,qunidine,,False
+1519,1-methylnicotiamide,,False
+1520,pregnenolone,,False
+1521,PG,,False
+1522,bicuculline,,False
+1523,H-89,,False
+1524,SNP,,False
+1525,Zn,,False
+1526,free tri-iodothyronine,,False
+1527,selenium,,False
+1528,tri-iodothyronine,,False
+1529,theobromine,,False
+1530,benzodiazepines,,False
+1531,Ag-nanoparticles,,False
+1532,Ca2+ channel blocker,,False
+1533,DPI,,False
+1534,fibrin,,False
+1535,ACh,,False
+1536,catalase,,False
+1537,catecholamine,,False
+1538,Endoxan,,False
+1539,naloxone hydrochloride,,False
+1540,trypsin,,False
+1541,K+,,False
+1542,dihydrotestosterone,,False
+1543,KAN,,False
+1544,APAP,,False
+1545,dexamethazone,,False
+1546,N(G)-monomethyl-L-arginine,,False
+1547,LH,,False
+1548,claudin-4,,False
+1549,silymarin,,False
+1550,T4,,False
+1551,calcium,,False
+1552,DPPH,,False
+1553,androgen,,False
+1554,IPC,,False
+1555,Bleomycin,,False
+1556,TBARS,,False
+1557,Zn-Met,,False
+1558,nitric oxide,,False
+1559,MMS,,False
+1560,aluminium chloride,,False
+1561,thrombin,,False
+1562,DXR,,False
+1563,Lop,,False
+1564,Methylmercury,,False
+1565,calcium ionophore,,False
+1566,iron(III)-hydroxide polymaltose complex,,False
+1567,Ag,,False
+1568,arsenic ion,,False
+1569,glucagon,,False
+1570,bovine serum albumin,,False
+1571,actinomycin D-chase,,False
+1572,CLA,,False
+1573,PGE(2),,False
+1574,DBP,,False
+1575,glutathione,,False
+1576,loperamide,,False
+1577,IGF-I,,False
+1578,anandamide,,False
+1579,ALT,,False
+1580,Aluminum,,False
+1581,BoNT/A,,False
+1582,epicatechin,,False
+1583,Gentamicin,,False
+1584,DMSO,,False
+1585,amoxicillin/clavulanic acid,,False
+1586,corticosteroids,,False
+1587,amrinone,,False
+1588,5-FU,,False
+1589,PE,,False
+1590,naloxone methiodide,,False
+1591,NO,,False
+1592,arsenic,,False
+1593,di-n-butylphthalate,,False
+1594,mitomycin C,,False
+1595,Hcy,,False
+1596,bacitracin,,False
+1597,(acebutolol,,False
+1598,AGII,,False
+1599,PGx,,False
+1600,human parathyroid hormone,,False
+1601,prostaglandin E(2),,False
+1602,1,,False
+1603,DA,,False
+1604,buterylcholinesterase,,False
+1605,glibenclamide,,False
+1606,gemcitabine,,False
+1607,Estrogen,,False
+1608,glucose,,False
+1609,NSAID,,False
+1610,copper,,False
+1611,STZ,,False
+1612,propionate,,False
+1613,GSH,,False
+1614,arbekacin,,False
+1615,insulin,,False
+1616,Sodium nitroprusside,,False
+1617,PI,,False
+1618,adiponectin,,False
+1619,BoNTs,,False
+1620,angiotensin I,,False
+1621,nicergoline,,False
+1622,Hydroxybupropion,,False
+1623,WAY 100635,,False
+1624,alanine aminotransferase,,False
+1625,METH,,False
+1626,thyroxin,,False
+1627,diclofenac sodium,,False
+1628,PC,,False
+1629,Cadmium,,False
+1630,dimethyl sulfoxide,,False
+1631,ethinyl estradiol,,False
+1632,taxol,,False
+1633,tert-butyl hydroperoxide,,False
+1634,α-naphthoflavone,,False
+1635,2'-azinobis-3-ethylbenzothiazoline-6-sulfonic acid,,False
+1636,AMX,,False
+1637,Testosterone,,False
+1638,butyrylcholinesterase,,False
+1639,acetic acid,,False
+1640,immunosuppressant,,False
+1641,CsA,,False
+1642,paraoxonase,,False
+1643,5-FLU,,False
+1644,sodium selenate,,False
+1645,nitrite,,False
+1646,NAC,,False
+1647,acetylcholinesterase,,False
+1648,PhIP,,False
+1649,antiplatelet,,False
+1650,Zn-Gly,,False
+1651,5-HIAA,,False
+1652,conjugated dienes,,False
+1653,albumin,,False
+1654,vitamin A,,False
+1655,VP-16,,False
+1656,angiotensin II,,False
+1657,AMPT,,False
+1658,reduced level of non-protein thiol,,False
+1659,meropenem,,False
+1660,Na+,,False
+1661,LT,,False
+1662,homocysteine,,False
+1663,methyl-L-dopa sesquihydrate,,False
+1664,urethane,,False
+1665,serine,,False
+1666,DFP,,False
+1667,prostaglandin E2,,False
+1668,hyaluronidase,,False
+1669,CoCl2,,False
+1670,sodium selenite,,False
+1671,Ca++,,False
+1672,ISO,,False
+1673,N-acetylcysteine,,False
+1674,As3+,,False
+1675,DCA,,False
+1676,catechins,,False
+1677,Amp B,,False
+1678,adenosine tri phosphate,,False
+1679,Manganese,,False
+1680,androstenedione,,False
+1681,SA,,False
+1682,cortisol,,False
+1683,DEN,,False
+1684,α-tocopherol,,False
+1685,norepinephrine,,False
+1686,thyroid hormone,,False
+1687,somatostatin,,False
+1688,sulphonamide,,False
+1689,lactate,,False
+1690,glutathione peroxidase,,False
+1691,activators,,False
+1692,myeloperoxidase,,False
+1693,saline,,False
+1694,glucocorticoid,,False
+1695,quinolone,,False
+1696,prulifloxacin,,False
+1697,retinol,,False
+1698,anticoagulants,,False
+1699,TET,,False
+1700,castor oil,,False
+1701,sulfamethoxazole,,False
+1702,cyclosporine A,,False
+1703,artemisinin,,False
+1704,CPA,,False
+1705,nicotinamide,,False
+1706,DFO,,False
+1707,N-methyl-D-aspartate,,False
+1708,Cu,,False
+1709,diclofenak,,False
+1710,MMC,,False
+1711,T3,,False
+1712,glycogen,,False
+1713,2,,False
+1714,isorhamnetin,,False
+1715,thyroid-stimulating hormone,,False
+1716,prostaglandin,,False
+1717,folic acid,,False
+1718,ASA,,False
+1719,NaHCO3,,False
+1720,caffeine,,False
+1721,ceruleine,,False
+1722,triiodothyronine,,False
+1723,H₂O₂,,False
+1724,atenolol,,False
+1725,NPSH,,False
+1726,sulfaphenazole,,False
+1727,Tac,,False
+1728,TSH,,False
+1729,sulfate,,False
+1730,oxaliplatin,,False
+1731,CP,,False
+1732,N(G)-nitro-l-arginine methyl ester,,False
+1733,Cd,,False
+1734,MTZ,,False
+1735,dihydroergocristine,,False
+1736,L-phenylephrine,,False
+1737,non-steroidal anti-inflammatory drug,,False
+1738,free thyroxine,,False
+1739,aluminum chloride,,False
+1740,proton pump inhibitor,,False
+1741,MTX,,False
+1742,glutahione,,False
+1743,CHL,,False
+1744,chloroquine sulphate,,False
+1745,magnesium-L-aspartate hydrochloride,,False
+1746,pyridoxine,,False
+1747,dopamine,,False
+1748,17-hydroxyprogesterone,,False
+1749,α-glucosidase,,False
+1750,Maltofer,,False
+1751,ethanol,,False
+1752,interferon,,False
+1753,MDA,,False
+1754,22R-hydroxycholesterol,,False
+1755,parathyroid hormone,,False
+1756,CTX,,False
+1757,PTU,,False
+1758,collagenase,,False
+1759,ferric ions,,False
+1760,cholinesterase,,False
+1761,fumarate,,False
+1762,diazoxide,,False
+1763,fluoroquinolones,,False
+1764,salt,,False
+1765,interferon alpha and beta,,False
+1766,CORT,,False
+1767,Cm,,False
+1768,laccase,,False
+1769,C-peptide,,False
+1770,Ferrous ions,,False
+1771,calcium channel blockers,,False
+1772,statins,,False
+1773,Cysteine,,False
+1774,NE,,False
+1775,galanthamine,,False
+1776,CIP,,False
+1777,itraconazole capsules,,False
+1778,2-amino-1-methyl-6-phenylimidazo4,,False
+1779,superoxide dismutase,,False
+1780,guanidine,,False
+1781,secretion,,False
+1782,botulinum neurotoxins,,False
+1783,K+ channel opener,,False
+1784,H(2) O(2),,False
+1785,IH,,False
+1786,ferrous sulfate,,False
+1787,steroids,,False
+1788,zinc glycine chelate,,False
+1789,butyrate,,False
+1790,oxacillin,,False
+1791,lactic acid,,False
+1792,PGE2,,False
+1793,BChE,,False
+1794,methylxanthine,,False
+1795,reduced glutathione,,False
+1796,L-dopa,,False
+1797,estradiol,,False
+1798,glutamate,,False
+1799,superoxide,,False
+1800,TB,,False
+1801,uPA,,False
+1802,VBL,,False
+1803,polymixin B,,False
+1804,leukotriene C4,,False
+1805,leukotriene,,False
+1806,Ca(2+),,False
+1807,IFA,,False
+1808,L-thyroxine,,False
+1809,anti-malarial,,False
+1810,SI,,False
+1811,6beta-hydroxycortisol,,False
+1812,VA,,False
+1813,cotinine,,False
+1814,GPx,,False
+1815,MPO,,False
+1816,liver cholinesterase,,False
+1817,estrone-3-sulfate,,False
+1818,testosterone propionate,,False
+1819,iron glycine,,False
+1820,Lac,,False
+1821,Ca2,,False
+1822,dehydronifedipine,,False
+1823,EC,,False
+1824,T,,False
+1825,CB,,False
+1826,Rapamycin,,False
+1827,mercury,,False
+1828,sibutramine,,False
+1829,HG,,False
+1830,androgens,,False
+1831,Dibutyryl-cGMP,,False
+1832,galactosamine,,False
+1833,zinc methionine,,False
+1834,genotoxin,,False
+1835,NFP,,False
+1836,trimethoprim,,False
+1837,Mn,,False
+1838,carbachol,,False
+1839,fibrinogen,,False
+1840,anticholinestrase,,False
+1841,URE,,False
+1842,cortisone,,False
+1843,FPG,,False
+1844,malondialdehyde,,False
+1845,carbon tetrachloride,,False
+1846,amphotericin B,,False
+1847,pyrazole,,False
+1848,Botulinum neurotoxin type A,,False
+1849,T(4),,False
+1850,deferoxamine,,False
+1851,Am,,False
+1852,Methyl-prednisolone,,False
+1853,DMBA,,False
+1854,methamphetamine,,False
+1855,papaverine,,False
+1856,noradrenaline,,False
+1857,S-mephenytoin,,False
+1858,AlCl3,,False
+1859,arachidonic acid,,False
+1860,Piracetam,,False
+1861,antibiotic,,False
+1862,N(G)-nitro-L-arginine methyl ester (L-NAME),,False
+1863,rifampicin,,False
+1864,steroid,,False
+1865,AZT,,False
+1866,thapsigargin,,False
+1867,UI,,False
+1868,BuChE,,False
+1869,NO synthase inhibitor,,False
+1870,Diphenylene iodonium,,False
+1871,carbapenems,,False
+1872,bradykinin,,False
+1873,chelators,,False
+1874,Phe,,False
+1875,interferon-γ,,False
+1876,ChE,,False
+1877,acetaldehyde,,False
+1878,DHT,,False
+1879,actinomycin D,,False
+1880,lipase,,False
+1881,DSS,,False
+1882,different zinc sources groups,,False
+1883,RU486,,False
+1884,L-Cysteine,,False
+1885,Adriamycin,,False
+1886,mitomycin-C,,False
+1887,EE,,False
+1888,As(III),,False
+1889,sulfadimethoxine,,False
+1890,cefoxitin,,False
+1891,calcium hydrogen-phosphate,,False
+1892,Cys,,False
+1893,SMX,,False
+1894,thyroxine,,False
+1895,Ang II,,False
+1896,nifuroxazide,,False
+1897,CCl4,,False
+1898,cefmetazole,,False
+1899,sodium salicylate,,False
+1900,OPH,,False
+1901,t-BHP,,False
+1902,PCM,,False
+1903,kanamycin,,False
+1904,DS,,False
+1905,isoproterenol,,False
+1906,alkaline phosphatase,,False
+1907,malonaldehyde,,False
+1908,phenacetin,,False
+1909,ABTS,,False
+1910,Both drugs,,False
+1911,P,,False
+1912,PGI2,,False
+1913,taurocholate,,False
+1914,aspartate aminotransferase,,False
+1915,protein carbonyl,,False
+1916,β-naphthoflavone,,False
+1917,follicle-stimulating hormone,,False
+1918,choline,,False
+1919,HQ,,False
+1920,Se,,False
+1921,PPI,,False
+1922,CARB,,False
+1923,paracetamol,,False
+1924,E2,,False
+1925,tryptophan,,False
+1926,malathion,,False
+1927,7,,False
+1928,thyroid,,False
+1929,Vitamin-B9,,False
+1930,Ca2+ channel blockers La3+,,False
+1931,methyl methanesulfonate,,False
+1932,α-methyl-DL-tyrosine,,False
+1933,ALP,,False
+1934,tetraethylammonium,,False
+1935,Ambrisentan,,False
+1936,FT,,False
+1937,HSL,,False
+1938,serotonin,,False
+1939,Isorhoifolin,,False
+1940,Ellagic Acid,,False
+1941,Gluconic Acid,,False
+1942,(+)-Ursolic Acid,,False
+1943,L-Isoleucine,,False
+1944,beta-Maltose,,False
+1945,1-Palmitoylglycerol 3-phosphate,,False
+1946,Camphene,,False
+1947,Glycine,,False
+1948,Vicine,,False
+1949,"(3b,5a,6b,25R)-3,6-Dihydroxyspirostane-2,12-dione 3-[4'-(2''-glucosyl-3''-xylosyl)-galactoside]",,False
+1950,Cdp-DG(16:0/16:0),,False
+1951,Sulfate Ion,,False
+1952,Potassium oxide,,False
+1953,"1-Methyl-4-(6-methylhept-6-en-2-yl)cyclohexa-1,4-diene",,False
+1954,Eriocitrin,,False
+1955,L-Proline,,False
+1956,Malvidin,,False
+1957,D-Aspartic Acid,,False
+1958,4-Hydroxyglucobrassicin,,False
+1959,Palmitic Acid,,False
+1960,Lignin,,False
+1961,Pyrrolidine,,False
+1962,Stachyurin,,False
+1963,"2,3-Dihydroxybutanedioic Acid",,False
+1964,Eugenol,,False
+1965,Luteolin,,False
+1966,Potassium,,False
+1967,D-Glucose,,False
+1968,Nitrate,,False
+1969,Ethyl Acetate,,False
+1970,Gamma-Terpinene,,False
+1971,L-Leucine,,False
+1972,Stachyose,,False
+1973,alpha-Bergamotene,,False
+1974,Citronellol,,False
+1975,Stearic Acid,,False
+1976,L-Aspartic Acid,,False
+1977,Zingiberol,,False
+1978,Lauric Acid,,False
+1979,Allyl Isothiocyanate,,False
+1980,Npc212957,,False
+1981,Ascorbic acid; biotin; cyanocobalamin; dexpanthenol; ergocalciferol; folic acid; niacinamide; pyridoxine hydrochloride; riboflavin 5'-phosphate sodium; thiamine hydrochloride; vitamin A; vitamin E,,False
+1982,p-Menth-4(8)-en-3-one,,False
+1983,Epsilon-Polylysine,,False
+1984,"(1R,2S,4R,5S)-6-[(2R,3R,4S,5S)-3,4,5-trihydroxyoxan-2-yl]oxycyclohexane-1,2,3,4,5-pentol",,False
+1985,Narirutin,,False
+1986,Naringin,,False
+1987,Decanoic Acid,,False
+1988,alpha-D-lactose,,False
+1989,Calcium Oxide,,False
+1990,(-)-Zingiberene,,False
+1991,Raffinose,,False
+1992,Isobutanol,,False
+1993,Phytate,,False
+1994,Epigallocatechin,,False
+1995,D-Fructose,,False
+1996,beta-Sesquiphellandrene,,False
+1997,Hesperidin,,False
+1998,Diosgenin,,False
+1999,Water,,False
+2000,Catechin,,False
+2001,Menthofuran,,False
+2002,Delphinidin Chloride,,False
+2003,L-Serine,,False
+2004,Ethyl Lactate,,False
+2005,Galloylpunicalin,,False
+2006,2-Oxoglutaric Acid,,False
+2007,Cdp-DG(16:0/18:0),,False
+2008,"(3b,5a,25R)-3-Hydroxyspirostan-6-one 3-[2-acetylarabinosyl-(1->6)-glucoside]",,False
+2009,"3,3',4',5,7-Pentahydroxy-5'-methoxyflavylium",,False
+2010,Pyruvic Acid,,False
+2011,GlyTouCan:G35236GY,,False
+2012,Npc214502,,False
+2013,2-Methyl-2-butanol,,False
+2014,Benzoic Acid,,False
+2015,Hexanoic Acid,,False
+2016,1-Methyl-4-Prop-1-En-2-Ylcyclohexene,,False
+2017,L-Lactic Acid,,False
+2018,Curzerenone,,False
+2019,"1,8-Cineole",,False
+2020,Chlorine,,False
+2021,Putrescine,,False
+2022,Myrcene,,False
+2023,L-Glutamic Acid,,False
+2024,Gallic Acid,,False
+2025,D-Galacturonic Acid,,False
+2026,O-alpha-D-Glucopyranosyl-(1->4)-O-alpha-D-glucopyranosyl-(1->4)-D-glucopyranose,,False
+2027,Hydrogen Sulfide,,False
+2028,"Disodium;[3-[2,3-di(octadeca-9,12-dienoyloxy)propoxy-oxidophosphoryl]oxy-2-hydroxypropyl] 2,3-di(octadeca-9,12-dienoyloxy)propyl phosphate",,False
+2029,Invert Sugar,,False
+2030,Octanoic Acid,,False
+2031,beta-Lactose,,False
+2032,Apiole,,False
+2033,Peonidin 3-arabinoside,,False
+2034,Chrysoeriol 7-O-(6''-malonyl-apiosyl-glucoside),,False
+2035,An inositol,,False
+2036,Choline Alfoscerate,,False
+2037,4-Hydroxybenzoic Acid,,False
+2038,Malic Acid,,False
+2039,Genistin,,False
+2040,Pipecolic Acid,,False
+2041,Piperidines,,False
+2042,p-Cymen-8-ol,,False
+2043,Psoralen,,False
+2044,6'-Sialyllactose,,False
+2045,Beta-D-Glucose,,False
+2046,Hesperetin,,False
+2047,Terpinolene,,False
+2048,Nonanoic Acid,,False
+2049,Apigenin 7-O-(6''-malonyl-apiosyl-glucoside),,False
+2050,"Kaempferol 3,7,4'-O-triglucoside",,False
+2051,Lonicerin,,False
+2052,Peonidin 3-galactoside,,False
+2053,Sucrose,,False
+2054,Nicotinic Acid,,False
+2055,L-Threonine,,False
+2056,L-Ascorbic Acid,,False
+2057,(-)-alpha-Curcumene,,False
+2058,L-Arginine,,False
+2059,Betulinic Acid,,False
+2060,Acetylglycine,,False
+2061,4-Methoxyglucobrassicin,,False
+2062,Delphinidin 3-O-glucoside cation,,False
+2063,Fluoride Ion,,False
+2064,Magnesium ion,,False
+2065,"3,5-Dihydroxyphenyl beta-D-glucopyranoside",,False
+2066,Succinic Acid,,False
+2067,(-)-Cystine,,False
+2068,Hexanal,,False
+2069,4-Vinylguaiacol,,False
+2070,D-Arabitol,,False
+2071,"4-((3,3-Dimethyloxiran-2-Yl)Methoxy)Furo(3,2-G)Chromen-7-One",,False
+2072,Citric Acid,,False
+2073,Sodium,,False
+2074,L-Tryptophan,,False
+2075,"(2R,3R,4S,5S)-2,3,4,5-tetrahydroxyhexanal",,False
+2076,(-)-Isopulegol,,False
+2077,"Rubber, natural-smoked sheet and latex solids (hevea brasiliensis)",,False
+2078,"2-(3,4-Dihydroxyphenyl)-3,5,7-trihydroxy-1-Benzopyrylium",,False
+2079,L-Arabinose,,False
+2080,Myristicin,,False
+2081,Thiamine,,False
+2082,Curcumene,,False
+2083,Malonylgenistin,,False
+2084,Sorbitol,,False
+2085,(-)-beta-Sitosterol,,False
+2086,Eicosanoic Acid,,False
+2087,Imperatorin,,False
+2088,Turmerone,,False
+2089,Arbutin,,False
+2090,Luteolin 7-O-(2-apiosyl-6-malonyl)-glucoside,,False
+2091,"Glycerophospholipids, cephalins",,False
+2092,Sulfide ion,,False
+2093,Erythritol,,False
+2094,Epicatechin Gallate,,False
+2095,Nitrogen,,False
+2096,kaempferol 3-O-sophoroside,,False
+2097,Bergapten,,False
+2098,(-)-Asparagine,,False
+2099,Chloride,,False
+2100,(-)-Menthol,,False
+2101,Mannitol,,False
+2102,L-Alanine,,False
+2103,Myricetin,,False
+2104,"1-Allyl-2,3,4,5-tetramethoxybenzene",,False
+2105,L-Methionine,,False
+2106,Petunidin 3-Glucoside,,False
+2107,Delphinidin 3-galactoside,,False
+2108,Rutin,,False
+2109,Pantothenic Acid,,False
+2110,Elemol,,False
+2111,"Ethanedioic acid, calcium salt (1:1)",,False
+2112,Phosphate,,False
+2113,"3,4',5,7-Tetrahydroxy-3'-methoxyflavylium",,False
+2114,"(2a,3b,5a,6a,22R,25R)-Furostane-22-methoxy-2,3,6,26-tetrol 3-[glucosyl-(1->2)-[xylosyl-(1->3)]-glucosyl-(1->4)-galactoside] 26-glucoside",,False
+2115,Hyperoside,,False
+2116,"(25S)-Spirostane-3b,5b,6a-triol 3-[4''-rhamnosylglucoside]",,False
+2117,Myristic Acid,,False
+2118,Xanthoxyletin,,False
+2119,"(3b,5a,6b,22a,25R)-Furostane-22-methoxy-3,6,26-triol 3-[glucosyl-(1->2)-[xylosyl-(1->3)]-glucosyl-(1->4)-galactoside] 26-glucoside",,False
+2120,L-Lysine,,False
+2121,Cholesterol,,False
+2122,Butyric Acid,,False
+2123,Pseudotaraxasterol,,False
+2124,Kaempferol,,False
+2125,Quinate,,False
+2126,Gossypol,,False
+2127,alpha-D-Mannan,,False
+2128,beta-D-glucopyranuronic acid,,False
+2129,"24-Methylene,25-methylcholesta-5-en-3beta-ol",,False
+2130,Uridine,,False
+2131,Beta-Pinene,,False
+2132,Apigenin,,False
+2133,L-Histidine,,False
+2134,Phosphine,,False
+2135,Isoamyl Alcohol,,False
+2136,Oxalic Acid,,False
+2137,Riboflavin,,False
+2138,(-)-Gallocatechin gallate,,False
+2139,Heptanoic Acid,,False
+2140,D-Lactic Acid,,False
+2141,Deae-cellulose,,False
+2142,Glycerol,,False
+2143,Xylan Sulfate,,False
+2144,D-Xylose,,False
+2145,Naringenin,,False
+2146,Daidzin,,False
+2147,"bis((3R,4S,5S,6R)-2-[[(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-ethyl-6-methylheptan-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-yl]oxy]-6-(hydroxymethyl)oxane-3,4,5-triol);(3R,4S,5S,6R)-2-[[(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-ethyl-6-methylhept-6-en-2-yl]-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-yl]oxy]-6-(hydroxymethyl)oxane-3,4,5-triol",,False
+2148,D-Galactose,,False
+2149,Cadaverine,,False
+2150,L-Malic Acid,,False
+2151,Xanthyletin,,False
+2152,Curcumenol,,False
+2153,L-Tyrosine,,False
+2154,Methylamine,,False
+2155,Theaflavin (Standard),,False
+2156,P-Cymene,,False
+2157,Amygdalin,,False
+2158,"7,12-dimethylbenzaanthracene",,False
+2159,"(S)-3,5-dihydroxyphenylglycine",,False
+2160,"7,12-dimethylbenz[α]anthracene",,False
+2161,3'-deoxy-3'-azidothymidine,,False
+2162,cis-diamminedichloroplatinum,,False
+2163,"1,2-dimethyl hydrazine",,False
+2164,"2,2-diphenyl-1-picrylhydrazyl",,False
+2165,"2-amino-1-methyl-6-phenylimidazo4,5-bpyridine",,False
+2166,"1,25-dihydroxyvitamin D",,False
+2168,capsaicin,,False
+2169,PL,,False
+2170,methicillin,,False
+2171,"2,2-azinobis[3-ethylbenzthiazoline]-6-sulfonic acid",,False
+2172,"1,1-diphenyl,2-picrylhydrazyl",,False
+2173,Atrasentan,Atrasentan,True
+2174,Rilzabrutinib,Rilzabrutinib,True
+2175,Suzetrigine,Suzetrigine,True
+2176,Taletrectinib,Taletrectinib,True
+2177,Tiratricol,Tiratricol,True
+2178,Vanzacaftor,Vanzacaftor,True
+2179,Clorazepate,,False
+2180,Tetrahydrocannabinol,,False
+2181,CID 25200315,,False
+2182,Heroin,,False
+2183,"5,8,14-Triazatetracyclo[10.3.1.02,11.04,9]hexadeca-2,4,6,8,10-pentaene",,False
+2184,"1H-Pyrrole-1-carboxamide, 3-ethyl-2,5-dihydro-4-methyl-N-2-4-(trans-4-methylcyclohexyl)aminocarbonylaminosulfonylphenylethyl-2-oxo-",,False
+2185,Allopregnanolone,,False
+2186,Sparfloxacin,,False
+2187,"7-Chloro-2-(methylimino)-5-phenyl-2,3-dihydro-4H-1,4-benzodiazepin-4-ol",,False
+2188,Prilosec,,False
+2189,Trimethylpsoralen,,False
+2190,Hexopyranosyl-(1->6)hexopyranosyl-(1->6)hexose,,False
+2191,Hexachlorocyclohexane,,False
+2192,Desmethylsertraline,,False
+2193,Miconazole,,False
+2194,4-Methylpyrazole,,False
+2195,Metamizole,,False
+2196,2-O-Sulfohexopyranuronosyl-(1->4)-2-deoxy-3-O-sulfo-2-(sulfoamino)hexopyranosyl-(1->4)-2-O-sulfohexopyranuronosyl-(1->4)-2-acetamido-2-deoxy-6-O-sulfohexopyranose,,False
+2197,Chlorothiazide,,False
+2198,Heparin Pentasaccharide,,False
+2199,"1-(2,2-Difluoro-1,3-benzodioxol-5-yl)-N-(1-((2R)-2,3-dihydroxypropyl)-6-fluoro-2-(2-hydroxy-1,1-dimethylethyl)-1H-indol-5-yl)cyclopropanecarboxamide",,False
+2200,Npc209773,,False
+2201,"Aspidospermidine-3-carboxylic acid, 4-(acetyloxy)-6,7-didehydro-15-((2R,4R,6S,8S)-4-(1,1-difluoroethyl)-1,3,4,5,6,7,8,9-octahydro-8-(methoxycarbonyl)-2,6-methano-2H-azecino(4,3-b)indol-8-yl)-3-hydroxy-16-methoxy-1-methyl-, methyl ester, (2beta,3beta,4beta,5alpha,12R,19alpha)-",,False
+2202,Tyramine,,False
+2203,Indinavir Sulfate,,False
+2204,8-Methoxypsoralen,,False
+2205,(+-)-Trimeprazine,,False
+2206,2-Amino-5-phenyl4(5H)-oxazolone,,False
+2207,Deutetrabenazine (USAN/INN),,False
+2208,Lercanidipine Hydrochloride,,False
+2209,Pentyl nitrite,,False
+2210,CID 118984461,,False
+2211,Chlophedianol,,False
+2212,"(2R,4S)-Ketoconazole",,False
+2213,"med.21724, Compound Benztropine",,False
+2214,Ethylenediaminetetraacetic Acid,,False
+2215,Gestodene,,False
+2216,Pyrilamine,,False
+2217,Desitin,,False
+2218,Desogestrel,,False
+2219,"N-((1R,2R)-2-(2,3-Dihydro-1,4-benzodioxin-6-yl)-2-hydroxy-1-(1-pyrrolidinylmethyl)ethyl)octanamide",,False
+2220,"(1R,2S)-Tranylcypromine",,False
+2221,"4-(Dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-3,4,4a,5,5a,6,12,12a-octahydrotetracene-2-carboximidic acid",,False
+2222,"Ibuprofen, (+-)-",,False
+2223,Terramycin,,False
+2224,Magaldrate (USAN:USP:INN:BAN),,False
+2225,Atorvastatin Calcium,,False
+2226,"6,7-Dichloro-3-hydroxy-1,5 dihydro-imidazo(2,1-b)quinazolin-2-one",,False
+2227,"(3aR,4R,5R,7S,8S,9R,9aS,12R)-8-hydroxy-4,7,9,12-tetramethyl-3-oxo-7-vinyldecahydro-4,9a-propanocyclopenta[8]annulen-5-yl 2-(((1R,2R,4R)-4-amino-2-hydroxycyclohexyl)thio)acetate",,False
+2228,Propoxyphene,,False
+2229,Reboxetine,,False
+2230,"(2S,4S)-4-cyclohexyl-1-[2-[(2-methyl-1-propanoyloxypropoxy)-(4-phenylbutyl)phosphoryl]acetyl]pyrrolidine-2-carboxylic acid",,False
+2231,(+-)-Chlorpheniramine,,False
+2232,Ethylene Glycol,,False
+2233,Dihydralazine,,False
+2234,Phytic acid,,False
+2235,Loratadine,,False
+2236,Obidoxime,,False
+2237,Pralidoxime,,False
+2238,Terizidone,,False
+2239,Echinacea,,False
+2240,Ertapenem,,False
+2241,Givosiran,,False
+2242,Nitroprusside,,False
+2243,Lurbinectedin,,False
+2244,Thiabendazole,,False
+2245,Daidzein,,False
+2246,Oliceridine,,False
+2247,Piperacillin,,False
+2248,Remdesivir,,False
+2249,Telavancin,,False
+2250,Ticarcillin,,False
+2251,Verteporfin,,False
+2252,Chlorotrianisene,,False
+2253,Carbimazole,,False
+2254,Epinephrine,,False
+2255,Lidocaine,,False
+2256,Enoxacin,,False
+2257,Succinylcholine,,False
+2258,Benzthiazide,,False
+2259,Sulfacetamide,,False
+2260,Bismuth subsalicylate,,False
+2261,Cyclopropane,,False
+2262,Enalaprilat,,False
+2263,Mineral oil,,False
+2264,Dirithromycin,,False
+2265,Carbidopa,,False
+2266,Ipratropium,,False
+2267,Mephenytoin,,False
+2268,Testolactone,,False
+2269,Propofol,,False
+2270,Nitrous oxide,,False
+2271,Droperidol,,False
+2272,Tannic acid,,False
+2273,Cocaine,,False
+2274,Sucralose,,False
+2275,Tyrosine,,False
+2276,Hydrogen,,False
+2277,Balovaptan,,False
+2278,Polysorbate 60,,False
+2279,Zeranol,,False
+2280,Tagatose,,False
+2281,Itopride,,False
+2282,Oxytocin,,False
+2283,Isoflavone,,False
+2284,Curcumin,,False
+2285,Talarozole,,False
+2286,Lycopene,,False
+2287,Linoleic acid,,False
+2288,Diosmetin,,False
+2289,Mitoxantrone,,False
+2290,Stevioside,,False
+2291,Cevimeline,,False
+2292,Muscimol,,False
+2293,Terpinen-4-ol,,False
+2294,Phenylalanine,,False
+2295,Pea,,False
+2296,Deptropine,,False
+2297,Insulin tregopil,,False
+2298,Ergosterol,,False
+2299,Metergoline,,False
+2300,Fucoxanthin,,False
+2301,Oleic Acid,,False
+2302,Phenol,,False
+2303,Berberine,,False
+2304,Nitrocefin,,False
+2305,Tubocurarine,,False
+2306,Glyphosate,,False
+2307,Propylparaben,,False
+2308,Formononetin,,False
+2309,Atrazine,,False
+2310,Tazarotene,,False
+2311,Borneol,,False
+2312,Abscisic Acid,,False
+2313,Irinotecan,,False
+2314,Enrofloxacin,,False
+2315,Imidacloprid,,False
+2316,Voglibose,,False
+2317,Calcium sulfate,,False
+2318,Permethrin,,False
+2319,Blonanserin,,False
+2320,Carbon monoxide,,False
+2321,Biochanin A,,False
+2322,Genistein,,False
+2323,Basil,,False
+2324,Chrysin,,False
+2325,Tolfenamic acid,,False
+2326,Entospletinib,,False
+2327,Dapoxetine,,False
+2328,Epigallocatechin gallate,,False
+2329,Magnesium peroxide,,False
+2330,Lecithin,,False
+2331,Cinnarizine,,False
+2332,SN-38,,False
+2333,Emodin,,False
+2334,Lysine,,False
+2335,Natamycin,,False
+2336,Palmitoleic Acid,,False
+2337,Sakuranetin,,False
+2338,Threonine,,False
+2339,Piperine,,False
+2340,Ozone,,False
+2341,Oregano,,False
+2342,Aldosterone,,False
+2343,Celastrol,,False
+2344,Carbon dioxide,,False
+2345,Tyrosinase,,False
+2346,p-Coumaric acid,,False
+2347,Pentamidine,,False
+2348,Rosmarinic acid,,False
+2349,MCC,,False
+2350,Vasopressin,,False
+2351,Azelnidipine,,False
+2352,Benidipine,,False
+2353,Cilnidipine,,False
+2354,Manidipine,,False
+2355,Aniline,,False
+2356,alpha-Lactalbumin,,False
+2357,Resveratrol,,False
+2358,Pterostilbene,,False
+2359,Cocoa,,False
+2360,Pomegranate,,False
+2361,Licorice,,False
+2362,Cypermethrin,,False
+2363,Bifenthrin,,False
+2364,Kava,,False
+2365,Ginsenosides,,False
+2366,Artesunate,,False
+2367,Polydextrose,,False
+2368,Nocodazole,,False
+2369,Tonapofylline,,False
+2370,Sodium chloride,,False
+2371,Novobiocin,,False
+2372,Tesofensine,,False
+2373,Xanthine,,False
+2374,Molybdenum,,False
+2375,Ceftriaxone,,False
+2376,Clevidipine,,False
+2377,Astaxanthin,,False
+2378,Taurine,,False
+2379,Ouabain,,False
+2380,Thyme,,False
+2381,Vernakalant,,False
+2382,Glucose-6-Phosphate,,False
+2383,Dinoprost,,False
+2384,Sarcosine,,False
+2385,Ferric pyrophosphate,,False
+2386,Mosapride,,False
+2387,Sodium zirconium cyclosilicate,,False
+2388,alpha-Linolenic acid,,False
+2389,Ephedrine,,False
+2390,Fulvestrant,,False
+2391,Omalizumab,,False
+2392,Bupivacaine,,False
+2393,Beta carotene,,False
+2394,Leuprolide,,False
+2395,Silver,,False
+2396,Ornithine,,False
+2397,Lactoferrin,,False
+2398,MK-3577,,False
+2399,Carnosine,,False
+2400,Pyridoxamine,,False
+2401,Omega-3 fatty acids,,False
+2402,Ergocalciferol,,False
+2403,Ropocamptide,,False
+2404,Bevacizumab,,False
+2405,Chlorogenic Acid,,False
+2406,Sulforaphane,,False
+2407,Glycocyamine,,False
+2408,Adapalene,,False
+2409,Dexmedetomidine,,False
+2410,Metadoxine,,False
+2411,Pyrotinib,,False
+2412,Citicoline,,False
+2413,Calcitonin gene-related peptide,,False
+2414,Psicose,,False
+2415,Pegvisomant,,False
+2416,Nivolumab,,False
+2417,Ajmaline,,False
+2418,Ferric derisomaltose,,False
+2419,Iron isomaltoside 1000,,False
+2420,Bendamustine,,False
+2421,Ramosetron,,False
+2422,Xenon,,False
+2423,Ketanserin,,False
+2424,Ibudilast,,False
+2425,Ferrous succinate,,False
+2426,Pasireotide,,False
+2427,Doconexent,,False
+2428,Neostigmine,,False
+2429,Gold,,False
+2430,Valine,,False
+2431,Tocilizumab,,False
+2432,Diquafosol,,False
+2433,Titanium,,False
+2434,Saracatinib,,False
+2435,Levosimendan,,False
+2436,Chenodeoxycholic acid,,False
+2437,Rituximab,,False
+2438,Dobutamine,,False
+2439,Substance P,,False
+2440,Icatibant,,False
+2441,Estriol,,False
+2442,Kynurenic Acid,,False
+2443,Procaine,,False
+2444,Altropane,,False
+2445,Gemcabene,,False
+2446,Onapristone,,False
+2447,Pyridoxal,,False
+2448,Durvalumab,,False
+2449,Inulin,,False
+2450,Spermidine,,False
+2451,Spermine,,False
+2452,Ranibizumab,,False
+2453,Calcium lactate,,False
+2454,Ciprofibrate,,False
+2455,Ropivacaine,,False
+2456,Tetrathiomolybdate,,False
+2457,MP4CO,,False
+2458,Centhaquine,,False
+2459,Indoxyl sulfate,,False
+2460,Cytarabine,,False
+2461,Boron,,False
+2462,Hydrochloric acid,,False
+2463,Ecopipam,,False
+2464,Lysergic acid diethylamide,,False
+2465,Sarilumab,,False
+2466,Tilmanocept,,False
+2467,Tetrodotoxin,,False
+2468,Levobupivacaine,,False
+2469,Tesamorelin,,False
+2470,Evolocumab,,False
+2471,Uracil,,False
+2472,D-Serine,,False
+2473,Triptorelin,,False
+2474,Conivaptan,,False
+2475,Phosphocreatine,,False
+2476,Cobalamin,,False
+2477,Methylene blue,,False
+2478,Formic acid,,False
+2479,Pyridoxal phosphate,,False
+2480,Sevoflurane,,False
+2481,Ipilimumab,,False
+2482,Icodextrin,,False
+2483,Glycolic acid,,False
+2484,Belimumab,,False
+2485,Hyaluronic acid,,False
+2486,Anlotinib,,False
+2487,Mecobalamin,,False
+2488,Decitabine,,False
+2489,Azacitidine,,False
+2490,Aflibercept,,False
+2491,Glyceryl Trierucate,,False
+2492,Rotigotine,,False
+2493,Arsenic trioxide,,False
+2494,Acetylcysteine,,False
+2495,Betamethasone,,False
+2496,Tocotrienol,,False
+2497,Silicon dioxide,,False
+2498,Samarium,,False
+2499,Ferumoxytol,,False
+2500,Calcium Phosphate,,False
+2501,Megestrol,,False
+2502,Dexchlorpheniramine,,False
+2503,Vedolizumab,,False
+2504,Ferric carboxymaltose,,False
+2505,Flupirtine,,False
+2506,Veliparib,,False
+2507,Albuterol,,False
+2508,Xylitol,,False
+2509,Cetuximab,,False
+2510,Picolinic acid,,False
+2511,Goserelin,,False
+2512,Anakinra,,False
+2513,Mevalonic acid,,False
+2514,Indobufen,,False
+2515,Alprostadil,,False
+2516,Rilonacept,,False
+2517,Cinnamon,,False
+2518,Fluorescein,,False
+2519,Fimasartan,,False
+2520,Fish oil,,False
+2521,Trehalose,,False
+2522,Desflurane,,False
+2523,Hypoxanthine,,False
+2524,Allantoin,,False
+2525,Cefazolin,,False
+2526,Atracurium,,False
+2527,Tremelimumab,,False
+2528,Rilotumumab,,False
+2529,Eritoran,,False
+2530,Infliximab,,False
+2531,Sacituzumab govitecan,,False
+2532,Burosumab,,False
+2533,2-Iminobiotin,,False
+2534,Islatravir,,False
+2535,Perhexiline,,False
+2536,Colistin,,False
+2537,Melphalan,,False
+2538,Pembrolizumab,,False
+2539,Garlic,,False
+2540,Rocuronium,,False
+2541,Sugammadex,,False
+2542,Xanthohumol,,False
+2543,Sodium nitrate,,False
+2544,Belladonna,,False
+2545,Helium,,False
+2546,Gadolinium,,False
+2547,Hydroxide ion,,False
+2548,Potassium sodium hydrogen citrate,,False
+2549,Potassium gluconate,,False
+2550,Tramiprosate,,False
+2551,Alirocumab,,False
+2552,Torcetrapib,,False
+2553,Cobalt,,False
+2554,Luspatercept,,False
+2555,LGD-6972,,False
+2556,Afimoxifene,,False
+2557,Ilaprazole,,False
+2558,Protamine,,False
+2559,Inosine,,False
+2560,Neramexane,,False
+2561,Kynurenine,,False
+2562,Quinolinic Acid,,False
+2563,Methyl aminolevulinate,,False
+2564,Mupirocin,,False
+2565,Ularitide,,False
+2566,XL019,,False
+2567,Rasburicase,,False
+2568,Alvocidib,,False
+2569,Articaine,,False
+2570,Daratumumab,,False
+2571,Entinostat,,False
+2572,BMS-986020,,False
+2573,Istaroxime,,False
+2574,Nefopam,,False
+2575,Palmidrol,,False
+2576,Phenoxybenzamine,,False
+2577,Magnesium sulfate,,False
+2578,Iomazenil,,False
+2579,Maltodextrin,,False
+2580,Verinurad,,False
+2581,Pegfilgrastim,,False
+2582,Lometrexol,,False
+2583,Rebaudioside A,,False
+2584,Dimercaptosuccinic acid,,False
+2585,Tositumomab,,False
+2586,Povidone-iodine,,False
+2587,Aspergillus oryzae,,False
+2588,Procalcitonin,,False
+2589,Pegloticase,,False
+2590,Canrenone,,False
+2591,Barium,,False
+2592,Milrinone,,False
+2593,Chloroprocaine,,False
+2594,D-chiro-Inositol,,False
+2595,Bromfenac,,False
+2596,Benzocaine,,False
+2597,Terlipressin,,False
+2598,ISOPENTENYL PYROPHOSPHATE,,False
+2599,beta-Hydroxyisovaleric acid,,False
+2600,Endostatin,,False
+2601,Aminolevulinic acid,,False
+2602,Lavoltidine,,False
+2603,Clevudine,,False
+2604,Ciforadenant,,False
+2605,Nandrolone decanoate,,False
+2606,"N,N-dimethylarginine",,False
+2607,MK-0893,,False
+2608,MK-8666,,False
+2609,MK-8245,,False
+2610,Apelin,,False
+2611,Almitrine,,False
+2612,MK-7145,,False
+2613,Desmopressin,,False
+2614,Nonoxynol-9,,False
+2615,Motexafin gadolinium,,False
+2616,Atamestane,,False
+2617,Icotinib,,False
+2618,Orteronel,,False
+2619,Rapacuronium,,False
+2620,Crotamiton,,False
+2621,Mifentidine,,False
+2622,Pentagastrin,,False
+2623,Mivacurium,,False
+2624,Oltipraz,,False
+2625,Cetrorelix,,False
+2626,Sebelipase alfa,,False
+2627,Propylene glycol,,False
+2628,Aluminium,,False
+2629,Tetrahydrocannabivarin,,False
+2630,Enprofylline,,False
+2631,Erdosteine,,False
+2632,gamma-Aminobutyric acid,,False
+2633,Phentolamine,,False
+2634,Phenformin,,False
+2635,Calcium ascorbate,,False
+2636,Terbutaline,,False
+2637,Efaproxiral,,False
+2638,Iodixanol,,False
+2639,Fluorouracil,,False
+2640,Isoflurane,,False
+2641,Zofenopril,,False
+2642,Epanolol,,False
+2643,Triclosan,,False
+2644,Evinacumab,,False
+2645,Guar gum,,False
+2646,Semustine,,False
+2647,Magnesium hydroxide,,False
+2648,Dalcetrapib,,False
+2649,Xylazine,,False
+2650,Hippuric acid,,False
+2651,Red pepper,,False
+2652,Polygeline,,False
+2653,Gamolenic acid,,False
+2654,Isatin,,False
+2655,Ifenprodil,,False
+2656,Ferric oxide,,False
+2657,Maxacalcitol,,False
+2658,Acipimox,,False
+2659,Ethanolamine oleate,,False
+2660,Xanthan gum,,False
+2661,Lasofoxifene,,False
+2662,Aspartame,,False
+2663,Phosphatidylethanolamine,,False
+2664,Fluticasone,,False
+2665,Calcium carbimide,,False
+2666,Maltitol,,False
+2667,Endothelin-1,,False
+2668,Fevipiprant,,False
+2669,Droloxifene,,False
+2670,Carbenoxolone,,False
+2671,Benzbromarone,,False
+2672,Beclomethasone dipropionate,,False
+2673,Chlorobutanol,,False
+2674,Climbazole,,False
+2675,Ibopamine,,False
+2676,Xipamide,,False
+2677,Virginiamycin,,False
+2678,Danicamtiv,,False
+2679,Anacetrapib,,False
+2680,Doripenem,,False
+2681,Praliciguat,,False
+2682,Benzoyl peroxide,,False
+2683,Dihydroxyacetone,,False
+2684,Buthionine sulfoximine,,False
+2685,Docarpamine,,False
+2686,Ibutilide,,False
+2687,Enoximone,,False
+2688,Zoledronic acid,,False
+2689,Isocitric Acid,,False
+2690,Barley,,False
+2691,Antimony,,False
+2692,Aprotinin,,False
+2693,Lafutidine,,False
+2694,ATX-101,,False
+2695,Rhamnose,,False
+2696,Lormetazepam,,False
+2697,Piribedil,,False
+2698,Halometasone,,False
+2699,Physostigmine,,False
+2700,Testosterone enanthate,,False
+2701,alpha-Ketoisocaproic acid,,False
+2702,Methimazole,,False
+2703,Allicin,,False
+2704,Ferrous bisglycinate,,False
+2705,Sutimlimab,,False
+2706,Carprofen,,False
+2707,Robenacoxib,,False
+2708,Dihydromorphine,,False
+2709,Argininosuccinate,,False
+2710,Buserelin,,False
+2711,Zimelidine,,False
+2712,Raclopride,,False
+2713,2-deoxyglucose,,False
+2714,Timolol,,False
+2715,Isoprenaline,,False
+2716,Acrivastine,,False
+2717,Vanillic acid,,False
+2718,Sirukumab,,False
+2719,Sulfur dioxide,,False
+2720,Parecoxib,,False
+2721,Travoprost,,False
+2722,Oxandrolone,,False
+2723,Ceftolozane,,False
+2724,Chloropyramine,,False
+2725,Propacetamol,,False
+2726,Medetomidine,,False
+2727,Pradigastat,,False
+2728,Esmolol,,False
+2729,Xylometazoline,,False
+2730,RRx-001,,False
+2731,Etomidate,,False
+2732,Ioversol,,False
+2733,Nicorandil,,False
+2734,Cariporide,,False
+2735,Candesartan,,False
+2736,Isepamicin,,False
+2737,Senicapoc,,False
+2738,Methylatropine,,False
+2739,Benzimidazole,,False
+2740,Idoxuridine,,False
+2741,Volanesorsen,,False
+2742,Cilofexor,,False
+2743,Thioredoxin,,False
+2744,Tetracosactide,,False
+2745,Corticotropin,,False
+2746,Devimistat,,False
+2747,Insulin glargine,,False
+2748,Podophyllin,,False
+2749,Methylmalonic Acid,,False
+2750,Elesclomol,,False
+2751,Dotinurad,,False
+2752,Rimonabant,,False
+2753,Blinatumomab,,False
+2754,Edrophonium,,False
+2755,Taxifolin,,False
+2756,Adrenomedullin,,False
+2757,Metiamide,,False
+2758,MK-2206,,False
+2759,Urapidil,,False
+2760,Nonivamide,,False
+2761,Resiniferatoxin,,False
+2762,Dazmegrel,,False
+2763,Halothane,,False
+2764,Vabicaserin,,False
+2765,Sulfuric acid,,False
+2766,Hypochlorous acid,,False
+2767,Monensin,,False
+2768,Iobitridol,,False
+2769,Etomoxir,,False
+2770,Guanine,,False
+2771,Psilocybin,,False
+2772,Soy isoflavones,,False
+2773,Lincomycin,,False
+2774,Soybean oil,,False
+2775,Ribose,,False
+2776,5-methyltetrahydrofolic acid,,False
+2777,Linseed oil,,False
+2778,Sotrastaurin,,False
+2779,Sugarcane,,False
+2780,Ritodrine,,False
+2781,D-Tryptophan,,False
+2782,Epitestosterone,,False
+2783,Androstenediol,,False
+2784,Dihydrouracil,,False
+2785,Botulinum toxin type A,,False
+2786,Grapiprant,,False
+2787,Ginger,,False
+2788,Eosin,,False
+2789,Anagliptin,,False
+2790,N-acetylmannosamine,,False
+2791,Roxatidine acetate,,False
+2792,Salmeterol,,False
+2793,Glycocholic acid,,False
+2794,Evacetrapib,,False
+2795,Atrial natriuretic peptide,,False
+2796,Amylose,,False
+2797,Polysorbate 80,,False
+2798,Dydrogesterone,,False
+2799,Papain,,False
+2800,SB-705498,,False
+2801,Sesame oil,,False
+2802,Magnesium carbonate,,False
+2803,Tiapride,,False
+2804,Fenretinide,,False
+2805,Iopromide,,False
+2806,Suprofen,,False
+2807,Ferrous chloride,,False
+2808,Faldaprevir,,False
+2809,Efonidipine,,False
+2810,Clobetasol propionate,,False
+2811,2-Hydroxyestradiol,,False
+2812,Tolazoline,,False
+2813,Porphobilinogen,,False
+2814,Calcium chloride,,False
+2815,Sodium hydroxide,,False
+2816,Lixivaptan,,False
+2817,Lanolin,,False
+2818,Thymidine,Thymidine,True
+2819,Peanut,,False
+2820,Lipoic acid,,False
+2821,Ipriflavone,,False
+2822,Zilpaterol,,False
+2823,Octenidine,,False
+2824,Iomeprol,,False
+2825,Cytidine,,False
+2826,Fenbufen,,False
+2827,Moxisylyte,,False
+2828,Leukotriene D4,,False
+2829,Myrcludex B,,False
+2830,Palivizumab,,False
+2831,Flucytosine,,False
+2832,Garenoxacin,,False
+2833,Bisphenol A,,False
+2834,Dihydrexidine,,False
+2835,Ciclopirox,,False
+2836,alpha-Carotene,,False
+2837,Muraglitazar,,False
+2838,Olopatadine,,False
+2839,APG-157,,False
+2840,Biguanide,,False
+2841,Ganirelix,,False
+2842,Azilsartan,,False
+2843,Aldafermin,,False
+2844,Trenbolone acetate,,False
+2845,Cyclic adenosine monophosphate,,False
+2846,Thyrotropin,,False
+2847,Taurolidine,,False
+2848,Brotizolam,,False
+2849,Tetracaine,,False
+2850,Dopexamine,,False
+2851,Tirilazad,,False
+2852,Pancuronium,,False
+2853,Bifonazole,,False
+2854,Symmetric dimethylarginine,,False
+2855,Ergothioneine,,False
+2856,Levocabastine,,False
+2857,Cyclopentolate,,False
+2858,Tropicamide,,False
+2859,Radafaxine,,False
+2860,Tobramycin,,False
+2861,Zinc chloride,,False
+2862,Methane,,False
+2863,Fenbendazole,,False
+2864,Milbemycin oxime,,False
+2865,Avosentan,,False
+2866,Brofaromine,,False
+2867,Nedaplatin,,False
+2868,Piragliatin,,False
+2869,Methoxamine,,False
+2870,Licogliflozin,,False
+2871,Royal jelly,,False
+2872,Diatrizoate,,False
+2873,Meglumine,,False
+2874,Elobixibat,,False
+2875,Eliapixant,,False
+2876,Cisatracurium,,False
+2877,Lofepramine,,False
+2878,Pimobendan,,False
+2879,Cediranib,,False
+2880,Upacicalcet,,False
+2881,Dihydrotachysterol,,False
+2882,Bupicomide,,False
+2883,Furazolidone,,False
+2884,Acadesine,,False
+2885,Clazakizumab,,False
+2886,JNJ-42165279,,False
+2887,Indole,,False
+2888,Gallopamil,,False
+2889,Malonic acid,,False
+2890,Malonyl-CoA,,False
+2891,Deslorelin,,False
+2892,Clascoterone,,False
+2893,Monepantel,,False
+2894,Glutathione disulfide,,False
+2895,Boldenone undecylenate,,False
+2896,Pipemidic acid,,False
+2897,Eucalyptus oil,,False
+2898,Adenine,,False
+2899,Cod liver oil,,False
+2900,Cadexomer iodine,,False
+2901,Tegoprazan,,False
+2902,Romifidine,,False
+2903,Acetoacetic acid,,False
+2904,Medium-chain triglycerides,,False
+2905,LX1031,,False
+2906,Iopamidol,,False
+2907,Vecuronium,,False
+2908,Nepafenac,,False
+2909,Tacalcitol,,False
+2910,Lanosterol,,False
+2911,Sipuleucel-T,,False
+2912,Nicotinamide adenine dinucleotide phosphate,,False
+2913,Centanafadine,,False
+2914,Pentostatin,,False
+2915,ONO-8539,,False
+2916,Glucosamine,,False
+2917,Fluticasone propionate,,False
+2918,Menadione,,False
+2919,Cinnamaldehyde,,False
+2920,Idazoxan,,False
+2921,Pholcodine,,False
+2922,Cesium,,False
+2923,Safflower oil,,False
+2924,Ebselen,,False
+2925,Povidone,,False
+2926,Cefodizime,,False
+2927,Dezocine,,False
+2928,Lisuride,,False
+2929,Icosabutate,,False
+2930,Flosequinan,,False
+2931,Teduglutide,,False
+2932,Enarodustat,,False
+2933,Rolipram,,False
+2934,Phenylacetic acid,,False
+2935,Oxypurinol,,False
+2936,Taurocholic acid,,False
+2937,Hemoglobin,,False
+2938,Ensituximab,,False
+2939,Saccharin,,False
+2940,Squalene,,False
+2941,Hexetidine,,False
+2942,Etofibrate,,False
+2943,Puerarin,,False
+2944,Potassium carbonate,,False
+2945,Piretanide,,False
+2946,Rivoglitazone,,False
+2947,Cholecystokinin,,False
+2948,Encainide,,False
+2949,Broccoli,,False
+2950,Quinaprilat,,False
+2951,Bimatoprost,,False
+2952,Niperotidine,,False
+2953,Nystatin,,False
+2954,Mometasone furoate,,False
+2955,Selenomethionine,,False
+2956,Formestane,,False
+2957,Anisomycin,,False
+2958,Pimecrolimus,,False
+2959,Triphosphoric acid,,False
+2960,Oxyfedrine,,False
+2961,Urolithin A,,False
+2962,Metrifonate,,False
+2963,Equol,,False
+2964,Tilmicosin,,False
+2965,Clomethiazole,,False
+2966,Alfentanil,,False
+2967,Glisentide,,False
+2968,Hypericin,,False
+2969,Remoxipride,,False
+2970,Formaldehyde,,False
+2971,Guanosine,,False
+2972,Peginterferon beta-1a,,False
+2973,Ractopamine,,False
+2974,Dorzagliatin,,False
+2975,Indocyanine green,,False
+2976,Dasiglucagon,,False
+2977,Relamorelin,,False
+2978,Phencyclidine,,False
+2979,Mefruside,,False
+2980,Atezolizumab,,False
+2981,Oxypertine,,False
+2982,Efpeglenatide,,False
+2983,Xamoterol,,False
+2984,Oxiconazole,,False
+2985,Chlormadinone acetate,,False
+2986,Zomepirac,,False
+2987,Ferric ammonium citrate,,False
+2988,Pentastarch,,False
+2989,Ornidazole,,False
+2990,Molsidomine,,False
+2991,Rice bran oil,,False
+2992,Formoterol,,False
+2993,Eslicarbazepine,,False
+2994,Enisoprost,,False
+2995,Pactimibe,,False
+2996,Tritoqualine,,False
+2997,Carbocromen,,False
+2998,Citraconic acid,,False
+2999,Hypochlorite,,False
+3000,Menatetrenone,,False
+3001,Cocamidopropyl betaine,,False
+3002,Black pepper,,False
+3003,Lacnotuzumab,,False
+3004,Clotrimazole,,False
+3005,Bretylium,,False
+3006,Blueberry,,False
+3007,Alefacept,,False
+3008,Obicetrapib,,False
+3009,Etidocaine,,False
+3010,"2,4-thiazolidinedione",,False
+3011,Amifostine,,False
+3012,Isoetharine,,False
+3013,Gavestinel,,False
+3014,Orange,,False
+3015,Clioquinol,,False
+3016,Trimethaphan,,False
+3017,Pentifylline,,False
+3018,Brefeldin A,,False
+3019,Branebrutinib,,False
+3020,Cimlanod,,False
+3021,Foscarnet,,False
+3022,Polaprezinc,,False
+3023,Berberine ursodeoxycholate,,False
+3024,Triamcinolone,,False
+3025,Glepaglutide,,False
+3026,Fluocinolone acetonide,,False
+3027,Hepcidin-25,,False
+3028,Acivicin,,False
+3029,Thymine,,False
+3030,Leucovorin,,False
+3031,Benzalkonium,,False
+3032,gamma-Tocopherol,,False
+3033,Odanacatib,,False
+3034,Pertuzumab,,False
+3035,Iodamide,,False
+3036,Remikiren,,False
+3037,Histrelin,,False
+3038,Mianserin,,False
+3039,Mepivacaine,,False
+3040,Chlormadinone,,False
+3041,Olive oil,,False
+3042,Veralipride,,False
+3043,Delapril,,False
+3044,Flesinoxan,,False
+3045,Neomycin,,False
+3046,Eprinomectin,,False
+3047,Pyrroloquinoline Quinone,,False
+3048,Dazoxiben,,False
+3049,Natalizumab,,False
+3050,Bornyl acetate,,False
+3051,Heme arginate,,False
+3052,Esaxerenone,,False
+3053,MC-1,,False
+3054,Venglustat,,False
+3055,Clinafloxacin,,False
+3056,Beractant,,False
+3057,Lenograstim,,False
+3058,PEG-uricase,,False
+3059,Amylopectin,,False
+3060,Firocoxib,,False
+3061,Pefloxacin,,False
+3062,Whey,,False
+3063,Catumaxomab,,False
+3064,Saroglitazar,,False
+3065,Iron Dextran,,False
+3066,Stanozolol,,False
+3067,Cotadutide,,False
+3068,Isovaleric Acid,,False
+3069,Sulfamethazine,,False
+3070,Fumaric acid,,False
+3071,Hydrocortisone acetate,,False
+3072,Iodide,,False
+3073,Terconazole,,False
+3074,Bicozamycin,,False
+3075,Rufloxacin,,False
+3076,Pratosartan,,False
+3077,Vorozole,,False
+3078,Resolvin E1,,False
+3079,beta-D-glucuronic acid,,False
+3080,Tazobactam,,False
+3081,Secukinumab,,False
+3082,CER-001,,False
+3083,Amikacin,,False
+3084,Rimiterol,,False
+3085,Dapivirine,,False
+3086,Nomifensine,,False
+3087,Brequinar,,False
+3088,GTX-758,,False
+3089,Metildigoxin,,False
+3090,Cyamemazine,,False
+3091,Quinacrine,,False
+3092,Ebrotidine,,False
+3093,Propyphenazone,,False
+3094,Ubiquinol,,False
+3095,Flurbiprofen axetil,,False
+3096,Clenbuterol,,False
+3097,Eldecalcitol,,False
+3098,Tigecycline,,False
+3099,Enflurane,,False
+3100,Ipragliflozin,,False
+3101,Neuropeptide Y,,False
+3102,Ethylenediamine,,False
+3103,Vasoactive intestinal peptide,,False
+3104,Rusfertide,,False
+3105,Doxapram,,False
+3106,Rolofylline,,False
+3107,Glucoraphanin,,False
+3108,Nisoxetine,,False
+3109,Nesiritide,,False
+3110,Petrolatum,,False
+3111,Siltuximab,,False
+3112,Ecabet,,False
+3113,Camptothecin,,False
+3114,Ofatumumab,,False
+3115,Benazeprilat,,False
+3116,Homatropine,,False
+3117,Chiglitazar,,False
+3118,Detomidine,,False
+3119,Dihydromyricetin,,False
+3120,Molidustat,,False
+3121,Kojic acid,,False
+3122,Epinastine,,False
+3123,INCB13739,,False
+3124,Botulinum toxin type B,,False
+3125,Nicotinamide Mononucleotide,,False
+3126,3-O-Methyl-d-glucose,,False
+3127,Platelet Activating Factor,,False
+3128,Meptazinol,,False
+3129,Rimantadine,,False
+3130,Maropitant,,False
+3131,Florfenicol,,False
+3132,Lobaplatin,,False
+3133,beta-Sitosterol,,False
+3134,Iptacopan,,False
+3135,Lanreotide,,False
+3136,Latanoprost,,False
+3137,Anthranilic acid,,False
+3138,Coproporphyrin I,,False
+3139,Nedosiran,,False
+3140,Sorbinil,,False
+3141,Deuterium oxide,,False
+3142,Mizolastine,,False
+3143,Tmr,,False
+3144,Milacemide,,False
+3145,Rhubarb,,False
+3146,Epeleuton,,False
+3147,Noscapine,,False
+3148,Sorghum,,False
+3149,Blisibimod,,False
+3150,Insulin lispro,,False
+3151,JNJ-37822681,,False
+3152,"7,8-dihydrobiopterin",,False
+3153,Amodiaquine,,False
+3154,Viqualine,,False
+3155,Ritanserin,,False
+3156,Tegafur-uracil,,False
+3157,Prostaglandin D2,,False
+3158,Silibinin,,False
+3159,Temafloxacin,,False
+3160,Dexpanthenol,,False
+3161,Prednimustine,,False
+3162,Racemethionine,,False
+3163,Tirofiban,,False
+3164,Lazabemide,,False
+3165,Methantheline,,False
+3166,Linsidomine,,False
+3167,Ansofaxine,,False
+3168,Ribose-5-phosphate,,False
+3169,Volixibat,,False
+3170,Magnesium trisilicate,,False
+3171,Prednicarbate,,False
+3172,Coenzyme A,,False
+3173,Sodium sulfate,,False
+3174,Dynorphin,,False
+3175,Hyperforin,,False
+3176,Eribulin,,False
+3177,Medrogestone,,False
+3178,Satavaptan,,False
+3179,Thyroglobulin,,False
+3180,Mezlocillin,,False
+3181,Mafenide,,False
+3182,Enprostil,,False
+3183,Bambuterol,,False
+3184,ME-344,,False
+3185,Moricizine,,False
+3186,Acetyldigoxin,,False
+3187,Kisspeptin,,False
+3188,Sertindole,,False
+3189,Etanercept,,False
+3190,Etavopivat,,False
+3191,Oxamniquine,,False
+3192,Nitrous acid,,False
+3193,Calcium glycerophosphate,,False
+3194,Sarpogrelate,,False
+3195,D-Methionine,,False
+3196,Coconut oil,,False
+3197,Antazoline,,False
+3198,Sulbactam,,False
+3199,Tipepidine,,False
+3200,Elinzanetant,Elinzanetant,True
+3201,Ipecac,,False
+3202,Indoprofen,,False
+3203,Dimethyltryptamine,,False
+3204,Fluocinonide,,False
+3205,Chlortetracycline,,False
+3206,Promestriene,,False
+3207,Methyltestosterone,,False
+3208,7-Nitroindazole,,False
+3209,Altanserin,,False
+3210,Glycinamide Ribonucleotide,,False
+3211,Lentil,,False
+3212,Melengestrol acetate,,False
+3213,Moxonidine,,False
+3214,Adalimumab,,False
+3215,Tolnaftate,,False
+3216,Remogliflozin etabonate,,False
+3217,Elcatonin,,False
+3218,Cloprostenol,,False
+3219,Sunflower oil,,False
+3220,Evocalcet,,False
+3221,Martinostat,,False
+3222,Dihydroergotoxine,,False
+3223,Ethynodiol diacetate,,False
+3224,Ciclesonide,,False
+3225,Buflomedil,,False
+3226,Sodium stibogluconate,,False
+3227,Troxerutin,,False
+3228,Chickpea,,False
+3229,Sinitrodil,,False
+3230,Pantethine,,False
+3231,Fludeoxyglucose,,False
+3232,Fasudil,,False
+3233,Phenylpyruvic acid,,False
+3234,Imlifidase,,False
+3235,Gallamine,,False
+3236,Azimilide,,False
+3237,Piperaquine,,False
+3238,Alcuronium,,False
+3239,Mitoguazone,,False
+3240,Caramiphen,,False
+3241,Adefovir,,False
+3242,Ridogrel,,False
+3243,Etilevodopa,,False
+3244,Escherichia coli,,False
+3245,Zingerone,,False
+3246,Mepartricin,,False
+3247,Phenylacetylglutamine,,False
+3248,Candoxatrilat,,False
+3249,Cyclacillin,,False
+3250,PF-04937319,,False
+3251,Plazomicin,,False
+3252,Fluorometholone,,False
+3253,Olipudase alfa,,False
+3254,Bamifylline,,False
+3255,Isoflupredone acetate,,False
+3256,Phenylacetaldehyde,,False
+3257,Echinacea purpurea,,False
+3258,Perchlorate,,False
+3259,Idrapril,,False
+3260,Lesogaberan,,False
+3261,Eperisone,,False
+3262,Cilomilast,,False
+3263,Bronopol,,False
+3264,Flunisolide,,False
+3265,Tallimustine,,False
+3266,Gemeprost,,False
+3267,Thiamylal,,False
+3268,Progabide,,False
+3269,Olprinone,,False
+3270,Eptapirone,,False
+3271,Nebicapone,,False
+3272,Balaglitazone,,False
+3273,Flumethasone,,False
+3274,Bardoxolone methyl,,False
+3275,Amorolfine,,False
+3276,Cianopramine,,False
+3277,Patritumab,,False
+3278,Nandrolone,,False
+3279,Ornipressin,,False
+3280,Ethylmorphine,,False
+3281,Lornoxicam,,False
+3282,Dermatan sulfate,,False
+3283,Navoximod,,False
+3284,Brocresine,,False
+3285,Filgrastim,,False
+3286,Crinecerfont,Crinecerfont,True
+3287,Iohexol,,False
+3288,Perphenazine enanthate,,False
+3289,Thymopentin,,False
+3290,Gadodiamide,,False
+3291,Chitin,,False
+3292,Avexitide,,False
+3293,Nomegestrol acetate,,False
+3294,SYNB1020,,False
+3295,Camrelizumab,,False
+3296,Magnesium aspartate,,False
+3297,Hexamethonium,,False
+3298,Trapidil,,False
+3299,Azaperone,,False
+3300,Phenoxyethanol,,False
+3301,Tenofovir amibufenamide,,False
+3302,Pegargiminase,,False
+3303,Pilsicainide,,False
+3304,Troglitazone,,False
+3305,Davunetide,,False
+3306,Dersalazine,,False
+3307,Tiadenol,,False
+3308,Chondroitin sulfate,,False
+3309,Thiram,,False
+3310,Dimethicone,,False
+3311,Casein,,False
+3312,Sodium ferric gluconate complex,,False
+3313,Acyline,,False
+3314,Brinzolamide,,False
+3315,Levosulpiride,,False
+3316,Lacidipine,,False
+3317,Leukotriene B4,,False
+3318,Ferric sodium citrate,,False
+3319,Tedisamil,,False
+3320,Itazigrel,,False
+3321,PAC-1,,False
+3322,Azosemide,,False
+3323,Cicletanine,,False
+3324,Polyestradiol phosphate,,False
+3325,Gold sodium thiosulfate,,False
+3326,Pegcetacoplan,,False
+3327,7-Hydroxystaurosporine,,False
+3328,Benfluorex,,False
+3329,Teicoplanin,,False
+3330,Mirogabalin,,False
+3331,Avenanthramides,,False
+3332,Cumin,,False
+3333,Proxyphylline,,False
+3334,Mirvetuximab soravtansine,,False
+3335,Abivertinib,,False
+3336,Silver nitrate,,False
+3337,Landiolol,,False
+3338,Kaolin,,False
+3339,Renzapride,,False
+3340,Henagliflozin,,False
+3341,19-norandrostenedione,,False
+3342,Omapatrilat,,False
+3343,Mitiglinide,,False
+3344,Benzoylecgonine,,False
+3345,S-Nitrosoglutathione,,False
+3346,Salinomycin,,False
+3347,Dexrazoxane,,False
+3348,Ocrelizumab,,False
+3349,Strychnine,,False
+3350,Gadoversetamide,,False
+3351,Tienilic acid,,False
+3352,Zotepine,,False
+3353,Luminol,,False
+3354,Clovoxamine,,False
+3355,Deslanoside,,False
+3356,Insulin peglispro,,False
+3357,Silver sulfadiazine,,False
+3358,Pectin,,False
+3359,Hydroxyethyl Starch,,False
+3360,Eculizumab,,False
+3361,Porfimer sodium,,False
+3362,Spiradoline,,False
+3363,Norgestomet,,False
+3364,Aztreonam,,False
+3365,Flunixin,,False
+3366,Bococizumab,,False
+3367,Nerve Growth Factor,,False
+3368,Tiotidine,,False
+3369,Bixalomer,,False
+3370,Favipiravir,,False
+3371,Omacetaxine mepesuccinate,,False
+3372,Lentinan,,False
+3373,Zotiraciclib,,False
+3374,Naftopidil,,False
+3375,Almond,,False
+3376,Wortmannin,,False
+3377,Imidapril,,False
+3378,Troleandomycin,,False
+3379,Trichloroethylene,,False
+3380,Oxymetazoline,,False
+3381,NXN-188,,False
+3382,Clobetasol,,False
+3383,Almorexant,,False
+3384,Bepirovirsen,,False
+3385,Naftidrofuryl,,False
+3386,Potassium nitrate,,False
+3387,Ornoprostil,,False
+3388,Carbamide peroxide,,False
+3389,Pimagedine,,False
+3390,Trichlormethiazide,,False
+3391,Ambasilide,,False
+3392,Doxofylline,,False
+3393,Nimesulide,,False
+3394,Ajoene,,False
+3395,PR-104,,False
+3396,Gliquidone,,False
+3397,Isoquercitrin,,False
+3398,Abarelix,,False
+3399,Ceralasertib,,False
+3400,Halcinonide,,False
+3401,Sparteine,,False
+3402,Penciclovir,,False
+3403,Pirbuterol,,False
+3404,Ceruletide,,False
+3405,Imarikiren,,False
+3406,Telcagepant,,False
+3407,Omarigliptin,,False
+3408,Lergotrile,,False
+3409,Alaproclate,,False
+3410,Oxitropium,,False
+3411,Morin,,False
+3412,Fenflumizole,,False
+3413,Krill oil,,False
+3414,Daptomycin,,False
+3415,Mequitazine,,False
+3416,Pranlukast,,False
+3417,Cefotaxime,,False
+3418,Diphemanil,,False
+3419,Lonidamine,,False
+3420,Dupilumab,,False
+3421,Udenafil,,False
+3422,Ammonium chloride,,False
+3423,Imipenem,,False
+3424,Dimethyl sulfone,,False
+3425,Avidin,,False
+3426,Cetilistat,,False
+3427,Methyl nicotinate,,False
+3428,Polidocanol,,False
+3429,Solcoseryl,,False
+3430,Adinazolam,,False
+3431,Zatebradine,,False
+3432,Sultamicillin,,False
+3433,Interleukin-10,,False
+3434,Alrestatin,,False
+3435,Shark liver oil,,False
+3436,Tolebrutinib,,False
+3437,PPI-2458,,False
+3438,"5,6-Dimethylbenzimidazole",,False
+3439,Tapinarof,,False
+3440,Benralizumab,,False
+3441,Tilidine,,False
+3442,Milvexian,,False
+3443,Silicic acid,,False
+3444,Tolrestat,,False
+3445,Honey,,False
+3446,Mechlorethamine,,False
+3447,Cobamamide,,False
+3448,TAK-448,,False
+3449,Magnesium aspartate hydrochloride,,False
+3450,Indoleacetic acid,,False
+3451,Isoxsuprine,,False
+3452,Hexoprenaline,,False
+3453,Norethindrone enanthate,,False
+3454,Isometheptene,,False
+3455,Orgotein,,False
+3456,2-Methylbutanoic Acid,,False
+3457,Iclaprim,,False
+3458,Mibefradil,,False
+3459,Ozagrel,,False
+3460,Napabucasin,,False
+3461,Zinc protoporphyrin,,False
+3462,Sufotidine,,False
+3463,Nedocromil,,False
+3464,Flax seed,,False
+3465,Ozogamicin,,False
+3466,Melengestrol,,False
+3467,Sodium tetradecyl sulfate,,False
+3468,Potassium Iodide,,False
+3469,AMGN-0007,,False
+3470,Tarloxotinib,,False
+3471,Whole Blood,,False
+3472,Levcromakalim,,False
+3473,Trimegestone,,False
+3474,Palm oil,,False
+3475,Opipramol,,False
+3476,Farglitazar,,False
+3477,Fibronectin,,False
+3478,Tropifexor,,False
+3479,Glucaric acid,,False
+3480,Trastuzumab,,False
+3481,Zindotrine,,False
+3482,Ambroxol,,False
+3483,Sodium acetate,,False
+3484,Rilmazafone,,False
+3485,Ramucirumab,,False
+3486,Nocloprost,,False
+3487,Indole-3-carbinol,,False
+3488,Altrenogest,,False
+3489,Evening primrose oil,,False
+3490,Coptisine,,False
+3491,Cupric glycinate,,False
+3492,Valspodar,,False
+3493,Geldanamycin,,False
+3494,Apraclonidine,,False
+3495,Epoetin beta,,False
+3496,Chlorine dioxide,,False
+3497,Emiglitate,,False
+3498,Niceritrol,,False
+3499,Secoisolariciresinol,,False
+3500,Imeglimin,,False
+3501,Butenafine,,False
+3502,Ethyl chloride,,False
+3503,Neosaxitoxin,,False
+3504,Ectoine,,False
+3505,Raltitrexed,,False
+3506,Borage oil,,False
+3507,Sertaconazole,,False
+3508,Hydroxytyrosol,,False
+3509,Polihexanide,,False
+3510,Ciladopa,,False
+3511,Gepotidacin,Gepotidacin,True
+3512,Mavoglurant,,False
+3513,Parthenolide,,False
+3514,Eltoprazine,,False
+3515,Bithionol,,False
+3516,Guanadrel,,False
+3517,Progranulin,,False
+3518,Dimethandrolone Undecanoate,,False
+3519,Orbofiban,,False
+3520,Detirelix,,False
+3521,N-Ethylmaleimide,,False
+3522,BQ-123,,False
+3523,Framycetin,,False
+3524,Omega-6 fatty acids,,False
+3525,Prenalterol,,False
+3526,Batroxobin,,False
+3527,Cimetropium,,False
+3528,Imidazole,,False
+3529,Econazole,,False
+3530,Naftifine,,False
+3531,Cerulenin,,False
+3532,Beclomethasone 17-monopropionate,,False
+3533,Tributyrin,,False
+3534,Cyclohexanone,,False
+3535,Neodymium,,False
+3536,Cycloheximide,,False
+3537,Puromycin,,False
+3538,Ethacridine,,False
+3539,Masitinib,,False
+3540,Methscopolamine,,False
+3541,Ribulose-5-Phosphate,,False
+3542,Furfural,,False
+3543,Arecoline,,False
+3544,Hematin,,False
+3545,Trichostatin A,,False
+3546,Staurosporine,,False
+3547,Ceftazidime,,False
+3548,Tunicamycin,,False
+3549,Salicylhydroxamic Acid,,False
+3550,Aniracetam,,False
+3551,Butylidenephthalide,,False
+3552,Propyl Gallate,,False
+3553,Suramin,,False
+3554,Ginsenoside Rg1,,False
+3555,Maleic acid,,False
+3556,Ricinoleic acid,,False
+3557,Isosorbide,,False
+3558,Montmorillonite,,False
+3559,Thimerosal,,False
+3560,3-hydroxyanthranilic acid,,False
+3561,Sodium dichloroacetate,,False
+3562,Nefiracetam,,False
+3563,Benzylamine,,False
+3564,Pelubiprofen,,False
+3565,Ethoxyquin,,False
+3566,Titanium dioxide,,False
+3567,Peoniflorin,,False
+3568,alpha-Naphthoflavone,,False
+3569,Cycloleucine,,False
+3570,Hexestrol,,False
+3571,Diphenyleneiodonium,,False
+3572,Tempol,,False
+3573,Dehydroascorbic acid,,False
+3574,Benzolamide,,False
+3575,Tryptamine,,False
+3576,Vanadium,,False
+3577,"1,10-Phenanthroline",,False
+3578,Acteoside,,False
+3579,Geraniol,,False
+3580,Octopamine,,False
+3581,Huperzine A,,False
+3582,Cellobiose,,False
+3583,Chelerythrine,,False
+3584,Methionine sulfoximine,,False
+3585,Equilin,,False
+3586,Strontium chloride,,False
+3587,Sphingosine,,False
+3588,Zoxazolamine,,False
+3589,Bisindolylmaleimide I,,False
+3590,Undecanal,,False
+3591,Glycyrrhizic acid,,False
+3592,Calcium silicate,,False
+3593,Impromidine,,False
+3594,Cetyl alcohol,,False
+3595,Phthalic Acid,,False
+3596,Emetine,,False
+3597,Gibberellic acid,,False
+3598,Digitoxigenin,,False
+3599,Bromopyruvate,,False
+3600,Ethanolamine,,False
+3601,Methamidophos,,False
+3602,Olaquindox,,False
+3603,Peracetic acid,,False
+3604,Picrotoxin,,False
+3605,Nitroarginine,,False
+3606,Calyculin A,,False
+3607,Nialamide,,False
+3608,Sulfobromophthalein,,False
+3609,Alginic acid,,False
+3610,beta-Naphthoflavone,,False
+3611,Dieldrin,,False
+3612,Linopirdine,,False
+3613,Tubercidin,,False
+3614,Protocatechualdehyde,,False
+3615,Etifoxine,,False
+3616,Cathinone,,False
+3617,Protriptyline,,False
+3618,Betadex,,False
+3619,Somatotropin,,False
+3620,"5,7-Dichlorokynurenic acid",,False
+3621,"Inositol 2,4,5-trisphosphate",,False
+3622,Valinomycin,,False
+3623,N-omega-nitro-L-arginine methyl ester,,False
+3624,Flufenamic acid,,False
+3625,Vinpocetine,,False
+3626,Fructose-6-phosphate,,False
+3627,Telenzepine,,False
+3628,N-Acetylglucosamine,,False
+3629,Paraoxon,,False
+3630,Epibatidine,,False
+3631,Microcrystalline cellulose,,False
+3632,Rose bengal,,False
+3633,Ursolic acid,,False
+3634,Acrylic Acid,,False
+3635,Molybdate,,False
+3636,Chlorisondamine,,False
+3637,Pinacidil,,False
+3638,Daphnetin,,False
+3639,Phosphoenolpyruvate,,False
+3640,Farnesol,,False
+3641,Tributyltin,,False
+3642,Dorsomorphin,,False
+3643,Amfonelic acid,,False
+3644,Buformin,,False
+3645,Sodium carbonate,,False
+3646,Potassium permanganate,,False
+3647,Pipecuronium,,False
+3648,Minaprine,,False
+3649,20-Hydroxyecdysone,,False
+3650,Phloretin,,False
+3651,Ginsenoside Rb1,,False
+3652,4-Oxosebacic Acid,,False
+3653,Idarubicin,,False
+3654,Trilostane,,False
+3655,5-Hydroxymethylfurfural,,False
+3656,Honokiol,,False
+3657,Oxyclozanide,,False
+3658,Phlorizin,,False
+3659,Graphite,,False
+3660,Ethyl pyruvate,,False
+3661,Amitraz,,False
+3662,Ferric chloride,,False
+3663,Fisetin,,False
+3664,Tocainide,,False
+3665,Denatonium,,False
+3666,Rotenone,,False
+3667,Ocaperidone,,False
+3668,Dexpramipexole,,False
+3669,Trecadrine,,False
+3670,Cytochalasin B,,False
+3671,Rhein,,False
+3672,25-Hydroxycholesterol,,False
+3673,Cytisine,,False
+3674,Flavone,,False
+3675,Gelatin,,False
+3676,Gingerol,,False
+3677,Benzyl alcohol,,False
+3678,Spiperone,,False
+3679,Quinpirole,,False
+3680,3-Methyladenine,,False
+3681,Chlorophyll A,,False
+3682,Coconut,,False
+3683,Pridopidine,,False
+3684,Glycochenodeoxycholic Acid,,False
+3685,Furafylline,,False
+3686,Benactyzine,,False
+3687,Salicylamide,,False
+3688,Dichloroisoproterenol,,False
+3689,Higenamine,,False
+3690,Cilastatin,,False
+3691,Betaine aldehyde,,False
+3692,Mersalyl,,False
+3693,Fadrozole,,False
+3694,Norbixin,,False
+3695,Candicidin,,False
+3696,Silk sericin,,False
+3697,Paraldehyde,,False
+3698,Chloralose,,False
+3699,Lobeline,,False
+3700,Phenothiazine,,False
+3701,Benoxaprofen,,False
+3702,Rubidium,,False
+3703,Resorcinol,,False
+3704,Trifluoroethanol,,False
+3705,Sulfisoxazole,,False
+3706,Amperozide,,False
+3707,Brodimoprim,,False
+3708,Fenthion,,False
+3709,Tetrandrine,,False
+3710,Denbufylline,,False
+3711,Stannous chloride,,False
+3712,Aceglutamide,,False
+3713,Dihydrolipoic Acid,,False
+3714,Onion,,False
+3715,Cupric oxide,,False
+3716,Fusarium oxysporum,,False
+3717,Carbendazim,,False
+3718,Protamine sulfate,,False
+3719,Tenidap,,False
+3720,Pamiparib,,False
+3721,Sulconazole,,False
+3722,Acacia,,False
+3723,Nitroaspirin,,False
+3724,Thiacloprid,,False
+3725,Sulfadiazine,,False
+3726,Roxithromycin,,False
+3727,Oleoyl-estrone,,False
+3728,Acetophenazine,,False
+3729,N-methylnicotinamide,,False
+3730,Andrographolide,,False
+3731,Deoxyinosine,,False
+3732,Kainic acid,,False
+3733,Polyvinyl alcohol,,False
+3734,Icariin,,False
+3735,Efinaconazole,,False
+3736,Baicalein,,False
+3737,Niflumic acid,,False
+3738,Oxymatrine,,False
+3739,Etorphine,,False
+3740,Suplatast,,False
+3741,Ubenimex,,False
+3742,Alprenolol,,False
+3743,Tecastemizole,,False
+3744,Pirarubicin,,False
+3745,Pempidine,,False
+3746,Hydroxycitronellal,,False
+3747,Lumiflavin,,False
+3748,Iproniazid,,False
+3749,Furegrelate,,False
+3750,"2,4-Dinitrophenol",,False
+3751,Cinnamic acid,,False
+3752,Sulfanilamide,,False
+3753,Safingol,,False
+3754,Tiamulin,,False
+3755,Mercuric chloride,,False
+3756,"5-methoxy-N,N-dimethyltryptamine",,False
+3757,Apomine,,False
+3758,Okra,,False
+3759,Acetamide,,False
+3760,Ergometrine,,False
+3761,Zinc mesoporphyrin,,False
+3762,DPCPX,,False
+3763,Taltirelin,,False
+3764,Calcium alginate,,False
+3765,Molybdenum cofactor,,False
+3766,Difloxacin,,False
+3767,GB-115,,False
+3768,Propentofylline,,False
+3769,Isoferulic acid,,False
+3770,Triptolide,,False
+3771,Selenocysteine,,False
+3772,Hexobarbital,,False
+3773,Methaqualone,,False
+3774,Polymyxin B,,False
+3775,Butylparaben,,False
+3776,Methylparaben,,False
+3777,Mannose 6-phosphate,,False
+3778,Lactobionic acid,,False
+3779,Piperonyl butoxide,,False
+3780,Wood creosote,,False
+3781,Niclosamide,,False
+3782,Sulbutiamine,,False
+3783,Cidofovir,,False
+3784,Ribitol,,False
+3785,Sulfaclozine,,False
+3786,Lettuce,,False
+3787,Floxuridine,,False
+3788,Doxifluridine,,False
+3789,TPMPA,,False
+3790,Sodium perchlorate,,False
+3791,Tetrahydropalmatine,,False
+3792,alpha-Arbutin,,False
+3793,Domoic Acid,,False
+3794,Bentonite,,False
+3795,Methyl salicylate,,False
+3796,Sepiapterin,Sepiapterin,True
+3797,Agmatine,,False
+3798,Amidephrine,,False
+3799,Dihydrostreptomycin,,False
+3800,Fipexide,,False
+3801,Phosphoric acid,,False
+3802,Carbaryl,,False
+3803,Cyclothiazide,,False
+3804,Kelatorphan,,False
+3805,Glucose oxidase,,False
+3806,Mephedrone,,False
+3807,Zaprinast,,False
+3808,gamma-Butyrolactone,,False
+3809,Sobrerol,,False
+3810,Pramiverine,,False
+3811,AK106-001616,,False
+3812,Synephrine,,False
+3813,Tiropramide,,False
+3814,Carbon black,,False
+3815,Fendiline,,False
+3816,Omecamtiv Mecarbil,,False
+3817,Alloin,,False
+3818,CXA-10,,False
+3819,Streptozocin,,False
+3820,Benzyl isothiocyanate,,False
+3821,Phloroglucinol,,False
+3822,Pheniprazine,,False
+3823,Tisagenlecleucel,,False
+3824,Fumagillin,,False
+3825,Violaxanthin,,False
+3826,Harmaline,,False
+3827,Ribose-1-Phosphate,,False
+3828,Potassium hydroxide,,False
+3829,Lysozyme,,False
+3830,Dizocilpine,,False
+3831,Triclocarban,,False
+3832,Glyceraldehyde-3-Phosphate Dehydrogenase,,False
+3833,Cyclic GMP,,False
+3834,Allysine,,False
+3835,Sodium metabisulfite,,False
+3836,Anthralin,,False
+3837,S-Methylcysteine,,False
+3838,Eticlopride,,False
+3839,Rilmakalim,,False
+3840,Amlexanox,,False
+3841,Thiamphenicol,,False
+3842,Latrepirdine,,False
+3843,Dixanthogen,,False
+3844,Budipine,,False
+3845,trans-urocanic acid,,False
+3846,Oxibendazole,,False
+3847,Ginseng,,False
+3848,Belinostat,,False
+3849,Methapyrilene,,False
+3850,Sarizotan,,False
+3851,Clinofibrate,,False
+3852,Cibacron Blue,,False
+3853,N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide,,False
+3854,alpha-Tocopherol acetate,,False
+3855,Glutaric Acid,,False
+3856,Norvaline,,False
+3857,Peramivir,,False
+3858,Bupranolol,,False
+3859,PACAP38,,False
+3860,Lithium chloride,,False
+3861,Danofloxacin,,False
+3862,Sarafloxacin,,False
+3863,Hydroquinidine,,False
+3864,Panitumumab,,False
+3865,Pentolinium,,False
+3866,Thymoquinone,,False
+3867,Mercaptoethanol,,False
+3868,Polyglycolic acid,,False
+3869,Benzydamine,,False
+3870,Bacillus subtilis,,False
+3871,Hydroxyprogesterone,,False
+3872,Ammonium molybdate,,False
+3873,Oxethazaine,,False
+3874,Tariquidar,,False
+3875,Falipamil,,False
+3876,Tripelennamine,,False
+3877,Chloroxylenol,,False
+3878,Shogaol,,False
+3879,Cefepime,,False
+3880,Rhodamine B,,False
+3881,Cresol,,False
+3882,Calcimycin,,False
+3883,Indralin,,False
+3884,Paeonol,,False
+3885,Myxothiazol,,False
+3886,Phenolphthalein,,False
+3887,Gramicidin D,,False
+3888,Pyronaridine,,False
+3889,Emedastine,,False
+3890,Orotic acid,,False
+3891,Interferon Gamma,,False
+3892,Efrotomycin,,False
+3893,Ethoxzolamide,,False
+3894,Maltotetraose,,False
+3895,Polyethylene glycol 400,,False
+3896,Plasminogen,,False
+3897,N-acetylserotonin,,False
+3898,Ginsenoside Rd,,False
+3899,Lactobacillus plantarum,,False
+3900,Bacteroides thetaiotaomicron,,False
+3901,Rice,,False
+3902,Sulprostone,,False
+3903,Reproterol,,False
+3904,Vistusertib,,False
+3905,Caspofungin,,False
+3906,TAK-475,,False
+3907,AV-101,,False
+3908,Glyoxylic acid,,False
+3909,Proflavine,,False
+3910,Aspergillus nidulans,,False
+3911,Perfosfamide,,False
+3912,Phosphoramidon,,False
+3913,Caryophyllene,,False
+3914,Acetylene,,False
+3915,Tylosin,,False
+3916,Potassium iodate,,False
+3917,Terodiline,,False
+3918,Sulfaguanidine,,False
+3919,Quipazine,,False
+3920,Ferric oxyhydroxide,,False
+3921,Undecanoic acid,,False
+3922,Oleandrin,,False
+3923,Isonicotinic acid,,False
+3924,Hydracrylic acid,,False
+3925,Cinnamon oil,,False
+3926,3-Methoxybenzamide,,False
+3927,Oxymetholone,,False
+3928,Azastene,,False
+3929,Zopolrestat,,False
+3930,Butylated hydroxytoluene,,False
+3931,Dinitrochlorobenzene,,False
+3932,TT-232,,False
+3933,D-glyceraldehyde,,False
+3934,Turpentine,,False
+3935,Tolonidine,,False
+3936,2-Methoxyestradiol,,False
+3937,Anamorelin,,False
+3938,Tetramethylammonium,,False
+3939,Latrunculin B,,False
+3940,Bremelanotide,,False
+3941,Nigericin,,False
+3942,Baxdrostat,,False
+3943,Ciglitazone,,False
+3944,S-adenosyl-L-homocysteine,,False
+3945,Cyanamide,,False
+3946,Oxolinic acid,,False
+3947,Selenious acid,,False
+3948,Epalrestat,,False
+3949,Bombesin,,False
+3950,Cinepazide,,False
+3951,Tantalum,,False
+3952,Fosmidomycin,,False
+3953,Phenethylamine,,False
+3954,Micafungin,,False
+3955,Chlorphentermine,,False
+3956,Flubendazole,,False
+3957,Telotristat,,False
+3958,Licochalcone A,,False
+3959,Tranilast,,False
+3960,Lumichrome,,False
+3961,Recombinant Human Thrombopoietin,,False
+3962,Phenethyl Isothiocyanate,,False
+3963,Dipipanone,,False
+3964,Luliconazole,,False
+3965,Dextrorphan,,False
+3966,Phenazepam,,False
+3967,Inosinic Acid,,False
+3968,Tozasertib,,False
+3969,Acesulfame,,False
+3970,NS-398,,False
+3971,Vincanol,,False
+3972,Sulfur hexafluoride,,False
+3973,Peridinin,,False
+3974,Dihydroergocryptine,,False
+3975,"2,4-Dihydroxybenzoic Acid",,False
+3976,4-Carboxyphenylboronic Acid,,False
+3977,Misonidazole,,False
+3978,nor-NOHA,,False
+3979,Nepicastat,,False
+3980,D-arginine,,False
+3981,Tipifarnib,,False
+3982,Chloric acid,,False
+3983,Isoquinoline,,False
+3984,Artemin,,False
+3985,Gabaculine,,False
+3986,Nipecotic acid,,False
+3987,Talimogene laherparepvec,,False
+3988,Pramiconazole,,False
+3989,Kinetin,,False
+3990,Bemegride,,False
+3991,Pepstatin,,False
+3992,Barbital,,False
+3993,Metharbital,,False
+3994,Pyrantel,,False
+3995,N-Acetylmethionine,,False
+3996,Dequalinium,,False
+3997,Lupeol,,False
+3998,Acriflavine,,False
+3999,Oridonin,,False
+4000,Atipamezole,,False
+4001,NNZ-2591,,False
+4002,Gentamicin C1a,,False
+4003,Cloricromen,,False
+4004,Vitexin,,False
+4005,Ipsapirone,,False
+4006,Perflubron,,False
+4007,Picric acid,,False
+4008,Amyl acetate,,False
+4009,Acetophenone,,False
+4010,Tamibarotene,,False
+4011,Rice bran,,False
+4012,Ecgonine,,False
+4013,Masoprocol,,False
+4014,Norelgestromin,,False
+4015,Olpadronic acid,,False
+4016,Leupeptin,,False
+4017,Capsicum oleoresin,,False
+4018,Adelmidrol,,False
+4019,Ladostigil,,False
+4020,Nafoxidine,,False
+4021,Cymarin,,False
+4022,Emicizumab,,False
+4023,Fasentin,,False
+4024,Sulfathiazole,,False
+4025,Tedizolid,,False
+4026,Flutrimazole,,False
+4027,Sacrosidase,,False
+4028,Mesulergine,,False
+4029,Alisporivir,,False
+4030,Tisopurine,,False
+4031,Cyfluthrin,,False
+4032,Guanoxabenz,,False
+4033,OPC-14523,,False
+4034,Nalorphine,,False
+4035,Trimazosin,,False
+4036,Tertatolol,,False
+4037,Verbenone,,False
+4038,Isatuximab,,False
+4039,Coproporphyrinogen III,,False
+4040,Sepranolone,,False
+4041,Magnesium phosphate,,False
+4042,Avocado,,False
+4043,Isoliquiritigenin,,False
+4044,Safflower,,False
+4045,Isoxicam,,False
+4046,Basic Fibroblast Growth Factor,,False
+4047,Evans blue,,False
+4048,Bafilomycin A1,,False
+4049,Nitecapone,,False
+4050,Aminorex,,False
+4051,Lanatoside C,,False
+4052,Deleobuvir,,False
+4053,Mizoribine,,False
+4054,Benzyl benzoate,,False
+4055,Dithioerythritol,,False
+4056,Cefsulodin,,False
+4057,Eprenetapopt,,False
+4058,Zinc orotate,,False
+4059,Morphine glucuronide,,False
+4060,Rosemary,,False
+4061,Cranberry,,False
+4062,Argan oil,,False
+4063,Levallorphan,,False
+4064,Aluminum sulfate,,False
+4065,Oxfendazole,,False
+4066,Dihydrofolic Acid,,False
+4067,Cefiderocol,,False
+4068,Hydrastinine,,False
+4069,Equilenin,,False
+4070,3-Dehydroshikimate,,False
+4071,Gadobutrol,,False
+4072,Gadopiclenol,,False
+4073,Plumbagin,,False
+4074,Pyrrolnitrin,,False
+4075,2-aminoisobutyric acid,,False
+4076,Trimetrexate,,False
+4077,Ceftiofur,,False
+4078,Madecassoside,,False
+4079,Lavendustin A,,False
+4080,Gossypol acetic acid,,False
+4081,Cannabinol,,False
+4082,Isopropyl myristate,,False
+4083,Amrubicin,,False
+4084,Benzamidine,,False
+4085,Trifluperidol,,False
+4086,Gacyclidine,,False
+4087,Acetyl chloride,,False
+4088,Succinimide,,False
+4089,Latamoxef,,False
+4090,JS-K,,False
+4091,Rhamnetin,,False
+4092,Canaline,,False
+4093,Nickel sulfate,,False
+4094,Deanol,,False
+4095,Rimcazole,,False
+4096,Carbamoylcholine,,False
+4097,Spirulina platensis,,False
+4098,Cytochrome C,,False
+4099,Kifunensine,,False
+4100,Tanshinone I,,False
+4101,Melarsoprol,,False
+4102,Elacridar,,False
+4103,Bunaftine,,False
+4104,Enerisant,,False
+4105,Betulin,,False
+4106,"1,3-Propanediol",,False
+4107,Alpha-1-proteinase inhibitor,,False
+4108,Troclosene,,False
+4109,Avasimibe,,False
+4110,Asiaticoside,,False
+4111,Bufuralol,,False
+4112,Suloctidil,,False
+4113,Eptazocine,,False
+4114,Hyodeoxycholic Acid,,False
+4115,Cryptotanshinone,,False
+4116,Clofenotane,,False
+4117,Amotosalen,,False
+4118,Salvianolic acid B,,False
+4119,Bamethan,,False
+4120,Sodium ascorbate,,False
+4121,Carfentanil,,False
+4122,Allantoate,,False
+4123,Isopenicillin N,,False
+4124,Theodrenaline,,False
+4125,Compound 18,,False
+4126,Sebacic acid,,False
+4127,Chlorophyll B,,False
+4128,Guanabenz,,False
+4129,Glibornuride,,False
+4130,Cirazoline,,False
+4131,Demecolcine,,False
+4132,Isochorismic Acid,,False
+4133,Genipin,,False
+4134,Atlantic salmon,,False
+4135,Echothiophate,,False
+4136,Butoconazole,,False
+4137,Isoluminol,,False
+4138,alpha-D-glucose-1-phosphate,,False
+4139,Cuprous chloride,,False
+4140,Bifidobacterium bifidum,,False
+4141,Sinefungin,,False
+4142,Threonic acid,,False
+4143,Ustilago maydis,,False
+4144,L-Saccharopine,,False
+4145,Lomustine,,False
+4146,Wheat bran,,False
+4147,O-acetyl-L-serine,,False
+4148,Cefpirome,,False
+4149,Quazinone,,False
+4150,Oxybenzone,,False
+4151,Cashew,,False
+4152,Ammonium bicarbonate,,False
+4153,Netilmicin,,False
+4154,Calusterone,,False
+4155,3-phenylpropionic acid,,False
+4156,Ammonium carbonate,,False
+4157,Racecadotril,,False
+4158,BO-653,,False
+4159,Taribavirin,,False
+4160,Isoeugenol,,False
+4161,Olorofim,,False
+4162,Oxiracetam,,False
+4163,Hadacidin,,False
+4164,Niguldipine,,False
+4165,N-Benzylformamide,,False
+4166,RAP-103,,False
+4167,Bakuchiol,,False
+4168,Carbapenem,,False
+4169,Unoprostone,,False
+4170,Zanamivir,,False
+4171,"N,N-dimethylglycine",,False
+4172,gamma-Glutamylcysteine,,False
+4173,Sulfatide,,False
+4174,Uridine monophosphate,,False
+4175,Dipicolinic acid,,False
+4176,Octimibate,,False
+4177,HEPES,,False
+4178,N-oleoyldopamine,,False
+4179,Lubeluzole,,False
+4180,Penfluridol,,False
+4181,KB-141,,False
+4182,Quinoline,,False
+4183,Dexetimide,,False
+4184,Candida tropicalis,,False
+4185,Phytochlorin,,False
+4186,Menotropins,,False
+4187,Icaritin,,False
+4188,Trinitrotoluene,,False
+4189,Meglitinide,,False
+4190,Bifemelane,,False
+4191,Didrovaltrate,,False
+4192,Methylone,,False
+4193,Rainbow trout,,False
+4194,Docosanol,,False
+4195,Lasalocid,,False
+4196,Cordycepin,,False
+4197,Clobenzorex,,False
+4198,Sinomenine,,False
+4199,Dichlorvos,,False
+4200,2-Butanol,,False
+4201,Cacodylic acid,,False
+4202,Chymostatin,,False
+4203,Prolintane,,False
+4204,Syrosingopine,,False
+4205,5-Nitroindazole,,False
+4206,Trenbolone,,False
+4207,Methoxyphenamine,,False
+4208,Saralasin,,False
+4209,Bephenium,,False
+4210,Tandospirone,,False
+4211,Ethylene Dichloride,,False
+4212,Mangostin,,False
+4213,tert-butanol,,False
+4214,Calcium hypochlorite,,False
+4215,Ferric sulfate,,False
+4216,Estramustine phosphate,,False
+4217,Tolperisone,,False
+4218,Tosedostat,,False
+4219,Tricyclazole,,False
+4220,Eggplant,,False
+4221,Patulin,,False
+4222,Cetiedil,,False
+4223,Mannomustine,,False
+4224,2-heptyl-4-hydroxyquinoline N-oxide,,False
+4225,Anisodamine,,False
+4226,Conessine,,False
+4227,Fursultiamine,,False
+4228,Hexobendine,,False
+4229,Indoleacetamide,,False
+4230,Benzofuran,,False
+4231,Digoxigenin,,False
+4232,4-Methylimidazole,,False
+4233,Dilazep,,False
+4234,Tricaine,,False
+4235,MK-212,,False
+4236,Thiostrepton,,False
+4237,Compound 19,,False
+4238,Prephenic acid,,False
+4239,L-Cycloserine,,False
+4240,Isobutyramide,,False
+4241,Spectinomycin,,False
+4242,Metrizamide,,False
+4243,Plum,,False
+4244,Pyrvinium,,False
+4245,Vidarabine,,False
+4246,Ferric hydroxide,,False
+4247,Tilorone,,False
+4248,Cyromazine,,False
+4249,Butylscopolamine,,False
+4250,Etilefrine,,False
+4251,Dichromate,,False
+4252,Pyritinol,,False
+4253,Rotavirus vaccine,,False
+4254,Sodium bisulfite,,False
+4255,Prenylamine,,False
+4256,Shea butter,,False
+4257,Methylthiouracil,,False
+4258,8-azaguanine,,False
+4259,4-Hydroxyphenylpyruvic acid,,False
+4260,Tea tree oil,,False
+4261,Acemannan,,False
+4262,Aphidicolin,,False
+4263,Azadirachtin,,False
+4264,Phosmet,,False
+4265,Nirsevimab,,False
+4266,Sulfapyridine,,False
+4267,Histidinol,,False
+4268,Clemizole,,False
+4269,Sodium iodide,,False
+4270,Abanoquil,,False
+4271,Anhydrovitamin A,,False
+4272,Avibactam,,False
+4273,Dimetridazole,,False
+4274,Potassium acetate,,False
+4275,Mesterolone,,False
+4276,Berbamine,,False
+4277,Benziodarone,,False
+4278,Aminooxyacetic acid,,False
+4279,Olomoucine,,False
+4280,Fenvalerate,,False
+4281,Befloxatone,,False
+4282,Sulfamoxole,,False
+4283,"2,5-di-tert-butylhydroquinone",,False
+4284,Decamethonium,,False
+4285,Metipranolol,,False
+4286,Butafenacil,,False
+4287,Salvianolic acid A,,False
+4288,Sea salt,,False
+4289,Biapenem,,False
+4290,Grapefruit oil,,False
+4291,Suxibuzone,,False
+4292,Black cohosh,,False
+4293,Mivazerol,,False
+4294,Neon,,False
+4295,Eupatilin,,False
+4296,"1,4-Butanediol",,False
+4297,Tafluprost,,False
+4298,Laurocapram,,False
+4299,Phloretic acid,,False
+4300,Cinchonidine,,False
+4301,Dienestrol,,False
+4302,Fentonium,,False
+4303,Tanespimycin,,False
+4304,Anethole,,False
+4305,Mometasone,,False
+4306,Cycloguanil,,False
+4307,Setoperone,,False
+4308,Mizagliflozin,,False
+4309,Mimosine,,False
+4310,Rokitamycin,,False
+4311,2-Chlorophenol,,False
+4312,Marimastat,,False
+4313,Arteflene,,False
+4314,18-methoxycoronaridine,,False
+4315,Phenothrin,,False
+4316,5-iodotubercidin,,False
+4317,Oxantel,,False
+4318,Cannabidivarin,,False
+4319,Azoxystrobin,,False
+4320,Dibromothymoquinone,,False
+4321,Oxaloacetic acid,,False
+4322,Mequinol,,False
+4323,Isoxaflutole,,False
+4324,Thenoyltrifluoroacetone,,False
+4325,Hydrogenated coconut oil,,False
+4326,Mestranol,,False
+4327,N-Formylmethionine,,False
+4328,Phenolsulfonphthalein,,False
+4329,Salicin,,False
+4330,Diphthamide,,False
+4331,Strawberry,,False
+4332,Alanosine,,False
+4333,N-chlorotaurine,,False
+4334,Trehalose-6-Phosphate,,False
+4335,Cinnamyl alcohol,,False
+4336,Prussian blue,,False
+4337,Bencyclane,,False
+4338,Isbufylline,,False
+4339,Hydrastine,,False
+4340,Resiquimod,,False
+4341,Marbofloxacin,,False
+4342,Dehydrocholic acid,,False
+4343,Tarazepide,,False
+4344,Alverine,,False
+4345,Lidamidine,,False
+4346,6-diazo-5-oxo-L-norleucine,,False
+4347,Valerian,,False
+4348,Arnica montana,,False
+4349,Flumequine,,False
+4350,Arsanilic acid,,False
+4351,Cladosporium herbarum,,False
+4352,Aminophenazone,,False
+4353,Cobiprostone,,False
+4354,Hydrotalcite,,False
+4355,Thrombopoietin,,False
+4356,Perfluorodecalin,,False
+4357,Metocurine,,False
+4358,Narasin,,False
+4359,Indigo,,False
+4360,t-Butylhydroquinone,,False
+4361,Iprindole,,False
+4362,Dichloroacetic acid,,False
+4363,Perifosine,,False
+4364,Echinacoside,,False
+4365,Bacillus cereus,,False
+4366,Cefozopran,,False
+4367,Rociverine,,False
+4368,L-Baclofen,,False
+4369,Axicabtagene ciloleucel,,False
+4370,Cefpiramide,,False
+4371,Metoprine,,False
+4372,Streptonigrin,,False
+4373,Tetramisole,,False
+4374,Sacubitrilat,,False
+4375,Diproteverine,,False
+4376,Nizofenone,,False
+4377,Metaraminol,,False
+4378,CC-90001,,False
+4379,2-Keto-3-Deoxygluconate,,False
+4380,Paprika,,False
+4381,iota-Carrageenan,,False
+4382,Doramectin,,False
+4383,Bufotenine,,False
+4384,Succinylsulfathiazole,,False
+4385,Tafolecimab,,False
+4386,Deoxyuridine monophosphate,,False
+4387,Nicomorphine,,False
+4388,Benzoin,,False
+4389,Potassium lactate,,False
+4390,Fusarium graminearum,,False
+4391,L-homoarginine,,False
+4392,Butane,,False
+4393,Thiosalicylic acid,,False
+4394,Geranyl Diphosphate,,False
+4395,Efalizumab,,False
+4396,Dichlorophen,,False
+4397,Diethyltoluamide,,False
+4398,Fenticonazole,,False
+4399,Ritobegron,,False
+4400,"4-Methyl-1,2-Benzenediol",,False
+4401,Terameprocol,,False
+4402,Azapropazone,,False
+4403,Cilostamide,,False
+4404,Parsley,,False
+4405,Nordazepam,,False
+4406,Pramiracetam,,False
+4407,Ilomastat,,False
+4408,Carboxymethylcellulose,,False
+4409,PRX-03140,,False
+4410,5-fluorotryptophan,,False
+4411,Fucus vesiculosus,,False
+4412,D-Proline,,False
+4413,Interferon tau,,False
+4414,K-252a,,False
+4415,Carbazole,,False
+4416,Mescaline,,False
+4417,Trifarotene,,False
+4418,Rhodamine 6G,,False
+4419,Aceclidine,,False
+4420,Bombykol,,False
+4421,Hexylresorcinol,,False
+4422,Amylmetacresol,,False
+4423,alpha-Tocopherol succinate,,False
+4424,LM-609,,False
+4425,Fusicoccin,,False
+4426,Cetaben,,False
+4427,Maytansine,,False
+4428,Demegestone,,False
+4429,Pirlindole,,False
+4430,Decamethoxine,,False
+4431,Thiorphan,,False
+4432,Bucillamine,,False
+4433,3-nitro-L-tyrosine,,False
+4434,Atosiban,,False
+4435,Tribenoside,,False
+4436,Ethyl butyrate,,False
+4437,Fotemustine,,False
+4438,Ozenoxacin,,False
+4439,Atpenin A5,,False
+4440,Scriptaid,,False
+4441,Follitropin,,False
+4442,Devazepide,,False
+4443,Acetoacetyl-CoA,,False
+4444,Terikalant,,False
+4445,Lactobacillus reuteri,,False
+4446,Malachite Green,,False
+4447,Erenumab,,False
+4448,Isosteviol,,False
+4449,NCX-1000,,False
+4450,Brostallicin,,False
+4451,Succinyl-Coenzyme A,,False
+4452,Santonin,,False
+4453,Dimercaprol,,False
+4454,Hemopexin,,False
+4455,Lorcainide,,False
+4456,Enadoline,,False
+4457,OPC-28326,,False
+4458,Trichloroacetaldehyde,,False
+4459,Prostaglandin G2,,False
+4460,Flurothyl,,False
+4461,Menaquinone,,False
+4462,Coumaphos,,False
+4463,Triacetin,,False
+4464,4-dimethylaminophenol,,False
+4465,Guanazodine,,False
+4466,Linrodostat,,False
+4467,Benzophenone,,False
+4468,dATP,,False
+4469,Ipatasertib,,False
+4470,4-Hydroxyphenylglycine,,False
+4471,"7,8-Dihydroneopterin",,False
+4472,"4,7-Dioxosebacic Acid",,False
+4473,Abatacept,,False
+4474,Tirapazamine,,False
+4475,Quisinostat,,False
+4476,Diphenylpyraline,,False
+4477,Lificiguat,,False
+4478,Saccharomyces cerevisiae,,False
+4479,Hexachlorophene,,False
+4480,Rafoxanide,,False
+4481,Prednisone acetate,,False
+4482,Dapiprazole,,False
+4483,Cefroxadine,,False
+4484,Vanillyl alcohol,,False
+4485,D-tartaric acid,,False
+4486,Nitroxoline,,False
+4487,Nicomol,,False
+4488,Gusperimus,,False
+4489,Naphazoline,,False
+4490,Indoramin,,False
+4491,Dactinomycin,,False
+4492,Nepadutant,,False
+4493,Lavender oil,,False
+4494,Ginsenoside Rg3,,False
+4495,Pirenperone,,False
+4496,Flurofamide,,False
+4497,Dinutuximab,,False
+4498,Cupric Chloride,,False
+4499,Myrrh,,False
+4500,Apramycin,,False
+4501,Pineapple,,False
+4502,Pentanal,,False
+4503,Promegestone,,False
+4504,Apstatin,,False
+4505,Cannabigerol,,False
+4506,Oxamic Acid,,False
+4507,Aprikalim,,False
+4508,AZD-8055,,False
+4509,Fremanezumab,,False
+4510,Pegbelfermin,,False
+4511,Bromhexine,,False
+4512,Polyinosinic-polycytidylic acid,,False
+4513,D-Tyrosine,,False
+4514,Carboxyatractyloside,,False
+4515,Clebopride,,False
+4516,Fluperlapine,,False
+4517,Perlapine,,False
+4518,Anpirtoline,,False
+4519,"5alpha-androstane-3alpha,17beta-diol",,False
+4520,Hydroxyfasudil,,False
+4521,L-Homoserine,,False
+4522,Tulobuterol,,False
+4523,Arachidonyltrifluoromethane,,False
+4524,Rosin,,False
+4525,Desoximetasone,,False
+4526,Darinaparsin,,False
+4527,Indium,,False
+4528,Meglumine antimoniate,,False
+4529,Exifone,,False
+4530,Triethylene glycol,,False
+4531,Phytosphingosine,,False
+4532,Repirinast,,False
+4533,Proglumide,,False
+4534,Oblimersen,,False
+4535,S-777469,,False
+4536,Serelaxin,,False
+4537,Indolepropionic acid,,False
+4538,Namitecan,,False
+4539,Carfilzomib,,False
+4540,Carbetocin,,False
+4541,Siramesine,,False
+4542,Carbamic Acid,,False
+4543,Trypanothione,,False
+4544,Lesopitron,,False
+4545,Indirubin,,False
+4546,Tyloxapol,,False
+4547,Dalbavancin,,False
+4548,Platensimycin,,False
+4549,3-hydroxyglutaric acid,,False
+4550,Gaboxadol,,False
+4551,1-Methylhistidine,,False
+4552,JQ1,,False
+4553,Tosufloxacin,,False
+4554,Lestaurtinib,,False
+4555,Human Umbilical Cord Mesenchymal Stem Cells,,False
+4556,Talsaclidine,,False
+4557,Tildrakizumab,,False
+4558,Bacteriochlorophyll A,,False
+4559,Quinacrine mustard,,False
+4560,Ginkgolide A,,False
+4561,Norclozapine,,False
+4562,Vadimezan,,False
+4563,Morpholine,,False
+4564,Desidustat,,False
+4565,Asiatic acid,,False
+4566,Dactolisib,,False
+4567,Enfuvirtide,,False
+4568,Avobenzone,,False
+4569,Octocrylene,,False
+4570,Clorobiocin,,False
+4571,Arotinolol,,False
+4572,Tuna,,False
+4573,Iodoform,,False
+4574,Enterococcus faecium,,False
+4575,Sumanirole,,False
+4576,4-Methylaminorex,,False
+4577,Cartazolate,,False
+4578,Oleandomycin,,False
+4579,Clobutinol,,False
+4580,Biopterin,,False
+4581,Eliprodil,,False
+4582,Tricaprylin,,False
+4583,4-Oxoretinol,,False
+4584,Aurothioglucose,,False
+4585,Cefmenoxime,,False
+4586,Stannous fluoride,,False
+4587,Tienocarbine,,False
+4588,Dinaciclib,,False
+4589,Iodobenzene,,False
+4590,Chlorocresol,,False
+4591,Adozelesin,,False
+4592,Phenmetrazine,,False
+4593,Proscillaridin,,False
+4594,Lynestrenol,,False
+4595,Khellin,,False
+4596,Estradiol sulfamate,,False
+4597,D-Cysteine,,False
+4598,Cephalosporin C,,False
+4599,Interferon alfa,,False
+4600,"1,2-Hexanediol",,False
+4601,Pseudomonas aeruginosa,,False
+4602,Squalane,,False
+4603,Ovatodiolide,,False
+4604,Guvacine,,False
+4605,5beta-dihydrotestosterone,,False
+4606,Didecyldimethylammonium,,False
+4607,Harmine,,False
+4608,Glucosamine 6-Phosphate,,False
+4609,Alemtuzumab,,False
+4610,Zinc iodide,,False
+4611,Glafenine,,False
+4612,D-Alanine,,False
+4613,Ciclonicate,,False
+4614,Cepharanthine,,False
+4615,Cannabidiolic acid,,False
+4616,Micronomicin,,False
+4617,Lactobacillus acidophilus,,False
+4618,D-Glutamine,,False
+4619,D-Threonine,,False
+4620,Proquazone,,False
+4621,TPCA-1,,False
+4622,Hidrosmin,,False
+4623,Thiocolchicoside,,False
+4624,alpha-Pinene,,False
+4625,Crisaborole,,False
+4626,Flunoxaprofen,,False
+4627,Cerebrolysin,,False
+4628,Lidoflazine,,False
+4629,Meclofenoxate,,False
+4630,D-Leucine,,False
+4631,Picotamide,,False
+4632,Ormeloxifene,,False
+4633,Prajmaline,,False
+4634,MK-7622,,False
+4635,Glycyrrhiza glabra,,False
+4636,1-Dodecanol,,False
+4637,Fennel,,False
+4638,Pteroic acid,,False
+4639,Minaxolone,,False
+4640,Navitoclax,,False
+4641,Boldenone,,False
+4642,Norfenefrine,,False
+4643,Temoporfin,,False
+4644,Zardaverine,,False
+4645,Mandelic acid,,False
+4646,Platelet Lysate,,False
+4647,Placental Mesenchymal Stem Cells,,False
+4648,Chrysoeriol,,False
+4649,4-Nitrocatechol,,False
+4650,Clothiapine,,False
+4651,Pyrithione,,False
+4652,Lemon,,False
+4653,Robalzotan,,False
+4654,Profenamine,,False
+4655,Pimonidazole,,False
+4656,Zosuquidar,,False
+4657,Cefotiam,,False
+4658,Ceftizoxime,,False
+4659,Barium sulfate,,False
+4660,Dihydroxyacetone phosphate,,False
+4661,Idarucizumab,,False
+4662,Fluparoxan,,False
+4663,Phosphonoacetic Acid,,False
+4664,Sodium aurothiomalate,,False
+4665,Tibenelast,,False
+4666,Monogalactosyldiacylglycerol,,False
+4667,9-Deazaguanine,,False
+4668,Turnip,,False
+4669,Inotodiol,,False
+4670,Adrenalone,,False
+4671,Riboflavin tetrabutyrate,,False
+4672,Carboquone,,False
+4673,Caldaret,,False
+4674,DPDPE,,False
+4675,Silanol,,False
+4676,Aetiocholanolone,,False
+4677,Vesnarinone,,False
+4678,Pomaglumetad methionil,,False
+4679,Talipexole,,False
+4680,Carisbamate,,False
+4681,Tiaramide,,False
+4682,Gibberellin A4,,False
+4683,GsMtx-4,,False
+4684,Carboprost,,False
+4685,Y-27632,,False
+4686,Ellipticine,,False
+4687,Duroquinone,,False
+4688,Niaprazine,,False
+4689,Kale,,False
+4690,Hematoxylin,,False
+4691,Femoxetine,,False
+4692,Agalsidase beta,,False
+4693,Dipivefrin,,False
+4694,Thenalidine,,False
+4695,D-erythrose 4-phosphate,,False
+4696,Lenabasum,,False
+4697,Ponalrestat,,False
+4698,Clove,,False
+4699,Tetramethrin,,False
+4700,Yeast,,False
+4701,Guanosine tetraphosphate,,False
+4702,Sodium sulfide,,False
+4703,Aramchol,,False
+4704,Ruboxistaurin,,False
+4705,Namn,,False
+4706,Butafosfan,,False
+4707,Methyl red,,False
+4708,FM-VP4,,False
+4709,Lactaldehyde,,False
+4710,Etryptamine,,False
+4711,Durlobactam,,False
+4712,Pirlimycin,,False
+4713,Oxyquinoline,,False
+4714,Bromoform,,False
+4715,CTCE-9908,,False
+4716,Dapansutrile,,False
+4717,Lavendustin b,,False
+4718,Sodium borate,,False
+4719,Anidulafungin,,False
+4720,Testosterone isocaproate,,False
+4721,SC-236,,False
+4722,Hypromellose,,False
+4723,Minodronic acid,,False
+4724,Pixantrone,,False
+4725,Capromorelin,,False
+4726,Purslane,,False
+4727,Magnesium acetate,,False
+4728,Dorzolamide,,False
+4729,Pentetrazol,,False
+4730,Glymidine,,False
+4731,Pipamperone,,False
+4732,Rutamycin,,False
+4733,Pumice,,False
+4734,S-sulphocysteine,,False
+4735,4-Methoxyamphetamine,,False
+4736,Olcegepant,,False
+4737,Formycin B,,False
+4738,Bismuth subnitrate,,False
+4739,Maltose,,False
+4740,Aminopterin,,False
+4741,Aprindine,,False
+4742,Vocacapsaicin,,False
+4743,Brilliant blue G,,False
+4744,Barusiban,,False
+4745,Florasulam,,False
+4746,ATI-1013,,False
+4747,Dideoxyadenosine,,False
+4748,Acifluorfen,,False
+4749,Polysorbate 20,,False
+4750,Undecylenic acid,,False
+4751,MF268,,False
+4752,Ketazocine,,False
+4753,Bunazosin,,False
+4754,Alinidine,,False
+4755,Ferrous carbonate,,False
+4756,Asparagus,,False
+4757,Fenproporex,,False
+4758,Mebeverine,,False
+4759,Bryostatin 1,,False
+4760,Bisphenol A diglycidyl ether,,False
+4761,SB-269970,,False
+4762,Terpinyl acetate,,False
+4763,Vanoxerine,,False
+4764,D-Xylulose,,False
+4765,Amoscanate,,False
+4766,Quinelorane,,False
+4767,Sulisobenzone,,False
+4768,Bicyclol,,False
+4769,"Methyl 2,5-dihydroxycinnamate",,False
+4770,Bendazac,,False
+4771,Gallamine triethiodide,,False
+4772,Pitofenone,,False
+4773,Hemicellulase,,False
+4774,Diethanolamine,,False
+4775,Artemotil,,False
+4776,Ispronicline,,False
+4777,Isoconazole,,False
+4778,cis-Vaccenic acid,,False
+4779,(S)-AMPA,,False
+4780,Bimakalim,,False
+4781,1-Methylimidazole,,False
+4782,Fenchone,,False
+4783,Nicarbazin,,False
+4784,Diethylamino hydroxybenzoyl hexyl benzoate,,False
+4785,Wheat germ oil,,False
+4786,Phosphate ion,,False
+4787,Sofalcone,,False
+4788,Fenoverine,,False
+4789,Zilovertamab,,False
+4790,Aganodine,,False
+4791,Dexibuprofen,,False
+4792,Enclomiphene,,False
+4793,Capsicum,,False
+4794,Fudosteine,,False
+4795,Salvinorin A,,False
+4796,Adibendan,,False
+4797,Nitenpyram,,False
+4798,D-Lysine,,False
+4799,N-Acetyl-L-Glutamate,,False
+4800,Perazine,,False
+4801,Corn,,False
+4802,Quinazosin,,False
+4803,Bopindolol,,False
+4804,Midecamycin,,False
+4805,Rosemary oil,,False
+4806,Phloxine B,,False
+4807,Phthalylsulfathiazole,,False
+4808,Ataluren,,False
+4809,Epicillin,,False
+4810,Milameline,,False
+4811,Ifetroban,,False
+4812,Moxaverine,,False
+4813,ENA-001,,False
+4814,Methylecgonine,,False
+4815,Danitracen,,False
+4816,Orazipone,,False
+4817,Distigmine,,False
+4818,Norleucine,,False
+4819,Xibornol,,False
+4820,Epacadostat,,False
+4821,Etafenone,,False
+4822,Diaziquone,,False
+4823,Etazolate,,False
+4824,Elotuzumab,,False
+4825,1-benzylimidazole,,False
+4826,Tin protoporphyrin IX,,False
+4827,Dolastatin 10,,False
+4828,Tiapamil,,False
+4829,Pheniramine,,False
+4830,Perospirone,,False
+4831,Tretamine,,False
+4832,Desciclovir,,False
+4833,Papaya,,False
+4834,Troxipide,,False
+4835,BAY-876,,False
+4836,Dotarizine,,False
+4837,Mesoxalic acid,,False
+4838,Poloxamer 188,,False
+4839,Buckwheat,,False
+4840,Beeswax,,False
+4841,Aclarubicin,,False
+4842,Banana,,False
+4843,Colfosceril palmitate,,False
+4844,Diglyme,,False
+4845,Vincamine,,False
+4846,Carbazochrome,,False
+4847,Tetramethylpyrazine nitrone,,False
+4848,Ramiprilat,,False
+4849,Pyrrolizidine,,False
+4850,U-0126,,False
+4851,Metofenazate,,False
+4852,Sulfamerazine,,False
+4853,Nogalamycin,,False
+4854,Lifarizine,,False
+4855,Acetone Cyanohydrin,,False
+4856,(R)-Mandelic acid,,False
+4857,D-Glutamic Acid,,False
+4858,Apple cider vinegar,,False
+4859,Etofenamate,,False
+4860,Aluminum chlorohydrate,,False
+4861,Niridazole,,False
+4862,Lorajmine,,False
+4863,Nusinersen,,False
+4864,Uridine diphosphate glucose,,False
+4865,Ethyl ferulate,,False
+4866,Denopamine,,False
+4867,Umespirone,,False
+4868,Chamazulene,,False
+4869,Tragacanth,,False
+4870,PT-2385,,False
+4871,Cinchocaine,,False
+4872,Diminazene,,False
+4873,Chlorotoxin,,False
+4874,Losulazine,,False
+4875,Alagebrium,,False
+4876,Calcium fluoride,,False
+4877,Fostriecin,,False
+4878,Plaunotol,,False
+4879,Enzacamene,,False
+4880,Androstanedione,,False
+4881,Niobium,,False
+4882,3-Methylcytosine,,False
+4883,Z-Pro-Prolinal,,False
+4884,3-Methylpyridine,,False
+4885,Pirozadil,,False
+4886,Grape seed oil,,False
+4887,Clove oil,,False
+4888,Chlorphenesin carbamate,,False
+4889,alpha-L-fucose,,False
+4890,Pirprofen,,False
+4891,Geneticin,,False
+4892,Dill,,False
+4893,Sivelestat,,False
+4894,Tesaglitazar,,False
+4895,Canavanine,,False
+4896,Veverimer,,False
+4897,Etozoline,,False
+4898,Iopanoic acid,,False
+4899,Pristinamycin,,False
+4900,Alizapride,,False
+4901,Bromopride,,False
+4902,3-Tyrosine,,False
+4903,Benzoctamine,,False
+4904,NPS-2143,,False
+4905,Embusartan,,False
+4906,Mesosulfuron-methyl,,False
+4907,Dianicline,,False
+4908,Perindoprilat,,False
+4909,Iguratimod,,False
+4910,Iotrolan,,False
+4911,Irindalone,,False
+4912,Quisqualic acid,,False
+4913,ABT-737,,False
+4914,Diprenorphine,,False
+4915,Norethandrolone,,False
+4916,5-Aminouracil,,False
+4917,Apricot kernel oil,,False
+4918,Cupric sulfate,,False
+4919,Dodecyltrimethylammonium,,False
+4920,Steviolbioside,,False
+4921,Moxestrol,,False
+4922,Opaganib,,False
+4923,Hydroxyethyl cellulose,,False
+4924,Dulofibrate,,False
+4925,2-Allylphenol,,False
+4926,Afloqualone,,False
+4927,Atacicept,,False
+4928,Nitrilotriacetic acid,,False
+4929,"N,N-dimethylformamide",,False
+4930,Echinomycin,,False
+4931,Dihydroergocornine,,False
+4932,Acetylphosphate,,False
+4933,Medazomide,,False
+4934,Taladegib,,False
+4935,Ametantrone,,False
+4936,Quinupramine,,False
+4937,Baloxavir,,False
+4938,Sitafloxacin,,False
+4939,Peppermint oil,,False
+4940,Ganglioside GM1,,False
+4941,Dichlorobenzene,,False
+4942,Cyclopenthiazide,,False
+4943,Glunicate,,False
+4944,Liarozole,,False
+4945,Mitoquinone,,False
+4946,Volinanserin,,False
+4947,Dinalbuphine sebacate,,False
+4948,Lobeglitazone,,False
+4949,Nebularine,,False
+4950,2-Isobutyl-3-methoxypyrazine,,False
+4951,Dimethylcurcumin,,False
+4952,Ovalicin,,False
+4953,Cambendazole,,False
+4954,Uridine-Diphosphate-N-Acetylglucosamine,,False
+4955,Thyme oil,,False
+4956,Miocamycin,,False
+4957,Sorbitan trioleate,,False
+4958,S-8510,,False
+4959,Proglumetacin,,False
+4960,Lithium hydroxide,,False
+4961,Dermatophagoides farinae,,False
+4962,Viquidil,,False
+4963,Ferric pyrophosphate citrate,,False
+4964,D-glyceraldehyde 3-phosphate,,False
+4965,Ordopidine,,False
+4966,Alnespirone,,False
+4967,1-Androstenedione,,False
+4968,Vanillyl butyl ether,,False
+4969,5-fluorouridine,,False
+4970,Etizolam,,False
+4971,Indatraline,,False
+4972,Dexefaroxan,,False
+4973,Ecklonia cava,,False
+4974,Porfiromycin,,False
+4975,Rye,,False
+4976,Dimiracetam,,False
+4977,Butaperazine,,False
+4978,Amprolium,,False
+4979,Metronidazole benzoate,,False
+4980,IC261,,False
+4981,Actodigin,,False
+4982,Delequamine,,False
+4983,Josamycin,,False
+4984,Siplizumab,,False
+4985,Desonide,,False
+4986,Gondoic acid,,False
+4987,WIN 55212-2,,False
+4988,2-Ethoxyethanol,,False
+4989,Chymopapain,,False
+4990,Clonazolam,,False
+4991,Sacubitril,,False
+4992,Pamidronic acid,,False
+4993,4-(Dimethylamino)benzoic acid,,False
+4994,TAK-243,,False
+4995,Talsupram,,False
+4996,Adamantane,,False
+4997,Verlukast,,False
+4998,Plitidepsin,,False
+4999,Halopemide,,False

@@ -1,0 +1,1456 @@
+new_id,name,smiles
+1,Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C
+2,Calcium,[Ca]
+11,Folic Acid,C1=CC(=CC=C1C(=O)NC(CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N
+18,Iron,[Fe]
+20,Magnesium,[Mg]
+22,Potassium,[K]
+25,Sodium,[Na]
+26,Vitamin B Complex,
+27,Vitamin C,C(C(C1C(=C(C(=O)O1)O)O)O)O
+28,Vitamin D,
+29,Vitamin E,CC1=C(C2=C(CCC(O2)(C)CCCC(C)CCCC(C)CCCC(C)C)C(=C1O)C)C
+30,Vitamin K2,CC1=C(C(=O)C2=CC=CC=C2C1=O)CC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C
+31,Zinc,[Zn]
+32,Carvone,CC1=CCC(CC1=O)C(=C)C
+33,Acetic Acid,CC(=O)O
+56,Auraptene,CC(=CCCC(=CCOC1=CC2=C(C=C1)C=CC(=O)O2)C)C
+62,Berberine,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC
+75,Cirsium Chanroenicum,
+77,Caffeic Acid,C1=CC(=C(C=C1C=CC(=O)O)O)O
+80,Capsaicin,CC(C)C=CCCCCC(=O)NCC1=CC(=C(C=C1)O)OC
+85,Chelerythrine,C[N+]1=C2C(=C3C=CC(=C(C3=C1)OC)OC)C=CC4=CC5=C(C=C42)OCO5
+86,Chelidonine,CN1CC2=C(C=CC3=C2OCO3)C4C1C5=CC6=C(C=C5CC4O)OCO6
+87,Chenopodium,
+94,Thistle,
+102,Coconut Flower Sap,
+107,Common Sage,
+108,Common Valerian,
+110,Cone Flower,
+113,Corilagin,C1C2C(C(C(C(O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)O)OC(=O)C4=CC(=C(C(=C4C5=C(C(=C(C=C5C(=O)O1)O)O)O)O)O)O)O
+115,Corni,
+118,Crataegi,
+119,Crataegus,
+120,Cucumis Melo,
+121,Cucurbita Andreana,
+124,Cyanidin,C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O)O
+125,Cyperus Rotundus,
+126,D. Edulis,
+128,Daidzein,C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O
+132,Damnacanthal,COC1=C2C(=CC(=C1C=O)O)C(=O)C3=CC=CC=C3C2=O
+134,Daucus Carota,
+135,Dehydroepiandrosterone,CC12CCC3C(C1CCC2=O)CC=C4C3(CCC(C4)O)C
+136,Delphinidin,C1=C(C=C(C(=C1O)O)O)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O
+138,Dioscin,CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CC=C6C5(CCC(C6)OC7C(C(C(C(O7)CO)OC8C(C(C(C(O8)C)O)O)O)O)OC9C(C(C(C(O9)C)O)O)O)C)C)C)OC1
+140,Dioscorea Nipponica Makino,
+141,Dioscoreae Rhizoma,
+144,Evodia Rutaecarpa,
+145,Falcarinol,CCCCCCCC=CCC#CC#CC(C=C)O
+147,Foeniculum Vulgare,
+149,Ff-D,
+151,Fish Flakes Supplemented With The Diatom Thalassiosira Weissflogii,
+153,Folic,C1=CC(=CC=C1C(=O)NC(CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N
+154,Folinic Acid,C1C(N(C2=C(N1)N=C(NC2=O)N)C=O)CNC3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O
+155,Folinic Acids,
+160,Gallic Acid,C1=C(C=C(C(=C1O)O)O)C(=O)O
+162,Garcinol,CC(=CCC1CC2(C(=O)C(=C(C3=CC(=C(C=C3)O)O)O)C(=O)C(C2=O)(C1(C)C)CC=C(C)C)CC(CC=C(C)C)C(=C)C)C
+164,Gegen,
+166,Ginsenoside Rg1,CC(=CCCC(C)(C1CCC2(C1C(CC3C2(CC(C4C3(CCC(C4(C)C)O)C)OC5C(C(C(C(O5)CO)O)O)O)C)O)C)OC6C(C(C(C(O6)CO)O)O)O)C
+170,Guineense Swartz,
+171,Guttiferae,
+184,L. Usitatissimum,
+186,Laurus Nobilis L,
+187,Lavandula Burnetii,
+189,Soy Lecithin,
+192,Lepidium Sativum,
+194,Linalool,CC(=CCCC(C)(C=C)O)C
+196,Luffa,
+197,Lutein,CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2C(=CC(CC2(C)C)O)C)C)C
+198,Lycii,
+199,M. Parviflora,
+200,Macrotyloma Uniflorum,
+201,Malus,
+202,Malva Parviflora,
+203,Malva Sylvestris,
+204,Malvidin,COC1=CC(=CC(=C1O)OC)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O
+205,Malβg,
+206,Manganese,[Mn]
+207,Mangifera Indica,
+208,Mangosteen,
+209,Marula,
+211,Mentha Piperita,
+213,Morinda Citrifolia Linn.,
+214,Moringa Oleifera,
+215,Morus,
+216,Morus Alba L-H2O,
+217,Muscadine Grapes,
+218,Mustard,C(CCl)SCCCl
+219,Myo-Inositol,C1(C(C(C(C(C1O)O)O)O)O)O
+221,Neferine,CN1CCC2=CC(=C(C=C2C1CC3=CC=C(C=C3)OC)OC4=C(C=CC(=C4)CC5C6=CC(=C(C=C6CCN5C)OC)OC)O)OC
+222,Nelumbo Nucifera Gaertn,
+223,Nelumbonucifera,
+224,Nepitrin,COC1=C(C=C2C(=C1O)C(=O)C=C(O2)C3=CC(=C(C=C3)O)O)OC4C(C(C(C(O4)CO)O)O)O
+225,Niacin,C1=CC(=CN=C1)C(=O)O
+226,Nigella Sativa,
+228,O. Basilicum,
+230,Ocimum Basilicum,
+231,Olerciamide A,CC(C)(C)C(=O)NC1=CC(=CC=C1)OCCN2CCOCC2
+234,Origanum Majorana,
+238,P. Dulce,
+239,P. Guineense,
+240,P. Hydropiper,
+241,P. Pulmonarius,
+243,P. Vulgaris,
+245,Panax Notoginseng Ledeb,
+246,Parkia Speciosa,
+248,Passiflora Incarnata,
+249,Pectolinarigenin,COC1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)OC)O
+250,Peonidin,COC1=C(C=CC(=C1)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O.[Cl-]
+251,Perilla,
+252,Perilla Frutescens Britton,
+253,Phaseolus Vulgaris,
+254,Phoenix Dactylifera,
+255,Phyllanthaceae,
+256,Phyllanthus Acidus,
+257,Phyllanthus Emblica Linn,
+258,Phyllanthus Emblica-Etoh,
+259,Physalis,
+260,Physalis Peruviana,
+261,Phytate,C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O
+262,Pinitol,COC1C(C(C(C(C1O)O)O)O)O
+263,Pinus Halepensis,
+264,Piperine,C1CCN(CC1)C(=O)C=CC=CC2=CC3=C(C=C2)OCO3
+266,Pithecellobium Dulce,
+267,Pleurotus Ostreatus,
+268,Pleurotus Pulmonarius,
+269,Polygonum Hydropiper,
+270,Polygonum Viviparum,
+273,Ponciri Fructus,
+274,Poncirus Trifoliata,
+275,Portulaca Oleracea L.,
+276,Propolis,
+277,Psidium Guajava,
+278,Pueraria Lobata,
+279,Quercetin,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O
+280,Quercus,
+281,R. Hastatus,
+282,Rainbow Trout,
+283,Raphia Hookeri,
+287,Repeatedly Heated Palm,
+288,Repeatedly-Heated Vegetable,
+289,"3,4',5-Trihydroxystilbene",C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O
+290,Rhizoma,
+291,Rhodiola Rosea,
+292,Riboflavin,CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(CO)O)O)O
+293,Rosa Damascena,
+294,Rosaceae,
+295,Rosavin,C1C(C(C(C(O1)OCC2C(C(C(C(O2)OCC=CC3=CC=CC=C3)O)O)O)O)O)O
+296,Rosmarinus Officinalis L.,
+297,Rubi,
+298,Rubus,
+299,Rubus Coreanus,
+300,Brassica Napus L. Var. Napobrassica,
+301,S. Aqueum,
+302,S. Aromaticum,
+303,S. Indicum,
+304,S. Limbata,
+305,S.Limbata,
+307,Saffron,
+309,Salvia Przewalskii,
+310,Sambucus Williamsii Hance,
+311,Sanguinarine,C[N+]1=C2C(=C3C=CC4=C(C3=C1)OCO4)C=CC5=CC6=C(C=C52)OCO6
+314,Sauchinone,CC1CC2C3C(C1C)C4=CC5=C(C=C4OC36C(=CC2=O)OCO6)OCO5
+315,Schisandra Chinensis,
+316,Sclerocarya Birrea,
+317,Scuppernongs,
+318,Scutellarin,C1=CC(=CC=C1C2=CC(=O)C3=C(C(=C(C=C3O2)OC4C(C(C(C(O4)C(=O)O)O)O)O)O)O)O
+319,Seaweed,
+320,Selenium,[Se]
+323,Seseli Praecox,
+324,Sheabutter,
+327,Silybum Marianum,
+328,Sinapis Alba,
+329,Sodium Caseinate,
+330,Soft Plain Cheese,
+331,Sonchus Asper,
+332,Soyabeans,
+333,Sparassis Crispa,
+334,Spinacia Oleracea,
+335,Spirafolide,CC1=COC=CC2(C1C3C(CC2)C(=C)C(=O)O3)C
+336,Spirodela Polyrhiza,
+340,Sucrose,C(C1C(C(C(C(O1)OC2(C(C(C(O2)CO)O)O)CO)O)O)O)O
+341,Sucrose Fatty Acid Ester,
+342,Syzygium Aqueum,
+343,Syzygium Aromaticum,
+345,Taraxacum Platycarpum,
+348,Terminalia Belerica,
+349,Tf(Ic*As)*483/13,
+350,Thiamine,CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO
+351,Thiamine Pyrophosphate,CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)[O-]
+353,Tormentillae,
+354,Tremella Fuciformis,
+355,Tribulus Terrestris,CN(CC(=O)O)C(=N)N.C(C(C(C(C(C(=O)O)O)O)O)O)O
+356,Trifolium Pratense,
+357,Trigonelline,C[N+]1=CC=CC(=C1)C(=O)[O-]
+358,Tristemma Hirtum,
+359,Triticum Sativum,
+360,Trolox,CC1=C(C2=C(CCC(O2)(C)C(=O)O)C(=C1O)C)C
+361,U. Dioica,
+362,Uapaca Guineensis,
+363,Umbelliferae,C1=CC(=CC2=C1C=CC(=O)O2)O
+364,Urtica,
+368,Vco,CCOC(=O)C(=C1CCC=CCN1)C#N
+370,Vegetol Red Grapevin,
+372,Vitamin B6,CC1=C(C(=NC=C1COP(=O)([O-])[O-])C)O
+373,Vitamin D3,CC(C)CCCC(C)C1CCC2C1(CCCC2=CC=C3CC(CCC3=C)O)C
+378,Wpi,
+380,Yogurt Bacteria,
+381,Zhi-Xiong,
+382,Npc209773,CN1C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3
+383,(+-)-Trimeprazine,CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)CN(C)C
+384,2-Amino-5-Phenyl4(5H)-Oxazolone,C1=CC=C(C=C1)C2C(=O)NC(=N)O2
+385,Deutetrabenazine (Usan/Inn),CC(C)CC1CN2CCC3=CC(=C(C=C3C2CC1=O)OC)OC
+386,"(2R,4S)-Ketoconazole",CC(=O)N1CCN(CC1)C2=CC=C(C=C2)OCC3COC(O3)(CN4C=CN=C4)C5=C(C=C(C=C5)Cl)Cl
+387,"Med.21724, Compound Benztropine",CN1C2CCC1CC(C2)OC(C3=CC=CC=C3)C4=CC=CC=C4
+388,"(1R,2S)-Tranylcypromine",C1C(C1N)C2=CC=CC=C2
+389,Magaldrate (Usan:Usp:Inn:Ban),[OH-].[O-]S(=O)(=O)[O-].[Mg+2].[Al+3]
+390,Naringin,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O
+391,(+-)-Chlorpheniramine,CN(C)CCC(C1=CC=C(C=C1)Cl)C2=CC=CC=N2
+393,Vitis Vinifera Leaves Polyphenolic,
+394,Thymoquinone,CC1=CC(=O)C(=CC1=O)C(C)C
+395,T. Cacao,
+396,Theobroma Cacao,
+397,Rhodiola,
+398,Silydianin,COC1=C(C=CC(=C1)C2C3COC4(C3C(=CC2C4=O)C5C(C(=O)C6=C(C=C(C=C6O5)O)O)O)O)O
+399,Silybin,COC1=C(C=CC(=C1)C2C(OC3=C(O2)C=C(C=C3)C4C(C(=O)C5=C(C=C(C=C5O4)O)O)O)CO)O
+400,Isosilybin,COC1=C(C=CC(=C1)C2C(OC3=C(O2)C=CC(=C3)C4C(C(=O)C5=C(C=C(C=C5O4)O)O)O)CO)O
+401,Silychristin,COC1=C(C=CC(=C1)C2C(C3=C(O2)C(=CC(=C3)C4C(C(=O)C5=C(C=C(C=C5O4)O)O)O)O)CO)O
+404,Xuesaitong,
+406,Berberis Vulgaris,
+410,Panax Ginseng C.A. Meyer,
+411,Glycyrrhizic Acid,CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)O)O)O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)O)C)C)C)C
+414,Arbutin,C1=CC(=CC=C1O)OC2C(C(C(C(O2)CO)O)O)O
+415,Polysaccharide Of Spirulina Platensis,
+421,Multivitamin,
+423,Piper Longum L.,
+425,Garcinia Mangostana,
+426,Glycyrrhiza Glabra Fabaceae,
+427,Red Spinach,
+428,Olive,
+429,Palm,CC1=CC(=CC(=C1Cl)C)O
+430,Red Ginseng,
+431,Mentha Spicata,
+432,Panax Quinquefolius,
+434,Punica Granatum,
+436,Camellia Sinensis,
+437,Vicia Faba,
+438,Thymus Vulgaris,
+440,10-Gingerol,CCCCCCCCCC(CC(=O)CCC1=CC(=C(C=C1)O)OC)O
+445,Crocus Sativus,
+448,Salvia Miltiorrhiza,
+449,Citrus Unshiu,
+451,Glycyrrhetinic Acid,CC1(C2CCC3(C(C2(CCC1O)C)C(=O)C=C4C3(CCC5(C4CC(CC5)(C)C(=O)O)C)C)C)C
+454,Crocin,CC(=CC=CC=C(C)C=CC=C(C)C(=O)OC1C(C(C(C(O1)COC2C(C(C(C(O2)CO)O)O)O)O)O)O)C=CC=C(C)C(=O)OC3C(C(C(C(O3)COC4C(C(C(C(O4)CO)O)O)O)O)O)O
+455,Salvia,
+456,Vitis Vinifera,
+457,Whole-Grain Cereal,
+459,Grapes,
+461,Schisandra,
+462,Vaccinium Macrocarpon,
+464,Legume,
+465,Gamma-Mangostin,CC(=CCC1=C(C2=C(C=C1O)OC3=C(C2=O)C(=C(C(=C3)O)O)CC=C(C)C)O)C
+469,Vitamin K,CC1=C(C(=O)C2=CC=CC=C2C1=O)CC=C(C)CCCC(C)CCCC(C)CCCC(C)C
+470,Alcohol,CCO
+471,Calcium-Rich Foods,
+474,Iron Supplements,
+475,High-Fat Foods,
+476,Natural Licorice,
+477,Potassium-Rich Foods,
+478,Vitamin B6 (Pyridoxine),
+479,Calcium Supplements,
+481,Avidin (Raw Egg White),
+482,Citrus,CC(C)C12CCC(=C)C1C2
+483,Flavonoid-Rich Foods,
+484,Ephedra,
+485,High-Salt Foods,
+486,Niacin (Vitamin B3),
+488,High-Fiber Foods,
+489,Xanthines,
+490,Vitamin A,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CCO)C)C
+491,Vitamin A Supplements,
+492,Iodine,II
+493,Goitrogenic Foods,
+494,Soy/Soybean,
+495,Aged Cheese,
+496,Tyramine-Containing Foods,
+498,Fava Beans,
+499,Histamine-Containing Foods,
+500,Pickled Foods,
+501,Iodine-Containing Foods,
+502,Seville Orange,
+503,Melatonin,CC(=O)NCCC1=CNC2=C1C=C(C=C2)OC
+504,Folic Acid/Folate,
+505,Vitamin B12,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3]
+506,Vitamin K-Rich Foods,
+509,Glucose,C(C1C(C(C(C(O1)O)O)O)O)O
+512,Arginine,C(CC(C(=O)O)N)CN=C(N)N
+529,Lactose,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O
+534,Glutamic Acid,C(CC(=O)O)C(C(=O)O)N
+540,Maltose,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O
+552,Mannan,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)O)CO)CO)CO)O)O)O)O
+569,Ursolic Acid,CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1C)C)C(=O)O
+718,Carotene,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2C(=CCCC2(C)C)C)C)C
+719,Atropine,CN1C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3
+720,Dopamine,C1=CC(=C(C=C1CCN)O)O
+721,Bilirubin,CC1=C(NC(=C1CCC(=O)O)CC2=C(C(=C(N2)C=C3C(=C(C(=O)N3)C)C=C)C)CCC(=O)O)C=C4C(=C(C(=O)N4)C=C)C
+722,Serotonin,C1=CC2=C(C=C1O)C(=CN2)CCN
+723,Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2
+725,Genistein,C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O
+727,Estrogen,CC#CC1(CCC2C1(CCC3C2CCC4=C3C=CC(=C4)O)C)O
+728,Creatinine,CN1CC(=O)N=C1N
+730,Aldosterone,CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4C(=O)CO)C=O)O
+731,Xanthine,C1=NC2=C(N1)C(=O)NC(=O)N2
+732,Adenosine,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)O)O)N
+733,Uric Acid,C12=C(NC(=O)N1)NC(=O)NC2=O
+734,Estradiol,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O
+736,Vasopressin,
+737,H+,[H+]
+738,Curcumin,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O
+740,Rhamnetin,COC1=CC(=C2C(=C1)OC(=C(C2=O)O)C3=CC(=C(C=C3)O)O)O
+741,Trimethylamine,CN(C)C
+742,Cortisol,CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4(C(=O)CO)O)C)O
+743,Cortisone,CC12CCC(=O)C=C1CCC3C2C(=O)CC4(C3CCC4(C(=O)CO)O)C
+744,Chrysin,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O
+745,Superoxide,[O-][O]
+746,Isoeugenol,CC=CC1=CC(=C(C=C1)O)OC
+747,Testosterone,CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34C
+748,Petunidin,COC1=CC(=CC(=C1O)O)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O.[Cl-]
+750,Epigallocatechin-3-Gallate,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O
+751,Kaempferide,COC1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O
+752,Histamine,C1=C(NC=N1)CCN
+753,Taurine,C(CS(=O)(=O)O)N
+754,Oleic Acid,CCCCCCCCC=CCCCCCCCC(=O)O
+755,Nad+,C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)O)O)O)O)C(=O)N
+756,Zingerone,CC(=O)CCC1=CC(=C(C=C1)O)OC
+757,Pterostilbene,COC1=CC(=CC(=C1)C=CC2=CC=C(C=C2)O)OC
+758,Phenylephrine,CNCC(C1=CC(=CC=C1)O)O
+759,Vanillin,COC1=C(C=CC(=C1)C=O)O
+760,Retinoic Acid,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC(=O)O)C)C
+761,Sildenafil,CCCC1=NN(C2=C1N=C(NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C
+762,Phytic Acid,C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O
+763,Ferulic Acid,COC1=C(C=CC(=C1)C=CC(=O)O)O
+764,Nitric Oxide,[N]=O
+765,Nobiletin,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC
+766,Pinocembrin,C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC=CC=C3
+767,Galangin,C1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O
+768,Ornithine,C(CC(C(=O)O)N)CN
+769,Coumestrol,C1=CC2=C(C=C1O)OC3=C2C(=O)OC4=C3C=CC(=C4)O
+770,Phosphorus,P
+771,Theaflavin,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC4=C(C(=C(C=C4C5C(CC6=C(C=C(C=C6O5)O)O)O)O)O)C(=O)C(=C3)O)O
+772,Adenosine Triphosphate,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N
+773,Isoimperatorin,CC(=CCOC1=C2C=CC(=O)OC2=CC3=C1C=CO3)C
+774,Atp,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N
+775,Rosmarinic Acid,C1=CC(=C(C=C1CC(C(=O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O
+776,Gelatin,
+777,Bornyl Acetate,CC(=O)OC1CC2CCC1(C2(C)C)C
+779,Arsenic,[As]
+780,Α-Tocopherol,
+781,Progesterone,CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C
+782,Cadmium,[Cd]
+783,Retinol,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CCO)C)C
+784,Casein,
+785,Glutathione,C(CC(=O)NC(CS)C(=O)NCC(=O)O)C(C(=O)O)N
+786,Enterolactone,C1C(C(C(=O)O1)CC2=CC(=CC=C2)O)CC3=CC(=CC=C3)O
+787,P-Coumaric Acid,C1=CC(=CC=C1C=CC(=O)O)O
+788,Tricin,COC1=CC(=CC(=C1O)OC)C2=CC(=O)C3=C(C=C(C=C3O2)O)O
+789,Phloretin,C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O)O)O)O
+790,Oxytocin,CCC(C)C1C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(C(=O)NC(C(=O)N1)CC2=CC=C(C=C2)O)N)C(=O)N3CCCC3C(=O)NC(CC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N
+791,Phenols,
+792,Tetrahydrocortisone,CC12CCC(CC1CCC3C2C(=O)CC4(C3CCC4(C(=O)CO)O)C)O
+793,Cyanocobalamin,CC1=CC2=C(C=C1C)[N+](=CN2)C3C(C(C(O3)CO)OP(=O)(O)OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=CC8=NC(=C(C4=N5)C)C(C8(C)C)CCC(=N)[O-])N7)CCC(=N)[O-])(C)CC(=O)N)C)CCC(=N)[O-])(C)CC(=O)N)C)CC(=O)N)C)O.[C]#N.[Co+2]
+794,2-Phenylethanol,C1=CC=C(C=C1)CCO
+795,Na+,[Na+]
+796,Acetaldehyde,CC=O
+797,Cinnamaldehyde,C1=CC=C(C=C1)C=CC=O
+799,Purine,C1=C2C(=NC=N1)N=CN2
+800,Punicalagin,C1C(C(OC(=O)C2=CC(=C(C(=C2C3=C(C(=C4C5=C3C(=O)OC6=C(C(=C(C7=C(C(=C(C=C7C(=O)O1)O)O)O)C(=C56)C(=O)O4)O)O)O)O)O)O)O)C8C(OC(=O)C9=CC(=C(C(=C9C1=C(C(=C(C=C1C(=O)O8)O)O)O)O)O)O)C=O)O
+801,N-Nitrosodimethylamine,CN(C)N=O
+802,L-Acetylcarnitine,CC(=O)OC(CC(=O)[O-])C[N+](C)(C)C
+803,L-Citrulline,C(CC(C(=O)O)N)CNC(=O)N
+804,Epiestradiol,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O
+805,(E)-Aconitic Acid,C(C(=CC(=O)O)C(=O)O)C(=O)O
+806,"(Z,Z)-9,12-Octadecadienoic Acid",CCCCCC=CCC=CCCCCCCCC(=O)O
+807,Amoxycillin,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)O)C
+808,Calcitriol,CC(CCCC(C)(C)O)C1CCC2C1(CCCC2=CC=C3CC(CC(C3=C)O)O)C
+809,Morphine,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O
+810,17Alpha-Ethynylestradiol,CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)O
+811,"24,25-Dihydroxyvitamin D3",CC(CCC(C(C)(C)O)O)C1CCC2C1(CCCC2=CC=C3CC(CCC3=C)O)C
+812,Codeine,CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(C=C4)O
+813,Carbon Monoxide,[C-]#[O+]
+814,Nicotine,CN1CCCC1C2=CN=CC=C2
+815,L-Theanine,CCNC(=O)CCC(C(=O)O)N
+816,Levoglutamide,C(CC(=O)N)C(C(=O)O)N
+817,3-Aminopropanoic Acid,C(CN)C(=O)O
+818,Alpha-Tocopherol,CC1=C(C2=C(CCC(O2)(C)CCCC(C)CCCC(C)CCCC(C)C)C(=C1O)C)C
+819,25-Hydroxycholecalciferol,CC(CCCC(C)(C)O)C1CCC2C1(CCCC2=CC=C3CC(CCC3=C)O)C
+820,"Ng,Ng-Dimethyl-L-Arginine",CN(C)C(=NCCCC(C(=O)O)N)N
+821,Cobalamin,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[Co+2]
+822,Creatine,CN(CC(=O)O)C(=N)N
+823,L-Carnitine,C[N+](C)(C)CC(CC(=O)[O-])O
+824,L-Cysteine,C(C(C(=O)O)N)S
+825,Ozone,[O-][O+]=O
+826,Dodecanoic Acid,CCCCCCCCCCCC(=O)O
+827,Phytomenadione,CC1=C(C(=O)C2=CC=CC=C2C1=O)CC=C(C)CCCC(C)CCCC(C)CCCC(C)C
+828,Sulforaphane,CS(=O)CCCCN=C=S
+829,Somatostatin,CC(C1C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCCN)CC2=CNC3=CC=CC=C32)CC4=CC=CC=C4)CC5=CC=CC=C5)CC(=O)N)CCCCN)NC(=O)CNC(=O)C(C)N)C(=O)O)CO)C(C)O)CC6=CC=CC=C6)O
+830,Eicosapentaenoic Acid,CCC=CCC=CCC=CCC=CCC=CCCCC(=O)O
+832,5-Formyltetrahydrofolic Acid,C1C(N(C2=C(N1)N=C(NC2=O)N)C=O)CNC3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O
+833,Eriodictyol 7-Rutinoside,
+834,Digoxin,CC1C(C(CC(O1)OC2C(OC(CC2O)OC3C(OC(CC3O)OC4CCC5(C(C4)CCC6C5CC(C7(C6(CCC7C8=CC(=O)OC8)O)C)O)C)C)C)O)O
+835,(±)-Erythro-Isoleucine,
+836,Riboflavine,CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(CO)O)O)O
+837,(9Z)-Lycopene,CC(=CCCC(=CC=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC=C(C)CCC=C(C)C)C)C)C)C
+838,Phosphorylcholine,C[N+](C)(C)CCOP(=O)(O)[O-]
+839,Bradykinin,C1CC(N(C1)C(=O)C2CCCN2C(=O)C(CCCN=C(N)N)N)C(=O)NCC(=O)NC(CC3=CC=CC=C3)C(=O)NC(CO)C(=O)N4CCCC4C(=O)NC(CC5=CC=CC=C5)C(=O)NC(CCCN=C(N)N)C(=O)O
+840,Titanium,[Ti]
+841,Arachidonic Acid,CCCCCC=CCC=CCC=CCC=CCCCC(=O)O
+842,L-Dopa,C1=CC(=C(C=C1CC(C(=O)O)N)O)O
+843,Polyamines,
+844,Epinephrine,CNCC(C1=CC(=C(C=C1)O)O)O
+845,Kynurenine,C1=CC=C(C(=C1)C(=O)CC(C(=O)O)N)N
+846,Deoxyadenosine,C1C(C(OC1N2C=NC3=C(N=CN=C32)N)CO)O
+847,S-Adenosyl-L-Methionine,C[S+](CCC(C(=O)[O-])N)CC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)O
+848,Hexyl 2-Methylpropanoate,CCCCCCOC(=O)C(C)C
+849,Benzyl Alcohol,C1=CC=C(C=C1)CO
+850,Sulfide,[S-2]
+851,Valproic Acid,CCCC(CCC)C(=O)O
+852,Lanthanum,[La]
+853,Boron,[B]
+854,Ceramide,CCCCCCCCCCCCCCCCCC=CC(C(COC1C(C(C(C(O1)CO)O)O)O)NC(=O)C(CCCCCCCCCCCCCC)O)O
+855,Calcium Oxalate,C(=O)(C(=O)[O-])[O-].[Ca+2]
+856,Fluoride,[F-]
+857,Maltodextrin,
+858,Prostaglandin E2,CCCCCC(C=CC1C(CC(=O)C1CC=CCCCC(=O)O)O)O
+859,Trichloroacetic Acid,C(=O)(C(Cl)(Cl)Cl)O
+860,Methylmalonic Acid,CC(C(=O)O)C(=O)O
+861,Elaidic Acid,CCCCCCCCC=CCCCCCCCC(=O)O
+862,Cytarabine,C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)O
+863,Oxypurinol,C1=NNC2=C1C(=O)NC(=O)N2
+864,Glycerol Trioleate,CCCCCCCCC=CCCCCCCCC(=O)OCC(COC(=O)CCCCCCCC=CCCCCCCCC)OC(=O)CCCCCCCC=CCCCCCCCC
+865,Liothyronine,C1=CC(=C(C=C1OC2=C(C=C(C=C2I)CC(C(=O)O)N)I)I)O
+866,Silicon,[Si]
+867,2-Propanol,CC(C)O
+868,Urea,C(=O)(N)N
+869,Nadph,C1C=CN(C=C1C(=O)N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O
+870,Thromboxane B2,CCCCCC(C=CC1C(C(CC(O1)O)O)CC=CCCCC(=O)O)O
+871,Angiotensin Ii,CCC(C)C(C(=O)NC(CC1=CN=CN1)C(=O)N2CCCC2C(=O)NC(CC3=CC=CC=C3)C(=O)O)NC(=O)C(CC4=CC=C(C=C4)O)NC(=O)C(C(C)C)NC(=O)C(CCCN=C(N)N)NC(=O)C(CC(=O)O)N
+872,Trans-Resveratrol,C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O
+873,Acetate,CC(=O)[O-]
+874,Thymidine,CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)O
+875,Glycerol Trilinoleate,CCCCCC=CCC=CCCCCCCCC(=O)OCC(COC(=O)CCCCCCCC=CCC=CCCCCC)OC(=O)CCCCCCCC=CCC=CCCCCC
+876,Androstenedione,CC12CCC(=O)C=C1CCC3C2CCC4(C3CCC4=O)C
+877,Calamene,CC1CCC2=C(C=CC(=C2C1)C(C)C)C
+878,Agmatine,C(CCN=C(N)N)CN
+879,Loperamide,CN(C)C(=O)C(CCN1CCC(CC1)(C2=CC=C(C=C2)Cl)O)(C3=CC=CC=C3)C4=CC=CC=C4
+880,Betaine,C[N+](C)(C)CC(=O)[O-]
+881,Scopolamine,CN1C2CC(CC1C3C2O3)OC(=O)C(CO)C4=CC=CC=C4
+882,Gadolinium,[Gd]
+883,Adenosine Monophosphate,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N
+884,Oxalate,C(=O)(C(=O)[O-])[O-]
+885,Simvastatin,CCC(C)(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC3CC(CC(=O)O3)O)C
+886,(E)-2-Phenyl-2-Butenal,
+887,Nitrous Oxide,[N-]=[N+]=O
+888,Cholestanol,CC(C)CCCC(C)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C
+889,Methane,C
+890,Nicotinamide,C1=CC(=CN=C1)C(=O)N
+891,Propene,CC=C
+892,Fluticasone,CC1CC2C3CC(C4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)SCF)O)C)O)F)C)F
+893,Rebaudioside A,CC12CCCC(C1CCC34C2CCC(C3)(C(=C)C4)OC5C(C(C(C(O5)CO)O)OC6C(C(C(C(O6)CO)O)O)O)OC7C(C(C(C(O7)CO)O)O)O)(C)C(=O)OC8C(C(C(C(O8)CO)O)O)O
+894,Glutathione Disulfide,C(CC(=O)NC(CSSCC(C(=O)NCC(=O)O)NC(=O)CCC(C(=O)O)N)C(=O)NCC(=O)O)C(C(=O)O)N
+895,Phosphocreatine,CN(CC(=O)O)C(=NP(=O)(O)O)N
+896,Papaverine,COC1=C(C=C(C=C1)CC2=NC=CC3=CC(=C(C=C32)OC)OC)OC
+897,Sphingosine 1-Phosphate,CCCCCCCCCCCCCC=CC(C(COP(=O)(O)O)N)O
+898,N-Acetylneuraminic Acid,CC(=O)NC1C(CC(OC1C(C(CO)O)O)(C(=O)O)O)O
+899,Thromboxane,CCCCCCCCC1C(CCCO1)CCCCCCC
+900,Butyrylcholine,CCCC(=O)OCC[N+](C)(C)C
+901,Ondansetron,CC1=NC=CN1CC2CCC3=C(C2=O)C4=CC=CC=C4N3C
+902,Mevalonic Acid,CC(CCO)(CC(=O)O)O
+903,Selenomethionine,C[Se]CCC(C(=O)O)N
+904,5-Aminolevulinic Acid,C(CC(=O)O)C(=O)CN
+905,Pravastatin,CCC(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC(CC(CC(=O)O)O)O)O
+906,Clopidogrel,COC(=O)C(C1=CC=CC=C1Cl)N2CCC3=C(C2)C=CS3
+907,Aflatoxin B1,COC1=C2C3=C(C(=O)CC3)C(=O)OC2=C4C5C=COC5OC4=C1
+908,Nickel,[Ni]
+909,3-Methoxy-4-Hydroxyphenylacetic Acid,COC1=C(C=CC(=C1)CC(=O)O)O
+910,Dihydrotestosterone,CC12CCC(=O)CC1CCC3C2CCC4(C3CCC4O)C
+911,L-Cystathionine,C(CSCC(C(=O)O)N)C(C(=O)O)N
+912,Esters,
+913,Epicatechin 3-Gallate,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O
+914,Campesterol,CC(C)C(C)CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C
+915,Lactitol,C(C1C(C(C(C(O1)OC(C(CO)O)C(C(CO)O)O)O)O)O)O
+916,Syringic Acid,COC1=CC(=CC(=C1O)OC)C(=O)O
+917,Prostaglandin E1,CCCCCC(C=CC1C(CC(=O)C1CCCCCCC(=O)O)O)O
+918,Vanillylmandelic Acid,COC1=C(C=CC(=C1)C(C(=O)O)O)O
+919,Normetanephrine,COC1=C(C=CC(=C1)C(CN)O)O
+920,Adp,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N
+921,Phosphatidylcholine,
+922,Xylitol,C(C(C(C(CO)O)O)O)O
+923,Prostaglandin D2,CCCCCC(C=CC1C(C(CC1=O)O)CC=CCCCC(=O)O)O
+924,Doconexent,CCC=CCC=CCC=CCC=CCC=CCC=CCCC(=O)O
+925,"8,11,14-Eicosatrienoic Acid",CCCCCC=CCC=CCC=CCCCCCCC(=O)O
+926,Biotin,C1C2C(C(S1)CCCCC(=O)O)NC(=O)N2
+927,Leukotriene C4,CCCCCC=CCC=CC=CC=CC(C(CCCC(=O)O)O)SCC(C(=O)NCC(=O)O)NC(=O)CCC(C(=O)O)N
+928,Testosterone Enanthate,CCCCCCC(=O)OC1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C
+929,Methanol,CO
+930,Diphenhydramine,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2
+931,Agar,CC1C(C2C(C(O1)CO2)OC3C(C(C(C(O3)CO)O)OC)O)O
+932,Guanosine Triphosphate,C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N
+933,3-Phenyl-2-Propenal,C1=CC=C(C=C1)C=CC=O
+934,2-Oxopentanedioic Acid,C(CC(=O)O)C(=O)C(=O)O
+935,Mg2+,[Mg+2]
+936,Substance P,CC(C)CC(C(=O)NC(CCSC)C(=O)N)NC(=O)CNC(=O)C(CC1=CC=CC=C1)NC(=O)C(CC2=CC=CC=C2)NC(=O)C(CCC(=O)N)NC(=O)C(CCC(=O)N)NC(=O)C3CCCN3C(=O)C(CCCCN)NC(=O)C4CCCN4C(=O)C(CCCN=C(N)N)N
+937,Sulfate,[O-]S(=O)(=O)[O-]
+938,Citrate,C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O
+939,Sparteine,C1CCN2CC3CC(C2C1)CN4C3CCCC4
+940,Hypoxanthine,C1=NC2=C(N1)C(=O)NC=N2
+941,Lactulose,C(C1C(C(C(C(O1)OC2C(OC(C2O)(CO)O)CO)O)O)O)O
+942,Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+943,Hydroxycobalamin,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.O.[Co+2]
+944,"Glycerol 1,2-Di-(9Z-Octadecenoate)",
+945,Γ-Tocopherol,
+946,Erythroneopterin,
+947,4-Hydroxybenzaldehyde,C1=CC(=CC=C1C=O)O
+948,3-Hydroxybutanoic Acid,CC(CC(=O)O)O
+949,Sapropterin,CC(C(C1CNC2=C(N1)C(=O)NC(=N2)N)O)O
+950,Zinc Sulfate,[O-]S(=O)(=O)[O-].[Zn+2]
+951,Estrone,CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4)O
+952,Hydroquinone,C1=CC(=CC=C1O)O
+953,Beta-D-Glucuronic Acid,C1(C(C(OC(C1O)O)C(=O)O)O)O
+954,Estrone Sulfate,CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4)OS(=O)(=O)O
+955,Guanine,C1=NC2=C(N1)C(=O)NC(=N2)N
+956,Lipoic Acid,C1CSSC1CCCCC(=O)O
+957,Lathosterol,CC(C)CCCC(C)C1CCC2C1(CCC3C2=CCC4C3(CCC(C4)O)C)C
+958,Pentanoic Acid,CCCCC(=O)O
+959,Procyanidin,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)OC4(C(C(C5=C(C=C(C=C5O4)O)O)O)O)C6=CC(=C(C=C6)O)O
+960,3-Methoxy-4-Hydroxyphenylglycol,COC1=C(C=CC(=C1)C(CO)O)O
+961,Sulfur Dioxide,O=S=O
+962,Nitrogen Oxides,
+963,Corticosterone,CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4C(=O)CO)C)O
+964,Ergocalciferol,CC(C)C(C)C=CC(C)C1CCC2C1(CCCC2=CC=C3CC(CCC3=C)O)C
+965,Synephrine,CNCC(C1=CC=C(C=C1)O)O
+966,Uracil,C1=CNC(=O)NC1=O
+967,Deoxypyridinoline,C1=C(C(=C(C=[N+]1CCCCC(C(=O)[O-])N)O)CC(C(=O)O)N)CCC(C(=O)O)N
+968,Anabasine,C1CCNC(C1)C2=CN=CC=C2
+969,Zinc Oxide,[O-2].[Zn+2]
+970,Diethylstilbesterol,CCC(=C(CC)C1=CC=C(C=C1)O)C2=CC=C(C=C2)O
+971,3-Methyl-L-Histidine,CN1C=NC=C1CC(C(=O)O)N
+972,Amlodipine,CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN
+973,4-Hydroxyproline,C1C(CNC1C(=O)O)O
+974,N-Acetylglucosamine,CC(=O)NC(C=O)C(C(C(CO)O)O)O
+975,"7Z,10Z,13Z,16Z,19Z-Docosapentaenoic Acid",CCC=CCC=CCC=CCC=CCC=CCCCCCC(=O)O
+976,L-Homocysteine,C(CS)C(C(=O)O)N
+977,D-Mannose,C(C1C(C(C(C(O1)O)O)O)O)O
+978,Phosphatidylserine,CCCCCCCCCCCCCCCCCC(=O)OCC(COP(=O)(O)OCC(C(=O)O)N)OC(=O)CCCCCCCCCCCCCCCCC
+979,Porphobilinogen,C1=C(C(=C(N1)CN)CC(=O)O)CCC(=O)O
+980,"3,4-Dihydroxyphenylacetic Acid",C1=CC(=C(C=C1CC(=O)O)O)O
+981,Phenol,C1=CC=C(C=C1)O
+982,Indole,C1=CC=C2C(=C1)C=CN2
+983,Isocitric Acid,C(C(C(C(=O)O)O)C(=O)O)C(=O)O
+984,Sodium Taurocholate,CC(CCC(=O)NCCS(=O)(=O)[O-])C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C.[Na+]
+985,11-Dehydro-Thromboxane B2,CCCCCC(C=CC1C(C(CC(=O)O1)O)CC=CCCCC(=O)O)O
+986,Isodulcitol,CC(C(C(C(C=O)O)O)O)O
+987,Cytosine,C1=C(NC(=O)N=C1)N
+988,Umbelliferone,C1=CC(=CC2=C1C=CC(=O)O2)O
+989,Tartaric Acid,C(C(C(=O)O)O)(C(=O)O)O
+990,Azelaic Acid,C(CCCC(=O)O)CCCC(=O)O
+991,Estriol,CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)O
+992,Squalene,CC(=CCCC(=CCCC(=CCCC=C(C)CCC=C(C)CCC=C(C)C)C)C)C
+993,17-Hydroxyprogesterone,CC(=O)C1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)O
+994,Trimethylamine Oxide,C[N+](C)(C)[O-]
+995,2-Methylpropanoic Acid,CC(C)C(=O)O
+996,4-Hydroxybutyric Acid,C(CC(=O)O)CO
+997,Pseudoephedrine,CC(C(C1=CC=CC=C1)O)NC
+998,Deoxycholic Acid,CC(CCC(=O)O)C1CCC2C1(C(CC3C2CCC4C3(CCC(C4)O)C)O)C
+999,Bupropion,CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C
+1000,Dextrin,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)O)O
+1001,Palmidrol,CCCCCCCCCCCCCCCC(=O)NCCO
+1002,Dimethyl Trisulfide,CSSSC
+1003,Menatetrenone,CC1=C(C(=O)C2=CC=CC=C2C1=O)CC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C
+1004,Vanillic Acid,COC1=C(C=CC(=C1)C(=O)O)O
+1005,Selenate,[O-][Se](=O)(=O)[O-]
+1006,Dimethylamine,CNC
+1007,(Z)-Aconitic Acid,C(C(=CC(=O)O)C(=O)O)C(=O)O
+1008,Cholic Acid,CC(CCC(=O)O)C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C
+1009,Glycocholic Acid,CC(CCC(=O)NCC(=O)O)C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C
+1010,Acetovanillone,CC(=O)C1=CC(=C(C=C1)O)OC
+1011,Allicin,C=CCSS(=O)CC=C
+1012,Glucosamine,C(C1C(C(C(C(O1)O)N)O)O)O
+1013,Canrenone,CC12CCC(=O)C=C1C=CC3C2CCC4(C3CCC45CCC(=O)O5)C
+1014,Dextromethorphan,CN1CCC23CCCCC2C1CC4=C3C=C(C=C4)OC
+1015,Sertraline,CNC1CCC(C2=CC=CC=C12)C3=CC(=C(C=C3)Cl)Cl
+1016,Mangiferin,C1=C2C(=CC(=C1O)O)OC3=C(C2=O)C(=C(C(=C3)O)C4C(C(C(C(O4)CO)O)O)O)O
+1017,Calcium Carbonate,C(=O)([O-])[O-].[Ca+2]
+1018,Spermidine,C(CCNCCCN)CN
+1019,Bergamottin,CC(=CCCC(=CCOC1=C2C=CC(=O)OC2=CC3=C1C=CO3)C)C
+1020,Glucoraphanin,CS(=O)CCCCC(=NOS(=O)(=O)O)SC1C(C(C(C(O1)CO)O)O)O
+1021,Gamma-Butyrolactone,C1CC(=O)OC1
+1022,3-Nitrotyrosine,C1=CC(=C(C=C1CC(C(=O)O)N)[N+](=O)[O-])O
+1023,12-Hepe,CCC=CCC=CCC(C=CC=CCC=CCCCC(=O)O)O
+1024,Hydroxylamine,NO
+1025,Tangeritin,COC1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC
+1026,Tylosin,CCC1C(C=C(C=CC(=O)C(CC(C(C(C(CC(=O)O1)O)C)OC2C(C(C(C(O2)C)OC3CC(C(C(O3)C)O)(C)O)N(C)C)O)CC=O)C)C)COC4C(C(C(C(O4)C)O)OC)OC
+1027,Hyperforin,CC(C)C(=O)C12C(=O)C(=C(C(C1=O)(CC(C2(C)CCC=C(C)C)CC=C(C)C)CC=C(C)C)O)CC=C(C)C
+1028,Hypericin,CC1=CC(=O)C2=C(C3=C(C=C(C4=C3C5=C2C1=C6C(=CC(=O)C7=C(C8=C(C=C(C4=C8C5=C67)O)O)O)C)O)O)O
+1029,Inosine,C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)CO)O)O
+1030,Anethole,CC=CC1=CC=C(C=C1)OC
+1031,Debrisoquine,C1CN(CC2=CC=CC=C21)C(=N)N
+1032,N-Methyl-D-Aspartic Acid,CNC(CC(=O)O)C(=O)O
+1033,Fructosamine,C1C(C(C(C(O1)(CN)O)O)O)O
+1034,L-Fucose,CC1C(C(C(C(O1)O)O)O)O
+1035,Steviol,CC12CCCC(C1CCC34C2CCC(C3)(C(=C)C4)O)(C)C(=O)O
+1036,6-Sulfatoxymelatonin,CC(=O)NCCC1=CNC2=CC(=C(C=C21)OC)OS(=O)(=O)O
+1037,Fumaric Acid,C(=CC(=O)O)C(=O)O
+1038,Sodium Lauryl Sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+]
+1039,Mandelic Acid,C1=CC=C(C=C1)C(C(=O)O)O
+1041,Acetaminophen,CC(=O)NC1=CC=C(C=C1)O
+1042,Palmitate,CCCCCCCCCCCCCCCC(=O)O
+1043,Methionine Sulfoxide,CS(=O)CCC(C(=O)O)N
+1044,Dimethyl Sulfoxide,CS(=O)C
+1045,Acteoside,CC1C(C(C(C(O1)OC2C(C(OC(C2OC(=O)C=CC3=CC(=C(C=C3)O)O)CO)OCCC4=CC(=C(C=C4)O)O)O)O)O)O
+1047,Leukotriene B4,CCCCCC=CCC(C=CC=CC=CC(CCCC(=O)O)O)O
+1048,Ajmaline,CCC1C2CC3C4C5(CC(C2C5O)N3C1O)C6=CC=CC=C6N4C
+1049,Alpha-Linolenic Acid,CCC=CCC=CCC=CCCCCCCCC(=O)O
+1050,Metanephrine,CNCC(C1=CC(=C(C=C1)O)OC)O
+1051,Limonene,CC1=CCC(CC1)C(=C)C
+1052,Pyridoxal,CC1=NC=C(C(=C1O)C=O)CO
+1053,Glucosylceramide,
+1054,Carbonic Acid,C(=O)(O)O
+1055,Quinoline,C1=CC=C2C(=C1)C=CC=N2
+1056,"1,2-Benzenediol",C1=CC=C(C(=C1)O)O
+1057,Gentisic Acid,C1=CC(=C(C=C1O)C(=O)O)O
+1058,Quinine,COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O
+1059,Plastochromanol 8,CC1=C(C=C2CCC(OC2=C1C)(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)O
+1060,Mesna,C(CS(=O)(=O)[O-])S.[Na+]
+1061,(-)-Arctigenin,COC1=C(C=C(C=C1)CC2COC(=O)C2CC3=CC(=C(C=C3)O)OC)OC
+1062,Lf,CC(C)CC(C(=O)NC(CC1=CC=CC=C1)C(=O)O)N
+1063,Venlafaxine,CN(C)CC(C1=CC=C(C=C1)OC)C2(CCCCC2)O
+1064,Fosfomycin,CC1C(O1)P(=O)(O)O
+1065,Orotic Acid,C1=C(NC(=O)NC1=O)C(=O)O
+1066,Nitrite,N(=O)[O-]
+1067,Deoxyuridine,C1C(C(OC1N2C=CC(=O)NC2=O)CO)O
+1068,Chondroitin Sulfate,CC(=O)NC1C(C(C(OC1O)OS(=O)(=O)O)O)OC2C(C(C(C(O2)C(=O)O)O)O)O
+1069,Flavones,
+1070,Puerarin,C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3C4C(C(C(C(O4)CO)O)O)O)O)O
+1071,Ubiquinol-10,CC1=C(C(=C(C(=C1O)OC)OC)O)CC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C
+1072,Propionylcarnitine,CCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C
+1073,Dimethylglycine,CN(C)CC(=O)O
+1074,Formic Acid,C(=O)O
+1075,Hyaluronic Acid,
+1076,"1,3-Dimethyluric Acid",CN1C2=C(C(=O)N(C1=O)C)NC(=O)N2
+1077,Ammonium,[NH4+]
+1078,Quercetin 3-Rutinoside,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O
+1079,Gdp,C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N
+1080,Cytidine,C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)O
+1081,Cardiolipin,CCCCCC=CCC=CCCCCCCCC(=O)OCC(COP(=O)(O)OCC(COP(=O)([O-])OCC(COC(=O)CCCCCCCC=CCC=CCCCCC)OC(=O)CCCCCCCC=CCC=CCCCCC)O)OC(=O)CCCCCCCC=CCC=CCCCCC
+1082,Hippuric Acid,C1=CC=C(C=C1)C(=O)NCC(=O)O
+1083,Peroxynitrite,N(=O)O[O-]
+1084,Beta-D-Glucopyranose,C(C1C(C(C(C(O1)O)O)O)O)O
+1085,Pyrimidine,C1=CN=CN=C1
+1086,3-Hydroxy-3-Methylglutaryl-Coa,CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCSC(=O)CC(C)(CC(=O)O)O)O
+1087,Acetylsalicylic Acid,CC(=O)OC1=CC=CC=C1C(=O)O
+1088,Protoporphyrin Ix,CC1=C(C2=CC3=NC(=CC4=NC(=CC5=C(C(=C(N5)C=C1N2)C=C)C)C(=C4CCC(=O)O)C)C(=C3C)CCC(=O)O)C=C
+1089,S-Adenosylmethionine,C[S+](CCC(C(=O)[O-])N)CC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)O
+1090,8-Hete,CCCCCC=CCC=CC=CC(CC=CCCCC(=O)O)O
+1091,9-Hete,CCCCCC=CCC=CCC(C=CC=CCCCC(=O)O)O
+1092,2-Phenylethylamine,C1=CC=C(C=C1)CCN
+1093,Selenite,[O-][Se](=O)[O-]
+1094,Cetyl Alcohol,CCCCCCCCCCCCCCCCO
+1096,Thromboxane A2,CCCCCC(C=CC1C(C2CC(O2)O1)CC=CCCCC(=O)O)O
+1098,Allantoin,C1(C(=O)NC(=O)N1)NC(=O)N
+1099,Biopterin,CC(C(C1=CN=C2C(=N1)C(=O)NC(=N2)N)O)O
+1100,D-Ribose,C1C(C(C(C(O1)O)O)O)O
+1101,Ketoprofen Glucuronide,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)OC3C(C(C(C(O3)C(=O)O)O)O)O
+1103,3-Methylxanthine,CN1C2=C(C(=O)NC1=O)NC=N2
+1104,Homocysteinesulfinic Acid,C(CS(=O)O)C(C(=O)O)N
+1105,Iodide,[I-]
+1106,Toluene,CC1=CC=CC=C1
+1107,Hafnium,[Hf]
+1108,Xanthotoxin,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2
+1109,Pyridinoline,C1=C(C(=C(C=[N+]1CC(CCC(C(=O)[O-])N)O)O)CC(C(=O)O)N)CCC(C(=O)O)N
+1110,Ergothioneine,C[N+](C)(C)C(CC1=CNC(=S)N1)C(=O)[O-]
+1111,Chenodeoxycholic Acid,CC(CCC(=O)O)C1CCC2C1(CCC3C2C(CC4C3(CCC(C4)O)C)O)C
+1112,Prostaglandin E3,CCC=CCC(C=CC1C(CC(=O)C1CC=CCCCC(=O)O)O)O
+1113,Clenbuterol,CC(C)(C)NCC(C1=CC(=C(C(=C1)Cl)N)Cl)O
+1114,1-Methyluric Acid,CN1C(=O)C2=C(NC(=O)N2)NC1=O
+1115,Lipoxin A4,CCCCCC(C=CC=CC=CC=CC(C(CCCC(=O)O)O)O)O
+1116,Resolvin E1,CCC(C=CC=CCC(C=CC=CC=CC(CCCC(=O)O)O)O)O
+1117,"4,5-Dihydroorotic Acid",C1C(NC(=O)NC1=O)C(=O)O
+1118,Aniline,C1=CC=C(C=C1)N
+1119,4-Hydroxyphenylacetic Acid,C1=CC(=CC=C1CC(=O)O)O
+1120,Heparan Sulfate,
+1121,Formaldehyde,C=O
+1122,Pentosidine,C1=CN(C2=NC(=NC2=C1)NCCCC(C(=O)O)N)CCCCC(C(=O)O)N
+1123,Methanethiol,CS
+1124,"3,5-Dihydroxybenzoic Acid",C1=C(C=C(C=C1O)O)C(=O)O
+1125,Retinol Palmitate,CCCCCCCCCCCCCCCC(=O)OCC=C(C)C=CC=C(C)C=CC1=C(CCCC1(C)C)C
+1127,Glycyrrhizin,CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)O)O)O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)O)C)C)C)C
+1128,Resolvin D2,CCC=CCC(C(C=CC=CC=CC=CC(CC=CCCC(=O)O)O)O)O
+1129,Valerenic Acid,CC1CCC(C2=C(CCC12)C)C=C(C)C(=O)O
+1130,Benzene,C1=CC=CC=C1
+1131,Carbamate,C(=O)(N)[O-]
+1132,(±)-Menthyl Acetate,
+1133,Dhea Sulfate,CC12CCC3C(C1CCC2=O)CC=C4C3(CCC(C4)OS(=O)(=O)O)C
+1134,Protopanaxadiol,CC(=CCCC(C)(C1CCC2(C1C(CC3C2(CCC4C3(CCC(C4(C)C)O)C)C)O)C)O)C
+1135,Stigmasterol,CCC(C=CC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C
+1136,Boric Acid (H3Bo3),B(O)(O)O
+1137,Adrenosterone,CC12CCC(=O)C=C1CCC3C2C(=O)CC4(C3CCC4=O)C
+1138,Gonadotropin Releasing Hormone,
+1139,Triamterene,C1=CC=C(C=C1)C2=NC3=C(N=C(N=C3N=C2N)N)N
+1140,Molybdenum,[Mo]
+1141,Hydrochlorothiazide,C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl
+1142,Imidazole,C1=CN=CN1
+1143,Atorvastatin,CC(C)C1=C(C(=C(N1CCC(CC(CC(=O)O)O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4
+1144,Tantalum,[Ta]
+1145,7-Dehydrocholesterol,CC(C)CCCC(C)C1CCC2C1(CCC3C2=CC=C4C3(CCC(C4)O)C)C
+1146,Glaucine,CN1CCC2=CC(=C(C3=C2C1CC4=CC(=C(C=C43)OC)OC)OC)OC
+1147,Rubidium,[Rb]
+1148,Carbonate,C(=O)([O-])[O-]
+1149,Farnesyl Pyrophosphate,CC(=CCCC(=CCCC(=CCOP(=O)(O)OP(=O)(O)O)C)C)C
+1150,Acetaminophen Glucuronide,CC(=O)NC1=CC=C(C=C1)OC2C(C(C(C(O2)C(=O)O)O)O)O
+1151,Dimethicone,
+1152,Phloroglucinol,C1=C(C=C(C=C1O)O)O
+1153,5-Aminoimidazole-4-Carboxamide,C1=NC(=C(N1)C(=O)N)N
+1154,Homocysteine Thiolactone,C1CSC(=O)C1N
+1155,Procaine,CCN(CC)CCOC(=O)C1=CC=C(C=C1)N
+1156,Garlicin,C1CC(C2C(C1O)COC2=O)O
+1157,Calcium Gluconate,C(C(C(C(C(C(=O)[O-])O)O)O)O)O.C(C(C(C(C(C(=O)[O-])O)O)O)O)O.[Ca+2]
+1158,Zirconium,[Zr]
+1159,Glycitein,COC1=C(C=C2C(=C1)C(=O)C(=CO2)C3=CC=C(C=C3)O)O
+1160,Tetragastrin,CSCCC(C(=O)NC(CC(=O)O)C(=O)NC(CC1=CC=CC=C1)C(=O)N)NC(=O)C(CC2=CNC3=CC=CC=C32)N
+1161,Hemin,CC1=C(C2=CC3=C(C(=C([N-]3)C=C4C(=C(C(=N4)C=C5C(=C(C(=N5)C=C1[N-]2)C)C=C)C)C=C)C)CCC(=O)O)CCC(=O)O.[Cl-].[Fe+3]
+1162,Gamolenic Acid,CCCCCC=CCC=CCC=CCCCCC(=O)O
+1163,4-Aminobenzoic Acid,C1=CC(=CC=C1C(=O)O)N
+1164,Stigmastanol,CCC(CCC(C)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C)C(C)C
+1165,5-Hydroxy-L-Tryptophan,C1=CC2=C(C=C1O)C(=CN2)CC(C(=O)O)N
+1166,Isoprene,CC(=C)C=C
+1167,"17,18-Dihete",CCC(C(CC=CCC=CCC=CCC=CCCCC(=O)O)O)O
+1168,Prostaglandin I2,CCCCCC(C=CC1C(CC2C1CC(=CCCCC(=O)O)O2)O)O
+1169,Calcium Sulfate,[O-]S(=O)(=O)[O-].[Ca+2]
+1170,Silica Gel,
+1171,Nonivamide,CCCCCCCCC(=O)NCC1=CC(=C(C=C1)O)OC
+1172,2-Hydroxyvaleric Acid,CCCC(C(=O)O)O
+1173,Phenyllactic Acid,CC(C1=CC=CC=C1)(C(=O)O)O
+1174,3-Phenylpropanoic Acid,C1=CC=C(C=C1)CCC(=O)O
+1175,3-Methylbutanoic Acid,CC(C)CC(=O)O
+1176,3-Butyl-1(3H)-Isobenzofuranone,CCCCC1C2=CC=CC=C2C(=O)O1
+1177,Ergosterol,CC(C)C(C)C=CC(C)C1CCC2C1(CCC3C2=CC=C4C3(CCC(C4)O)C)C
+1178,Taurodeoxycholic Acid,CC(CCC(=O)NCCS(=O)(=O)O)C1CCC2C1(C(CC3C2CCC4C3(CCC(C4)O)C)O)C
+1179,Thymine,CC1=CNC(=O)NC1=O
+1180,"5,10-Methylenetetrahydrofolic Acid",C1C2CN(CN2C3=C(N1)N=C(NC3=O)N)C4=CC=C(C=C4)C(=O)NC(CCC(=O)O)C(=O)O
+1181,Dibutyl Phthalate,CCCCOC(=O)C1=CC=CC=C1C(=O)OCCCC
+1182,Salbutamol,CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O
+1183,Magnoflorine,C[N+]1(CCC2=CC(=C(C3=C2C1CC4=C3C(=C(C=C4)OC)O)O)OC)C
+1184,S-Adenosyl-L-Homocysteine,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CSCCC(C(=O)O)N)O)O)N
+1185,1-Methylxanthine,CN1C(=O)C2=C(NC1=O)N=CN2
+1186,Vanadium,[V]
+1187,5-Methoxytryptamine,COC1=CC2=C(C=C1)NC=C2CCN
+1188,Parthenolide,CC1=CCCC2(C(O2)C3C(CC1)C(=C)C(=O)O3)C
+1189,Lanosterol,CC(CCC=C(C)C)C1CCC2(C1(CCC3=C2CCC4C3(CCC(C4(C)C)O)C)C)C
+1190,Ricinoleic Acid,CCCCCCC(CC=CCCCCCCCC(=O)O)O
+1191,2-Methoxyphenol,COC1=CC=CC=C1O
+1192,1-Hexanol,CCCCCCO
+1193,Baicalein,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O
+1194,Aesculetin,C1=CC(=O)OC2=CC(=C(C=C21)O)O
+1195,4-Nitrophenol,C1=CC(=CC=C1[N+](=O)[O-])O
+1196,Ethylene,C=C
+1197,6-Hydroxydopamine,C1=C(C(=CC(=C1O)O)O)CCN
+1198,5-Isopropyl-2-Methylphenol,CC1=C(C=C(C=C1)C(C)C)O
+1199,2-Isopropyl-5-Methylphenol,CC1=CC(=C(C=C1)C(C)C)O
+1200,Argininosuccinic Acid,C(CC(C(=O)O)N)CN=C(N)NC(CC(=O)O)C(=O)O
+1201,Jasmonic Acid,CCC=CCC1C(CCC1=O)CC(=O)O
+1202,Tryptamine,C1=CC=C2C(=C1)C(=CN2)CCN
+1204,(±)-Phenylalanine,
+1205,Monocrotaline,CC1C(=O)OC2CCN3C2C(=CC3)COC(=O)C(C1(C)O)(C)O
+1206,Scoparone,COC1=C(C=C2C(=C1)C=CC(=O)O2)OC
+1207,Kynurenic Acid,C1=CC=C2C(=C1)C(=O)C=C(N2)C(=O)O
+1208,Valencene,CC1CCC=C2C1(CC(CC2)C(=C)C)C
+1209,Eupatilin,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)OC)O)OC
+1210,Potassium Chloride,[Cl-].[K+]
+1211,Iduronic Acid,C(=O)C(C(C(C(C(=O)O)O)O)O)O
+1212,Phosphatidylethanolamine,CC(=O)OCC(COP(=O)(O)OCCN)OC(=O)C
+1213,"7-Methyl-3-Methylene-1,6-Octadiene",CC(=CCCC(=C)C=C)C
+1214,D-Camphor,CC1(C2CCC1(C(=O)C2)C)C
+1215,Trehalose,C(C1C(C(C(C(O1)OC2C(C(C(C(O2)CO)O)O)O)O)O)O)O
+1216,Cellobiose,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O
+1217,Cyanide,[C-]#N
+1218,Safrole,C=CCC1=CC2=C(C=C1)OCO2
+1219,Paraquat,C[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)C
+1220,Tungsten,[W]
+1221,Violaxanthin,CC(=CC=CC=C(C)C=CC=C(C)C=CC12C(CC(CC1(O2)C)O)(C)C)C=CC=C(C)C=CC34C(CC(CC3(O4)C)O)(C)C
+1222,Inositol Phosphate,C1(C(C(C(C(C1O)O)OP(=O)(O)O)O)O)O
+1223,Chlorophyll,CCC1=C(C2=[NH+]C1=CC3=C(C4=C(C(C(=C4[N-]3)C5=[NH+]C(=C(C5CCC(=O)OCC=C(C)CCCC(C)CCCC(C)CCCC(C)C)C)C=C6C(=C(C(=C2)[N-]6)C=C)C)C(=O)OC)O)C)C.[Mg+2]
+1224,Ochratoxin A,CC1CC2=C(C=C(C(=C2C(=O)O1)O)C(=O)NC(CC3=CC=CC=C3)C(=O)O)Cl
+1225,2-Methylbutanal,CCC(C)C=O
+1226,Heptanal,CCCCCCC=O
+1227,Sesamol,C1OC2=C(O1)C=C(C=C2)O
+1228,Methyl Salicylate,COC(=O)C1=CC=CC=C1O
+1229,Rotenone,CC(=C)C1CC2=C(O1)C=CC3=C2OC4COC5=CC(=C(C=C5C4C3=O)OC)OC
+1230,3-Isothiocyanato-1-Propene,C=CCN=C=S
+1231,Glabridin,CC1(C=CC2=C(O1)C=CC3=C2OCC(C3)C4=C(C=C(C=C4)O)O)C
+1232,Methyl Jasmonate,CCC=CCC1C(CCC1=O)CC(=O)OC
+1233,Linalyl Acetate,CC(=CCCC(C)(C=C)OC(=O)C)C
+1234,Prostaglandin A1,CCCCCC(C=CC1C=CC(=O)C1CCCCCCC(=O)O)O
+1235,Cholate,CC(CCC(=O)[O-])C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C
+1236,Citalopram,CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F
+1237,Clofenotane,C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl
+1238,Endrin,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl
+1239,Castasterone,CC(C)C(C)C(C(C(C)C1CCC2C1(CCC3C2CC(=O)C4C3(CC(C(C4)O)O)C)C)O)O
+1240,Lithospermic Acid,C1=CC(=C(C=C1CC(C(=O)O)OC(=O)C=CC2=C3C(C(OC3=C(C=C2)O)C4=CC(=C(C=C4)O)O)C(=O)O)O)O
+1241,Octopamine,C1=CC(=CC=C1C(CN)O)O
+1242,Piperidine,C1CCNCC1
+1243,Betulin,CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)CO
+1244,Soyasaponin I,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3C(C(C(OC3OC4CCC5(C(C4(C)CO)CCC6(C5CC=C7C6(CCC8(C7CC(CC8O)(C)C)C)C)C)C)C(=O)O)O)O)CO)O)O)O)O)O
+1245,Abscisic Acid,CC1=CC(=O)CC(C1(C=CC(=CC(=O)O)C)O)(C)C
+1246,11-Dehydrocorticosterone,CC12CCC(=O)C=C1CCC3C2C(=O)CC4(C3CCC4C(=O)CO)C
+1247,1H-Indole-3-Acetonitrile,C1=CC=C2C(=C1)C(=CN2)CC#N
+1248,Phosphoric Acid,OP(=O)(O)O
+1249,Guanosine,C1=NC2=C(N1C3C(C(C(O3)CO)O)O)N=C(NC2=O)N
+1250,Amp,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N
+1251,Isoborneol,CC1(C2CCC1(C(C2)O)C)C
+1252,Spermine,C(CCNCCCN)CNCCCN
+1253,Pyridine,C1=CC=NC=C1
+1254,Acetyl-Coa,CC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)O
+1255,Chlorate,[O-]Cl(=O)=O
+1256,(R)-Oxypeucedanin,CC1(C(O1)COC2=C3C=CC(=O)OC3=CC4=C2C=CO4)C
+1257,Phosphoenolpyruvate,C=C(C(=O)O)OP(=O)(O)O
+1258,Guanidine,C(=N)(N)N
+1259,Iodate,[O-]I(=O)=O
+1260,Emodin,CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)O
+1261,Fad,CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)OP(=O)(O)OCC4C(C(C(O4)N5C=NC6=C(N=CN=C65)N)O)O)O)O)O
+1262,Carboxyatractyloside,CC(C)CC(=O)OC1C(C(C(OC1OC2CC3(C4CCC5CC4(CCC3C(C2)(C(=O)O)C(=O)O)C(C5=C)O)C)CO)OS(=O)(=O)O)OS(=O)(=O)O
+1263,"2,3-Butanedione",CC(=O)C(=O)C
+1264,Methylpyrazine,CC1=NC=CN=C1
+1265,Choline Chloride,C[N+](C)(C)CCO.[Cl-]
+1266,Isopimpinellin,COC1=C2C=COC2=C(C3=C1C=CC(=O)O3)OC
+1267,Tellurium,[Te]
+1268,Carbon Disulfide,C(=S)=S
+1269,Tetrahydrocurcumin,COC1=C(C=CC(=C1)CCC(=O)CC(=O)CCC2=CC(=C(C=C2)O)OC)O
+1270,Xanthorrhizol,CC1=C(C=C(C=C1)C(C)CCC=C(C)C)O
+1271,Dityrosine,C1=CC(=C(C=C1CC(C(=O)O)N)C2=C(C=CC(=C2)CC(C(=O)O)N)O)O
+1272,Taurocholic Acid,CC(CCC(=O)NCCS(=O)(=O)O)C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C
+1273,N6-Methyladenosine,CNC1=C2C(=NC=N1)N(C=N2)C3C(C(C(O3)CO)O)O
+1274,Geranylgeraniol,CC(=CCCC(=CCCC(=CCCC(=CCO)C)C)C)C
+1275,Pyridoxamine,CC1=NC=C(C(=C1O)CN)CO
+1276,Ligustilide,CCCC=C1C2=C(C=CCC2)C(=O)O1
+1277,Fisetin,C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C=C3)O)O)O)O
+1278,Acetoin,CC(C(=O)C)O
+1279,2-Furanmethanol,C1=COC(=C1)CO
+1280,3-Hydroxyflavone,C1=CC=C(C=C1)C2=C(C(=O)C3=CC=CC=C3O2)O
+1281,3-Methoxytyramine,COC1=C(C=CC(=C1)CCN)O
+1282,Sodium Nitrite,N(=O)[O-].[Na+]
+1283,Urolithin A,C1=CC2=C(C=C1O)C(=O)OC3=C2C=CC(=C3)O
+1284,Scopoletin,COC1=C(C=C2C(=C1)C=CC(=O)O2)O
+1285,Utp,C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
+1286,Nad,C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)O)O)O)O)C(=O)N
+1287,"Inositol 1,4,5-Trisphosphate",C1(C(C(C(C(C1OP(=O)(O)O)O)OP(=O)(O)O)OP(=O)(O)O)O)O
+1288,(S)-[6]-Gingerol,
+1289,Racemethionine,CSCCC(C(=O)O)N
+1290,3-Hydroxyanthranilic Acid,C1=CC(=C(C(=C1)O)N)C(=O)O
+1291,Phosphatidylglycerol,CCC.CCO.C(C(COP(=O)(O)O)O)O
+1292,Cinnamyl Alcohol,C1=CC=C(C=C1)C=CCO
+1293,Methoxyl,C[O]
+1294,Cucurbitacin E,CC(=O)OC(C)(C)C=CC(=O)C(C)(C1C(CC2(C1(CC(=O)C3(C2CC=C4C3C=C(C(=O)C4(C)C)O)C)C)C)O)O
+1295,N-Methyltryptamine,CNCCC1=CNC2=CC=CC=C21
+1296,Sodium Hypochlorite,[O-]Cl.[Na+]
+1297,Isopimaric Acid,CC1(CCC2C(=CCC3C2(CCCC3(C)C(=O)O)C)C1)C=C
+1298,Maltotriose,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC(C(CO)O)C(C(C=O)O)O)CO)O)O)O)O
+1299,Chitinase,C1=CC2=C(C=C1C(=N)N)NC(=N2)CC3=NC4=C(N3)C=C(C=C4)C(=N)N.[Zn]
+1300,Asiatic Acid,CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CC(C(C5(C)CO)O)O)C)C)C2C1C)C)C(=O)O
+1301,Protopine,CN1CCC2=CC3=C(C=C2C(=O)CC4=C(C1)C5=C(C=C4)OCO5)OCO3
+1302,Dehydroascorbic Acid,C(C(C1C(=O)C(=O)C(=O)O1)O)O
+1303,Biochanin A,COC1=CC=C(C=C1)C2=COC3=CC(=CC(=C3C2=O)O)O
+1304,2-Aminoacrylate,C=C(C(=O)[O-])N
+1305,Kaurenoic Acid,CC12CCCC(C1CCC34C2CCC(C3)C(=C)C4)(C)C(=O)O
+1306,Nadh,C1C=CN(C=C1C(=O)N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)O)O)O)O
+1307,Morin,C1=CC(=C(C=C1O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O
+1308,Achillin,CC1C2CCC(=C3C(C2OC1=O)C(=CC3=O)C)C
+1309,Capsanthin,CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC(=O)C2(CC(CC2(C)C)O)C)C)C
+1310,Anatabine,C1C=CCNC1C2=CN=CC=C2
+1311,Phlorizin,C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2OC3C(C(C(C(O3)CO)O)O)O)O)O)O
+1312,Palmitoyl-Coa,CCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)O
+1313,Triethylamine,CCN(CC)CC
+1314,Acetamide,CC(=O)N
+1315,Chlorpheniramine,CN(C)CCC(C1=CC=C(C=C1)Cl)C2=CC=CC=N2
+1316,Pregnenolone Sulfate,CC(=O)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)OS(=O)(=O)O)C)C
+1317,Methylglyoxal,CC(=O)C=O
+1318,Isoscopoletin,COC1=C(C=C2C=CC(=O)OC2=C1)O
+1319,Cyclohexane,C1CCCCC1
+1320,Geraniol,CC(=CCCC(=CCO)C)C
+1321,Aesculin,C1=CC(=O)OC2=CC(=C(C=C21)OC3C(C(C(C(O3)CO)O)O)O)O
+1322,Betaine Aldehyde,C[N+](C)(C)CC=O
+1323,H2O,O
+1324,"1,2,3-Benzenetriol",C1=CC(=C(C(=C1)O)O)O
+1325,Ursodeoxycholic Acid,CC(CCC(=O)O)C1CCC2C1(CCC3C2C(CC4C3(CCC(C4)O)C)O)C
+1326,Mercury,[Hg]
+1327,Rhein,C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)C(=O)O
+1328,Oripavine,CN1CCC23C4C(=CC=C2C1CC5=C3C(=C(C=C5)O)O4)OC
+1329,Farnesol,CC(=CCCC(=CCCC(=CCO)C)C)C
+1330,Beta-Elemene,CC(=C)C1CCC(C(C1)C(=C)C)(C)C=C
+1331,Cinnamic Acid,C1=CC=C(C=C1)C=CC(=O)O
+1332,L-5-Oxo-2-Pyrrolidinecarboxylic Acid,C1CC(=O)NC1C(=O)O
+1333,Sinigrin,C=CCC(=NOS(=O)(=O)O)SC1C(C(C(C(O1)CO)O)O)O
+1334,Astragalin,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O
+1335,Fucoxanthin,CC(=CC=CC=C(C)C=CC=C(C)C(=O)CC12C(CC(CC1(O2)C)O)(C)C)C=CC=C(C)C=C=C3C(CC(CC3(C)O)OC(=O)C)(C)C
+1336,Oleanolic Acid,CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1)C)C(=O)O)C
+1337,Fucosterol,CC=C(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C
+1338,Isoferulic Acid,COC1=C(C=C(C=C1)C=CC(=O)O)O
+1339,Betanin,C1C(N=C(C=C1C=CN2C(CC3=CC(=C(C=C32)O)OC4C(C(C(C(O4)CO)O)O)O)C(=O)O)C(=O)O)C(=O)O
+1340,Cafestol,CC12CCC3=C(C1CCC45C2CCC(C4)C(C5)(CO)O)C=CO3
+1341,Kahweol,CC12C=CC3=C(C1CCC45C2CCC(C4)C(C5)(CO)O)C=CO3
+1342,Maltoheptaose,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC(C(CO)O)C(C(C=O)O)O)CO)CO)CO)CO)CO)O)O)O)O
+1343,Vitexin,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)C4C(C(C(C(O4)CO)O)O)O)O
+1344,Isovitexin,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)C4C(C(C(C(O4)CO)O)O)O)O)O
+1345,Orientin,C1=CC(=C(C=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)C4C(C(C(C(O4)CO)O)O)O)O)O
+1346,Anandamide,CCCCCC=CCC=CCC=CCC=CCCCC(=O)NCCO
+1347,Threonic Acid,C(C(C(C(=O)O)O)O)O
+1348,Beta-Solamarine,CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CC=C6C5(CCC(C6)OC7C(C(C(C(O7)CO)OC8C(C(C(C(O8)C)O)O)O)O)OC9C(C(C(C(O9)C)O)O)O)C)C)C)NC1
+1349,Isoxanthopterin,C1=NC2=C(NC1=O)N=C(NC2=O)N
+1350,Lead,[Pb]
+1351,Paeonol,CC(=O)C1=C(C=C(C=C1)OC)O
+1352,Naphthalen-1-Ol,C1=CC=C2C(=C1)C=CC=C2O
+1353,Iron Oxide,O=[Fe]=O
+1354,3-Hexen-1-Ol,CCC=CCCO
+1355,Carveol,CC1=CCC(CC1O)C(=C)C
+1356,Lithocholic Acid,CC(CCC(=O)O)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C
+1357,Patchouli Alcohol,CC1CCC2(C(C3CCC2(C1C3)C)(C)C)O
+1358,N-Acetyl-L-Cysteine,CC(=O)NC(CS)C(=O)O
+1359,N-Butanol,CCCCO
+1360,Maltopentaose,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC(C(CO)O)C(C(C=O)O)O)CO)CO)CO)O)O)O)O
+1361,Sulfite,[O-]S(=O)[O-]
+1362,Myosmine,C1CC(=NC1)C2=CN=CC=C2
+1363,Boldine,CN1CCC2=CC(=C(C3=C2C1CC4=CC(=C(C=C43)OC)O)OC)O
+1364,Caffeic Acid Ethyl Ester,CCOC(=O)C=CC1=CC(=C(C=C1)O)O
+1365,"2,4-Dichlorophenoxyacetic Acid",C1=CC(=C(C=C1Cl)Cl)OCC(=O)O
+1366,Molybdate,[O-][Mo](=O)(=O)[O-]
+1367,Chromone,C1=CC=C2C(=C1)C(=O)C=CO2
+1368,Thiamine Hydrochloride,CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO.Cl.[Cl-]
+1369,Hexylamine,CCCCCCN
+1370,4-Pyridoxic Acid,CC1=NC=C(C(=C1O)C(=O)O)CO
+1371,Cesium,[Cs]
+1372,Paraoxon,CCOP(=O)(OCC)OC1=CC=C(C=C1)[N+](=O)[O-]
+1373,Anisatin,CC1CC(C2(C13CC(C(C24COC4=O)(C)O)OC(=O)C3O)O)O
+1374,N-Ethyl Trans-2-Cis-6-Nonadienamide,CCC=CCCC=CC(=O)NCC
+1375,Glucose 6-Phosphate,C(C1C(C(C(C(O1)O)O)O)O)OP(=O)(O)O
+1376,Xanthohumol,CC(=CCC1=C(C(=C(C=C1O)OC)C(=O)C=CC2=CC=C(C=C2)O)O)C
+1377,Alantolactone,CC1CCCC2(C1=CC3C(C2)OC(=O)C3=C)C
+1378,Alkanes,
+1379,Limonin,CC1(C2CC(=O)C3(C(C24COC(=O)CC4O1)CCC5(C36C(O6)C(=O)OC5C7=COC=C7)C)C)C
+1380,Pectic Acid,
+1381,Zolpidem,CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C
+1382,Juglone,C1=CC2=C(C(=O)C=CC2=O)C(=C1)O
+1383,Procyanidin B2,C1C(C(OC2=C1C(=CC(=C2C3C(C(OC4=CC(=CC(=C34)O)O)C5=CC(=C(C=C5)O)O)O)O)O)C6=CC(=C(C=C6)O)O)O
+1384,"2,3-Dihydroxybenzoic Acid",C1=CC(=C(C(=C1)O)O)C(=O)O
+1385,3-Methyladenine,CN1C=NC(=N)C2=C1N=CN2
+1386,"1-Chloro-2,4-Dinitrobenzene",C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])Cl
+1387,Glyceric Acid,C(C(C(=O)O)O)O
+1388,Dihydromyricetin,C1=C(C=C(C(=C1O)O)O)C2C(C(=O)C3=C(C=C(C=C3O2)O)O)O
+1389,Obacunone,CC1(C2CC(=O)C3(C(C2(C=CC(=O)O1)C)CCC4(C35C(O5)C(=O)OC4C6=COC=C6)C)C)C
+1390,Lupeol,CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)C
+1391,Gambogic Acid,CC(=CCCC1(C=CC2=C(C3=C(C(=C2O1)CC=C(C)C)OC45C6CC(C=C4C3=O)C(=O)C5(OC6(C)C)CC=C(C)C(=O)O)O)C)C
+1392,Tomatidine,CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CCC6C5(CCC(C6)O)C)C)C)NC1
+1393,Chalcone,C1=CC=C(C=C1)C=CC(=O)C2=CC=CC=C2
+1394,Formononetin,COC1=CC=C(C=C1)C2=COC3=C(C2=O)C=CC(=C3)O
+1395,Phytol,CC(C)CCCC(C)CCCC(C)CCCC(=CCO)C
+1396,Methyleugenol,COC1=C(C=C(C=C1)CC=C)OC
+1397,Potassium Citrate,C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.O.[K+].[K+].[K+]
+1398,5-Methylcytosine,CC1=C(NC(=O)N=C1)N
+1399,Benzaldehyde,C1=CC=C(C=C1)C=O
+1400,Dimethyl Sulfone,CS(=O)(=O)C
+1401,Trehalose 6-Phosphate,C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O
+1402,N-Methylaniline,CNC1=CC=CC=C1
+1403,13-Hydroxylupanine,C1CC2C3CC(CN2C(=O)C1)C4CC(CCN4C3)O
+1404,Menadione,CC1=CC(=O)C2=CC=CC=C2C1=O
+1405,(+)-Myrtenol,CC1(C2CC=C(C1C2)CO)C
+1406,Alpha-Endosulfan,C1C2C(COS(=O)O1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl
+1407,Norathyriol,C1=C(C=C2C(=C1O)C(=O)C3=CC(=C(C=C3O2)O)O)O
+1408,Bromine,BrBr
+1409,Bilirubin Diglucuronide,CC1=C(NC(=C1CCC(=O)OC2C(C(C(C(O2)C(=O)O)O)O)O)CC3=C(C(=C(N3)C=C4C(=C(C(=O)N4)C)C=C)C)CCC(=O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C=C6C(=C(C(=O)N6)C=C)C
+1410,5-Hydroxytryptophol,C1=CC2=C(C=C1O)C(=CN2)CCO
+1411,Oleuropein,CC=C1C(C(=COC1OC2C(C(C(C(O2)CO)O)O)O)C(=O)OC)CC(=O)OCCC3=CC(=C(C=C3)O)O
+1412,Erucin,CSCCCCN=C=S
+1413,Loganin,CC1C(CC2C1C(OC=C2C(=O)OC)OC3C(C(C(C(O3)CO)O)O)O)O
+1414,Butein,C1=CC(=C(C=C1C=CC(=O)C2=C(C=C(C=C2)O)O)O)O
+1415,Homoserine,C(CO)C(C(=O)O)N
+1416,Maltotetraose,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)OC(C(CO)O)C(C(C=O)O)O)CO)CO)O)O)O)O
+1417,Chicoric Acid,C1=CC(=C(C=C1C=CC(=O)OC(C(C(=O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)C(=O)O)O)O
+1418,Atractyloside,CC(C)CC(=O)OC1C(C(C(OC1OC2CC(C3CCC45CC(CCC4C3(C2)C)C(=C)C5O)C(=O)O)CO)OS(=O)(=O)[O-])OS(=O)(=O)[O-].[K+].[K+]
+1419,Ginsenoside Rb1,CC(=CCCC(C)(C1CCC2(C1C(CC3C2(CCC4C3(CCC(C4(C)C)OC5C(C(C(C(O5)CO)O)O)OC6C(C(C(C(O6)CO)O)O)O)C)C)O)C)OC7C(C(C(C(O7)COC8C(C(C(C(O8)CO)O)O)O)O)O)O)C
+1420,N-Dodecane,CCCCCCCCCCCC
+1421,"2,4-Dihydroxybenzoic Acid",C1=CC(=C(C=C1O)O)C(=O)O
+1422,4-Hydroxy-2H-1-Benzopyran-2-One,C1=CC=C2C(=C1)C(=CC(=O)O2)O
+1423,Ribitol,C(C(C(C(CO)O)O)O)O
+1424,Aminomalonic Acid,C(C(=O)O)(C(=O)O)N
+1425,Styrene,C=CC1=CC=CC=C1
+1426,Myricetin 3-Rhamnoside,CC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C(=C4)O)O)O)O)O)O
+1428,Isoliquiritigenin,C1=CC(=CC=C1C=CC(=O)C2=C(C=C(C=C2)O)O)O
+1429,Dl-Dopa,C1=CC(=C(C=C1CC(C(=O)O)N)O)O
+1430,8-Hydroxyguanine,C12=C(NC(=O)N1)N=C(NC2=O)N
+1431,1-Heptanol,CCCCCCCO
+1432,6-Deoxocastasterone,CC(C)C(C)C(C(C(C)C1CCC2C1(CCC3C2CCC4C3(CC(C(C4)O)O)C)C)O)O
+1433,Estrone Glucuronide,CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4)OC5C(C(C(C(O5)C(=O)O)O)O)O
+1434,Chloroform,C(Cl)(Cl)Cl
+1435,Osthol,CC(=CCC1=C(C=CC2=C1OC(=O)C=C2)OC)C
+1436,Ethanolamine,C(CO)N
+1437,Celastrol,CC1=C(C(=O)C=C2C1=CC=C3C2(CCC4(C3(CCC5(C4CC(CC5)(C)C(=O)O)C)C)C)C)O
+1438,Deoxynivalenol,CC1=CC2C(C(C1=O)O)(C3(CC(C(C34CO4)O2)O)C)CO
+1439,Eupatorin,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)O)O
+1440,Propranolol,CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O
+1441,Hydroxysafflor Yellow A,C1=CC(=CC=C1C=CC(=C2C(=C(C(=O)C(C2=O)(C3C(C(C(C(O3)CO)O)O)O)O)C4C(C(C(C(O4)CO)O)O)O)O)O)O
+1442,Borneol,CC1(C2CCC1(C(C2)O)C)C
+1443,Laudanine,CN1CCC2=CC(=C(C=C2C1CC3=CC(=C(C=C3)OC)O)OC)OC
+1444,3-Methyl-1-Butylamine,CC(C)CCN
+1445,"2-Amino-3-Methylimidazo[4,5-F]Quinoline",CN1C2=C(C3=C(C=C2)N=CC=C3)N=C1N
+1446,"N2,N2-Dimethylguanosine",CN(C)C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)CO)O)O
+1447,1-Methyladenosine,CN1C=NC2=C(C1=N)N=CN2C3C(C(C(O3)CO)O)O
+1448,Thiabendazole,C1=CC=C2C(=C1)NC(=N2)C3=CSC=N3
+1449,Costunolide,CC1=CCCC(=CC2C(CC1)C(=C)C(=O)O2)C
+1450,Cryptotanshinone,CC1COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C
+1451,Ginkgolide A,CC1C(=O)OC2C1(C34C(=O)OC5C3(C2)C6(C(C5)C(C)(C)C)C(C(=O)OC6O4)O)O
+1452,1-Octanol,CCCCCCCCO
+1453,Demethoxycurcumin,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC=C(C=C2)O)O
+1454,Geranylacetone,CC(=CCCC(=CCCC(=O)C)C)C
+1455,25-Hydroxycholesterol,CC(CCCC(C)(C)O)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C
+1456,(S)-Reticuline,CN1CCC2=CC(=C(C=C2C1CC3=CC(=C(C=C3)OC)O)O)OC
+1457,Muramic Acid,CC(C(=O)O)OC1C(C(OC(C1O)CO)O)N
+1458,Alpha-Terpineol,CC1=CCC(CC1)C(C)(C)O
+1459,Cirsiliol,COC1=C(C(=C2C(=C1)OC(=CC2=O)C3=CC(=C(C=C3)O)O)O)OC
+1460,Liquiritigenin,C1C(OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O
+1461,Canthaxanthin,CC1=C(C(CCC1=O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(C(=O)CCC2(C)C)C)C)C
+1462,Sphingosine,CCCCCCCCCCCCCC=CC(C(CO)N)O
+1463,Calmodulin,C(CCN)CC(C(=O)N)NC=O
+1464,Dcmp,C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O
+1465,Arginine Hydrochloride,C(CC(C(=O)O)N)CN=C(N)N.Cl
+1466,Hyperin,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O
+1467,Brassicasterol,CC(C)C(C)C=CC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C
+1468,Ginsenoside Rc,CC(=CCCC(C)(C1CCC2(C1C(CC3C2(CCC4C3(CCC(C4(C)C)OC5C(C(C(C(O5)CO)O)O)OC6C(C(C(C(O6)CO)O)O)O)C)C)O)C)OC7C(C(C(C(O7)COC8C(C(C(O8)CO)O)O)O)O)O)C
+1469,Hordenine,CN(C)CCC1=CC=C(C=C1)O
+1470,Sclareol,CC1(CCCC2(C1CCC(C2CCC(C)(C=C)O)(C)O)C)C
+1471,Didymin,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC=C(C=C5)OC)O)O)O)O)O)O)O
+1472,Poncirin,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC=C(C=C5)OC)O)CO)O)O)O)O)O
+1473,Rhoifolin,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O
+1474,Udp,C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O
+1475,Quinic Acid,C1C(C(C(CC1(C(=O)O)O)O)O)O
+1476,Trilobatin,C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2O)OC3C(C(C(C(O3)CO)O)O)O)O)O
+1477,Chlorite,[O-]Cl=O
+1478,Benzylamine,C1=CC=C(C=C1)CN
+1479,Pelargonidin,C1=CC(=CC=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O
+1480,Ecdysone,CC(C1CCC2(C1(CCC3C2=CC(=O)C4C3(CC(C(C4)O)O)C)C)O)C(CCC(C)(C)O)O
+1481,Glycerylphosphoinositol,
+1482,Pentanal,CCCCC=O
+1483,Gentiobiose,C(C1C(C(C(C(O1)OCC(C(C(C(C=O)O)O)O)O)O)O)O)O
+1484,Cyanidin 3-Glucoside,C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2OC4C(C(C(C(O4)CO)O)O)O)O)O)O)O
+1485,3-Hydroxybenzoic Acid,C1=CC(=CC(=C1)O)C(=O)O
+1486,Ctp,C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
+1487,"1,3,7,9-Tetramethyluric Acid",CN1C2=C(N(C1=O)C)N(C(=O)N(C2=O)C)C
+1488,Adenine,C1=NC2=NC=NC(=C2N1)N
+1489,Pentacosanoic Acid,CCCCCCCCCCCCCCCCCCCCCCCCC(=O)O
+1490,Friedelin,CC1C(=O)CCC2C1(CCC3C2(CCC4(C3(CCC5(C4CC(CC5)(C)C)C)C)C)C)C
+1491,Menthone,CC1CCC(C(=O)C1)C(C)C
+1492,Indoxyl Sulfate,C1=CC=C2C(=C1)C(=CN2)OS(=O)(=O)O
+1493,Hypochlorite,[O-]Cl
+1494,Dicoumarol,C1=CC=C2C(=C1)C(=C(C(=O)O2)CC3=C(C4=CC=CC=C4OC3=O)O)O
+1495,2-Butanol,CCC(C)O
+1496,(E)-Zeatin,CC(=CCNC1=NC=NC2=C1NC=N2)CO
+1497,Beta-Amyrin,CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1)C)C)C
+1498,Ethyl Gallate,CCOC(=O)C1=CC(=C(C(=C1)O)O)O
+1499,N-Acetyldopamine,CC(=O)NCCC1=CC(=C(C=C1)O)O
+1500,Maleic Acid,C(=CC(=O)O)C(=O)O
+1501,Salvianolic Acid B,C1=CC(=C(C=C1CC(C(=O)O)OC(=O)C=CC2=C3C(C(OC3=C(C=C2)O)C4=CC(=C(C=C4)O)O)C(=O)OC(CC5=CC(=C(C=C5)O)O)C(=O)O)O)O
+1502,5-Hydroxydopamine,C1=C(C=C(C(=C1O)O)O)CCN
+1503,Cuminaldehyde,CC(C)C1=CC=C(C=C1)C=O
+1504,Aconitic Acid,C(C(=CC(=O)O)C(=O)O)C(=O)O
+1505,Cinchonidine,C=CC1CN2CCC1CC2C(C3=CC=NC4=CC=CC=C34)O
+1506,Euphol,CC(CCC=C(C)C)C1CCC2(C1(CCC3=C2CCC4C3(CCC(C4(C)C)O)C)C)C
+1507,Psoralidin,CC(=CCC1=CC2=C(C=C1O)OC(=O)C3=C2OC4=C3C=CC(=C4)O)C
+1508,Nerolidol,CC(=CCCC(=CCCC(C)(C=C)O)C)C
+1509,Schisandrin B,CC1CC2=CC3=C(C(=C2C4=C(C(=C(C=C4CC1C)OC)OC)OC)OC)OCO3
+1510,L-Saccharopine,C(CCNC(CCC(=O)O)C(=O)O)CC(C(=O)O)N
+1511,Casuarinin,C1C(C(OC(=O)C2=CC(=C(C(=C2C3=C(C(=C(C=C3C(=O)O1)O)O)O)O)O)O)C4C5C(C6=C(C(=C(C(=C6C(=O)O5)C7=C(C(=C(C=C7C(=O)O4)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)O)O)O
+1512,Hypotaurine,C(CS(=O)O)N
+1513,5-Methyltetrahydrofolic Acid,CN1C(CNC2=C1C(=O)NC(=N2)N)CNC3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O
+1514,Ferrous Gluconate,C(C(C(C(C(C(=O)[O-])O)O)O)O)O.C(C(C(C(C(C(=O)[O-])O)O)O)O)O.[Fe+2]
+1515,Obtusifoliol,CC1C2CCC3=C(C2(CCC1O)C)CCC4(C3(CCC4C(C)CCC(=C)C(C)C)C)C
+1516,Tamarixetin,COC1=C(C=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O
+1517,"L-Galactono-1,4-Lactone",C(C(C1C(C(C(=O)O1)O)O)O)O
+1518,Myo-Inositol 1-Phosphate,C1(C(C(C(C(C1O)O)OP(=O)(O)O)O)O)O
+1519,5-Hydroxymethyl-2-Furancarboxaldehyde,C1=C(OC(=C1)C=O)CO
+1520,Ginkgolide B,CC1C(=O)OC2C1(C34C(=O)OC5C3(C2O)C6(C(C5)C(C)(C)C)C(C(=O)OC6O4)O)O
+1521,3-Phospho-D-Glycerate,C(C(C(=O)O)O)OP(=O)(O)O
+1522,Rotundifolone,CC(=C1CCC2(C(C1=O)O2)C)C
+1523,Neochlorogenic Acid,C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O
+1524,Cyclic-Amp,C1C2C(C(C(O2)N3C=NC4=C(N=CN=C43)N)O)OP(=O)(O1)O
+1525,Neoxanthin,CC(=CC=CC=C(C)C=CC=C(C)C=C=C1C(CC(CC1(C)O)O)(C)C)C=CC=C(C)C=CC23C(CC(CC2(O3)C)O)(C)C
+1526,Pomolic Acid,CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1(C)O)C)C(=O)O
+1527,Phosphoribosyl Pyrophosphate,C(C1C(C(C(O1)OP(=O)(O)OP(=O)(O)O)O)O)OP(=O)(O)O
+1528,Butylated Hydroxyanisole,
+1529,Carnosol,CC(C)C1=C(C(=C2C(=C1)C3CC4C2(CCCC4(C)C)C(=O)O3)O)O
+1530,(E)-2-Hexen-1-Ol,CCCC=CCO
+1531,Oleocanthal,CC=C(C=O)C(CC=O)CC(=O)OCCC1=CC=C(C=C1)O
+1532,S-Methyl-L-Methionine Chloride,
+1533,Allopregnanolone,CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C
+1534,Selenocysteine,C(C(C(=O)O)N)[SeH]
+1535,Monosodium Glutamate,C(CC(=O)[O-])C(C(=O)O)N.O.[Na+]
+1536,Fenugreekine,C1=CC(=NC(=C1)C(=O)N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)O)O)O)O
+1537,16Alpha-Hydroxyestrone,CC12CCC3C(C1CC(C2=O)O)CCC4=C3C=CC(=C4)O
+1538,Tropine,CN1C2CCC1CC(C2)O
+1539,Stevioside,CC12CCCC(C1CCC34C2CCC(C3)(C(=C)C4)OC5C(C(C(C(O5)CO)O)O)OC6C(C(C(C(O6)CO)O)O)O)(C)C(=O)OC7C(C(C(C(O7)CO)O)O)O
+1540,1-Methoxy-4-(2-Propenyl)Benzene,COC1=CC=C(C=C1)CC=C
+1541,Fumonisin B1,CCCCC(C)C(C(CC(C)CC(CCCCC(CC(C(C)N)O)O)O)OC(=O)CC(CC(=O)O)C(=O)O)OC(=O)CC(CC(=O)O)C(=O)O
+1542,"3,7-Dimethyluric Acid",CN1C2=C(NC1=O)N(C(=O)NC2=O)C
+1543,7-Methylxanthine,CN1C=NC2=C1C(=O)NC(=O)N2
+1544,Menadiol,CC1=C(C2=CC=CC=C2C(=C1)O)O
+1545,"Inositol 1,3,4,5,6-Pentakisphosphate",C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)O
+1546,Lupanine,C1CCN2CC3CC(C2C1)CN4C3CCCC4=O
+1547,Geniposidic Acid,C1C=C(C2C1C(=COC2OC3C(C(C(C(O3)CO)O)O)O)C(=O)O)CO
+1548,Dynorphin A,
+1549,Methylmalonyl-Coa,CC(C(=O)O)C(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)O
+1550,Phthalic Acid,C1=CC=C(C(=C1)C(=O)O)C(=O)O
+1551,4-Methylumbelliferone Glucuronide,CC1=CC(=O)OC2=C1C=CC(=C2)OC3C(C(C(C(O3)C(=O)O)O)O)O
+1552,Norharman,C1=CC=C2C(=C1)C3=C(N2)C=NC=C3
+1553,Glucaric Acid,C(C(C(C(=O)O)O)O)(C(C(=O)O)O)O
+1554,Fenchone,CC1(C2CCC(C2)(C1=O)C)C
+1555,8-Acetoxypinoresinol,CC(=O)OC12COC(C1COC2C3=CC(=C(C=C3)O)OC)C4=CC(=C(C=C4)O)OC
+1556,4-Methylphenol,CC1=CC=C(C=C1)O
+1557,Salicin,C1=CC=C(C(=C1)CO)OC2C(C(C(C(O2)CO)O)O)O
+1558,1-Deoxy-D-Xylulose 5-Phosphate,CC(=O)C(C(COP(=O)(O)O)O)O
+1559,Selenophosphate,[O-]P(=[Se])([O-])[O-]
+1560,"3,4-Dimethyl-1,2-Cyclopentanedione",CC1CC(=O)C(=O)C1C
+1561,Pentadecanoic Acid,CCCCCCCCCCCCCCC(=O)O
+1562,Cynaropicrin,C=C1CC(C2C(C3C1CC(C3=C)O)OC(=O)C2=C)OC(=O)C(=C)CO
+1563,Xylopine,COC1=CC2=C(C=C1)C3=C4C(C2)NCCC4=CC5=C3OCO5
+1564,Rhapontin,COC1=C(C=C(C=C1)C=CC2=CC(=CC(=C2)OC3C(C(C(C(O3)CO)O)O)O)O)O
+1565,8-Hydroxyguanosine,C(C1C(C(C(O1)N2C3=C(C(=O)NC(=N3)N)NC2=O)O)O)O
+1566,Longifolene,CC1(CCCC2(C3C1C(C2=C)CC3)C)C
+1567,Galactosamine,C(C1C(C(C(C(O1)O)N)O)O)O
+1568,Propanoate,CCC(=O)[O-]
+1569,Licoisoflavone A,CC(=CCC1=C(C=CC(=C1O)C2=COC3=CC(=CC(=C3C2=O)O)O)O)C
+1570,Pregnenolone,CC(=O)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C
+1571,Hyodeoxycholic Acid,CC(CCC(=O)O)C1CCC2C1(CCC3C2CC(C4C3(CCC(C4)O)C)O)C
+1572,Genipin,COC(=O)C1=COC(C2C1CC=C2CO)O
+1573,"P-Mentha-1,8-Dien-7-Ol",CC(=C)C1CCC(=CC1)CO
+1574,Prostaglandin F2A,CCCCCC(C=CC1C(CC(C1CC=CCCCC(=O)O)O)O)O
+1575,Diosmetin,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O
+1576,6-Methylscutellarein,
+1577,Scyllitol,C1(C(C(C(C(C1O)O)O)O)O)O
+1578,Benzyl Benzoate,C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2
+1579,Fmn,CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O
+1580,Butyl Acetate,CCCCOC(=O)C
+1581,7-Ketocholesterol,CC(C)CCCC(C)C1CCC2C1(CCC3C2C(=O)C=C4C3(CCC(C4)O)C)C
+1582,Pentoses,C1C(C(C(C(O1)O)O)O)O
+1583,Quercitrin,CC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O
+1584,Capsidiol,CC1C(CC(C2=CCC(CC12C)C(=C)C)O)O
+1585,N1-Acetylspermidine,CC(=O)NCCCNCCCCN
+1586,11-Cis-Retinaldehyde,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=O)C)C
+1587,11-Cis-Retinol,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CCO)C)C
+1588,Beta-Cryptoxanthin,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(CC(CC2(C)C)O)C)C)C
+1589,Acacetin,COC1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O
+1590,Chiro-Inositol,C1(C(C(C(C(C1O)O)O)O)O)O
+1591,Methyl Alpha-D-Glucopyranoside,COC1C(C(C(C(O1)CO)O)O)O
+1592,Bergaptol,C1=CC(=O)OC2=CC3=C(C=CO3)C(=C21)O
+1593,"4-Hydroxy-3,5-Dimethoxybenzaldehyde",COC1=CC(=CC(=C1O)OC)C=O
+1594,Cucurbitacin B,CC(=O)OC(C)(C)C=CC(=O)C(C)(C1C(CC2(C1(CC(=O)C3(C2CC=C4C3CC(C(=O)C4(C)C)O)C)C)C)O)O
+1595,"1,4-Cineole",CC(C)C12CCC(O1)(CC2)C
+1596,"3,4-Dihydroxymandelate",C1=CC(=C(C=C1C(C(=O)O)O)O)O
+1597,Thujopsene,CC1=CCC2(CCCC(C23C1C3)(C)C)C
+1598,Dihydrocapsaicin,CC(C)CCCCCCC(=O)NCC1=CC(=C(C=C1)O)OC
+1599,Xanthurenic Acid,C1=CC2=C(C(=C1)O)NC(=CC2=O)C(=O)O
+1600,Brassinolide,CC(C)C(C)C(C(C(C)C1CCC2C1(CCC3C2COC(=O)C4C3(CC(C(C4)O)O)C)C)O)O
+1601,Picolinic Acid,C1=CC=NC(=C1)C(=O)O
+1602,Beta-Ionone,CC1=C(C(CCC1)(C)C)C=CC(=O)C
+1603,Deoxycytidine,C1C(C(OC1N2C=CC(=NC2=O)N)CO)O
+1604,Isovanillic Acid,COC1=C(C=C(C=C1)C(=O)O)O
+1605,Lysolecithin,CCCCCCCCCCCCCCCC(=O)OCC(COP(=O)([O-])OCC[N+](C)(C)C)O
+1606,Pisatin,COC1=CC2=C(C=C1)C3C(CO2)(C4=CC5=C(C=C4O3)OCO5)O
+1607,N-Propanol,CCCO
+1608,L-Homoarginine,C(CCN=C(N)N)CC(C(=O)O)N
+1609,Coniferyl Aldehyde,COC1=C(C=CC(=C1)C=CC=O)O
+1611,L-Quebrachitol,COC1C(C(C(C(C1O)O)O)O)O
+1612,5-Hydroxyindole-3-Acetic Acid,C1=CC2=C(C=C1O)C(=CN2)CC(=O)O
+1613,Norvaline,CCCC(C(=O)O)N
+1614,Flazine Methyl Ether,COCC1=CC=C(O1)C2=C3C(=CC(=N2)C(=O)O)C4=CC=CC=C4N3
+1615,Furaneol,CC1C(=O)C(=C(O1)C)O
+1616,Jaceosidin,COC1=C(C=CC(=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)OC)O)O
+1617,Dimethyl Sulfide,CSC
+1618,Chitobiose,C(C1C(C(C(C(O1)OC(C(CO)O)C(C(C=O)N)O)N)O)O)O
+1619,Haematin,CC1=C(C2=CC3=NC(=CC4=C(C(=C([N-]4)C=C5C(=C(C(=N5)C=C1[N-]2)C)C=C)C)C=C)C(=C3CCC(=O)O)C)CCC(=O)O.O.[Fe+2]
+1620,4-Hydroxy-2-Nonenal,CCCCCC(C=CC=O)O
+1621,Xanthosine,C1=NC2=C(N1C3C(C(C(O3)CO)O)O)NC(=O)NC2=O
+1622,Gibberellins,CC12C(C=CC3(C1C(C45C3CCC(C4)(C(=C)C5)O)C(=O)O)OC2=O)O
+1623,Cyanidin 3-Rutinoside,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC4=C(C=C(C=C4[O+]=C3C5=CC(=C(C=C5)O)O)O)O)O)O)O)O)O)O.[Cl-]
+1624,27-Hydroxycholesterol,CC(CCCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)CO
+1625,Pallidol,C1=CC(=CC=C1C2C3C(C(C4=C3C=C(C=C4O)O)C5=CC=C(C=C5)O)C6=C2C(=CC(=C6)O)O)O
+1626,Pristane,CC(C)CCCC(C)CCCC(C)CCCC(C)C
+1627,Deoxyribose,C1C(C(OC1O)CO)O
+1628,Malonyl-Coa,CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCSC(=O)CC(=O)O)O
+1629,Medicagenic Acid,CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CC(C(C5(C)C(=O)O)O)O)C)C)C2C1)C)C(=O)O)C
+1630,Isoalantolactone,CC12CCCC(=C)C1CC3C(C2)OC(=O)C3=C
+1631,Sinensetin,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)OC)OC
+1632,Sennoside A,C1=CC2=C(C(=C1)OC3C(C(C(C(O3)CO)O)O)O)C(=O)C4=C(C2C5C6=C(C(=CC=C6)OC7C(C(C(C(O7)CO)O)O)O)C(=O)C8=C5C=C(C=C8O)C(=O)O)C=C(C=C4O)C(=O)O
+1633,Angelicin,C1=CC2=C(C=CO2)C3=C1C=CC(=O)O3
+1634,Aminoadipic Acid,C(CC(C(=O)O)N)CC(=O)O
+1635,Sodium Benzoate,C1=CC=C(C=C1)C(=O)[O-].[Na+]
+1636,N-Acetyl-L-Glutamate,CC(=O)NC(CCC(=O)O)C(=O)O
+1637,Strigol,CC1=CC(OC1=O)OC=C2C3CC4=C(C3OC2=O)C(CCC4O)(C)C
+1638,Antheraxanthin,CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC23C(CC(CC2(O3)C)O)(C)C)C)C
+1639,Alloxan,C1(=O)C(=O)NC(=O)NC1=O
+1640,Leukotriene D4,CCCCCC=CCC=CC=CC=CC(C(CCCC(=O)O)O)SCC(C(=O)NCC(=O)O)N
+1641,Tellimagrandin Ii,C1C2C(C(C(C(O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5)O)O)O)OC(=O)C6=CC(=C(C(=C6C7=C(C(=C(C=C7C(=O)O1)O)O)O)O)O)O
+1642,Herniarin,COC1=CC2=C(C=C1)C=CC(=O)O2
+1643,"1,2,3,4-Tetrahydroisoquinoline",C1CNCC2=CC=CC=C21
+1644,Nootkatone,CC1CC(=O)C=C2C1(CC(CC2)C(=C)C)C
+1645,(E)-Resveratrol 3-Glucoside,
+1646,Ethyl Oleate,CCCCCCCCC=CCCCCCCCC(=O)OCC
+1647,4-Hydroxybenzyl Alcohol,C1=CC(=CC=C1CO)O
+1648,Panaxytriol,CCCCCCCC(C(CC#CC#CC(C=C)O)O)O
+1649,Physapubenolide,CC1=C(C(=O)OC(C1)C(C)C2CC(C3(C2(CCC4C3CC5C6(C4(C(=O)C=CC6O)C)O5)C)O)OC(=O)C)C
+1650,Cucurbitacin I,CC1(C2=CCC3C4(CC(C(C4(CC(=O)C3(C2C=C(C1=O)O)C)C)C(C)(C(=O)C=CC(C)(C)O)O)O)C)C
+1651,Nadp+,C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N
+1652,"3,5,8-Megastigmatrien-7-One",
+1653,Isoquinoline,C1=CC=C2C=NC=CC2=C1
+1654,Propanal,CCC=O
+1655,Oleanonic Acid,CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(=O)C5(C)C)C)C)C2C1)C)C(=O)O)C
+1656,Phenylacetaldehyde,C1=CC=C(C=C1)CC=O
+1657,"2,5-Dimethylpyrazine",CC1=CN=C(C=N1)C
+1658,Fructose 1-Phosphate,C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O
+1659,Kaempferol 3-Galactoside,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O
+1660,Sodium Citrate,C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Na+].[Na+].[Na+]
+1661,Glyceraldehyde,C(C(C=O)O)O
+1662,Selenocystine,C(C(C(=O)O)N)[Se][Se]CC(C(=O)O)N
+1663,Sodium Carbonate,C(=O)([O-])[O-].[Na+].[Na+]
+1664,Piperitone,CC1=CC(=O)C(CC1)C(C)C
+1665,S-Nitrosoglutathione,C(CC(=O)NC(CSN=O)C(=O)NCC(=O)O)C(C(=O)O)N
+1666,2-Heptanone,CCCCCC(=O)C
+1667,Tomatine,CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CCC6C5(CCC(C6)OC7C(C(C(C(O7)CO)OC8C(C(C(C(O8)CO)O)OC9C(C(C(CO9)O)O)O)OC2C(C(C(C(O2)CO)O)O)O)O)O)C)C)C)NC1
+1668,Turanose,C(C1C(C(C(C(O1)OC(C(C(CO)O)O)C(=O)CO)O)O)O)O
+1669,Sorbitol 6-Phosphate,C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O
+1670,Auxin,CCC(C)C1CC(C(=C1)C(CC(C(C(=O)O)O)O)O)C(C)CC
+1671,Oleacein,CC=C(C=O)C(CC=O)CC(=O)OCCC1=CC(=C(C=C1)O)O
+1672,Thiophene,C1=CSC=C1
+1673,Schisantherin A,CC1CC2=CC3=C(C(=C2C4=C(C(=C(C=C4C(C1(C)O)OC(=O)C5=CC=CC=C5)OC)OC)OC)OC)OCO3
+1674,Fructose 6-Phosphate,C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O
+1675,3-Phosphoglyceric Acid,C(C(C(=O)O)O)OP(=O)(O)O
+1676,Glutaric Acid,C(CC(=O)O)CC(=O)O
+1677,Bromide,[Br-]
+1678,Maltol,CC1=C(C(=O)C=CO1)O
+1679,Phytanic Acid,CC(C)CCCC(C)CCCC(C)CCCC(C)CC(=O)O
+1680,Mannose 6-Phosphate,C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O
+1681,D-Alanyl-D-Alanine,CC(C(=O)NC(C)C(=O)O)N
+1682,Pterin,C1=CN=C2C(=N1)C(=O)NC(=N2)N
+1683,Anonaine,C1CNC2CC3=CC=CC=C3C4=C2C1=CC5=C4OCO5
+1684,Curvacin A,CC(C)C(C(=O)NC(CC1=CC=C(C=C1)O)C(=O)NC(CS)C(=O)NC(CC(=O)N)C(=O)NC(CC(=O)N)C=O)NC(=O)CNC(=O)C(CC(=O)N)NC(=O)CNC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CO)NC(=O)C(CS)NC(=O)C(C)N
+1685,Monotropein,C1=CC(C2C1C(=COC2OC3C(C(C(C(O3)CO)O)O)O)C(=O)O)(CO)O
+1686,Ethyl Butyrate,CCCC(=O)OCC
+1687,Dihydropteridine,C1CN=C2C(=N1)C=NC=N2
+1688,Quercetagetin,C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C(=C3O)O)O)O)O)O
+1689,Dynorphin B,CC(C)CC(C(=O)NC(CCCN=C(N)N)C(=O)NC(CCCN=C(N)N)C(=O)NC(CCC(=O)N)C(=O)NC(CC1=CC=CC=C1)C(=O)NC(CCCCN)C(=O)NC(C(C)C)C(=O)NC(C(C)C)C(=O)NC(C(C)O)C(=O)O)NC(=O)C(CC2=CC=CC=C2)NC(=O)CNC(=O)CNC(=O)C(CC3=CC=C(C=C3)O)N
+1690,Gibberellin A3,CC12C(C=CC3(C1C(C45C3CCC(C4)(C(=C)C5)O)C(=O)O)OC2=O)O
+1691,Propyl Gallate,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O
+1692,Lipoxin B4,CCCCCC(C(C=CC=CC=CC=CC(CCCC(=O)O)O)O)O
+1693,Sarsasapogenin,CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CCC6C5(CCC(C6)O)C)C)C)OC1
+1694,Artemin,CC1C2CCC3(C(CCC(=C)C3(C2OC1=O)O)O)C
+1695,2-Hydroxybenzaldehyde,C1=CC=C(C(=C1)C=O)O
+1696,Prostaglandin H2,CCCCCC(C=CC1C2CC(C1CC=CCCCC(=O)O)OO2)O
+1697,Allyl Alcohol,C=CCO
+1698,"Phosphatidylinositol-3,4,5-Trisphosphate",
+1699,Phosphoribosyl-Atp,C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C[N+](=C2N)C4C(C(C(O4)COP(=O)(O)O)O)O
+1700,Verbascose,C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)OCC3C(C(C(C(O3)OCC4C(C(C(C(O4)OC5(C(C(C(O5)CO)O)O)CO)O)O)O)O)O)O)O)O)O)O)O)O)O
+1702,(+)-Syringaresinol,COC1=CC(=CC(=C1O)OC)C2C3COC(C3CO2)C4=CC(=C(C(=C4)OC)O)OC
+1703,Coniferyl Alcohol,COC1=C(C=CC(=C1)C=CCO)O
+1704,D-Glucitol,C(C(C(C(C(CO)O)O)O)O)O
+1705,Tellimagrandin I,C1C(C(OC(=O)C2=CC(=C(C(=C2C3=C(C(=C(C=C3C(=O)O1)O)O)O)O)O)O)C(C(C=O)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5)O)O)O)O
+1706,D-Erythrose 4-Phosphate,C(C(C(C=O)O)O)OP(=O)(O)O
+1707,Dyspropterin,CC(=O)C(=O)C1CNC2=C(N1)C(=O)NC(=N2)N
+1708,Cyanidin 3-Galactoside,C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2OC4C(C(C(C(O4)CO)O)O)O)O)O)O)O.[Cl-]
+1709,Vescalagin,C1C2C(C3C4C(C5=C(C(=C(C(=C5C(=O)O4)C6=C(C(=C(C(=C6C(=O)O3)C7=C(C(=C(C=C7C(=O)O2)O)O)O)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8C9=C(C(=C(C=C9C(=O)O1)O)O)O)O)O)O
+1710,Sophorose,C(C1C(C(C(C(O1)OC(C=O)C(C(C(CO)O)O)O)O)O)O)O
+1711,Erythrose,C(C(C(C=O)O)O)O
+1712,Gitogenin,CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CCC6C5(CC(C(C6)O)O)C)C)C)OC1
+1713,Ginsenoside Rh1,CC(=CCCC(C)(C1CCC2(C1C(CC3C2(CC(C4C3(CCC(C4(C)C)O)C)OC5C(C(C(C(O5)CO)O)O)O)C)O)C)O)C
+1714,2-Phosphoglycerate,C(C(C(=O)O)OP(=O)(O)O)O
+1715,Dgtp,C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O
+1716,Thymidine Glycol,CC1(C(N(C(=O)NC1=O)C2CC(C(O2)CO)O)O)O
+1717,Alpha-Chaconine,CC1CCC2C(C3C(N2C1)CC4C3(CCC5C4CC=C6C5(CCC(C6)OC7C(C(C(C(O7)CO)OC8C(C(C(C(O8)C)O)O)O)O)OC9C(C(C(C(O9)C)O)O)O)C)C)C
+1718,O-Quinone,C1=CC(=O)C(=O)C=C1
+1719,Saccharin Sodium,C1=CC=C2C(=C1)C(=O)[N-]S2(=O)=O.[Na+]
+1720,Copper Sulfate,[O-]S(=O)(=O)[O-].[Cu+2]
+1721,Zinc Acetate,CC(=O)[O-].CC(=O)[O-].[Zn+2]
+1722,Saccharin,C1=CC=C2C(=C1)C(=O)NS2(=O)=O
+1723,Dihydroxyacetone Phosphate,C(C(=O)COP(=O)(O)O)O
+1724,Morphinone,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(=O)C=C4
+1725,Erucic Acid,CCCCCCCCC=CCCCCCCCCCCCC(=O)O
+1726,Gadoleic Acid,CCCCCCCCCCC=CCCCCCCCC(=O)O
+1727,Sn-Glycerol-3-Phosphate,C(C(COP(=O)(O)O)O)O
+1729,Morpholine,C1COCCN1
+1730,Withanolide A,CC1=C(C(=O)OC(C1)C(C)(C2CCC3C2(CCC4C3C5C(O5)C6(C4(C(=O)C=CC6)C)O)C)O)C
+1731,Biocytin,C1C2C(C(S1)CCCCC(=O)NCCCCC(C(=O)O)N)NC(=O)N2
+1732,Indole-3-Pyruvate,C1=CC=C2C(=C1)C(=CN2)CC(=O)C(=O)O
+1733,Pyrrole,C1=CNC=C1
+1734,S-Allylcysteine,C=CCSCC(C(=O)O)N
+1735,Sakuranetin,COC1=CC(=C2C(=O)CC(OC2=C1)C3=CC=C(C=C3)O)O
+1736,12(S)-Leukotriene B4,CCCCCC=CCC(C=CC=CC=CC(CCCC(=O)O)O)O
+1737,9-Cis-Retinoic Acid,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC(=O)O)C)C
+1738,L-Thyronine,C1=CC(=CC=C1CC(C(=O)O)N)OC2=CC=C(C=C2)O
+1739,4-Aminohippuric Acid,C1=CC(=CC=C1C(=O)NCC(=O)O)N
+1740,Dihydroxyacetone,C(C(=O)CO)O
+1741,Beta-Eudesmol,CC12CCCC(=C)C1CC(CC2)C(C)(C)O
+1743,Fe3+,[Fe+3]
+1744,"2,3-Pentanedione",CCC(=O)C(=O)C
+1745,L-Stachydrine,C[N+]1(CCCC1C(=O)[O-])C
+1746,Gamma-Cehc,CC1=C(C=C2CCC(OC2=C1C)(C)CCC(=O)O)O
+1747,Cdp-Ethanolamine,C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OCCN)O)O
+1748,Pepsin,
+1749,Anthranilic Acid,C1=CC=C(C(=C1)C(=O)O)N
+1750,Fumitremorgin C,CC(=CC1C2=C(CC3N1C(=O)C4CCCN4C3=O)C5=C(N2)C=C(C=C5)OC)C
+1751,Dump,C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O
+1752,Dtmp,CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)O)O
+1753,Pheophorbide A,CCC1=C(C2=NC1=CC3=C(C4=C(C(C(=C5C(C(C(=CC6=NC(=C2)C(=C6C)C=C)N5)C)CCC(=O)O)C4=N3)C(=O)OC)O)C)C
+1754,5-Hete,CCCCCC=CCC=CCC=CC=CC(CCCC(=O)O)O
+1755,"4,5-Di-O-Caffeoylquinic Acid",C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)OC(=O)C=CC3=CC(=C(C=C3)O)O)O
+1756,Ginsenoside Rb3,CC(=CCCC(C)(C1CCC2(C1C(CC3C2(CCC4C3(CCC(C4(C)C)OC5C(C(C(C(O5)CO)O)O)OC6C(C(C(C(O6)CO)O)O)O)C)C)O)C)OC7C(C(C(C(O7)COC8C(C(C(CO8)O)O)O)O)O)O)C
+1757,Clerosterol,CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(=C)C
+1758,3-Bromotyrosine,C1=CC(=C(C=C1CC(C(=O)O)N)Br)O
+1759,4-Ethylphenol,CCC1=CC=C(C=C1)O
+1760,2-Hydroxybutyric Acid,CCC(C(=O)O)O
+1761,Propionylglycine,CCC(=O)NCC(=O)O
+1762,1-Methylhistidine,CN1C=C(N=C1)CC(C(=O)O)N
+1763,"N,N-Dimethylbenzylamine",CN(C)CC1=CC=CC=C1
+1764,Neocnidilide,CCCCC1C2CCCC=C2C(=O)O1
+1765,Phenylacetylglycine,C1=CC=C(C=C1)CC(=O)NCC(=O)O
+1766,Sennoside B,C1=CC2=C(C(=C1)OC3C(C(C(C(O3)CO)O)O)O)C(=O)C4=C(C2C5C6=C(C(=CC=C6)OC7C(C(C(C(O7)CO)O)O)O)C(=O)C8=C5C=C(C=C8O)C(=O)O)C=C(C=C4O)C(=O)O
+1767,2-Methoxyestradiol,CC12CCC3C(C1CCC2O)CCC4=CC(=C(C=C34)OC)O
+1768,"2,8-Dihydroxyadenine",C12=C(NC(=O)N=C1NC(=O)N2)N
+1769,Androsterone Glucuronide,CC12CCC(CC1CCC3C2CCC4(C3CCC4=O)C)OC5C(C(C(C(O5)C(=O)O)O)O)O
+1770,Procyanidin B1,C1C(C(OC2=C1C(=CC(=C2C3C(C(OC4=CC(=CC(=C34)O)O)C5=CC(=C(C=C5)O)O)O)O)O)C6=CC(=C(C=C6)O)O)O
+1771,1-Dodecanol,CCCCCCCCCCCCO
+1772,Coenzyme A,CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O
+1773,Geosmin,CC1CCCC2(C1(CCCC2)O)C
+1774,O-Coumaric Acid,C1=CC=C(C(=C1)C=CC(=O)O)O
+1775,"2,4-Diaminobutyric Acid",C(CN)C(C(=O)O)N
+1776,Triphosphoric Acid,OP(=O)(O)OP(=O)(O)OP(=O)(O)O
+1777,Equol,C1C(COC2=C1C=CC(=C2)O)C3=CC=C(C=C3)O
+1778,Isopentyl Alcohol,CC(C)CCO
+1779,Lactucin,CC1=C2C(C3C(C(C1)O)C(=C)C(=O)O3)C(=CC2=O)CO
+1780,L-Sorbose,C1C(C(C(C(O1)(CO)O)O)O)O
+1781,Trans-Beta-Ocimene,CC(=CCC=C(C)C=C)C
+1782,Norbixin,CC(=CC=CC=C(C)C=CC=C(C)C=CC(=O)O)C=CC=C(C)C=CC(=O)O
+1783,(+)-Pinoresinol,COC1=C(C=CC(=C1)C2C3COC(C3CO2)C4=CC(=C(C=C4)O)OC)O
+1784,Arabinonic Acid,C(C(C(C(C(=O)O)O)O)O)O
+1785,Shikimate,C1C(C(C(C=C1C(=O)[O-])O)O)O
+1786,Tetradecanedioic Acid,C(CCCCCCC(=O)O)CCCCCC(=O)O
+1787,Irilone,C1OC2=C(O1)C(=C3C(=C2)OC=C(C3=O)C4=CC=C(C=C4)O)O
+1788,"22,23-Dihydroergosterol",CC(C)C(C)CCC(C)C1CCC2C1(CCC3C2=CC=C4C3(CCC(C4)O)C)C
+1789,Echinenone,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(C(=O)CCC2(C)C)C)C)C
+1790,"3-Oxobutanoic Acid, 9Ci",
+1791,Isothiocyanates,
+1792,Glycitin,COC1=C(C=C2C(=C1)C(=O)C(=CO2)C3=CC=C(C=C3)O)OC4C(C(C(C(O4)CO)O)O)O
+1793,13-Cis-Retinoic Acid,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC(=O)O)C)C
+1794,Lacto-N-Neotetraose,CC(=O)NC1C(C(C(OC1OC2C(C(OC(C2O)OC(C(CO)O)C(C(C=O)O)O)CO)O)CO)OC3C(C(C(C(O3)CO)O)O)O)O
+1795,Beta-Thujaplicin,CC(C)C1=CC(=O)C(=CC=C1)O
+1796,Lumazine,C1=CN=C2C(=N1)C(=O)NC(=O)N2
+1797,Ginkgetin,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)OC)O)C4=C(C=C(C5=C4OC(=CC5=O)C6=CC=C(C=C6)O)O)O
+1798,4(10)-Thujene,CC(C)C12CCC(=C)C1C2
+1799,Retinyl Ester,CC1CCCC(C1C=CC(=CC=CC(=CC(=O)O)C)C)(C)C
+1800,Ethyl Nicotinate,CCOC(=O)C1=CN=CC=C1
+1801,Amylopectin,
+1802,Taxifolin 3-Rhamnoside,
+1803,Dihydroceramide,CCCCCCCCCCCCCCCC(C(CO)NC=O)O
+1804,2-Methoxy-4-Vinylphenol,COC1=C(C=CC(=C1)C=C)O
+1805,Hesperetin 7-Neohesperidoside,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC(=C(C=C5)OC)O)O)CO)O)O)O)O)O
+1806,8-Hydroxy-Deoxyguanosine,C1C(C(OC1N2C3=C(C(=O)NC(=N3)N)NC2=O)CO)O
+1807,Desmosterol,CC(CCC=C(C)C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C
+1808,"3,5-Di-O-Caffeoylquinic Acid",C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)OC(=O)C=CC3=CC(=C(C=C3)O)O
+1809,L-2-Aminobutanoic Acid,CCC(C(=O)O)N
+1810,Dttp,CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O
+1811,Cyanate,C(=[N-])=O
+1812,Inosine Triphosphate,C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
+1813,1-Propylamine,CCCN
+1814,Ginkgolide C,CC1C(=O)OC2C1(C34C(=O)OC5C3(C2O)C6(C(C5O)C(C)(C)C)C(C(=O)OC6O4)O)O
+1815,2-Aminoisobutyric Acid,CC(C)(C(=O)O)N
+1816,Methylparaben,COC(=O)C1=CC=C(C=C1)O
+1817,Trans-Isoasarone,CC=CC1=CC(=C(C=C1OC)OC)OC
+1818,Sepiapterin,CC(C(=O)C1=NC2=C(NC1)N=C(NC2=O)N)O
+1819,1-Butylamine,CCCCN
+1820,Oxaloacetate,C(C(=O)C(=O)O)C(=O)O
+1821,4-Aminophenol,C1=CC(=CC=C1N)O
+1822,"3,5-Dihydroxy-4-Methoxybenzoic Acid",COC1=C(C=C(C=C1O)C(=O)O)O
+1823,Thiamine Monophosphate,CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)[O-]
+1824,Kinobeon A,COC1=CC(=CC=CC=C2C=C(C(=O)C(=C2)OC)OC)C=C(C1=O)OC
+1825,Butyrylcarnitine,CCCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C
+1826,N2-Succinyl-L-Ornithine,C(CC(C(=O)O)NC(=O)CCC(=O)O)CN
+1827,Lariciresinol,COC1=C(C=CC(=C1)CC2COC(C2CO)C3=CC(=C(C=C3)O)OC)O
+1828,S-Methyl-L-Methionine,C[S+](C)CCC(C(=O)O)N
+1829,2-Methoxy-4-Methylphenol,CC1=CC(=C(C=C1)O)OC
+1830,Pinostrobin,COC1=CC(=C2C(=O)CC(OC2=C1)C3=CC=CC=C3)O
+1831,Convallatoxin,CC1C(C(C(C(O1)OC2CCC3(C4CCC5(C(CCC5(C4CCC3(C2)O)O)C6=CC(=O)OC6)C)C=O)O)O)O
+1832,Myristate,CCCCCCCCCCCCCC(=O)[O-]
+1833,Plastoquinone,CC1=C(C(=O)C(=CC1=O)CC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)C
+1834,Alpha-Carene,CC1=CCC2C(C1)C2(C)C
+1835,Gardenin B,COC1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C(=C3O2)OC)OC)OC)O
+1836,Sporamin,CCCC[N+]1(C2CC(CC1C3C2O3)OC(=O)C(CO)C4=CC=CC=C4)C.[Br-]
+1837,Maslinic Acid,CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CC(C(C5(C)C)O)O)C)C)C2C1)C)C(=O)O)C
+1838,Cajanol,COC1=CC(=C2C(=C1)OCC(C2=O)C3=C(C=C(C=C3)O)OC)O
+1839,Lipoamide,C1CSSC1CCCCC(=O)N
+1840,Cob(I)Alamin,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[Co]
+1841,N1-Acetylspermine,CC(=O)NCCCNCCCCNCCCN
+1842,1-Tetradecanol,CCCCCCCCCCCCCCO
+1843,Betulonic Acid,CC(=C)C1CCC2(C1C3CCC4C5(CCC(=O)C(C5CCC4(C3(CC2)C)C)(C)C)C)C(=O)O
+1844,2-Pyrrolidinone,C1CC(=O)NC1
+1845,3-Hydroxyglutaric Acid,C(C(CC(=O)O)O)C(=O)O
+1846,Ginsenoside Rd,CC(=CCCC(C)(C1CCC2(C1C(CC3C2(CCC4C3(CCC(C4(C)C)OC5C(C(C(C(O5)CO)O)O)OC6C(C(C(C(O6)CO)O)O)O)C)C)O)C)OC7C(C(C(C(O7)CO)O)O)O)C
+1847,4-Vinylsyringol,COC1=CC(=CC(=C1O)OC)C=C
+1848,Falcarindiol,CCCCCCCC=CC(C#CC#CC(C=C)O)O
+1849,Quinolinate,C1=CC(=C(N=C1)C(=O)O)C(=O)O
+1850,Diethylphosphate,CCOP(=O)(O)OCC
+1851,Matairesinol,COC1=C(C=CC(=C1)CC2COC(=O)C2CC3=CC(=C(C=C3)O)OC)O
+1852,Homoeriodictyol,COC1=C(C=CC(=C1)C2CC(=O)C3=C(C=C(C=C3O2)O)O)O
+1853,Alliin,C=CCS(=O)CC(C(=O)O)N
+1854,Melibiose,C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)O)O)O)O)O)O)O)O
+1855,Sodium Acetate,CC(=O)[O-].[Na+]
+1856,Asiaticoside,CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CC(C(C5(C)CO)O)O)C)C)C2C1C)C)C(=O)OC6C(C(C(C(O6)COC7C(C(C(C(O7)CO)OC8C(C(C(C(O8)C)O)O)O)O)O)O)O)O
+1857,Madecassoside,CC1CCC2(CCC3(C(=CCC4C3(CC(C5C4(CC(C(C5(C)CO)O)O)C)O)C)C2C1C)C)C(=O)OC6C(C(C(C(O6)COC7C(C(C(C(O7)CO)OC8C(C(C(C(O8)C)O)O)O)O)O)O)O)O
+1858,Scutellarein,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O)O
+1859,Luteolin 7-Glucoside,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)CO)O)O)O)O)O)O
+1860,Scolymoside,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O)O
+1861,12(S)-Hpete,CCCCCC=CCC(C=CC=CCC=CCCCC(=O)O)OO
+1862,M-Chlorohippuric Acid,C1=CC(=CC(=C1)Cl)C(=O)NCC(=O)O
+1863,Solasodine,CC1CCC2(C(C3C(O2)CC4C3(CCC5C4CC=C6C5(CCC(C6)O)C)C)C)NC1
+1864,Ginsenoside Rh2,CC(=CCCC(C)(C1CCC2(C1C(CC3C2(CCC4C3(CCC(C4(C)C)OC5C(C(C(C(O5)CO)O)O)O)C)C)O)C)O)C
+1865,Cellulase,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)O)CO)CO)O)O)O)O
+1866,"3H-1,2-Dithiole-3-Thione",C1=CSSC1=S
+1867,Dimethylarsinate,C[As](=O)(C)[O-]
+1868,2-Pentanone,CCCC(=O)C
+1869,N-Acetyl-L-Ornithine,CC(=O)NC(CCCN)C(=O)O
+1870,Tocophersolan,
+1871,Gamma-Glutamyl-Cysteine,
+1872,Calcium Pantothenate,CC(C)(CO)C(C(=O)NCCC(=O)[O-])O.CC(C)(CO)C(C(=O)NCCC(=O)[O-])O.[Ca+2]
+1873,Tectorigenin,COC1=C(C2=C(C=C1O)OC=C(C2=O)C3=CC=C(C=C3)O)O
+1874,Hopeaphenol,C1=CC(=CC=C1C2C(C3=C4C(C(OC4=CC(=C3)O)C5=CC=C(C=C5)O)C6=C2C(=CC(=C6)O)O)C7C(C8=C(C=C(C=C8O)O)C9C(OC1=CC(=CC7=C91)O)C1=CC=C(C=C1)O)C1=CC=C(C=C1)O)O
+1875,Potassium Iodide,[K+].[I-]
+1876,(S)-Coclaurine,COC1=C(C=C2C(NCCC2=C1)CC3=CC=C(C=C3)O)O
+1877,Curdione,CC1CCC=C(CC(=O)C(CC1=O)C(C)C)C
+1878,Tryptophol,C1=CC=C2C(=C1)C(=CN2)CCO
+1879,N-Butyl Acetate,CCCCOC(=O)C
+1880,1-Deoxynojirimycin,C1C(C(C(C(N1)CO)O)O)O
+1881,Adp-Ribose,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OCC4C(C(C(O4)O)O)O)O)O)N
+1882,15-Kete,CCCCCC(=O)C=CC=CCC=CCC=CCCCC(=O)O
+1883,Beta-Cyclocitral,CC1=C(C(CCC1)(C)C)C=O
+1884,Perillaldehyde,CC(=C)C1CCC(=CC1)C=O
+1885,Glyoxal,C(=O)C=O
+1886,18-Hydroxycorticosterone,CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4C(=O)CO)CO)O
+1887,Angiotensin Iii,CCC(C)C(C(=O)NC(CC1=CN=CN1)C(=O)N2CCCC2C(=O)NC(CC3=CC=CC=C3)C(=O)O)NC(=O)C(CC4=CC=C(C=C4)O)NC(=O)C(C(C)C)NC(=O)C(CCCN=C(N)N)N
+1888,15-Hete,CCCCCC(C=CC=CCC=CCC=CCCCC(=O)O)O
+1889,Gamma-Cyclodextrin,C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(C(C8O)O)OC9C(OC(O2)C(C9O)O)CO)CO)CO)CO)CO)CO)CO)O)O)O
+1890,Cycloartenol,CC(CCC=C(C)C)C1CCC2(C1(CCC34C2CCC5C3(C4)CCC(C5(C)C)O)C)C
+1891,Diethylamine,CCNCC
+1892,1-Nonanol,CCCCCCCCCO
+1893,Pseudouridine,C1=C(C(=O)NC(=O)N1)C2C(C(C(O2)CO)O)O

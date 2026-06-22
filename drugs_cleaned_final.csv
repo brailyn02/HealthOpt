@@ -1,0 +1,758 @@
+drug_id,drug_name,category,dual_role,notes
+(S)-3,5-Dihydroxyphenylglycine,pharmaceutical,,
+(acebutolol,,pharmaceutical,,Enantiomer/variant of: 
+1,2-Dimethyl Hydrazine,pharmaceutical,,
+1,25-Dihydroxyvitamin D,pharmaceutical,,
+1-methylnicotiamide,,pharmaceutical,,Enantiomer/variant of: 
+17-hydroxyprogesterone,,pharmaceutical,,Enantiomer/variant of: 
+2'-azinobis-3-ethylbenzothiazoline-6-sulfonic acid,,pharmaceutical,,Enantiomer/variant of: 
+2,2-Azinobis[3-Ethylbenzthiazoline]-6-Sulfonic Acid,pharmaceutical,,
+2,2-Diphenyl-1-Picrylhydrazyl,pharmaceutical,,
+2-amino-1-methyl-6-phenylimidazo4,5-Bpyridine,pharmaceutical,,
+22R-hydroxycholesterol,,pharmaceutical,,Enantiomer/variant of: 
+25-hydroxyvitamin D,,pharmaceutical,,Enantiomer/variant of: 
+25-hydroyvitamin D,,pharmaceutical,,Enantiomer/variant of: 
+4-chloro-DL-phenylalanine methyl ester hydrochloride,,pharmaceutical,,Enantiomer/variant of: 
+5-FLU,,pharmaceutical,,Enantiomer/variant of: 
+5-FU,,pharmaceutical,,Enantiomer/variant of: 
+5-Fluorouracil,,pharmaceutical,,Enantiomer/variant of: 
+5-HIAA,,pharmaceutical,,Enantiomer/variant of: 
+5-fluorouracil,,pharmaceutical,,Enantiomer/variant of: 
+5-hydroxyindole acetic acid,,pharmaceutical,,Enantiomer/variant of: 
+6beta-hydroxycortisol,,pharmaceutical,,Enantiomer/variant of: 
+7,12-Dimethylbenz[Α]Anthracene,pharmaceutical,,
+7,12-Dimethylbenzaanthracene,pharmaceutical,,
+ABTS,,pharmaceutical,,Enantiomer/variant of: 
+ACh,,pharmaceutical,,Enantiomer/variant of: 
+AChE,,pharmaceutical,,Enantiomer/variant of: 
+AGII,,pharmaceutical,,Enantiomer/variant of: 
+ALP,,pharmaceutical,,Enantiomer/variant of: 
+ALT,,pharmaceutical,,Enantiomer/variant of: 
+AMB,,pharmaceutical,,Enantiomer/variant of: 
+AMPT,,pharmaceutical,,Enantiomer/variant of: 
+AMX,,pharmaceutical,,Enantiomer/variant of: 
+APAP,,pharmaceutical,,Enantiomer/variant of: 
+ASA,,pharmaceutical,,Enantiomer/variant of: 
+AST,,pharmaceutical,,Enantiomer/variant of: 
+AZT,,pharmaceutical,,Enantiomer/variant of: 
+Acetylcholine,,pharmaceutical,,Enantiomer/variant of: 
+Ach,,pharmaceutical,,Enantiomer/variant of: 
+AchE,,pharmaceutical,,Enantiomer/variant of: 
+Adriamycin,,pharmaceutical,,Enantiomer/variant of: 
+Ag,,pharmaceutical,,Enantiomer/variant of: 
+Ag-nanoparticles,,pharmaceutical,,Enantiomer/variant of: 
+Al,,pharmaceutical,,Enantiomer/variant of: 
+AlCl3,,pharmaceutical,,Enantiomer/variant of: 
+Aluminum,,pharmaceutical,,Enantiomer/variant of: 
+Am,,pharmaceutical,,Enantiomer/variant of: 
+Ambrisentan,,pharmaceutical,,Enantiomer/variant of: 
+Amitriptyline,,pharmaceutical,,Enantiomer/variant of: 
+Amp B,,pharmaceutical,,Enantiomer/variant of: 
+Amrinone,,pharmaceutical,,Enantiomer/variant of: 
+Ang II,,pharmaceutical,,Enantiomer/variant of: 
+Arginine,,pharmaceutical,,Enantiomer/variant of: 
+Arsenic,,pharmaceutical,,Enantiomer/variant of: 
+Artemisinin,,pharmaceutical,,Enantiomer/variant of: 
+As(III),,pharmaceutical,,Enantiomer/variant of: 
+As3+,,pharmaceutical,,Enantiomer/variant of: 
+Atenolol,,pharmaceutical,,Enantiomer/variant of: 
+BChE,,pharmaceutical,,Enantiomer/variant of: 
+BLM,,pharmaceutical,,Enantiomer/variant of: 
+BSA,,pharmaceutical,,Enantiomer/variant of: 
+Bacampicillin,,pharmaceutical,,Enantiomer/variant of: 
+Bleomycin,,pharmaceutical,,Enantiomer/variant of: 
+BoNT/A,,pharmaceutical,,Enantiomer/variant of: 
+BoNTs,,pharmaceutical,,Enantiomer/variant of: 
+Both drugs,,pharmaceutical,,Enantiomer/variant of: 
+Botulinum neurotoxin type A,,pharmaceutical,,Enantiomer/variant of: 
+BuChE,,pharmaceutical,,Enantiomer/variant of: 
+Bupropion,,pharmaceutical,,Enantiomer/variant of: 
+C-peptide,,pharmaceutical,,Enantiomer/variant of: 
+CARB,,pharmaceutical,,Enantiomer/variant of: 
+CAT,,pharmaceutical,,Enantiomer/variant of: 
+CB,,pharmaceutical,,Enantiomer/variant of: 
+CBZ,,pharmaceutical,,Enantiomer/variant of: 
+CCl4,,pharmaceutical,,Enantiomer/variant of: 
+CD,,pharmaceutical,,Enantiomer/variant of: 
+CHL,,pharmaceutical,,Enantiomer/variant of: 
+CIP,,pharmaceutical,,Enantiomer/variant of: 
+CIS,,pharmaceutical,,Enantiomer/variant of: 
+CLA,,pharmaceutical,,Enantiomer/variant of: 
+CORT,,pharmaceutical,,Enantiomer/variant of: 
+CP,,pharmaceutical,,Enantiomer/variant of: 
+CPA,,pharmaceutical,,Enantiomer/variant of: 
+CTX,,pharmaceutical,,Enantiomer/variant of: 
+Ca,,pharmaceutical,,Enantiomer/variant of: 
+Ca(2+),,pharmaceutical,,Enantiomer/variant of: 
+Ca++,,pharmaceutical,,Enantiomer/variant of: 
+Ca2,,pharmaceutical,,Enantiomer/variant of: 
+Ca2+ channel blocker,,pharmaceutical,,Enantiomer/variant of: 
+Ca2+ channel blockers La3+,,pharmaceutical,,Enantiomer/variant of: 
+Cadmium,,pharmaceutical,,Enantiomer/variant of: 
+Calcitriol,,pharmaceutical,,Enantiomer/variant of: 
+Cd,,pharmaceutical,,Enantiomer/variant of: 
+Celiprolol,,pharmaceutical,,Enantiomer/variant of: 
+ChE,,pharmaceutical,,Enantiomer/variant of: 
+Cimetidine,,pharmaceutical,,Enantiomer/variant of: 
+Cisplatin,,pharmaceutical,,Enantiomer/variant of: 
+Clarithromycin,,pharmaceutical,,Enantiomer/variant of: 
+Clopidogrel,,pharmaceutical,,Enantiomer/variant of: 
+Cm,,pharmaceutical,,Enantiomer/variant of: 
+CoCl2,,pharmaceutical,,Enantiomer/variant of: 
+CsA,,pharmaceutical,,Enantiomer/variant of: 
+Cu,,pharmaceutical,,Enantiomer/variant of: 
+Cyclosporine,,pharmaceutical,,Enantiomer/variant of: 
+Cyclosporine A,,pharmaceutical,,Enantiomer/variant of: 
+Cys,,pharmaceutical,,Enantiomer/variant of: 
+Cysteine,,pharmaceutical,,Enantiomer/variant of: 
+DA,,pharmaceutical,,Enantiomer/variant of: 
+DBP,,pharmaceutical,,Enantiomer/variant of: 
+DCA,,pharmaceutical,,Enantiomer/variant of: 
+DEN,,pharmaceutical,,Enantiomer/variant of: 
+DFO,,pharmaceutical,,Enantiomer/variant of: 
+DFP,,pharmaceutical,,Enantiomer/variant of: 
+DHT,,pharmaceutical,,Enantiomer/variant of: 
+DMBA,,pharmaceutical,,Enantiomer/variant of: 
+DMSO,,pharmaceutical,,Enantiomer/variant of: 
+DOX,,pharmaceutical,,Enantiomer/variant of: 
+DPI,,pharmaceutical,,Enantiomer/variant of: 
+DPPH,,pharmaceutical,,Enantiomer/variant of: 
+DS,,pharmaceutical,,Enantiomer/variant of: 
+DSS,,pharmaceutical,,Enantiomer/variant of: 
+DXR,,pharmaceutical,,Enantiomer/variant of: 
+Dexamethasone,,pharmaceutical,,Enantiomer/variant of: 
+Dibutyryl-cGMP,,pharmaceutical,,Enantiomer/variant of: 
+Diclofenac,,pharmaceutical,,Enantiomer/variant of: 
+Diphenylene iodonium,,pharmaceutical,,Enantiomer/variant of: 
+Dox,,pharmaceutical,,Enantiomer/variant of: 
+Doxorubicin,,pharmaceutical,,Enantiomer/variant of: 
+E2,,pharmaceutical,,Enantiomer/variant of: 
+EC,,pharmaceutical,,Enantiomer/variant of: 
+EE,,pharmaceutical,,Enantiomer/variant of: 
+ETP,,pharmaceutical,,Enantiomer/variant of: 
+Endoxan,,pharmaceutical,,Enantiomer/variant of: 
+Estrogen,,pharmaceutical,,Enantiomer/variant of: 
+Etoposide,,pharmaceutical,,Enantiomer/variant of: 
+FPG,,pharmaceutical,,Enantiomer/variant of: 
+FSH,,pharmaceutical,,Enantiomer/variant of: 
+FT,,pharmaceutical,,Enantiomer/variant of: 
+Fe,,pharmaceutical,,Enantiomer/variant of: 
+Ferrous ions,,pharmaceutical,,Enantiomer/variant of: 
+Fexofenadine,,pharmaceutical,,Enantiomer/variant of: 
+Fluoride,,pharmaceutical,,Enantiomer/variant of: 
+Flutamide,,pharmaceutical,,Enantiomer/variant of: 
+GPx,,pharmaceutical,,Enantiomer/variant of: 
+GSH,,pharmaceutical,,Enantiomer/variant of: 
+Gentamicin,,pharmaceutical,,Enantiomer/variant of: 
+Glucagon,,pharmaceutical,,Enantiomer/variant of: 
+Glucose,,pharmaceutical,,Enantiomer/variant of: 
+Glutathione,,pharmaceutical,,Enantiomer/variant of: 
+H(2) O(2),,pharmaceutical,,Enantiomer/variant of: 
+H-89,,pharmaceutical,,Enantiomer/variant of: 
+HG,,pharmaceutical,,Enantiomer/variant of: 
+HQ,,pharmaceutical,,Enantiomer/variant of: 
+HSL,,pharmaceutical,,Enantiomer/variant of: 
+Haloperidol,,pharmaceutical,,Enantiomer/variant of: 
+Hcy,,pharmaceutical,,Enantiomer/variant of: 
+Hemin,,pharmaceutical,,Enantiomer/variant of: 
+Hydroxybupropion,,pharmaceutical,,Enantiomer/variant of: 
+H₂O₂,,pharmaceutical,,Enantiomer/variant of: 
+IDV,,pharmaceutical,,Enantiomer/variant of: 
+IFA,,pharmaceutical,,Enantiomer/variant of: 
+IGF-I,,pharmaceutical,,Enantiomer/variant of: 
+IH,,pharmaceutical,,Enantiomer/variant of: 
+IPC,,pharmaceutical,,Enantiomer/variant of: 
+ISO,,pharmaceutical,,Enantiomer/variant of: 
+Ibuprofen,,pharmaceutical,,Enantiomer/variant of: 
+Insulin,,pharmaceutical,,Enantiomer/variant of: 
+K+,,pharmaceutical,,Enantiomer/variant of: 
+K+ channel opener,,pharmaceutical,,Enantiomer/variant of: 
+KAN,,pharmaceutical,,Enantiomer/variant of: 
+KCl,,pharmaceutical,,Enantiomer/variant of: 
+Ketamine,,pharmaceutical,,Enantiomer/variant of: 
+Ketoconazole,,pharmaceutical,,Enantiomer/variant of: 
+L-Cysteine,,pharmaceutical,,Enantiomer/variant of: 
+L-NAME,,pharmaceutical,,Enantiomer/variant of: 
+L-NMMA,,pharmaceutical,,Enantiomer/variant of: 
+L-cysteine,,pharmaceutical,,Enantiomer/variant of: 
+L-dopa,,pharmaceutical,,Enantiomer/variant of: 
+L-phenylephrine,,pharmaceutical,,Enantiomer/variant of: 
+L-thyroxine,,pharmaceutical,,Enantiomer/variant of: 
+LH,,pharmaceutical,,Enantiomer/variant of: 
+LT,,pharmaceutical,,Enantiomer/variant of: 
+Lac,,pharmaceutical,,Enantiomer/variant of: 
+Lithium,,pharmaceutical,,Enantiomer/variant of: 
+Lithium carbonate,,pharmaceutical,,Enantiomer/variant of: 
+Lop,,pharmaceutical,,Enantiomer/variant of: 
+M-pred,,pharmaceutical,,Enantiomer/variant of: 
+MDA,,pharmaceutical,,Enantiomer/variant of: 
+MET,,pharmaceutical,,Enantiomer/variant of: 
+METH,,pharmaceutical,,Enantiomer/variant of: 
+MMC,,pharmaceutical,,Enantiomer/variant of: 
+MMS,,pharmaceutical,,Enantiomer/variant of: 
+MPO,,pharmaceutical,,Enantiomer/variant of: 
+MTX,,pharmaceutical,,Enantiomer/variant of: 
+MTZ,,pharmaceutical,,Enantiomer/variant of: 
+Malondialdehyde,,pharmaceutical,,Enantiomer/variant of: 
+Maltofer,,pharmaceutical,,Enantiomer/variant of: 
+Manganese,,pharmaceutical,,Enantiomer/variant of: 
+Met,,pharmaceutical,,Enantiomer/variant of: 
+Methotrexate,,pharmaceutical,,Enantiomer/variant of: 
+Methyl-prednisolone,,pharmaceutical,,Enantiomer/variant of: 
+Methylmercury,,pharmaceutical,,Enantiomer/variant of: 
+Mg,,pharmaceutical,,Enantiomer/variant of: 
+Mn,,pharmaceutical,,Enantiomer/variant of: 
+Moclobemide,,pharmaceutical,,Enantiomer/variant of: 
+N(G)-monomethyl-L-arginine,,pharmaceutical,,Enantiomer/variant of: 
+N(G)-nitro-L-arginine methyl ester,,pharmaceutical,,Enantiomer/variant of: 
+N(G)-nitro-L-arginine methyl ester (L-NAME),,pharmaceutical,,Enantiomer/variant of: 
+N(G)-nitro-l-arginine methyl ester,,pharmaceutical,,Enantiomer/variant of: 
+N-acetylcysteine,,pharmaceutical,,Enantiomer/variant of: 
+N-methyl-D-aspartate,,pharmaceutical,,Enantiomer/variant of: 
+NAC,,pharmaceutical,,Enantiomer/variant of: 
+NE,,pharmaceutical,,Enantiomer/variant of: 
+NFP,,pharmaceutical,,Enantiomer/variant of: 
+NO,,pharmaceutical,,Enantiomer/variant of: 
+NO synthase inhibitor,,pharmaceutical,,Enantiomer/variant of: 
+NPSH,,pharmaceutical,,Enantiomer/variant of: 
+NSAID,,pharmaceutical,,Enantiomer/variant of: 
+Na+,,pharmaceutical,,Enantiomer/variant of: 
+NaHCO3,,pharmaceutical,,Enantiomer/variant of: 
+Nadolol,,pharmaceutical,,Enantiomer/variant of: 
+Naloxone,,pharmaceutical,,Enantiomer/variant of: 
+Nateglinide,,pharmaceutical,,Enantiomer/variant of: 
+Nicotine,,pharmaceutical,,Enantiomer/variant of: 
+OPH,,pharmaceutical,,Enantiomer/variant of: 
+Oxaliplatin,,pharmaceutical,,Enantiomer/variant of: 
+P,,pharmaceutical,,Enantiomer/variant of: 
+PB,,pharmaceutical,,Enantiomer/variant of: 
+PC,,pharmaceutical,,Enantiomer/variant of: 
+PCM,,pharmaceutical,,Enantiomer/variant of: 
+PE,,pharmaceutical,,Enantiomer/variant of: 
+PG,,pharmaceutical,,Enantiomer/variant of: 
+PGE(2),,pharmaceutical,,Enantiomer/variant of: 
+PGE2,,pharmaceutical,,Enantiomer/variant of: 
+PGI2,,pharmaceutical,,Enantiomer/variant of: 
+PGx,,pharmaceutical,,Enantiomer/variant of: 
+PI,,pharmaceutical,,Enantiomer/variant of: 
+PPI,,pharmaceutical,,Enantiomer/variant of: 
+PTH,,pharmaceutical,,Enantiomer/variant of: 
+PTU,,pharmaceutical,,Enantiomer/variant of: 
+Pancreatic lipase,,pharmaceutical,,Enantiomer/variant of: 
+Pg,,pharmaceutical,,Enantiomer/variant of: 
+PhIP,,pharmaceutical,,Enantiomer/variant of: 
+Phe,,pharmaceutical,,Enantiomer/variant of: 
+Phenylephrine,,pharmaceutical,,Enantiomer/variant of: 
+Piracetam,,pharmaceutical,,Enantiomer/variant of: 
+Prednisolone,,pharmaceutical,,Enantiomer/variant of: 
+Progesterone,,pharmaceutical,,Enantiomer/variant of: 
+Pyridoxine,,pharmaceutical,,Enantiomer/variant of: 
+Quinagolide,,pharmaceutical,,Enantiomer/variant of: 
+Quinine,,pharmaceutical,,Enantiomer/variant of: 
+Qunidine,,pharmaceutical,,Enantiomer/variant of: 
+RS,,pharmaceutical,,Enantiomer/variant of: 
+RU486,,pharmaceutical,,Enantiomer/variant of: 
+Rapamycin,,pharmaceutical,,Enantiomer/variant of: 
+Raubasine,,pharmaceutical,,Enantiomer/variant of: 
+Reserpine,,pharmaceutical,,Enantiomer/variant of: 
+Rosiglitazone,,pharmaceutical,,Enantiomer/variant of: 
+S-mephenytoin,,pharmaceutical,,Enantiomer/variant of: 
+SA,,pharmaceutical,,Enantiomer/variant of: 
+SI,,pharmaceutical,,Enantiomer/variant of: 
+SMX,,pharmaceutical,,Enantiomer/variant of: 
+SNP,,pharmaceutical,,Enantiomer/variant of: 
+SOD,,pharmaceutical,,Enantiomer/variant of: 
+STZ,,pharmaceutical,,Enantiomer/variant of: 
+Saquinavir,,pharmaceutical,,Enantiomer/variant of: 
+Scopolamine,,pharmaceutical,,Enantiomer/variant of: 
+Se,,pharmaceutical,,Enantiomer/variant of: 
+Se-Pt,,pharmaceutical,,Enantiomer/variant of: 
+Sildenafil,,pharmaceutical,,Enantiomer/variant of: 
+Silymarin,,pharmaceutical,,Enantiomer/variant of: 
+Simvastatin,,pharmaceutical,,Enantiomer/variant of: 
+Sodium nitroprusside,,pharmaceutical,,Enantiomer/variant of: 
+Soy isoflavone aglycone,,pharmaceutical,,Enantiomer/variant of: 
+Streptozotocin,,pharmaceutical,,Enantiomer/variant of: 
+T,,pharmaceutical,,Enantiomer/variant of: 
+T(3),,pharmaceutical,,Enantiomer/variant of: 
+T(4),,pharmaceutical,,Enantiomer/variant of: 
+T3,,pharmaceutical,,Enantiomer/variant of: 
+T4,,pharmaceutical,,Enantiomer/variant of: 
+TB,,pharmaceutical,,Enantiomer/variant of: 
+TBARS,,pharmaceutical,,Enantiomer/variant of: 
+TET,,pharmaceutical,,Enantiomer/variant of: 
+TP,,pharmaceutical,,Enantiomer/variant of: 
+TSH,,pharmaceutical,,Enantiomer/variant of: 
+Tac,,pharmaceutical,,Enantiomer/variant of: 
+Tacrine,,pharmaceutical,,Enantiomer/variant of: 
+Testosterone,,pharmaceutical,,Enantiomer/variant of: 
+UI,,pharmaceutical,,Enantiomer/variant of: 
+URE,,pharmaceutical,,Enantiomer/variant of: 
+VA,,pharmaceutical,,Enantiomer/variant of: 
+VBL,,pharmaceutical,,Enantiomer/variant of: 
+VP-16,,pharmaceutical,,Enantiomer/variant of: 
+Vancomycin,,pharmaceutical,,Enantiomer/variant of: 
+Vioxx,,pharmaceutical,,Enantiomer/variant of: 
+Vitamin-B9,,pharmaceutical,,Enantiomer/variant of: 
+WAY 100635,,pharmaceutical,,Enantiomer/variant of: 
+Warfarin,,pharmaceutical,,Enantiomer/variant of: 
+Zinc,,pharmaceutical,,Enantiomer/variant of: 
+Zn,,pharmaceutical,,Enantiomer/variant of: 
+Zn-Gly,,pharmaceutical,,Enantiomer/variant of: 
+Zn-Met,,pharmaceutical,,Enantiomer/variant of: 
+ZnSO4,,pharmaceutical,,Enantiomer/variant of: 
+abiraterone,,pharmaceutical,,Enantiomer/variant of: 
+acarbose,,pharmaceutical,,Enantiomer/variant of: 
+acebutolol,,pharmaceutical,,Enantiomer/variant of: 
+acenocoumarol,,pharmaceutical,,Enantiomer/variant of: 
+acetaldehyde,,pharmaceutical,,Enantiomer/variant of: 
+acetaminophen,,pharmaceutical,,Enantiomer/variant of: 
+acetate,,pharmaceutical,,Enantiomer/variant of: 
+acetic acid,,pharmaceutical,,Enantiomer/variant of: 
+acetylcholine,,pharmaceutical,,Enantiomer/variant of: 
+acetylcholine esterase,,pharmaceutical,,Enantiomer/variant of: 
+acetylcholinesterase,,pharmaceutical,,Enantiomer/variant of: 
+acetylsalicylic acid,,pharmaceutical,,Enantiomer/variant of: 
+actinomycin D,,pharmaceutical,,Enantiomer/variant of: 
+actinomycin D-chase,,pharmaceutical,,Enantiomer/variant of: 
+activators,,pharmaceutical,,Enantiomer/variant of: 
+adenosine,,pharmaceutical,,Enantiomer/variant of: 
+adenosine tri phosphate,,pharmaceutical,,Enantiomer/variant of: 
+adiponectin,,pharmaceutical,,Enantiomer/variant of: 
+alanine aminotransferase,,pharmaceutical,,Enantiomer/variant of: 
+albendazole,,pharmaceutical,,Enantiomer/variant of: 
+albumin,,pharmaceutical,,Enantiomer/variant of: 
+alcohol,,pharmaceutical,,Enantiomer/variant of: 
+alkaline phosphatase,,pharmaceutical,,Enantiomer/variant of: 
+aluminium chloride,,pharmaceutical,,Enantiomer/variant of: 
+aluminum,,pharmaceutical,,Enantiomer/variant of: 
+aluminum chloride,,pharmaceutical,,Enantiomer/variant of: 
+amantadine,,pharmaceutical,,Enantiomer/variant of: 
+amiloride,,pharmaceutical,,Enantiomer/variant of: 
+aminoglycosides,,pharmaceutical,,Enantiomer/variant of: 
+aminophylline,,pharmaceutical,,Enantiomer/variant of: 
+amiodarone,,pharmaceutical,,Enantiomer/variant of: 
+amitriptyline,,pharmaceutical,,Enantiomer/variant of: 
+ammonia,,pharmaceutical,,Enantiomer/variant of: 
+amoxicillin,,pharmaceutical,,Enantiomer/variant of: 
+amoxicillin/clavulanic acid,,pharmaceutical,,Enantiomer/variant of: 
+amphotericin B,,pharmaceutical,,Enantiomer/variant of: 
+ampicillin,,pharmaceutical,,Enantiomer/variant of: 
+amrinone,,pharmaceutical,,Enantiomer/variant of: 
+anandamide,,pharmaceutical,,Enantiomer/variant of: 
+androgen,,pharmaceutical,,Enantiomer/variant of: 
+androgens,,pharmaceutical,,Enantiomer/variant of: 
+androstenedione,,pharmaceutical,,Enantiomer/variant of: 
+angiotensin I,,pharmaceutical,,Enantiomer/variant of: 
+angiotensin II,,pharmaceutical,,Enantiomer/variant of: 
+anti-malarial,,pharmaceutical,,Enantiomer/variant of: 
+antibiotic,,pharmaceutical,,Enantiomer/variant of: 
+anticholinestrase,,pharmaceutical,,Enantiomer/variant of: 
+anticoagulants,,pharmaceutical,,Enantiomer/variant of: 
+antidepressants,,pharmaceutical,,Enantiomer/variant of: 
+antiplatelet,,pharmaceutical,,Enantiomer/variant of: 
+arachidonic acid,,pharmaceutical,,Enantiomer/variant of: 
+arbekacin,,pharmaceutical,,Enantiomer/variant of: 
+arginine,,pharmaceutical,,Enantiomer/variant of: 
+arsenic,,pharmaceutical,,Enantiomer/variant of: 
+arsenic ion,,pharmaceutical,,Enantiomer/variant of: 
+arsenicated,,pharmaceutical,,Enantiomer/variant of: 
+arsenite,,pharmaceutical,,Enantiomer/variant of: 
+artemisinin,,pharmaceutical,,Enantiomer/variant of: 
+aspartate aminotransferase,,pharmaceutical,,Enantiomer/variant of: 
+aspirin,,pharmaceutical,,Enantiomer/variant of: 
+atenolol,,pharmaceutical,,Enantiomer/variant of: 
+atorvastatin,,pharmaceutical,,Enantiomer/variant of: 
+atropine,,pharmaceutical,,Enantiomer/variant of: 
+bacampicillin,,pharmaceutical,,Enantiomer/variant of: 
+bacitracin,,pharmaceutical,,Enantiomer/variant of: 
+benzodiazepines,,pharmaceutical,,Enantiomer/variant of: 
+betaine,,pharmaceutical,,Enantiomer/variant of: 
+bicuculline,,pharmaceutical,,Enantiomer/variant of: 
+bleomycin,,pharmaceutical,,Enantiomer/variant of: 
+botulinum neurotoxins,,pharmaceutical,,Enantiomer/variant of: 
+bovine serum albumin,,pharmaceutical,,Enantiomer/variant of: 
+bradykinin,,pharmaceutical,,Enantiomer/variant of: 
+bupropion,,pharmaceutical,,Enantiomer/variant of: 
+buterylcholinesterase,,pharmaceutical,,Enantiomer/variant of: 
+butyrate,,pharmaceutical,,Enantiomer/variant of: 
+butyrylcholinesterase,,pharmaceutical,,Enantiomer/variant of: 
+cadmium,,pharmaceutical,,Enantiomer/variant of: 
+caffeine,,pharmaceutical,,Enantiomer/variant of: 
+calcitriol,,pharmaceutical,,Enantiomer/variant of: 
+calcium,,pharmaceutical,,Enantiomer/variant of: 
+calcium channel blockers,,pharmaceutical,,Enantiomer/variant of: 
+calcium hydrogen-phosphate,,pharmaceutical,,Enantiomer/variant of: 
+calcium ionophore,,pharmaceutical,,Enantiomer/variant of: 
+cannabinoid,,pharmaceutical,,Enantiomer/variant of: 
+capecitabine,,pharmaceutical,,Enantiomer/variant of: 
+captopril,,pharmaceutical,,Enantiomer/variant of: 
+carbachol,,pharmaceutical,,Enantiomer/variant of: 
+carbamazepine,,pharmaceutical,,Enantiomer/variant of: 
+carbapenems,,pharmaceutical,,Enantiomer/variant of: 
+carbon tetrachloride,,pharmaceutical,,Enantiomer/variant of: 
+carboplatin,,pharmaceutical,,Enantiomer/variant of: 
+castor oil,,pharmaceutical,,Enantiomer/variant of: 
+catalase,,pharmaceutical,,Enantiomer/variant of: 
+catechins,,pharmaceutical,,Enantiomer/variant of: 
+catecholamine,,pharmaceutical,,Enantiomer/variant of: 
+cefmetazole,,pharmaceutical,,Enantiomer/variant of: 
+cefoperazone,,pharmaceutical,,Enantiomer/variant of: 
+cefoxitin,,pharmaceutical,,Enantiomer/variant of: 
+cefuroxime,,pharmaceutical,,Enantiomer/variant of: 
+celiprolol,,pharmaceutical,,Enantiomer/variant of: 
+ceruleine,,pharmaceutical,,Enantiomer/variant of: 
+chelators,,pharmaceutical,,Enantiomer/variant of: 
+chloramphenicol,,pharmaceutical,,Enantiomer/variant of: 
+chloroquine,,pharmaceutical,,Enantiomer/variant of: 
+chloroquine sulphate,,pharmaceutical,,Enantiomer/variant of: 
+chlorzoxazone,,pharmaceutical,,Enantiomer/variant of: 
+choline,,pharmaceutical,,Enantiomer/variant of: 
+cholinesterase,,pharmaceutical,,Enantiomer/variant of: 
+chymotrypsin,,pharmaceutical,,Enantiomer/variant of: 
+cilostazol,,pharmaceutical,,Enantiomer/variant of: 
+cimetidine,,pharmaceutical,,Enantiomer/variant of: 
+ciprofloxacin,,pharmaceutical,,Enantiomer/variant of: 
+cisplatin,,pharmaceutical,,Enantiomer/variant of: 
+clarithromycin,,pharmaceutical,,Enantiomer/variant of: 
+claudin-4,,pharmaceutical,,Enantiomer/variant of: 
+clomipramine,,pharmaceutical,,Enantiomer/variant of: 
+clonidine,,pharmaceutical,,Enantiomer/variant of: 
+clopidogrel,,pharmaceutical,,Enantiomer/variant of: 
+collagenase,,pharmaceutical,,Enantiomer/variant of: 
+conjugated dienes,,pharmaceutical,,Enantiomer/variant of: 
+copper,,pharmaceutical,,Enantiomer/variant of: 
+corticosteroid,,pharmaceutical,,Enantiomer/variant of: 
+corticosteroids,,pharmaceutical,,Enantiomer/variant of: 
+corticosterone,,pharmaceutical,,Enantiomer/variant of: 
+cortisol,,pharmaceutical,,Enantiomer/variant of: 
+cortisone,,pharmaceutical,,Enantiomer/variant of: 
+cotinine,,pharmaceutical,,Enantiomer/variant of: 
+cyclophosphamide,,pharmaceutical,,Enantiomer/variant of: 
+cyclosporin A,,pharmaceutical,,Enantiomer/variant of: 
+cyclosporine,,pharmaceutical,,Enantiomer/variant of: 
+cyclosporine A,,pharmaceutical,,Enantiomer/variant of: 
+cysteamine,,pharmaceutical,,Enantiomer/variant of: 
+daunorubicin,,pharmaceutical,,Enantiomer/variant of: 
+deferiprone,,pharmaceutical,,Enantiomer/variant of: 
+deferoxamine,,pharmaceutical,,Enantiomer/variant of: 
+dehydroepiandrosterone,,pharmaceutical,,Enantiomer/variant of: 
+dehydronifedipine,,pharmaceutical,,Enantiomer/variant of: 
+deoxycholic acid,,pharmaceutical,,Enantiomer/variant of: 
+desipramine,,pharmaceutical,,Enantiomer/variant of: 
+dexamethasone,,pharmaceutical,,Enantiomer/variant of: 
+dexamethazone,,pharmaceutical,,Enantiomer/variant of: 
+dextran sulfate sodium,,pharmaceutical,,Enantiomer/variant of: 
+dextromethorphan,,pharmaceutical,,Enantiomer/variant of: 
+di-n-butylphthalate,,pharmaceutical,,Enantiomer/variant of: 
+diazepam,,pharmaceutical,,Enantiomer/variant of: 
+diazoxide,,pharmaceutical,,Enantiomer/variant of: 
+diclofenac,,pharmaceutical,,Enantiomer/variant of: 
+diclofenac sodium,,pharmaceutical,,Enantiomer/variant of: 
+diclofenak,,pharmaceutical,,Enantiomer/variant of: 
+diclofinac,,pharmaceutical,,Enantiomer/variant of: 
+diethylnitrosamine,,pharmaceutical,,Enantiomer/variant of: 
+different zinc sources groups,,pharmaceutical,,Enantiomer/variant of: 
+digoxin,,pharmaceutical,,Enantiomer/variant of: 
+dihydroergocristine,,pharmaceutical,,Enantiomer/variant of: 
+dihydrotestosterone,,pharmaceutical,,Enantiomer/variant of: 
+diltiazem,,pharmaceutical,,Enantiomer/variant of: 
+dimethyl sulfoxide,,pharmaceutical,,Enantiomer/variant of: 
+diphenhydramine,,pharmaceutical,,Enantiomer/variant of: 
+docetaxel,,pharmaceutical,,Enantiomer/variant of: 
+donepezil,,pharmaceutical,,Enantiomer/variant of: 
+dopamine,,pharmaceutical,,Enantiomer/variant of: 
+doxorubicin,,pharmaceutical,,Enantiomer/variant of: 
+doxycycline,,pharmaceutical,,Enantiomer/variant of: 
+epicatechin,,pharmaceutical,,Enantiomer/variant of: 
+erythromycin,,pharmaceutical,,Enantiomer/variant of: 
+estradiol,,pharmaceutical,,Enantiomer/variant of: 
+estrogen,,pharmaceutical,,Enantiomer/variant of: 
+estrone,,pharmaceutical,,Enantiomer/variant of: 
+estrone-3-sulfate,,pharmaceutical,,Enantiomer/variant of: 
+ethanol,,pharmaceutical,,Enantiomer/variant of: 
+ethinyl estradiol,,pharmaceutical,,Enantiomer/variant of: 
+etodolac,,pharmaceutical,,Enantiomer/variant of: 
+etoposide,,pharmaceutical,,Enantiomer/variant of: 
+famotidine,,pharmaceutical,,Enantiomer/variant of: 
+fenofibrate,,pharmaceutical,,Enantiomer/variant of: 
+ferric ions,,pharmaceutical,,Enantiomer/variant of: 
+ferrous ions,,pharmaceutical,,Enantiomer/variant of: 
+ferrous sulfate,,pharmaceutical,,Enantiomer/variant of: 
+fexofenadine,,pharmaceutical,,Enantiomer/variant of: 
+fibrin,,pharmaceutical,,Enantiomer/variant of: 
+fibrinogen,,pharmaceutical,,Enantiomer/variant of: 
+fluindione,,pharmaceutical,,Enantiomer/variant of: 
+flumazenil,,pharmaceutical,,Enantiomer/variant of: 
+fluoride,,pharmaceutical,,Enantiomer/variant of: 
+fluoroquinolones,,pharmaceutical,,Enantiomer/variant of: 
+fluoxetine,,pharmaceutical,,Enantiomer/variant of: 
+flutamide,,pharmaceutical,,Enantiomer/variant of: 
+folate,,pharmaceutical,,Enantiomer/variant of: 
+folic acid,,pharmaceutical,,Enantiomer/variant of: 
+follicle-stimulating hormone,,pharmaceutical,,Enantiomer/variant of: 
+free thyroxine,,pharmaceutical,,Enantiomer/variant of: 
+free tri-iodothyronine,,pharmaceutical,,Enantiomer/variant of: 
+fumarate,,pharmaceutical,,Enantiomer/variant of: 
+furosemide,,pharmaceutical,,Enantiomer/variant of: 
+gabapentin,,pharmaceutical,,Enantiomer/variant of: 
+galactosamine,,pharmaceutical,,Enantiomer/variant of: 
+galanthamine,,pharmaceutical,,Enantiomer/variant of: 
+gemcitabine,,pharmaceutical,,Enantiomer/variant of: 
+genotoxin,,pharmaceutical,,Enantiomer/variant of: 
+gentamicin,,pharmaceutical,,Enantiomer/variant of: 
+glibenclamide,,pharmaceutical,,Enantiomer/variant of: 
+glucagon,,pharmaceutical,,Enantiomer/variant of: 
+glucocorticoid,,pharmaceutical,,Enantiomer/variant of: 
+glucose,,pharmaceutical,,Enantiomer/variant of: 
+glucuronide,,pharmaceutical,,Enantiomer/variant of: 
+glutahione,,pharmaceutical,,Enantiomer/variant of: 
+glutamate,,pharmaceutical,,Enantiomer/variant of: 
+glutathione,,pharmaceutical,,Enantiomer/variant of: 
+glutathione peroxidase,,pharmaceutical,,Enantiomer/variant of: 
+glycogen,,pharmaceutical,,Enantiomer/variant of: 
+guanidine,,pharmaceutical,,Enantiomer/variant of: 
+hPTH,,pharmaceutical,,Enantiomer/variant of: 
+haloperidol,,pharmaceutical,,Enantiomer/variant of: 
+hemin,,pharmaceutical,,Enantiomer/variant of: 
+heparin,,pharmaceutical,,Enantiomer/variant of: 
+histamine,,pharmaceutical,,Enantiomer/variant of: 
+homocysteine,,pharmaceutical,,Enantiomer/variant of: 
+human parathyroid hormone,,pharmaceutical,,Enantiomer/variant of: 
+hyaluronidase,,pharmaceutical,,Enantiomer/variant of: 
+hydrocortisone,,pharmaceutical,,Enantiomer/variant of: 
+hydrogen peroxide,,pharmaceutical,,Enantiomer/variant of: 
+hydroquinone,,pharmaceutical,,Enantiomer/variant of: 
+hydroxybupropion,,pharmaceutical,,Enantiomer/variant of: 
+immunosuppressant,,pharmaceutical,,Enantiomer/variant of: 
+indinavir,,pharmaceutical,,Enantiomer/variant of: 
+indomethacin,,pharmaceutical,,Enantiomer/variant of: 
+insulin,,pharmaceutical,,Enantiomer/variant of: 
+interferon,,pharmaceutical,,Enantiomer/variant of: 
+interferon alpha and beta,,pharmaceutical,,Enantiomer/variant of: 
+interferon-γ,,pharmaceutical,,Enantiomer/variant of: 
+iodine,,pharmaceutical,,Enantiomer/variant of: 
+iron,,pharmaceutical,,Enantiomer/variant of: 
+iron glycine,,pharmaceutical,,Enantiomer/variant of: 
+iron(III)-hydroxide polymaltose complex,,pharmaceutical,,Enantiomer/variant of: 
+isoproterenol,,pharmaceutical,,Enantiomer/variant of: 
+isorhamnetin,,pharmaceutical,,Enantiomer/variant of: 
+itraconazole,,pharmaceutical,,Enantiomer/variant of: 
+itraconazole capsules,,pharmaceutical,,Enantiomer/variant of: 
+kanamycin,,pharmaceutical,,Enantiomer/variant of: 
+ketamine,,pharmaceutical,,Enantiomer/variant of: 
+ketoconazole,,pharmaceutical,,Enantiomer/variant of: 
+ketorolac,,pharmaceutical,,Enantiomer/variant of: 
+l-NAME,,pharmaceutical,,Enantiomer/variant of: 
+laccase,,pharmaceutical,,Enantiomer/variant of: 
+lactate,,pharmaceutical,,Enantiomer/variant of: 
+lactic acid,,pharmaceutical,,Enantiomer/variant of: 
+lansoprazole,,pharmaceutical,,Enantiomer/variant of: 
+lepin,,pharmaceutical,,Enantiomer/variant of: 
+leptin,,pharmaceutical,,Enantiomer/variant of: 
+leukotriene,,pharmaceutical,,Enantiomer/variant of: 
+leukotriene C4,,pharmaceutical,,Enantiomer/variant of: 
+lipase,,pharmaceutical,,Enantiomer/variant of: 
+lithium,,pharmaceutical,,Enantiomer/variant of: 
+lithium carbonate,,pharmaceutical,,Enantiomer/variant of: 
+liver cholinesterase,,pharmaceutical,,Enantiomer/variant of: 
+loperamide,,pharmaceutical,,Enantiomer/variant of: 
+losartan,,pharmaceutical,,Enantiomer/variant of: 
+lovastatin,,pharmaceutical,,Enantiomer/variant of: 
+luteinizing hormone,,pharmaceutical,,Enantiomer/variant of: 
+magnesium-L-aspartate hydrochloride,,pharmaceutical,,Enantiomer/variant of: 
+malathion,,pharmaceutical,,Enantiomer/variant of: 
+malonaldehyde,,pharmaceutical,,Enantiomer/variant of: 
+malondialdehyde,,pharmaceutical,,Enantiomer/variant of: 
+melatonin,,pharmaceutical,,Enantiomer/variant of: 
+mercury,,pharmaceutical,,Enantiomer/variant of: 
+meropenem,,pharmaceutical,,Enantiomer/variant of: 
+metformin,,pharmaceutical,,Enantiomer/variant of: 
+methacholine,,pharmaceutical,,Enantiomer/variant of: 
+methamphetamine,,pharmaceutical,,Enantiomer/variant of: 
+methionine,,pharmaceutical,,Enantiomer/variant of: 
+methotrexate,,pharmaceutical,,Enantiomer/variant of: 
+methyl methanesulfonate,,pharmaceutical,,Enantiomer/variant of: 
+methyl-L-dopa sesquihydrate,,pharmaceutical,,Enantiomer/variant of: 
+methylmercury,,pharmaceutical,,Enantiomer/variant of: 
+methylxanthine,,pharmaceutical,,Enantiomer/variant of: 
+metronidazole,,pharmaceutical,,Enantiomer/variant of: 
+midazolam,,pharmaceutical,,Enantiomer/variant of: 
+miltefosine,,pharmaceutical,,Enantiomer/variant of: 
+mitomycin,,pharmaceutical,,Enantiomer/variant of: 
+mitomycin C,,pharmaceutical,,Enantiomer/variant of: 
+mitomycin-C,,pharmaceutical,,Enantiomer/variant of: 
+moclobemide,,pharmaceutical,,Enantiomer/variant of: 
+morphine,,pharmaceutical,,Enantiomer/variant of: 
+mycophenolic acid,,pharmaceutical,,Enantiomer/variant of: 
+myeloperoxidase,,pharmaceutical,,Enantiomer/variant of: 
+nadolol,,pharmaceutical,,Enantiomer/variant of: 
+naloxone,,pharmaceutical,,Enantiomer/variant of: 
+naloxone hydrochloride,,pharmaceutical,,Enantiomer/variant of: 
+naloxone methiodide,,pharmaceutical,,Enantiomer/variant of: 
+naltrexone,,pharmaceutical,,Enantiomer/variant of: 
+naproxen,,pharmaceutical,,Enantiomer/variant of: 
+nateglinide,,pharmaceutical,,Enantiomer/variant of: 
+nevirapine,,pharmaceutical,,Enantiomer/variant of: 
+nicardipine,,pharmaceutical,,Enantiomer/variant of: 
+nicergoline,,pharmaceutical,,Enantiomer/variant of: 
+nicotinamide,,pharmaceutical,,Enantiomer/variant of: 
+nicotine,,pharmaceutical,,Enantiomer/variant of: 
+nifedipine,,pharmaceutical,,Enantiomer/variant of: 
+nifuroxazide,,pharmaceutical,,Enantiomer/variant of: 
+nimodipine,,pharmaceutical,,Enantiomer/variant of: 
+nitric oxide,,pharmaceutical,,Enantiomer/variant of: 
+nitrite,,pharmaceutical,,Enantiomer/variant of: 
+nitrofurantoin,,pharmaceutical,,Enantiomer/variant of: 
+nizatidine,,pharmaceutical,,Enantiomer/variant of: 
+non-steroidal anti-inflammatory drug,,pharmaceutical,,Enantiomer/variant of: 
+noradrenaline,,pharmaceutical,,Enantiomer/variant of: 
+norepinephrine,,pharmaceutical,,Enantiomer/variant of: 
+omeprazole,,pharmaceutical,,Enantiomer/variant of: 
+opioidergic system,,pharmaceutical,,Enantiomer/variant of: 
+oxacillin,,pharmaceutical,,Enantiomer/variant of: 
+oxaliplatin,,pharmaceutical,,Enantiomer/variant of: 
+oyster protein hydrolysates,,pharmaceutical,,Enantiomer/variant of: 
+paclitaxel,,pharmaceutical,,Enantiomer/variant of: 
+pancreatic lipase,,pharmaceutical,,Enantiomer/variant of: 
+papaverine,,pharmaceutical,,Enantiomer/variant of: 
+paracetamol,,pharmaceutical,,Enantiomer/variant of: 
+paraoxonase,,pharmaceutical,,Enantiomer/variant of: 
+parathyroid hormone,,pharmaceutical,,Enantiomer/variant of: 
+pentobarbital,,pharmaceutical,,Enantiomer/variant of: 
+phenacetin,,pharmaceutical,,Enantiomer/variant of: 
+phenelzine sulfate,,pharmaceutical,,Enantiomer/variant of: 
+phenobarbital,,pharmaceutical,,Enantiomer/variant of: 
+phenylephrine,,pharmaceutical,,Enantiomer/variant of: 
+phenytoin,,pharmaceutical,,Enantiomer/variant of: 
+pidotimod,,pharmaceutical,,Enantiomer/variant of: 
+pilocarpine,,pharmaceutical,,Enantiomer/variant of: 
+pirfenidone,,pharmaceutical,,Enantiomer/variant of: 
+piroxicam,,pharmaceutical,,Enantiomer/variant of: 
+pivampicillin,,pharmaceutical,,Enantiomer/variant of: 
+platinum,,pharmaceutical,,Enantiomer/variant of: 
+polymixin B,,pharmaceutical,,Enantiomer/variant of: 
+prasugrel,,pharmaceutical,,Enantiomer/variant of: 
+pravastatin,,pharmaceutical,,Enantiomer/variant of: 
+prazosin,,pharmaceutical,,Enantiomer/variant of: 
+prednisolone,,pharmaceutical,,Enantiomer/variant of: 
+prednisone,,pharmaceutical,,Enantiomer/variant of: 
+pregnenolone,,pharmaceutical,,Enantiomer/variant of: 
+primaquine,,pharmaceutical,,Enantiomer/variant of: 
+procainamide,,pharmaceutical,,Enantiomer/variant of: 
+progesterone,,pharmaceutical,,Enantiomer/variant of: 
+proguanil,,pharmaceutical,,Enantiomer/variant of: 
+propionate,,pharmaceutical,,Enantiomer/variant of: 
+propranolol,,pharmaceutical,,Enantiomer/variant of: 
+propylthiouracil,,pharmaceutical,,Enantiomer/variant of: 
+prostaglandin,,pharmaceutical,,Enantiomer/variant of: 
+prostaglandin E(2),,pharmaceutical,,Enantiomer/variant of: 
+prostaglandin E2,,pharmaceutical,,Enantiomer/variant of: 
+protease inhibitors,,pharmaceutical,,Enantiomer/variant of: 
+protein carbonyl,,pharmaceutical,,Enantiomer/variant of: 
+proton pump inhibitor,,pharmaceutical,,Enantiomer/variant of: 
+proton-pump inhibitors,,pharmaceutical,,Enantiomer/variant of: 
+prulifloxacin,,pharmaceutical,,Enantiomer/variant of: 
+pyrazole,,pharmaceutical,,Enantiomer/variant of: 
+pyridoxine,,pharmaceutical,,Enantiomer/variant of: 
+quercetin,,pharmaceutical,,Enantiomer/variant of: 
+quinagolide,,pharmaceutical,,Enantiomer/variant of: 
+quinine,,pharmaceutical,,Enantiomer/variant of: 
+quinolone,,pharmaceutical,,Enantiomer/variant of: 
+qunidine,,pharmaceutical,,Enantiomer/variant of: 
+ranitidine,,pharmaceutical,,Enantiomer/variant of: 
+raubasine,,pharmaceutical,,Enantiomer/variant of: 
+reduced glutathione,,pharmaceutical,,Enantiomer/variant of: 
+reduced level of non-protein thiol,,pharmaceutical,,Enantiomer/variant of: 
+reserpine,,pharmaceutical,,Enantiomer/variant of: 
+retinol,,pharmaceutical,,Enantiomer/variant of: 
+rifampicin,,pharmaceutical,,Enantiomer/variant of: 
+rosiglitazone,,pharmaceutical,,Enantiomer/variant of: 
+rosuvastatin,,pharmaceutical,,Enantiomer/variant of: 
+salicylic acid,,pharmaceutical,,Enantiomer/variant of: 
+saline,,pharmaceutical,,Enantiomer/variant of: 
+salt,,pharmaceutical,,Enantiomer/variant of: 
+saquinavir,,pharmaceutical,,Enantiomer/variant of: 
+scopolamine,,pharmaceutical,,Enantiomer/variant of: 
+secretion,,pharmaceutical,,Enantiomer/variant of: 
+selenite,,pharmaceutical,,Enantiomer/variant of: 
+selenium,,pharmaceutical,,Enantiomer/variant of: 
+serine,,pharmaceutical,,Enantiomer/variant of: 
+serotonin,,pharmaceutical,,Enantiomer/variant of: 
+sibutramine,,pharmaceutical,,Enantiomer/variant of: 
+sildenafil,,pharmaceutical,,Enantiomer/variant of: 
+silymarin,,pharmaceutical,,Enantiomer/variant of: 
+simvastatin,,pharmaceutical,,Enantiomer/variant of: 
+sodium arsenite,,pharmaceutical,,Enantiomer/variant of: 
+sodium bicarbonate,,pharmaceutical,,Enantiomer/variant of: 
+sodium fluoride,,pharmaceutical,,Enantiomer/variant of: 
+sodium nitroprusside,,pharmaceutical,,Enantiomer/variant of: 
+sodium salicylate,,pharmaceutical,,Enantiomer/variant of: 
+sodium selenate,,pharmaceutical,,Enantiomer/variant of: 
+sodium selenite,,pharmaceutical,,Enantiomer/variant of: 
+somatostatin,,pharmaceutical,,Enantiomer/variant of: 
+spironolactone,,pharmaceutical,,Enantiomer/variant of: 
+statin,,pharmaceutical,,Enantiomer/variant of: 
+statins,,pharmaceutical,,Enantiomer/variant of: 
+steroid,,pharmaceutical,,Enantiomer/variant of: 
+steroids,,pharmaceutical,,Enantiomer/variant of: 
+streptomycin,,pharmaceutical,,Enantiomer/variant of: 
+streptozotocin,,pharmaceutical,,Enantiomer/variant of: 
+sulfadimethoxine,,pharmaceutical,,Enantiomer/variant of: 
+sulfamethoxazole,,pharmaceutical,,Enantiomer/variant of: 
+sulfaphenazole,,pharmaceutical,,Enantiomer/variant of: 
+sulfate,,pharmaceutical,,Enantiomer/variant of: 
+sulphonamide,,pharmaceutical,,Enantiomer/variant of: 
+superoxide,,pharmaceutical,,Enantiomer/variant of: 
+superoxide dismutase,,pharmaceutical,,Enantiomer/variant of: 
+t-BHP,,pharmaceutical,,Enantiomer/variant of: 
+tacrine,,pharmaceutical,,Enantiomer/variant of: 
+tacrolimus,,pharmaceutical,,Enantiomer/variant of: 
+talinolol,,pharmaceutical,,Enantiomer/variant of: 
+tamoxifen,,pharmaceutical,,Enantiomer/variant of: 
+taurocholate,,pharmaceutical,,Enantiomer/variant of: 
+taxol,,pharmaceutical,,Enantiomer/variant of: 
+tert-butyl hydroperoxide,,pharmaceutical,,Enantiomer/variant of: 
+testosterone,,pharmaceutical,,Enantiomer/variant of: 
+testosterone propionate,,pharmaceutical,,Enantiomer/variant of: 
+tetracycline,,pharmaceutical,,Enantiomer/variant of: 
+tetracycline hydrochloride,,pharmaceutical,,Enantiomer/variant of: 
+tetraethylammonium,,pharmaceutical,,Enantiomer/variant of: 
+thapsigargin,,pharmaceutical,,Enantiomer/variant of: 
+theobromine,,pharmaceutical,,Enantiomer/variant of: 
+theophylline,,pharmaceutical,,Enantiomer/variant of: 
+thiobarbituric acid-reactive substances,,pharmaceutical,,Enantiomer/variant of: 
+thrombin,,pharmaceutical,,Enantiomer/variant of: 
+thyroid,,pharmaceutical,,Enantiomer/variant of: 
+thyroid hormone,,pharmaceutical,,Enantiomer/variant of: 
+thyroid-stimulating hormone,,pharmaceutical,,Enantiomer/variant of: 
+thyroxin,,pharmaceutical,,Enantiomer/variant of: 
+thyroxine,,pharmaceutical,,Enantiomer/variant of: 
+ticagrelor,,pharmaceutical,,Enantiomer/variant of: 
+tolbutamide,,pharmaceutical,,Enantiomer/variant of: 
+tranylcypromine,,pharmaceutical,,Enantiomer/variant of: 
+tri-iodothyronine,,pharmaceutical,,Enantiomer/variant of: 
+triamterene,,pharmaceutical,,Enantiomer/variant of: 
+triiodothyronine,,pharmaceutical,,Enantiomer/variant of: 
+trimethoprim,,pharmaceutical,,Enantiomer/variant of: 
+trypsin,,pharmaceutical,,Enantiomer/variant of: 
+tryptophan,,pharmaceutical,,Enantiomer/variant of: 
+uPA,,pharmaceutical,,Enantiomer/variant of: 
+urethane,,pharmaceutical,,Enantiomer/variant of: 
+vancomycin,,pharmaceutical,,Enantiomer/variant of: 
+verapamil,,pharmaceutical,,Enantiomer/variant of: 
+vinblastine,,pharmaceutical,,Enantiomer/variant of: 
+vioxx,,pharmaceutical,,Enantiomer/variant of: 
+vitamin A,,pharmaceutical,,Enantiomer/variant of: 
+warfarin,,pharmaceutical,,Enantiomer/variant of: 
+yohimbine,,pharmaceutical,,Enantiomer/variant of: 
+zidovudine,,pharmaceutical,,Enantiomer/variant of: 
+zinc,,pharmaceutical,,Enantiomer/variant of: 
+zinc glycine chelate,,pharmaceutical,,Enantiomer/variant of: 
+zinc methionine,,pharmaceutical,,Enantiomer/variant of: 
+zinc sulfate,,pharmaceutical,,Enantiomer/variant of: 
+α-glucosidase,,pharmaceutical,,Enantiomer/variant of: 
+α-methyl-DL-tyrosine,,pharmaceutical,,Enantiomer/variant of: 
+α-naphthoflavone,,pharmaceutical,,Enantiomer/variant of: 
+α-tocopherol,,pharmaceutical,,Enantiomer/variant of: 
+β-naphthoflavone,,pharmaceutical,,Enantiomer/variant of: 

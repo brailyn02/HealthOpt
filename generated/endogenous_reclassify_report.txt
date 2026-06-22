@@ -1,0 +1,53 @@
+=== Endogenous Metabolite Subset Reclassification ===
+
+Total entries changed: 36
+
+--- → Dietary Amine (5) ---
+  [725] Dopamine
+  [727] Serotonin
+  [849] Epinephrine
+  [1504] N-Acetyldopamine
+  [1507] 5-Hydroxydopamine
+
+--- → Food Bioactive (31) ---
+  [760] Nad+
+  [779] Atp
+  [925] Adp
+  [1084] Gdp
+  [1255] Amp
+  [1266] Fad
+  [1290] Utp
+  [1291] Nad
+  [1469] Dcmp
+  [1479] Udp
+  [1491] Ctp
+  [1529] Cyclic-Amp
+  [1579] Prostaglandin F2A
+  [1584] Fmn
+  [1645] Leukotriene D4
+  [1656] Nadp+
+  [1697] Lipoxin B4
+  [1701] Prostaglandin H2
+  [1704] Phosphoribosyl-Atp
+  [1720] Dgtp
+  [1741] 12(S)-Leukotriene B4
+  [1756] Dump
+  [1757] Dtmp
+  [1759] 5-Hete
+  [1777] Coenzyme A
+  [1815] Dttp
+  [1845] Cob(I)Alamin
+  [1866] 12(S)-Hpete
+  [1886] Adp-Ribose
+  [1887] 15-Kete
+  [1893] 15-Hete
+
+--- Final type distribution ---
+  Compound_Group                              67
+  Dietary Amine                                5
+  Dietary Amino Acid                          35
+  Dietary Lipid                                8
+  Dietary Nutrient                            73
+  Endogenous Metabolite                       65
+  Food Bioactive                            1471
+  Food_Source                                170

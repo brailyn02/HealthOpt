@@ -1,0 +1,70 @@
+============================================================
+FOOD CATEGORIZATION SUMMARY
+============================================================
+
+Input entries:  491
+After merge:    491
+Merges:         Zn merged into Zinc
+
+Category Distribution:
+  botanical                     : 434
+  elemental                     :   4
+  formulation                   :  11
+  multi-ingredient              :   2
+  unresolved_abbreviation       :  40
+
+Canonical Name Updates (15):
+  Ag                                       → Silver                         [elemental]
+  Ba                                       → Barium                         [elemental]
+  C-Pc                                     → C-Phycocyanin Complex          [formulation]
+  Co                                       → Cobalt                         [elemental]
+  Da-9801                                  → Proprietary Korean Herbal Formula [formulation]
+  Dengzhan Shengmai                        → Dengzhan Shengmai Formula      [formulation]
+  Enna Complex                             → ENNA Complex                   [formulation]
+  Ggt Mixture                              → Ginger-Green Tea Mixture       [formulation]
+  Hpe                                      → Harpagophytum Procumbens Extract [formulation]
+  Hre-1                                    → Hypericum Extract Formulation  [formulation]
+  ... and 5 more
+
+Element Expansions:
+  - Barium
+  - Cobalt
+  - Manganese
+  - Silver
+
+Unresolved Abbreviations (recommend manual review/exclusion):
+  - Ak                             (ID: 7)
+  - Bb                             (ID: 35)
+  - Bc                             (ID: 36)
+  - Bj                             (ID: 43)
+  - Bs                             (ID: 53)
+  - Ce                             (ID: 69)
+  - Cm                             (ID: 93)
+  - Cp                             (ID: 115)
+  - Cp1                            (ID: 116)
+  - Ct                             (ID: 121)
+  - Cv                             (ID: 126)
+  - Dp                             (ID: 147)
+  - Ff-D                           (ID: 158)
+  - Fo                             (ID: 162)
+  - Ga                             (ID: 170)
+  ... and 25 more
+
+Formulations (proprietary/study-specific):
+  - C-Phycocyanin Complex                              (ID: 57)
+  - Crataegi Standardized Extract                      (ID: 484)
+  - Dengzhan Shengmai Formula                          (ID: 141)
+  - ENNA Complex                                       (ID: 149)
+  - Ginger-Green Tea Mixture                           (ID: 178)
+  - Harpagophytum Procumbens Extract                   (ID: 205)
+  - Hypericum Extract Formulation                      (ID: 206)
+  - Lisosan G Complex                                  (ID: 229)
+  - Naoxintong Formula                                 (ID: 266)
+  - Proprietary Korean Herbal Formula                  (ID: 130)
+  ... and 1 more
+
+Multi-Ingredient Mixtures:
+  - Herbal Mixtures Of Liriope Platyphylla, Glycyrrhiza Uralensis, And Cinnamomum Cassia (ID: 199)
+  - Polyherbal Premix                                  (ID: 342)
+
+============================================================

@@ -1,0 +1,1383 @@
+
+Dish 01: Couscous
+------------------------------------------------------------------------------------------
+  ✓ DrugBank-named                          Phytic Acid                    → Levothyroxine
+  ~ node-only                               Phytic Acid                    → Ciprofloxacin
+  ✓ DrugBank-text                           Phytic Acid                    → Digoxin
+  ✓ DrugBank-text                           Ferulic Acid                   → Levothyroxine
+  ~ node-only                               Ferulic Acid                   → Ciprofloxacin
+  ✓ DrugBank-text                           Ferulic Acid                   → Digoxin
+
+Dish 02: Zfiti / Zviti
+------------------------------------------------------------------------------------------
+  ✓ DrugBank-named                          Allicin                        → Lisinopril/Warfarin
+  ~ node-only                               Allicin                        → Theophylline
+  ~ node-only                               Allicin                        → Phenytoin
+  ~ node-only                               Capsaicin                      → Lisinopril/Warfarin
+  ~ node-only                               Capsaicin                      → Theophylline
+  ~ node-only                               Capsaicin                      → Phenytoin
+  ~ node-only                               Piperine                       → Lisinopril/Warfarin
+  ~ node-only                               Piperine                       → Theophylline
+  ~ node-only                               Piperine                       → Phenytoin
+  ~ node-only                               Phytic Acid                    → Lisinopril/Warfarin
+  ~ node-only                               Phytic Acid                    → Theophylline
+  ~ node-only                               Phytic Acid                    → Phenytoin
+
+Dish 03: Chakhchoukha
+------------------------------------------------------------------------------------------
+  ✓ PubMed-NLP                              Amylopectin                    → Insulin/Metformin
+  ~ node-only                               Amylopectin                    → Warfarin
+  ? NOVEL — drug('ACE-I') not in DB         Amylopectin                    → ACE-I
+  ~ node-only                               Amylopectin                    → Theophylline
+  ✓ PubMed-NLP                              Amylopectin                    → Allopurinol
+  ~ node-only                               Lycopene                       → Insulin/Metformin
+  ~ node-only                               Lycopene                       → Warfarin
+  ? NOVEL — drug('ACE-I') not in DB         Lycopene                       → ACE-I
+  ~ node-only                               Lycopene                       → Theophylline
+  ~ node-only                               Lycopene                       → Allopurinol
+  ✓ PubMed-NLP                              K+                             → Insulin/Metformin
+  ~ node-only                               K+                             → Warfarin
+  ? NOVEL — drug('ACE-I') not in DB         K+                             → ACE-I
+  ~ node-only                               K+                             → Theophylline
+  ~ node-only                               K+                             → Allopurinol
+  ✓ PubMed-NLP                              Cinnamaldehyde                 → Insulin/Metformin
+  ~ node-only                               Cinnamaldehyde                 → Warfarin
+  ? NOVEL — drug('ACE-I') not in DB         Cinnamaldehyde                 → ACE-I
+  ~ node-only                               Cinnamaldehyde                 → Theophylline
+  ~ node-only                               Cinnamaldehyde                 → Allopurinol
+  ~ node-only                               Capsaicin                      → Insulin/Metformin
+  ~ node-only                               Capsaicin                      → Warfarin
+  ? NOVEL — drug('ACE-I') not in DB         Capsaicin                      → ACE-I
+  ~ node-only                               Capsaicin                      → Theophylline
+  ~ node-only                               Capsaicin                      → Allopurinol
+  ~ node-only                               Purines                        → Insulin/Metformin
+  ~ node-only                               Purines                        → Warfarin
+  ? NOVEL — drug('ACE-I') not in DB         Purines                        → ACE-I
+  ~ node-only                               Purines                        → Theophylline
+  ~ node-only                               Purines                        → Allopurinol
+
+Dish 04: Guedid / Kadid
+------------------------------------------------------------------------------------------
+  ? NOVEL — drug('MAOIs') not in DB         Tyramine                       → MAOIs
+  ~ node-only                               Tyramine                       → Lithium
+  ~ node-only                               Tyramine                       → Warfarin
+  ~ node-only                               Tyramine                       → Saquinavir
+  ? NOVEL — drug('MAOIs') not in DB         Na+                            → MAOIs
+  ✓ DrugBank-text                           Na+                            → Lithium
+  ~ node-only                               Na+                            → Warfarin
+  ~ node-only                               Na+                            → Saquinavir
+  ? NOVEL — drug('MAOIs') not in DB         Allicin                        → MAOIs
+  ~ node-only                               Allicin                        → Lithium
+  ✓ DrugBank-named                          Allicin                        → Warfarin
+  ~ node-only                               Allicin                        → Saquinavir
+  ? NOVEL — drug('MAOIs') not in DB         AGEs                           → MAOIs
+  ~ node-only                               AGEs                           → Lithium
+  ~ node-only                               AGEs                           → Warfarin
+  ~ node-only                               AGEs                           → Saquinavir
+
+Dish 05: Osban / Osbane
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('Triglycerides') not in DB  Triglycerides                  → Cyclosporine/Orlistat
+  ? NOVEL — food('Triglycerides') not in DB  Triglycerides                  → Benzodiazepines
+  ? NOVEL — food('Triglycerides') not in DB  Triglycerides                  → Warfarin
+  ? NOVEL — food('Triglycerides') not in DB  Triglycerides                  → Allopurinol
+  ~ node-only                               Apigenin                       → Cyclosporine/Orlistat
+  ~ node-only                               Apigenin                       → Benzodiazepines
+  ~ node-only                               Apigenin                       → Warfarin
+  ~ node-only                               Apigenin                       → Allopurinol
+  ✓ PubMed-NLP                              Allicin                        → Cyclosporine/Orlistat
+  ~ node-only                               Allicin                        → Benzodiazepines
+  ✓ DrugBank-named                          Allicin                        → Warfarin
+  ~ node-only                               Allicin                        → Allopurinol
+  ✓ PubMed-NLP                              Quercetin                      → Cyclosporine/Orlistat
+  ~ node-only                               Quercetin                      → Benzodiazepines
+  ✓ DrugBank-named                          Quercetin                      → Warfarin
+  ✓ PubMed-NLP                              Quercetin                      → Allopurinol
+  ~ node-only                               Purines                        → Cyclosporine/Orlistat
+  ~ node-only                               Purines                        → Benzodiazepines
+  ~ node-only                               Purines                        → Warfarin
+  ~ node-only                               Purines                        → Allopurinol
+  ~ node-only                               Piperine                       → Cyclosporine/Orlistat
+  ~ node-only                               Piperine                       → Benzodiazepines
+  ~ node-only                               Piperine                       → Warfarin
+  ~ node-only                               Piperine                       → Allopurinol
+
+Dish 06: Lahm Lhalou
+------------------------------------------------------------------------------------------
+  ~ node-only                               Coumarin                       → Warfarin
+  ✓ PubMed-NLP                              Coumarin                       → Insulin/Metformin
+  ~ node-only                               Coumarin                       → Statins
+  ~ node-only                               Cinnamaldehyde                 → Warfarin
+  ✓ PubMed-NLP                              Cinnamaldehyde                 → Insulin/Metformin
+  ~ node-only                               Cinnamaldehyde                 → Statins
+  ~ node-only                               Sucrose                        → Warfarin
+  ~ node-only                               Sucrose                        → Insulin/Metformin
+  ~ node-only                               Sucrose                        → Statins
+  ~ node-only                               Amygdalin                      → Warfarin
+  ~ node-only                               Amygdalin                      → Insulin/Metformin
+  ~ node-only                               Amygdalin                      → Statins
+  ~ node-only                               Butyric Acid                   → Warfarin
+  ✓ PubMed-NLP                              Butyric Acid                   → Insulin/Metformin
+  ✓ PubMed-NLP                              Butyric Acid                   → Statins
+
+Dish 07: Chorba Frik / Jari
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('PhyticAcid+Mg') not in DB  PhyticAcid+Mg                  → Cipro/Tetracyclines
+  ? NOVEL — food('PhyticAcid+Mg') not in DB  PhyticAcid+Mg                  → Theophylline/Duloxetine
+  ? NOVEL — food('PhyticAcid+Mg') not in DB  PhyticAcid+Mg                  → Digoxin/Metformin
+  ? NOVEL — food('PhyticAcid+Mg') not in DB  PhyticAcid+Mg                  → IronSuppl
+  ? NOVEL — food('SmokedPAH') not in DB     SmokedPAH                      → Cipro/Tetracyclines
+  ? NOVEL — food('SmokedPAH') not in DB     SmokedPAH                      → Theophylline/Duloxetine
+  ? NOVEL — food('SmokedPAH') not in DB     SmokedPAH                      → Digoxin/Metformin
+  ? NOVEL — food('SmokedPAH') not in DB     SmokedPAH                      → IronSuppl
+  ? NOVEL — food('SolFiber') not in DB      SolFiber                       → Cipro/Tetracyclines
+  ? NOVEL — food('SolFiber') not in DB      SolFiber                       → Theophylline/Duloxetine
+  ? NOVEL — food('SolFiber') not in DB      SolFiber                       → Digoxin/Metformin
+  ? NOVEL — food('SolFiber') not in DB      SolFiber                       → IronSuppl
+  ? NOVEL — food('RosmarinicAcid+Menth') not in DB  RosmarinicAcid+Menthol         → Cipro/Tetracyclines
+  ? NOVEL — food('RosmarinicAcid+Menth') not in DB  RosmarinicAcid+Menthol         → Theophylline/Duloxetine
+  ? NOVEL — food('RosmarinicAcid+Menth') not in DB  RosmarinicAcid+Menthol         → Digoxin/Metformin
+  ? NOVEL — food('RosmarinicAcid+Menth') not in DB  RosmarinicAcid+Menthol         → IronSuppl
+
+Dish 08: Atay
+------------------------------------------------------------------------------------------
+  ~ node-only                               Tannins                        → IronSuppl/Ca/Zn
+  ~ node-only                               Tannins                        → Cipro/Clozapine/Theophylline
+  ~ node-only                               Tannins                        → Benzodiazepines/BB
+  ✓ PubMed-NLP                              Tannins                        → Insulin/SGLT2
+  ~ node-only                               Caffeine                       → IronSuppl/Ca/Zn
+  ✓ DrugBank-named                          Caffeine                       → Cipro/Clozapine/Theophylline
+  ~ node-only                               Caffeine                       → Benzodiazepines/BB
+  ✓ PubMed-NLP                              Caffeine                       → Insulin/SGLT2
+  ~ node-only                               Saponins                       → IronSuppl/Ca/Zn
+  ~ node-only                               Saponins                       → Cipro/Clozapine/Theophylline
+  ~ node-only                               Saponins                       → Benzodiazepines/BB
+  ~ node-only                               Saponins                       → Insulin/SGLT2
+  ~ node-only                               Sucrose                        → IronSuppl/Ca/Zn
+  ~ node-only                               Sucrose                        → Cipro/Clozapine/Theophylline
+  ~ node-only                               Sucrose                        → Benzodiazepines/BB
+  ~ node-only                               Sucrose                        → Insulin/SGLT2
+
+Dish 09: Chakchouka
+------------------------------------------------------------------------------------------
+  ✓ DrugBank-named                          Quercetin                      → Warfarin/CYP2C9
+  ? NOVEL — drug('ACE-I') not in DB         Quercetin                      → ACE-I
+  ~ node-only                               Quercetin                      → Anticholinergics
+  ✓ DrugBank-named                          Allicin                        → Warfarin/CYP2C9
+  ? NOVEL — drug('ACE-I') not in DB         Allicin                        → ACE-I
+  ~ node-only                               Allicin                        → Anticholinergics
+  ~ node-only                               Capsaicin                      → Warfarin/CYP2C9
+  ? NOVEL — drug('ACE-I') not in DB         Capsaicin                      → ACE-I
+  ~ node-only                               Capsaicin                      → Anticholinergics
+  ~ node-only                               Lycopene                       → Warfarin/CYP2C9
+  ? NOVEL — drug('ACE-I') not in DB         Lycopene                       → ACE-I
+  ~ node-only                               Lycopene                       → Anticholinergics
+  ~ node-only                               Choline                        → Warfarin/CYP2C9
+  ? NOVEL — drug('ACE-I') not in DB         Choline                        → ACE-I
+  ~ node-only                               Choline                        → Anticholinergics
+
+Dish 10: Tajine Zeitoun
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('Oleuropein') not in DB    Oleuropein                     → Antihypertensives
+  ? NOVEL — food('Oleuropein') not in DB    Oleuropein                     → Warfarin
+  ? NOVEL — food('Oleuropein') not in DB; drug('ACE-I') not in DB  Oleuropein                     → ACE-I
+  ? NOVEL — food('Oleuropein') not in DB    Oleuropein                     → CYP3A4
+  ~ node-only                               Cinnamaldehyde                 → Antihypertensives
+  ~ node-only                               Cinnamaldehyde                 → Warfarin
+  ? NOVEL — drug('ACE-I') not in DB         Cinnamaldehyde                 → ACE-I
+  ~ node-only                               Cinnamaldehyde                 → CYP3A4
+  ~ node-only                               Allicin                        → Antihypertensives
+  ✓ DrugBank-named                          Allicin                        → Warfarin
+  ? NOVEL — drug('ACE-I') not in DB         Allicin                        → ACE-I
+  ~ node-only                               Allicin                        → CYP3A4
+  ~ node-only                               Curcumin                       → Antihypertensives
+  ~ node-only                               Curcumin                       → Warfarin
+  ? NOVEL — drug('ACE-I') not in DB         Curcumin                       → ACE-I
+  ~ node-only                               Curcumin                       → CYP3A4
+
+Dish 11: Rechta
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('Glucobrassicin') not in DB  Glucobrassicin                 → Levothyroxine
+  ? NOVEL — food('Glucobrassicin') not in DB  Glucobrassicin                 → Warfarin
+  ? NOVEL — food('Glucobrassicin') not in DB  Glucobrassicin                 → Insulin
+  ? NOVEL — food('Glucobrassicin') not in DB  Glucobrassicin                 → CYP2C9
+  ? NOVEL — food('Glucobrassicin') not in DB  Glucobrassicin                 → Tacrolimus
+  ~ node-only                               Cinnamaldehyde                 → Levothyroxine
+  ~ node-only                               Cinnamaldehyde                 → Warfarin
+  ~ node-only                               Cinnamaldehyde                 → Insulin
+  ~ node-only                               Cinnamaldehyde                 → CYP2C9
+  ~ node-only                               Cinnamaldehyde                 → Tacrolimus
+  ~ node-only                               Amylopectin                    → Levothyroxine
+  ~ node-only                               Amylopectin                    → Warfarin
+  ~ node-only                               Amylopectin                    → Insulin
+  ~ node-only                               Amylopectin                    → CYP2C9
+  ✓ PubMed-NLP                              Amylopectin                    → Tacrolimus
+  ~ node-only                               Quercetin                      → Levothyroxine
+  ✓ DrugBank-named                          Quercetin                      → Warfarin
+  ✓ PubMed-NLP                              Quercetin                      → Insulin
+  ~ node-only                               Quercetin                      → CYP2C9
+  ~ node-only                               Quercetin                      → Tacrolimus
+  ✓ PubMed-NLP                              Curcumin                       → Levothyroxine
+  ~ node-only                               Curcumin                       → Warfarin
+  ✓ PubMed-NLP                              Curcumin                       → Insulin
+  ~ node-only                               Curcumin                       → CYP2C9
+  ~ node-only                               Curcumin                       → Tacrolimus
+
+Dish 12: Dolma
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('Solanine') not in DB      Solanine                       → Neuromuscular Blockers
+  ? NOVEL — food('Solanine') not in DB      Solanine                       → Prednisone
+  ? NOVEL — food('Solanine') not in DB      Solanine                       → Digoxin
+  ? NOVEL — food('Solanine') not in DB      Solanine                       → Warfarin
+  ? NOVEL — food('Solanine') not in DB      Solanine                       → Benzodiazepines
+  ? NOVEL — food('Cucurbitacin') not in DB  Cucurbitacin                   → Neuromuscular Blockers
+  ? NOVEL — food('Cucurbitacin') not in DB  Cucurbitacin                   → Prednisone
+  ? NOVEL — food('Cucurbitacin') not in DB  Cucurbitacin                   → Digoxin
+  ? NOVEL — food('Cucurbitacin') not in DB  Cucurbitacin                   → Warfarin
+  ? NOVEL — food('Cucurbitacin') not in DB  Cucurbitacin                   → Benzodiazepines
+  ~ node-only                               Amylose                        → Neuromuscular Blockers
+  ~ node-only                               Amylose                        → Prednisone
+  ~ node-only                               Amylose                        → Digoxin
+  ~ node-only                               Amylose                        → Warfarin
+  ~ node-only                               Amylose                        → Benzodiazepines
+  ~ node-only                               Allicin                        → Neuromuscular Blockers
+  ~ node-only                               Allicin                        → Prednisone
+  ~ node-only                               Allicin                        → Digoxin
+  ✓ DrugBank-named                          Allicin                        → Warfarin
+  ~ node-only                               Allicin                        → Benzodiazepines
+  ~ node-only                               Apigenin                       → Neuromuscular Blockers
+  ~ node-only                               Apigenin                       → Prednisone
+  ~ node-only                               Apigenin                       → Digoxin
+  ~ node-only                               Apigenin                       → Warfarin
+  ~ node-only                               Apigenin                       → Benzodiazepines
+  ? NOVEL — food('Vit-K') not in DB         Vit-K                          → Neuromuscular Blockers
+  ? NOVEL — food('Vit-K') not in DB         Vit-K                          → Prednisone
+  ? NOVEL — food('Vit-K') not in DB         Vit-K                          → Digoxin
+  ? NOVEL — food('Vit-K') not in DB         Vit-K                          → Warfarin
+  ? NOVEL — food('Vit-K') not in DB         Vit-K                          → Benzodiazepines
+
+Dish 13: Trida (W: White Sauce
+------------------------------------------------------------------------------------------
+  ~ node-only                               W: Amylopectin                 → Insulin
+  ✓ PubMed-NLP                              W: Amylopectin                 → Statins/Cyclosporine
+  ~ node-only                               W: Amylopectin                 → Warfarin
+  ~ node-only                               W: Amylopectin                 → Anticholinergics
+  ~ node-only                               Butyric Acid                   → Insulin
+  ✓ PubMed-NLP                              Butyric Acid                   → Statins/Cyclosporine
+  ~ node-only                               Butyric Acid                   → Warfarin
+  ✓ PubMed-NLP                              Butyric Acid                   → Anticholinergics
+  ✓ PubMed-NLP                              Quercetin                      → Insulin
+  ✓ PubMed-NLP                              Quercetin                      → Statins/Cyclosporine
+  ✓ DrugBank-named                          Quercetin                      → Warfarin
+  ~ node-only                               Quercetin                      → Anticholinergics
+  ~ node-only                               Choline                        → Insulin
+  ~ node-only                               Choline                        → Statins/Cyclosporine
+  ~ node-only                               Choline                        → Warfarin
+  ~ node-only                               Choline                        → Anticholinergics
+
+Dish 14: Mesfouf
+------------------------------------------------------------------------------------------
+  ~ node-only                               Sucrose/Fructose               → Insulin
+  ✓ DrugBank-named                          Sucrose/Fructose               → Statins/Cyclosporine
+  ✓ DrugBank-named                          Sucrose/Fructose               → Warfarin
+  ~ node-only                               Amylopectin                    → Insulin
+  ✓ PubMed-NLP                              Amylopectin                    → Statins/Cyclosporine
+  ~ node-only                               Amylopectin                    → Warfarin
+  ~ node-only                               Butyric Acid                   → Insulin
+  ✓ PubMed-NLP                              Butyric Acid                   → Statins/Cyclosporine
+  ~ node-only                               Butyric Acid                   → Warfarin
+  ✓ PubMed-NLP                              Resveratrol                    → Insulin
+  ✓ DrugBank-named                          Resveratrol                    → Statins/Cyclosporine
+  ✓ DrugBank-named                          Resveratrol                    → Warfarin
+
+Dish 15: Tilitili / Tlitli
+------------------------------------------------------------------------------------------
+  ~ node-only                               Amylopectin                    → Insulin
+  ~ node-only                               Amylopectin                    → Warfarin
+  ~ node-only                               Amylopectin                    → Phenytoin
+  ~ node-only                               Amylopectin                    → Anticholinergics
+  ~ node-only                               Cinnamaldehyde                 → Insulin
+  ~ node-only                               Cinnamaldehyde                 → Warfarin
+  ~ node-only                               Cinnamaldehyde                 → Phenytoin
+  ~ node-only                               Cinnamaldehyde                 → Anticholinergics
+  ✓ PubMed-NLP                              Piperine                       → Insulin
+  ~ node-only                               Piperine                       → Warfarin
+  ~ node-only                               Piperine                       → Phenytoin
+  ~ node-only                               Piperine                       → Anticholinergics
+  ~ node-only                               Choline                        → Insulin
+  ~ node-only                               Choline                        → Warfarin
+  ~ node-only                               Choline                        → Phenytoin
+  ~ node-only                               Choline                        → Anticholinergics
+
+Dish 16: Berkoukes
+------------------------------------------------------------------------------------------
+  ~ node-only                               Amylose/Amylopectin            → Insulin
+  ~ node-only                               Amylose/Amylopectin            → Warfarin
+  ? NOVEL — drug('ACE-I') not in DB         Amylose/Amylopectin            → ACE-I
+  ✓ PubMed-NLP                              Amylose/Amylopectin            → Tacrolimus
+  ~ node-only                               Lycopene                       → Insulin
+  ~ node-only                               Lycopene                       → Warfarin
+  ? NOVEL — drug('ACE-I') not in DB         Lycopene                       → ACE-I
+  ~ node-only                               Lycopene                       → Tacrolimus
+  ~ node-only                               Capsaicin                      → Insulin
+  ~ node-only                               Capsaicin                      → Warfarin
+  ? NOVEL — drug('ACE-I') not in DB         Capsaicin                      → ACE-I
+  ~ node-only                               Capsaicin                      → Tacrolimus
+  ✓ PubMed-NLP                              Curcumin                       → Insulin
+  ~ node-only                               Curcumin                       → Warfarin
+  ? NOVEL — drug('ACE-I') not in DB         Curcumin                       → ACE-I
+  ~ node-only                               Curcumin                       → Tacrolimus
+
+Dish 17: Mthawem / Methoum
+------------------------------------------------------------------------------------------
+  ✓ DrugBank-named                          Allicin                        → Warfarin/Clopidogrel
+  ~ node-only                               Allicin                        → Allopurinol
+  ✓ PubMed-NLP                              Allicin                        → Statins/Cyclosporine
+  ~ node-only                               Cinnamaldehyde                 → Warfarin/Clopidogrel
+  ~ node-only                               Cinnamaldehyde                 → Allopurinol
+  ~ node-only                               Cinnamaldehyde                 → Statins/Cyclosporine
+  ~ node-only                               Purines                        → Warfarin/Clopidogrel
+  ~ node-only                               Purines                        → Allopurinol
+  ~ node-only                               Purines                        → Statins/Cyclosporine
+  ? NOVEL — food('Saturated Lipids') not in DB  Saturated Lipids               → Warfarin/Clopidogrel
+  ? NOVEL — food('Saturated Lipids') not in DB  Saturated Lipids               → Allopurinol
+  ? NOVEL — food('Saturated Lipids') not in DB  Saturated Lipids               → Statins/Cyclosporine
+
+Dish 18: Bouzlouf/Chtitha
+------------------------------------------------------------------------------------------
+  ✓ DrugBank-named                          S: Allicin                     → Warfarin/CYP2C9
+  ~ node-only                               S: Allicin                     → Allopurinol/Febuxostat
+  ? NOVEL — drug('ACE-I') not in DB         S: Allicin                     → ACE-I
+  ~ node-only                               S: Allicin                     → CYP2C19
+  ~ node-only                               Purines                        → Warfarin/CYP2C9
+  ~ node-only                               Purines                        → Allopurinol/Febuxostat
+  ? NOVEL — drug('ACE-I') not in DB         Purines                        → ACE-I
+  ~ node-only                               Purines                        → CYP2C19
+  ~ node-only                               Capsaicin                      → Warfarin/CYP2C9
+  ~ node-only                               Capsaicin                      → Allopurinol/Febuxostat
+  ? NOVEL — drug('ACE-I') not in DB         Capsaicin                      → ACE-I
+  ~ node-only                               Capsaicin                      → CYP2C19
+  ~ node-only                               Cuminaldehyde                  → Warfarin/CYP2C9
+  ~ node-only                               Cuminaldehyde                  → Allopurinol/Febuxostat
+  ? NOVEL — drug('ACE-I') not in DB         Cuminaldehyde                  → ACE-I
+  ~ node-only                               Cuminaldehyde                  → CYP2C19
+
+Dish 19: Doubara (Biskria)
+------------------------------------------------------------------------------------------
+  ~ node-only                               Phytic Acid                    → Ciprofloxacin/Fe
+  ~ node-only                               Phytic Acid                    → Allopurinol
+  ~ node-only                               Phytic Acid                    → CYP2C9
+  ? NOVEL — drug('ACE-I') not in DB         Phytic Acid                    → ACE-I
+  ~ node-only                               Purines                        → Ciprofloxacin/Fe
+  ~ node-only                               Purines                        → Allopurinol
+  ~ node-only                               Purines                        → CYP2C9
+  ? NOVEL — drug('ACE-I') not in DB         Purines                        → ACE-I
+  ~ node-only                               Cuminaldehyde                  → Ciprofloxacin/Fe
+  ~ node-only                               Cuminaldehyde                  → Allopurinol
+  ~ node-only                               Cuminaldehyde                  → CYP2C9
+  ? NOVEL — drug('ACE-I') not in DB         Cuminaldehyde                  → ACE-I
+  ~ node-only                               Capsaicin                      → Ciprofloxacin/Fe
+  ~ node-only                               Capsaicin                      → Allopurinol
+  ~ node-only                               Capsaicin                      → CYP2C9
+  ? NOVEL — drug('ACE-I') not in DB         Capsaicin                      → ACE-I
+  ~ node-only                               Allicin                        → Ciprofloxacin/Fe
+  ~ node-only                               Allicin                        → Allopurinol
+  ~ node-only                               Allicin                        → CYP2C9
+  ? NOVEL — drug('ACE-I') not in DB         Allicin                        → ACE-I
+
+Dish 21: Garantita/Karentica
+------------------------------------------------------------------------------------------
+  ✓ DrugBank-named                          Phytic Acid                    → Ciprofloxacin/Levothyroxine
+  ~ node-only                               Phytic Acid                    → CYP2C9
+  ~ node-only                               Phytic Acid                    → Allopurinol
+  ? NOVEL — drug('ACE-I') not in DB         Phytic Acid                    → ACE-I
+  ~ node-only                               Phytic Acid                    → Levodopa
+  ✓ PubMed-NLP                              Cuminaldehyde                  → Ciprofloxacin/Levothyroxine
+  ~ node-only                               Cuminaldehyde                  → CYP2C9
+  ~ node-only                               Cuminaldehyde                  → Allopurinol
+  ? NOVEL — drug('ACE-I') not in DB         Cuminaldehyde                  → ACE-I
+  ~ node-only                               Cuminaldehyde                  → Levodopa
+  ~ node-only                               Purines                        → Ciprofloxacin/Levothyroxine
+  ~ node-only                               Purines                        → CYP2C9
+  ~ node-only                               Purines                        → Allopurinol
+  ? NOVEL — drug('ACE-I') not in DB         Purines                        → ACE-I
+  ~ node-only                               Purines                        → Levodopa
+  ~ node-only                               Capsaicin                      → Ciprofloxacin/Levothyroxine
+  ~ node-only                               Capsaicin                      → CYP2C9
+  ~ node-only                               Capsaicin                      → Allopurinol
+  ? NOVEL — drug('ACE-I') not in DB         Capsaicin                      → ACE-I
+  ~ node-only                               Capsaicin                      → Levodopa
+  ✓ DrugBank-named                          Non-Heme Fe                    → Ciprofloxacin/Levothyroxine
+  ~ node-only                               Non-Heme Fe                    → CYP2C9
+  ~ node-only                               Non-Heme Fe                    → Allopurinol
+  ? NOVEL — drug('ACE-I') not in DB         Non-Heme Fe                    → ACE-I
+  ✓ DrugBank-named                          Non-Heme Fe                    → Levodopa
+  ? NOVEL — food('Plant Protein') not in DB  Plant Protein                  → Ciprofloxacin/Levothyroxine
+  ? NOVEL — food('Plant Protein') not in DB  Plant Protein                  → CYP2C9
+  ? NOVEL — food('Plant Protein') not in DB  Plant Protein                  → Allopurinol
+  ? NOVEL — food('Plant Protein') not in DB; drug('ACE-I') not in DB  Plant Protein                  → ACE-I
+  ? NOVEL — food('Plant Protein') not in DB  Plant Protein                  → Levodopa
+
+Dish 22: Merguez
+------------------------------------------------------------------------------------------
+  ✓ DrugBank-named                          Heme Iron                      → Levothyroxine/Bisphosphonates
+  ~ node-only                               Heme Iron                      → Statins/Cyclosporine/Amiodarone
+  ~ node-only                               Heme Iron                      → CYP1A2
+  ~ node-only                               Heme Iron                      → CYP2C9/Warfarin
+  ✓ PubMed-NLP                              Sat.Fats                       → Levothyroxine/Bisphosphonates
+  ✓ PubMed-NLP                              Sat.Fats                       → Statins/Cyclosporine/Amiodarone
+  ~ node-only                               Sat.Fats                       → CYP1A2
+  ~ node-only                               Sat.Fats                       → CYP2C9/Warfarin
+  ~ node-only                               Capsaicin                      → Levothyroxine/Bisphosphonates
+  ~ node-only                               Capsaicin                      → Statins/Cyclosporine/Amiodarone
+  ~ node-only                               Capsaicin                      → CYP1A2
+  ~ node-only                               Capsaicin                      → CYP2C9/Warfarin
+  ✓ PubMed-NLP                              Cuminaldehyde                  → Levothyroxine/Bisphosphonates
+  ~ node-only                               Cuminaldehyde                  → Statins/Cyclosporine/Amiodarone
+  ~ node-only                               Cuminaldehyde                  → CYP1A2
+  ~ node-only                               Cuminaldehyde                  → CYP2C9/Warfarin
+
+Dish 24: Mederbel
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('Nasunin') not in DB       Nasunin                        → IronSuppl
+  ? NOVEL — food('Nasunin') not in DB       Nasunin                        → Statins/Amiodarone/VitD
+  ? NOVEL — food('Nasunin') not in DB       Nasunin                        → Warfarin/Saquinavir
+  ? NOVEL — food('Nasunin') not in DB       Nasunin                        → Allopurinol
+  ? NOVEL — food('Nasunin') not in DB       Nasunin                        → Digoxin/K⁺
+  ? NOVEL — food('LipidSponge') not in DB   LipidSponge                    → IronSuppl
+  ? NOVEL — food('LipidSponge') not in DB   LipidSponge                    → Statins/Amiodarone/VitD
+  ? NOVEL — food('LipidSponge') not in DB   LipidSponge                    → Warfarin/Saquinavir
+  ? NOVEL — food('LipidSponge') not in DB   LipidSponge                    → Allopurinol
+  ? NOVEL — food('LipidSponge') not in DB   LipidSponge                    → Digoxin/K⁺
+  ~ node-only                               Allicin                        → IronSuppl
+  ~ node-only                               Allicin                        → Statins/Amiodarone/VitD
+  ✓ DrugBank-named                          Allicin                        → Warfarin/Saquinavir
+  ~ node-only                               Allicin                        → Allopurinol
+  ~ node-only                               Allicin                        → Digoxin/K⁺
+  ~ node-only                               Purines                        → IronSuppl
+  ~ node-only                               Purines                        → Statins/Amiodarone/VitD
+  ~ node-only                               Purines                        → Warfarin/Saquinavir
+  ~ node-only                               Purines                        → Allopurinol
+  ~ node-only                               Purines                        → Digoxin/K⁺
+  ? NOVEL — food('AceticAcid') not in DB    AceticAcid                     → IronSuppl
+  ? NOVEL — food('AceticAcid') not in DB    AceticAcid                     → Statins/Amiodarone/VitD
+  ? NOVEL — food('AceticAcid') not in DB    AceticAcid                     → Warfarin/Saquinavir
+  ? NOVEL — food('AceticAcid') not in DB    AceticAcid                     → Allopurinol
+  ? NOVEL — food('AceticAcid') not in DB    AceticAcid                     → Digoxin/K⁺
+
+Dish 25: Harira
+------------------------------------------------------------------------------------------
+  ~ node-only                               Beta-Glucan                    → OralMeds/DelayedAbsorp
+  ~ node-only                               Beta-Glucan                    → Diuretics/ACE-I
+  ~ node-only                               Beta-Glucan                    → Codeine/Tramadol
+  ~ node-only                               Beta-Glucan                    → Allopurinol/GoutFlare
+  ~ node-only                               Apigenin+Phthalide             → OralMeds/DelayedAbsorp
+  ~ node-only                               Apigenin+Phthalide             → Diuretics/ACE-I
+  ~ node-only                               Apigenin+Phthalide             → Codeine/Tramadol
+  ~ node-only                               Apigenin+Phthalide             → Allopurinol/GoutFlare
+  ~ node-only                               Carvone                        → OralMeds/DelayedAbsorp
+  ~ node-only                               Carvone                        → Diuretics/ACE-I
+  ~ node-only                               Carvone                        → Codeine/Tramadol
+  ✓ PubMed-NLP                              Carvone                        → Allopurinol/GoutFlare
+  ✓ PubMed-NLP                              Purines                        → OralMeds/DelayedAbsorp
+  ~ node-only                               Purines                        → Diuretics/ACE-I
+  ~ node-only                               Purines                        → Codeine/Tramadol
+  ~ node-only                               Purines                        → Allopurinol/GoutFlare
+
+Dish 26: Adas
+------------------------------------------------------------------------------------------
+  ✓ DrugBank-named                          PhyticAcid+NonHemeIron         → Levothyroxine/Cipro
+  ~ node-only                               PhyticAcid+NonHemeIron         → Warfarin
+  ✓ DrugBank-text                           PhyticAcid+NonHemeIron         → ACE-I/Spiro
+  ~ node-only                               PhyticAcid+NonHemeIron         → CYP2C9/Glipizide
+  ~ node-only                               Allicin                        → Levothyroxine/Cipro
+  ✓ DrugBank-named                          Allicin                        → Warfarin
+  ~ node-only                               Allicin                        → ACE-I/Spiro
+  ~ node-only                               Allicin                        → CYP2C9/Glipizide
+  ~ node-only                               K+                             → Levothyroxine/Cipro
+  ~ node-only                               K+                             → Warfarin
+  ✓ DrugBank-named                          K+                             → ACE-I/Spiro
+  ~ node-only                               K+                             → CYP2C9/Glipizide
+  ✓ PubMed-NLP                              Cuminaldehyde                  → Levothyroxine/Cipro
+  ~ node-only                               Cuminaldehyde                  → Warfarin
+  ~ node-only                               Cuminaldehyde                  → ACE-I/Spiro
+  ~ node-only                               Cuminaldehyde                  → CYP2C9/Glipizide
+
+Dish 27: Chorba Bidha
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('CitricAcid') not in DB    CitricAcid                     → Al-Antacids
+  ? NOVEL — food('CitricAcid') not in DB    CitricAcid                     → Insulin/Metformin
+  ? NOVEL — food('CitricAcid') not in DB    CitricAcid                     → Cipro/IronSuppl
+  ? NOVEL — food('CitricAcid') not in DB    CitricAcid                     → Cyclosporine/Isotretinoin
+  ? NOVEL — food('CitricAcid') not in DB    CitricAcid                     → Allopurinol
+  ~ node-only                               Cinnamaldehyde                 → Al-Antacids
+  ✓ PubMed-NLP                              Cinnamaldehyde                 → Insulin/Metformin
+  ~ node-only                               Cinnamaldehyde                 → Cipro/IronSuppl
+  ~ node-only                               Cinnamaldehyde                 → Cyclosporine/Isotretinoin
+  ~ node-only                               Cinnamaldehyde                 → Allopurinol
+  ? NOVEL — food('PhyticAcid') not in DB    PhyticAcid                     → Al-Antacids
+  ? NOVEL — food('PhyticAcid') not in DB    PhyticAcid                     → Insulin/Metformin
+  ? NOVEL — food('PhyticAcid') not in DB    PhyticAcid                     → Cipro/IronSuppl
+  ? NOVEL — food('PhyticAcid') not in DB    PhyticAcid                     → Cyclosporine/Isotretinoin
+  ? NOVEL — food('PhyticAcid') not in DB    PhyticAcid                     → Allopurinol
+  ~ node-only                               Lecithin+Chol                  → Al-Antacids
+  ✓ PubMed-NLP                              Lecithin+Chol                  → Insulin/Metformin
+  ~ node-only                               Lecithin+Chol                  → Cipro/IronSuppl
+  ✓ PubMed-NLP                              Lecithin+Chol                  → Cyclosporine/Isotretinoin
+  ✓ PubMed-NLP                              Lecithin+Chol                  → Allopurinol
+  ✓ PubMed-NLP                              Purines                        → Al-Antacids
+  ~ node-only                               Purines                        → Insulin/Metformin
+  ~ node-only                               Purines                        → Cipro/IronSuppl
+  ~ node-only                               Purines                        → Cyclosporine/Isotretinoin
+  ~ node-only                               Purines                        → Allopurinol
+
+Dish 28: Bourak Jazairi
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → Statins/ARVs/Cyclosporine
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → Insulin/Metformin
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → Allopurinol
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → Levodopa
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → Levothyroxine/Warfarin
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → Cipro/Tetracycline
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → CYP2E1
+  ✓ PubMed-NLP                              Amylopectin                    → Statins/ARVs/Cyclosporine
+  ✓ PubMed-NLP                              Amylopectin                    → Insulin/Metformin
+  ✓ PubMed-NLP                              Amylopectin                    → Allopurinol
+  ~ node-only                               Amylopectin                    → Levodopa
+  ~ node-only                               Amylopectin                    → Levothyroxine/Warfarin
+  ~ node-only                               Amylopectin                    → Cipro/Tetracycline
+  ~ node-only                               Amylopectin                    → CYP2E1
+  ~ node-only                               Purines                        → Statins/ARVs/Cyclosporine
+  ~ node-only                               Purines                        → Insulin/Metformin
+  ~ node-only                               Purines                        → Allopurinol
+  ~ node-only                               Purines                        → Levodopa
+  ~ node-only                               Purines                        → Levothyroxine/Warfarin
+  ~ node-only                               Purines                        → Cipro/Tetracycline
+  ~ node-only                               Purines                        → CYP2E1
+  ? NOVEL — food('LNAA') not in DB          LNAA                           → Statins/ARVs/Cyclosporine
+  ? NOVEL — food('LNAA') not in DB          LNAA                           → Insulin/Metformin
+  ? NOVEL — food('LNAA') not in DB          LNAA                           → Allopurinol
+  ? NOVEL — food('LNAA') not in DB          LNAA                           → Levodopa
+  ? NOVEL — food('LNAA') not in DB          LNAA                           → Levothyroxine/Warfarin
+  ? NOVEL — food('LNAA') not in DB          LNAA                           → Cipro/Tetracycline
+  ? NOVEL — food('LNAA') not in DB          LNAA                           → CYP2E1
+  ? NOVEL — food('Iodine+Omega3') not in DB  Iodine+Omega3                  → Statins/ARVs/Cyclosporine
+  ? NOVEL — food('Iodine+Omega3') not in DB  Iodine+Omega3                  → Insulin/Metformin
+  ? NOVEL — food('Iodine+Omega3') not in DB  Iodine+Omega3                  → Allopurinol
+  ? NOVEL — food('Iodine+Omega3') not in DB  Iodine+Omega3                  → Levodopa
+  ? NOVEL — food('Iodine+Omega3') not in DB  Iodine+Omega3                  → Levothyroxine/Warfarin
+  ? NOVEL — food('Iodine+Omega3') not in DB  Iodine+Omega3                  → Cipro/Tetracycline
+  ? NOVEL — food('Iodine+Omega3') not in DB  Iodine+Omega3                  → CYP2E1
+  ? NOVEL — food('Ca2+') not in DB          Ca2+                           → Statins/ARVs/Cyclosporine
+  ? NOVEL — food('Ca2+') not in DB          Ca2+                           → Insulin/Metformin
+  ? NOVEL — food('Ca2+') not in DB          Ca2+                           → Allopurinol
+  ? NOVEL — food('Ca2+') not in DB          Ca2+                           → Levodopa
+  ? NOVEL — food('Ca2+') not in DB          Ca2+                           → Levothyroxine/Warfarin
+  ? NOVEL — food('Ca2+') not in DB          Ca2+                           → Cipro/Tetracycline
+  ? NOVEL — food('Ca2+') not in DB          Ca2+                           → CYP2E1
+  ~ node-only                               Acrylamide                     → Statins/ARVs/Cyclosporine
+  ✓ PubMed-NLP                              Acrylamide                     → Insulin/Metformin
+  ~ node-only                               Acrylamide                     → Allopurinol
+  ~ node-only                               Acrylamide                     → Levodopa
+  ✓ PubMed-NLP                              Acrylamide                     → Levothyroxine/Warfarin
+  ~ node-only                               Acrylamide                     → Cipro/Tetracycline
+  ~ node-only                               Acrylamide                     → CYP2E1
+
+Dish 32: Zlabia
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('Honey250g') not in DB     Honey250g                      → Insulin/Metformin
+  ? NOVEL — food('Honey250g') not in DB     Honey250g                      → SGLT2+Diuretics
+  ? NOVEL — food('Honey250g') not in DB     Honey250g                      → Statins/Isotretinoin
+  ? NOVEL — food('Honey250g') not in DB     Honey250g                      → Cyclosporine
+  ? NOVEL — food('GelatinisedStarch') not in DB  GelatinisedStarch              → Insulin/Metformin
+  ? NOVEL — food('GelatinisedStarch') not in DB  GelatinisedStarch              → SGLT2+Diuretics
+  ? NOVEL — food('GelatinisedStarch') not in DB  GelatinisedStarch              → Statins/Isotretinoin
+  ? NOVEL — food('GelatinisedStarch') not in DB  GelatinisedStarch              → Cyclosporine
+  ✓ PubMed-NLP                              DeepFryLipid+Lecithin          → Insulin/Metformin
+  ~ node-only                               DeepFryLipid+Lecithin          → SGLT2+Diuretics
+  ✓ PubMed-NLP                              DeepFryLipid+Lecithin          → Statins/Isotretinoin
+  ~ node-only                               DeepFryLipid+Lecithin          → Cyclosporine
+  ~ node-only                               Limonene                       → Insulin/Metformin
+  ~ node-only                               Limonene                       → SGLT2+Diuretics
+  ~ node-only                               Limonene                       → Statins/Isotretinoin
+  ✓ PubMed-NLP                              Limonene                       → Cyclosporine
+
+Dish 33: Baklawa
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('GelatinisedStarch+La') not in DB  GelatinisedStarch+LaminatedGluten → Insulin/Metformin
+  ? NOVEL — food('GelatinisedStarch+La') not in DB  GelatinisedStarch+LaminatedGluten → Statins/Cyclosporine/Amiodarone
+  ? NOVEL — food('GelatinisedStarch+La') not in DB  GelatinisedStarch+LaminatedGluten → Sildenafil/Nitrates
+  ? NOVEL — food('GelatinisedStarch+La') not in DB  GelatinisedStarch+LaminatedGluten → Aspirin/Clopidogrel
+  ? NOVEL — food('GelatinisedStarch+La') not in DB  GelatinisedStarch+LaminatedGluten → Lithium/Digoxin
+  ? NOVEL — food('GelatinisedStarch+La') not in DB  GelatinisedStarch+LaminatedGluten → SGLT2
+  ? NOVEL — food('GelatinisedStarch+La') not in DB  GelatinisedStarch+LaminatedGluten → Benzodiazepines
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → Insulin/Metformin
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → Statins/Cyclosporine/Amiodarone
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → Sildenafil/Nitrates
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → Aspirin/Clopidogrel
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → Lithium/Digoxin
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → SGLT2
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → Benzodiazepines
+  ✓ PubMed-NLP                              LArginine+Omega3+Amygdalin     → Insulin/Metformin
+  ✓ PubMed-NLP                              LArginine+Omega3+Amygdalin     → Statins/Cyclosporine/Amiodarone
+  ✓ PubMed-NLP                              LArginine+Omega3+Amygdalin     → Sildenafil/Nitrates
+  ~ node-only                               LArginine+Omega3+Amygdalin     → Aspirin/Clopidogrel
+  ✓ PubMed-NLP                              LArginine+Omega3+Amygdalin     → Lithium/Digoxin
+  ✓ PubMed-NLP                              LArginine+Omega3+Amygdalin     → SGLT2
+  ~ node-only                               LArginine+Omega3+Amygdalin     → Benzodiazepines
+  ? NOVEL — food('Honey1.5kg') not in DB    Honey1.5kg                     → Insulin/Metformin
+  ? NOVEL — food('Honey1.5kg') not in DB    Honey1.5kg                     → Statins/Cyclosporine/Amiodarone
+  ? NOVEL — food('Honey1.5kg') not in DB    Honey1.5kg                     → Sildenafil/Nitrates
+  ? NOVEL — food('Honey1.5kg') not in DB    Honey1.5kg                     → Aspirin/Clopidogrel
+  ? NOVEL — food('Honey1.5kg') not in DB    Honey1.5kg                     → Lithium/Digoxin
+  ? NOVEL — food('Honey1.5kg') not in DB    Honey1.5kg                     → SGLT2
+  ? NOVEL — food('Honey1.5kg') not in DB    Honey1.5kg                     → Benzodiazepines
+  ✓ PubMed-NLP                              Linalool+Geraniol              → Insulin/Metformin
+  ~ node-only                               Linalool+Geraniol              → Statins/Cyclosporine/Amiodarone
+  ~ node-only                               Linalool+Geraniol              → Sildenafil/Nitrates
+  ~ node-only                               Linalool+Geraniol              → Aspirin/Clopidogrel
+  ~ node-only                               Linalool+Geraniol              → Lithium/Digoxin
+  ~ node-only                               Linalool+Geraniol              → SGLT2
+  ~ node-only                               Linalool+Geraniol              → Benzodiazepines
+
+Dish 34: Makroud el-Koucha
+------------------------------------------------------------------------------------------
+  ✓ PubMed-NLP                              Amylopectin                    → Metformin/Insulin
+  ~ node-only                               Amylopectin                    → Statins/FatSolVitamins
+  ✓ PubMed-NLP                              Amylopectin                    → ACE-I/K-SpDiuretics+CaChBlockers
+  ~ node-only                               Amylopectin                    → Warfarin
+  ~ node-only                               Amylopectin                    → Benzodiazepines
+  ? NOVEL — food('SCFAs+Butter') not in DB  SCFAs+Butter                   → Metformin/Insulin
+  ? NOVEL — food('SCFAs+Butter') not in DB  SCFAs+Butter                   → Statins/FatSolVitamins
+  ? NOVEL — food('SCFAs+Butter') not in DB  SCFAs+Butter                   → ACE-I/K-SpDiuretics+CaChBlockers
+  ? NOVEL — food('SCFAs+Butter') not in DB  SCFAs+Butter                   → Warfarin
+  ? NOVEL — food('SCFAs+Butter') not in DB  SCFAs+Butter                   → Benzodiazepines
+  ✓ PubMed-NLP                              K++Mg2+                        → Metformin/Insulin
+  ~ node-only                               K++Mg2+                        → Statins/FatSolVitamins
+  ~ node-only                               K++Mg2+                        → ACE-I/K-SpDiuretics+CaChBlockers
+  ~ node-only                               K++Mg2+                        → Warfarin
+  ~ node-only                               K++Mg2+                        → Benzodiazepines
+  ✓ PubMed-NLP                              Cinnamaldehyde+Eugenol         → Metformin/Insulin
+  ~ node-only                               Cinnamaldehyde+Eugenol         → Statins/FatSolVitamins
+  ~ node-only                               Cinnamaldehyde+Eugenol         → ACE-I/K-SpDiuretics+CaChBlockers
+  ~ node-only                               Cinnamaldehyde+Eugenol         → Warfarin
+  ~ node-only                               Cinnamaldehyde+Eugenol         → Benzodiazepines
+  ✓ PubMed-NLP                              Linalool                       → Metformin/Insulin
+  ~ node-only                               Linalool                       → Statins/FatSolVitamins
+  ~ node-only                               Linalool                       → ACE-I/K-SpDiuretics+CaChBlockers
+  ~ node-only                               Linalool                       → Warfarin
+  ~ node-only                               Linalool                       → Benzodiazepines
+
+Dish 35: Tcharak (A=Aryan/B=Meskar)
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('Shortcrust-FriableMa') not in DB  Shortcrust-FriableMatrix       → Metformin/Insulin
+  ? NOVEL — food('Shortcrust-FriableMa') not in DB  Shortcrust-FriableMatrix       → Statins/Cyclosporine/VitD
+  ? NOVEL — food('Shortcrust-FriableMa') not in DB  Shortcrust-FriableMatrix       → ACE-I/Sildenafil/Nitrates
+  ? NOVEL — food('Shortcrust-FriableMa') not in DB  Shortcrust-FriableMatrix       → Benzodiazepines
+  ? NOVEL — food('Shortcrust-FriableMa') not in DB  Shortcrust-FriableMatrix       → CYP3A4
+  ? NOVEL — food('Smen-Kila') not in DB     Smen-Kila                      → Metformin/Insulin
+  ? NOVEL — food('Smen-Kila') not in DB     Smen-Kila                      → Statins/Cyclosporine/VitD
+  ? NOVEL — food('Smen-Kila') not in DB     Smen-Kila                      → ACE-I/Sildenafil/Nitrates
+  ? NOVEL — food('Smen-Kila') not in DB     Smen-Kila                      → Benzodiazepines
+  ? NOVEL — food('Smen-Kila') not in DB     Smen-Kila                      → CYP3A4
+  ✓ PubMed-NLP                              LArginine+Mg2+                 → Metformin/Insulin
+  ✓ PubMed-NLP                              LArginine+Mg2+                 → Statins/Cyclosporine/VitD
+  ✓ PubMed-NLP                              LArginine+Mg2+                 → ACE-I/Sildenafil/Nitrates
+  ~ node-only                               LArginine+Mg2+                 → Benzodiazepines
+  ~ node-only                               LArginine+Mg2+                 → CYP3A4
+  ? NOVEL — food('Albumin+Protein') not in DB  Albumin+Protein                → Metformin/Insulin
+  ? NOVEL — food('Albumin+Protein') not in DB  Albumin+Protein                → Statins/Cyclosporine/VitD
+  ? NOVEL — food('Albumin+Protein') not in DB  Albumin+Protein                → ACE-I/Sildenafil/Nitrates
+  ? NOVEL — food('Albumin+Protein') not in DB  Albumin+Protein                → Benzodiazepines
+  ? NOVEL — food('Albumin+Protein') not in DB  Albumin+Protein                → CYP3A4
+  ✓ PubMed-NLP                              Limonene+Linalool              → Metformin/Insulin
+  ✓ PubMed-NLP                              Limonene+Linalool              → Statins/Cyclosporine/VitD
+  ~ node-only                               Limonene+Linalool              → ACE-I/Sildenafil/Nitrates
+  ~ node-only                               Limonene+Linalool              → Benzodiazepines
+  ~ node-only                               Limonene+Linalool              → CYP3A4
+
+Dish 37: Tamina
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('Pyrodextrins') not in DB  Pyrodextrins                   → Metformin/Insulin/SGLT2
+  ? NOVEL — food('Pyrodextrins') not in DB  Pyrodextrins                   → Statins/Cyclosporine/Isotretinoin
+  ? NOVEL — food('Pyrodextrins') not in DB  Pyrodextrins                   → Orlistat
+  ? NOVEL — food('Pyrodextrins') not in DB  Pyrodextrins                   → Codeine/Tamoxifen/Metoprolol
+  ? NOVEL — food('Pyrodextrins') not in DB; drug('HRT') not in DB  Pyrodextrins                   → HRT
+  ? NOVEL — food('Pyrodextrins') not in DB; drug('AcidLabileDrugs') not in DB  Pyrodextrins                   → AcidLabileDrugs
+  ? NOVEL — food('ButterEmulsion250g') not in DB  ButterEmulsion250g             → Metformin/Insulin/SGLT2
+  ? NOVEL — food('ButterEmulsion250g') not in DB  ButterEmulsion250g             → Statins/Cyclosporine/Isotretinoin
+  ? NOVEL — food('ButterEmulsion250g') not in DB  ButterEmulsion250g             → Orlistat
+  ? NOVEL — food('ButterEmulsion250g') not in DB  ButterEmulsion250g             → Codeine/Tamoxifen/Metoprolol
+  ? NOVEL — food('ButterEmulsion250g') not in DB; drug('HRT') not in DB  ButterEmulsion250g             → HRT
+  ? NOVEL — food('ButterEmulsion250g') not in DB; drug('AcidLabileDrugs') not in DB  ButterEmulsion250g             → AcidLabileDrugs
+  ✓ PubMed-NLP                              Sesamin+Sesamolin              → Metformin/Insulin/SGLT2
+  ✓ PubMed-NLP                              Sesamin+Sesamolin              → Statins/Cyclosporine/Isotretinoin
+  ✓ PubMed-NLP                              Sesamin+Sesamolin              → Orlistat
+  ✓ PubMed-NLP                              Sesamin+Sesamolin              → Codeine/Tamoxifen/Metoprolol
+  ? NOVEL — drug('HRT') not in DB           Sesamin+Sesamolin              → HRT
+  ? NOVEL — drug('AcidLabileDrugs') not in DB  Sesamin+Sesamolin              → AcidLabileDrugs
+  ~ node-only                               Sucrose-IcingSugar             → Metformin/Insulin/SGLT2
+  ~ node-only                               Sucrose-IcingSugar             → Statins/Cyclosporine/Isotretinoin
+  ~ node-only                               Sucrose-IcingSugar             → Orlistat
+  ~ node-only                               Sucrose-IcingSugar             → Codeine/Tamoxifen/Metoprolol
+  ? NOVEL — drug('HRT') not in DB           Sucrose-IcingSugar             → HRT
+  ? NOVEL — drug('AcidLabileDrugs') not in DB  Sucrose-IcingSugar             → AcidLabileDrugs
+
+Dish 38: Douwara / Bakbouka
+------------------------------------------------------------------------------------------
+  ~ node-only                               Purines                        → Allopurinol/Febuxostat
+  ~ node-only                               Purines                        → Warfarin/Aspirin
+  ~ node-only                               Purines                        → ACE-I/Spiro
+  ~ node-only                               Purines                        → Cipro/IronSuppl
+  ~ node-only                               Purines                        → CYP3A4/Statins
+  ~ node-only                               Lycopene                       → Allopurinol/Febuxostat
+  ~ node-only                               Lycopene                       → Warfarin/Aspirin
+  ~ node-only                               Lycopene                       → ACE-I/Spiro
+  ~ node-only                               Lycopene                       → Cipro/IronSuppl
+  ~ node-only                               Lycopene                       → CYP3A4/Statins
+  ✓ PubMed-NLP                              K+                             → Allopurinol/Febuxostat
+  ~ node-only                               K+                             → Warfarin/Aspirin
+  ✓ DrugBank-named                          K+                             → ACE-I/Spiro
+  ~ node-only                               K+                             → Cipro/IronSuppl
+  ~ node-only                               K+                             → CYP3A4/Statins
+  ? NOVEL — food('PhyticAcid') not in DB    PhyticAcid                     → Allopurinol/Febuxostat
+  ? NOVEL — food('PhyticAcid') not in DB    PhyticAcid                     → Warfarin/Aspirin
+  ? NOVEL — food('PhyticAcid') not in DB    PhyticAcid                     → ACE-I/Spiro
+  ? NOVEL — food('PhyticAcid') not in DB    PhyticAcid                     → Cipro/IronSuppl
+  ? NOVEL — food('PhyticAcid') not in DB    PhyticAcid                     → CYP3A4/Statins
+  ~ node-only                               Allicin+Gingerol+Curcumin      → Allopurinol/Febuxostat
+  ✓ DrugBank-named                          Allicin+Gingerol+Curcumin      → Warfarin/Aspirin
+  ~ node-only                               Allicin+Gingerol+Curcumin      → ACE-I/Spiro
+  ~ node-only                               Allicin+Gingerol+Curcumin      → Cipro/IronSuppl
+  ~ node-only                               Allicin+Gingerol+Curcumin      → CYP3A4/Statins
+
+Dish 39: Hommos
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('NaHCO3') not in DB        NaHCO3                         → EntericMeds/Aspirin
+  ? NOVEL — food('NaHCO3') not in DB        NaHCO3                         → Cipro/IronZinc
+  ? NOVEL — food('NaHCO3') not in DB        NaHCO3                         → Allopurinol
+  ? NOVEL — food('NaHCO3') not in DB        NaHCO3                         → CYP2C9/Warfarin/Glipizide
+  ? NOVEL — food('NaHCO3') not in DB        NaHCO3                         → Statins
+  ? NOVEL — food('NaHCO3') not in DB        NaHCO3                         → Levothyroxine/Bisphosphonates
+  ? NOVEL — food('PhyticAcid') not in DB    PhyticAcid                     → EntericMeds/Aspirin
+  ? NOVEL — food('PhyticAcid') not in DB    PhyticAcid                     → Cipro/IronZinc
+  ? NOVEL — food('PhyticAcid') not in DB    PhyticAcid                     → Allopurinol
+  ? NOVEL — food('PhyticAcid') not in DB    PhyticAcid                     → CYP2C9/Warfarin/Glipizide
+  ? NOVEL — food('PhyticAcid') not in DB    PhyticAcid                     → Statins
+  ? NOVEL — food('PhyticAcid') not in DB    PhyticAcid                     → Levothyroxine/Bisphosphonates
+  ✓ PubMed-NLP                              Purines                        → EntericMeds/Aspirin
+  ~ node-only                               Purines                        → Cipro/IronZinc
+  ~ node-only                               Purines                        → Allopurinol
+  ~ node-only                               Purines                        → CYP2C9/Warfarin/Glipizide
+  ~ node-only                               Purines                        → Statins
+  ~ node-only                               Purines                        → Levothyroxine/Bisphosphonates
+  ~ node-only                               Cuminaldehyde                  → EntericMeds/Aspirin
+  ~ node-only                               Cuminaldehyde                  → Cipro/IronZinc
+  ~ node-only                               Cuminaldehyde                  → Allopurinol
+  ~ node-only                               Cuminaldehyde                  → CYP2C9/Warfarin/Glipizide
+  ~ node-only                               Cuminaldehyde                  → Statins
+  ✓ PubMed-NLP                              Cuminaldehyde                  → Levothyroxine/Bisphosphonates
+  ? NOVEL — food('OliveOil') not in DB      OliveOil                       → EntericMeds/Aspirin
+  ? NOVEL — food('OliveOil') not in DB      OliveOil                       → Cipro/IronZinc
+  ? NOVEL — food('OliveOil') not in DB      OliveOil                       → Allopurinol
+  ? NOVEL — food('OliveOil') not in DB      OliveOil                       → CYP2C9/Warfarin/Glipizide
+  ? NOVEL — food('OliveOil') not in DB      OliveOil                       → Statins
+  ? NOVEL — food('OliveOil') not in DB      OliveOil                       → Levothyroxine/Bisphosphonates
+  ~ node-only                               NonHemeIron                    → EntericMeds/Aspirin
+  ✓ DrugBank-text                           NonHemeIron                    → Cipro/IronZinc
+  ~ node-only                               NonHemeIron                    → Allopurinol
+  ~ node-only                               NonHemeIron                    → CYP2C9/Warfarin/Glipizide
+  ~ node-only                               NonHemeIron                    → Statins
+  ✓ DrugBank-named                          NonHemeIron                    → Levothyroxine/Bisphosphonates
+
+Dish 40: Loubia
+------------------------------------------------------------------------------------------
+  ~ node-only                               PhyticAcid+Saponins            → Cipro/IronZinc
+  ~ node-only                               PhyticAcid+Saponins            → Acarbose
+  ~ node-only                               PhyticAcid+Saponins            → ACE-I/Spiro
+  ~ node-only                               PhyticAcid+Saponins            → Allopurinol/GoutFlare
+  ~ node-only                               PhyticAcid+Saponins            → CYP3A4/Statins+CYP2C9/Warfarin
+  ~ node-only                               PhyticAcid+Saponins            → Isotretinoin/VitATox
+  ? NOVEL — food('Phaseolamin') not in DB   Phaseolamin                    → Cipro/IronZinc
+  ? NOVEL — food('Phaseolamin') not in DB   Phaseolamin                    → Acarbose
+  ? NOVEL — food('Phaseolamin') not in DB   Phaseolamin                    → ACE-I/Spiro
+  ? NOVEL — food('Phaseolamin') not in DB   Phaseolamin                    → Allopurinol/GoutFlare
+  ? NOVEL — food('Phaseolamin') not in DB   Phaseolamin                    → CYP3A4/Statins+CYP2C9/Warfarin
+  ? NOVEL — food('Phaseolamin') not in DB   Phaseolamin                    → Isotretinoin/VitATox
+  ~ node-only                               K+                             → Cipro/IronZinc
+  ~ node-only                               K+                             → Acarbose
+  ✓ DrugBank-named                          K+                             → ACE-I/Spiro
+  ~ node-only                               K+                             → Allopurinol/GoutFlare
+  ~ node-only                               K+                             → CYP3A4/Statins+CYP2C9/Warfarin
+  ~ node-only                               K+                             → Isotretinoin/VitATox
+  ~ node-only                               Purines                        → Cipro/IronZinc
+  ~ node-only                               Purines                        → Acarbose
+  ~ node-only                               Purines                        → ACE-I/Spiro
+  ~ node-only                               Purines                        → Allopurinol/GoutFlare
+  ~ node-only                               Purines                        → CYP3A4/Statins+CYP2C9/Warfarin
+  ~ node-only                               Purines                        → Isotretinoin/VitATox
+  ~ node-only                               Allicin+Cuminaldehyde          → Cipro/IronZinc
+  ~ node-only                               Allicin+Cuminaldehyde          → Acarbose
+  ~ node-only                               Allicin+Cuminaldehyde          → ACE-I/Spiro
+  ~ node-only                               Allicin+Cuminaldehyde          → Allopurinol/GoutFlare
+  ✓ DrugBank-named                          Allicin+Cuminaldehyde          → CYP3A4/Statins+CYP2C9/Warfarin
+  ~ node-only                               Allicin+Cuminaldehyde          → Isotretinoin/VitATox
+  ? NOVEL — food('BetaCarotene') not in DB  BetaCarotene                   → Cipro/IronZinc
+  ? NOVEL — food('BetaCarotene') not in DB  BetaCarotene                   → Acarbose
+  ? NOVEL — food('BetaCarotene') not in DB  BetaCarotene                   → ACE-I/Spiro
+  ? NOVEL — food('BetaCarotene') not in DB  BetaCarotene                   → Allopurinol/GoutFlare
+  ? NOVEL — food('BetaCarotene') not in DB  BetaCarotene                   → CYP3A4/Statins+CYP2C9/Warfarin
+  ? NOVEL — food('BetaCarotene') not in DB  BetaCarotene                   → Isotretinoin/VitATox
+
+Dish 41: Dchicha with Klila
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('Ca2+') not in DB          Ca2+                           → Tetracyclines/Bisphosphonates
+  ? NOVEL — food('Ca2+') not in DB          Ca2+                           → AllOralMeds
+  ? NOVEL — food('Ca2+') not in DB          Ca2+                           → MAOIs/Antihypertensives
+  ? NOVEL — food('Ca2+') not in DB          Ca2+                           → Statins/Isotretinoin
+  ? NOVEL — food('BetaGlucan') not in DB    BetaGlucan                     → Tetracyclines/Bisphosphonates
+  ? NOVEL — food('BetaGlucan') not in DB    BetaGlucan                     → AllOralMeds
+  ? NOVEL — food('BetaGlucan') not in DB    BetaGlucan                     → MAOIs/Antihypertensives
+  ? NOVEL — food('BetaGlucan') not in DB    BetaGlucan                     → Statins/Isotretinoin
+  ✓ PubMed-NLP                              Tyramine+Na+                   → Tetracyclines/Bisphosphonates
+  ~ node-only                               Tyramine+Na+                   → AllOralMeds
+  ✓ PubMed-NLP                              Tyramine+Na+                   → MAOIs/Antihypertensives
+  ~ node-only                               Tyramine+Na+                   → Statins/Isotretinoin
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → Tetracyclines/Bisphosphonates
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → AllOralMeds
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → MAOIs/Antihypertensives
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → Statins/Isotretinoin
+
+Dish 42: Hmiss
+------------------------------------------------------------------------------------------
+  ~ node-only                               Capsaicin                      → ACE-I/Theophylline
+  ~ node-only                               Capsaicin                      → IronSuppl
+  ~ node-only                               Capsaicin                      → BP-meds
+  ~ node-only                               Capsaicin                      → Warfarin/Aspirin
+  ~ node-only                               Capsaicin                      → Statins/Isotretinoin
+  ? NOVEL — food('VitC+Flavonoids') not in DB  VitC+Flavonoids                → ACE-I/Theophylline
+  ? NOVEL — food('VitC+Flavonoids') not in DB  VitC+Flavonoids                → IronSuppl
+  ? NOVEL — food('VitC+Flavonoids') not in DB  VitC+Flavonoids                → BP-meds
+  ? NOVEL — food('VitC+Flavonoids') not in DB  VitC+Flavonoids                → Warfarin/Aspirin
+  ? NOVEL — food('VitC+Flavonoids') not in DB  VitC+Flavonoids                → Statins/Isotretinoin
+  ~ node-only                               Lycopene                       → ACE-I/Theophylline
+  ~ node-only                               Lycopene                       → IronSuppl
+  ~ node-only                               Lycopene                       → BP-meds
+  ~ node-only                               Lycopene                       → Warfarin/Aspirin
+  ~ node-only                               Lycopene                       → Statins/Isotretinoin
+  ~ node-only                               Allicin                        → ACE-I/Theophylline
+  ~ node-only                               Allicin                        → IronSuppl
+  ✓ PubMed-NLP                              Allicin                        → BP-meds
+  ✓ DrugBank-named                          Allicin                        → Warfarin/Aspirin
+  ~ node-only                               Allicin                        → Statins/Isotretinoin
+  ? NOVEL — food('OleicAcid') not in DB     OleicAcid                      → ACE-I/Theophylline
+  ? NOVEL — food('OleicAcid') not in DB     OleicAcid                      → IronSuppl
+  ? NOVEL — food('OleicAcid') not in DB     OleicAcid                      → BP-meds
+  ? NOVEL — food('OleicAcid') not in DB     OleicAcid                      → Warfarin/Aspirin
+  ? NOVEL — food('OleicAcid') not in DB     OleicAcid                      → Statins/Isotretinoin
+
+Dish 43: Brik
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → Statins/ARVs/Isotretinoin
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → Anticholinergics
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → Allopurinol/GoutFlare
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → CYP2C9/Warfarin
+  ? NOVEL — food('SatFats') not in DB       SatFats                        → CYP2E1/Acetaminophen
+  ✓ PubMed-NLP                              Lecithin+Choline               → Statins/ARVs/Isotretinoin
+  ~ node-only                               Lecithin+Choline               → Anticholinergics
+  ✓ PubMed-NLP                              Lecithin+Choline               → Allopurinol/GoutFlare
+  ~ node-only                               Lecithin+Choline               → CYP2C9/Warfarin
+  ✓ PubMed-NLP                              Lecithin+Choline               → CYP2E1/Acetaminophen
+  ~ node-only                               Purines                        → Statins/ARVs/Isotretinoin
+  ~ node-only                               Purines                        → Anticholinergics
+  ~ node-only                               Purines                        → Allopurinol/GoutFlare
+  ~ node-only                               Purines                        → CYP2C9/Warfarin
+  ~ node-only                               Purines                        → CYP2E1/Acetaminophen
+  ~ node-only                               Cuminaldehyde                  → Statins/ARVs/Isotretinoin
+  ~ node-only                               Cuminaldehyde                  → Anticholinergics
+  ~ node-only                               Cuminaldehyde                  → Allopurinol/GoutFlare
+  ~ node-only                               Cuminaldehyde                  → CYP2C9/Warfarin
+  ~ node-only                               Cuminaldehyde                  → CYP2E1/Acetaminophen
+  ~ node-only                               Acrylamide                     → Statins/ARVs/Isotretinoin
+  ~ node-only                               Acrylamide                     → Anticholinergics
+  ~ node-only                               Acrylamide                     → Allopurinol/GoutFlare
+  ~ node-only                               Acrylamide                     → CYP2C9/Warfarin
+  ~ node-only                               Acrylamide                     → CYP2E1/Acetaminophen
+
+Dish 44: Mhadjeb (A=Spicy/B=Plain)
+------------------------------------------------------------------------------------------
+  ✓ PubMed-NLP                              Amylopectin                    → Insulin/Metformin/Acarbose
+  ~ node-only                               Amylopectin                    → Antihypertensives
+  ~ node-only                               Amylopectin                    → Warfarin/Clopidogrel
+  ? NOVEL — drug('ACE-I') not in DB         Amylopectin                    → ACE-I
+  ~ node-only                               Amylopectin                    → Statins
+  ~ node-only                               Lycopene                       → Insulin/Metformin/Acarbose
+  ~ node-only                               Lycopene                       → Antihypertensives
+  ~ node-only                               Lycopene                       → Warfarin/Clopidogrel
+  ? NOVEL — drug('ACE-I') not in DB         Lycopene                       → ACE-I
+  ~ node-only                               Lycopene                       → Statins
+  ✓ PubMed-NLP                              Allicin+Quercetin              → Insulin/Metformin/Acarbose
+  ✓ PubMed-NLP                              Allicin+Quercetin              → Antihypertensives
+  ✓ DrugBank-named                          Allicin+Quercetin              → Warfarin/Clopidogrel
+  ? NOVEL — drug('ACE-I') not in DB         Allicin+Quercetin              → ACE-I
+  ~ node-only                               Allicin+Quercetin              → Statins
+  ~ node-only                               Capsaicin                      → Insulin/Metformin/Acarbose
+  ~ node-only                               Capsaicin                      → Antihypertensives
+  ~ node-only                               Capsaicin                      → Warfarin/Clopidogrel
+  ? NOVEL — drug('ACE-I') not in DB         Capsaicin                      → ACE-I
+  ~ node-only                               Capsaicin                      → Statins
+  ? NOVEL — food('Triglycerides') not in DB  Triglycerides                  → Insulin/Metformin/Acarbose
+  ? NOVEL — food('Triglycerides') not in DB  Triglycerides                  → Antihypertensives
+  ? NOVEL — food('Triglycerides') not in DB  Triglycerides                  → Warfarin/Clopidogrel
+  ? NOVEL — food('Triglycerides') not in DB; drug('ACE-I') not in DB  Triglycerides                  → ACE-I
+  ? NOVEL — food('Triglycerides') not in DB  Triglycerides                  → Statins
+
+Dish 45: Baghrir
+------------------------------------------------------------------------------------------
+  ✓ PubMed-NLP                              Amylopectin                    → Metformin/Acarbose/Insulin
+  ~ node-only                               Amylopectin                    → Prokinetics
+  ~ node-only                               Amylopectin                    → SGLT2-Inhibitors
+  ~ node-only                               Amylopectin                    → BileAcidSequestrants
+  ? NOVEL — food('CO2') not in DB           CO2                            → Metformin/Acarbose/Insulin
+  ? NOVEL — food('CO2') not in DB           CO2                            → Prokinetics
+  ? NOVEL — food('CO2') not in DB           CO2                            → SGLT2-Inhibitors
+  ? NOVEL — food('CO2') not in DB           CO2                            → BileAcidSequestrants
+  ✓ DrugBank-text                           Fructose+Glucose               → Metformin/Acarbose/Insulin
+  ~ node-only                               Fructose+Glucose               → Prokinetics
+  ~ node-only                               Fructose+Glucose               → SGLT2-Inhibitors
+  ✓ PubMed-NLP                              Fructose+Glucose               → BileAcidSequestrants
+  ? NOVEL — food('SCFA-Butter') not in DB   SCFA-Butter                    → Metformin/Acarbose/Insulin
+  ? NOVEL — food('SCFA-Butter') not in DB   SCFA-Butter                    → Prokinetics
+  ? NOVEL — food('SCFA-Butter') not in DB   SCFA-Butter                    → SGLT2-Inhibitors
+  ? NOVEL — food('SCFA-Butter') not in DB   SCFA-Butter                    → BileAcidSequestrants
+
+Dish 46: Matlouh
+------------------------------------------------------------------------------------------
+  ~ node-only                               Amylopectin                    → Insulin/Sulfonylureas
+  ~ node-only                               Amylopectin                    → Antacids/PPIs
+  ? NOVEL — drug('AcidLabileDrugs') not in DB  Amylopectin                    → AcidLabileDrugs
+  ~ node-only                               Amylopectin                    → Diuretics/BP-meds
+  ~ node-only                               Amylopectin                    → Cipro/Levothyroxine
+  ? NOVEL — food('CO2') not in DB           CO2                            → Insulin/Sulfonylureas
+  ? NOVEL — food('CO2') not in DB           CO2                            → Antacids/PPIs
+  ? NOVEL — food('CO2') not in DB; drug('AcidLabileDrugs') not in DB  CO2                            → AcidLabileDrugs
+  ? NOVEL — food('CO2') not in DB           CO2                            → Diuretics/BP-meds
+  ? NOVEL — food('CO2') not in DB           CO2                            → Cipro/Levothyroxine
+  ? NOVEL — food('HydrationMatrix') not in DB  HydrationMatrix                → Insulin/Sulfonylureas
+  ? NOVEL — food('HydrationMatrix') not in DB  HydrationMatrix                → Antacids/PPIs
+  ? NOVEL — food('HydrationMatrix') not in DB; drug('AcidLabileDrugs') not in DB  HydrationMatrix                → AcidLabileDrugs
+  ? NOVEL — food('HydrationMatrix') not in DB  HydrationMatrix                → Diuretics/BP-meds
+  ? NOVEL — food('HydrationMatrix') not in DB  HydrationMatrix                → Cipro/Levothyroxine
+  ~ node-only                               Na+                            → Insulin/Sulfonylureas
+  ~ node-only                               Na+                            → Antacids/PPIs
+  ? NOVEL — drug('AcidLabileDrugs') not in DB  Na+                            → AcidLabileDrugs
+  ~ node-only                               Na+                            → Diuretics/BP-meds
+  ~ node-only                               Na+                            → Cipro/Levothyroxine
+  ? NOVEL — food('PhyticAcid-REDUCED') not in DB  PhyticAcid-REDUCED             → Insulin/Sulfonylureas
+  ? NOVEL — food('PhyticAcid-REDUCED') not in DB  PhyticAcid-REDUCED             → Antacids/PPIs
+  ? NOVEL — food('PhyticAcid-REDUCED') not in DB; drug('AcidLabileDrugs') not in DB  PhyticAcid-REDUCED             → AcidLabileDrugs
+  ? NOVEL — food('PhyticAcid-REDUCED') not in DB  PhyticAcid-REDUCED             → Diuretics/BP-meds
+  ? NOVEL — food('PhyticAcid-REDUCED') not in DB  PhyticAcid-REDUCED             → Cipro/Levothyroxine
+
+Dish 47: Mbessas
+------------------------------------------------------------------------------------------
+  ✓ PubMed-NLP                              AmylopectinLipidEncapsulated   → Metformin/Insulin
+  ✓ PubMed-NLP                              AmylopectinLipidEncapsulated   → Statins/Griseofulvin/VitD/Cyclosporine
+  ~ node-only                               AmylopectinLipidEncapsulated   → AllOralMeds
+  ~ node-only                               AmylopectinLipidEncapsulated   → CYP2E1
+  ? NOVEL — food('SCFA+SatFats') not in DB  SCFA+SatFats                   → Metformin/Insulin
+  ? NOVEL — food('SCFA+SatFats') not in DB  SCFA+SatFats                   → Statins/Griseofulvin/VitD/Cyclosporine
+  ? NOVEL — food('SCFA+SatFats') not in DB  SCFA+SatFats                   → AllOralMeds
+  ? NOVEL — food('SCFA+SatFats') not in DB  SCFA+SatFats                   → CYP2E1
+  ? NOVEL — food('DenseMatrix') not in DB   DenseMatrix                    → Metformin/Insulin
+  ? NOVEL — food('DenseMatrix') not in DB   DenseMatrix                    → Statins/Griseofulvin/VitD/Cyclosporine
+  ? NOVEL — food('DenseMatrix') not in DB   DenseMatrix                    → AllOralMeds
+  ? NOVEL — food('DenseMatrix') not in DB   DenseMatrix                    → CYP2E1
+  ✓ PubMed-NLP                              MaillardAGEs                   → Metformin/Insulin
+  ~ node-only                               MaillardAGEs                   → Statins/Griseofulvin/VitD/Cyclosporine
+  ~ node-only                               MaillardAGEs                   → AllOralMeds
+  ~ node-only                               MaillardAGEs                   → CYP2E1
+
+Dish 48: Ftir
+------------------------------------------------------------------------------------------
+  ✓ PubMed-NLP                              DenseAmylopectin               → Metformin/Insulin
+  ~ node-only                               DenseAmylopectin               → Statins/VitD
+  ~ node-only                               DenseAmylopectin               → Diuretics/ACE-I
+  ~ node-only                               DenseAmylopectin               → Antifungals/Prokinetics
+  ? NOVEL — food('Triglycerides') not in DB  Triglycerides                  → Metformin/Insulin
+  ? NOVEL — food('Triglycerides') not in DB  Triglycerides                  → Statins/VitD
+  ? NOVEL — food('Triglycerides') not in DB  Triglycerides                  → Diuretics/ACE-I
+  ? NOVEL — food('Triglycerides') not in DB  Triglycerides                  → Antifungals/Prokinetics
+  ~ node-only                               Na+                            → Metformin/Insulin
+  ~ node-only                               Na+                            → Statins/VitD
+  ~ node-only                               Na+                            → Diuretics/ACE-I
+  ~ node-only                               Na+                            → Antifungals/Prokinetics
+  ? NOVEL — food('ZeroFermentation') not in DB  ZeroFermentation               → Metformin/Insulin
+  ? NOVEL — food('ZeroFermentation') not in DB  ZeroFermentation               → Statins/VitD
+  ? NOVEL — food('ZeroFermentation') not in DB  ZeroFermentation               → Diuretics/ACE-I
+  ? NOVEL — food('ZeroFermentation') not in DB  ZeroFermentation               → Antifungals/Prokinetics
+
+Dish 49: Bradj
+------------------------------------------------------------------------------------------
+  ~ node-only                               K+                             → ACE-I/K-Sparing-Diuretics
+  ~ node-only                               K+                             → Statins/Antipsychotics/VitD
+  ~ node-only                               K+                             → Warfarin
+  ~ node-only                               K+                             → Aspirin/Clopidogrel
+  ✓ PubMed-NLP                              K+                             → Codeine/Tamoxifen
+  ~ node-only                               K+                             → Benzodiazepines
+  ? NOVEL — food('TripleLipid') not in DB   TripleLipid                    → ACE-I/K-Sparing-Diuretics
+  ? NOVEL — food('TripleLipid') not in DB   TripleLipid                    → Statins/Antipsychotics/VitD
+  ? NOVEL — food('TripleLipid') not in DB   TripleLipid                    → Warfarin
+  ? NOVEL — food('TripleLipid') not in DB   TripleLipid                    → Aspirin/Clopidogrel
+  ? NOVEL — food('TripleLipid') not in DB   TripleLipid                    → Codeine/Tamoxifen
+  ? NOVEL — food('TripleLipid') not in DB   TripleLipid                    → Benzodiazepines
+  ~ node-only                               Cinnamaldehyde                 → ACE-I/K-Sparing-Diuretics
+  ~ node-only                               Cinnamaldehyde                 → Statins/Antipsychotics/VitD
+  ~ node-only                               Cinnamaldehyde                 → Warfarin
+  ~ node-only                               Cinnamaldehyde                 → Aspirin/Clopidogrel
+  ~ node-only                               Cinnamaldehyde                 → Codeine/Tamoxifen
+  ~ node-only                               Cinnamaldehyde                 → Benzodiazepines
+  ~ node-only                               Eugenol                        → ACE-I/K-Sparing-Diuretics
+  ~ node-only                               Eugenol                        → Statins/Antipsychotics/VitD
+  ~ node-only                               Eugenol                        → Warfarin
+  ~ node-only                               Eugenol                        → Aspirin/Clopidogrel
+  ~ node-only                               Eugenol                        → Codeine/Tamoxifen
+  ~ node-only                               Eugenol                        → Benzodiazepines
+  ? NOVEL — food('Omega3+Lignans') not in DB  Omega3+Lignans                 → ACE-I/K-Sparing-Diuretics
+  ? NOVEL — food('Omega3+Lignans') not in DB  Omega3+Lignans                 → Statins/Antipsychotics/VitD
+  ? NOVEL — food('Omega3+Lignans') not in DB  Omega3+Lignans                 → Warfarin
+  ? NOVEL — food('Omega3+Lignans') not in DB  Omega3+Lignans                 → Aspirin/Clopidogrel
+  ? NOVEL — food('Omega3+Lignans') not in DB  Omega3+Lignans                 → Codeine/Tamoxifen
+  ? NOVEL — food('Omega3+Lignans') not in DB  Omega3+Lignans                 → Benzodiazepines
+  ~ node-only                               Linalool                       → ACE-I/K-Sparing-Diuretics
+  ~ node-only                               Linalool                       → Statins/Antipsychotics/VitD
+  ~ node-only                               Linalool                       → Warfarin
+  ~ node-only                               Linalool                       → Aspirin/Clopidogrel
+  ~ node-only                               Linalool                       → Codeine/Tamoxifen
+  ~ node-only                               Linalool                       → Benzodiazepines
+
+Dish 50: Shbah el-Safra
+------------------------------------------------------------------------------------------
+  ✓ PubMed-NLP                              LArginine+VitE                 → Sildenafil/Nitrates
+  ✓ PubMed-NLP                              LArginine+VitE                 → Insulin/Metformin/SGLT2
+  ✓ PubMed-NLP                              LArginine+VitE                 → ACE-I/K-SpDiuretics
+  ✓ PubMed-NLP                              LArginine+VitE                 → CyclospIsotrRetinStatins
+  ? NOVEL — drug('SSRIs/MAOIs') not in DB   LArginine+VitE                 → SSRIs/MAOIs
+  ~ node-only                               LArginine+VitE                 → Benzodiazepines
+  ~ node-only                               Fructose+Glucose               → Sildenafil/Nitrates
+  ✓ DrugBank-text                           Fructose+Glucose               → Insulin/Metformin/SGLT2
+  ~ node-only                               Fructose+Glucose               → ACE-I/K-SpDiuretics
+  ✓ PubMed-NLP                              Fructose+Glucose               → CyclospIsotrRetinStatins
+  ? NOVEL — drug('SSRIs/MAOIs') not in DB   Fructose+Glucose               → SSRIs/MAOIs
+  ✓ PubMed-NLP                              Fructose+Glucose               → Benzodiazepines
+  ~ node-only                               K++Sorbitol                    → Sildenafil/Nitrates
+  ✓ PubMed-NLP                              K++Sorbitol                    → Insulin/Metformin/SGLT2
+  ~ node-only                               K++Sorbitol                    → ACE-I/K-SpDiuretics
+  ~ node-only                               K++Sorbitol                    → CyclospIsotrRetinStatins
+  ? NOVEL — drug('SSRIs/MAOIs') not in DB   K++Sorbitol                    → SSRIs/MAOIs
+  ~ node-only                               K++Sorbitol                    → Benzodiazepines
+  ~ node-only                               DoubleFriedLecithin            → Sildenafil/Nitrates
+  ✓ PubMed-NLP                              DoubleFriedLecithin            → Insulin/Metformin/SGLT2
+  ~ node-only                               DoubleFriedLecithin            → ACE-I/K-SpDiuretics
+  ~ node-only                               DoubleFriedLecithin            → CyclospIsotrRetinStatins
+  ? NOVEL — drug('SSRIs/MAOIs') not in DB   DoubleFriedLecithin            → SSRIs/MAOIs
+  ~ node-only                               DoubleFriedLecithin            → Benzodiazepines
+  ~ node-only                               Crocin+Safranal                → Sildenafil/Nitrates
+  ~ node-only                               Crocin+Safranal                → Insulin/Metformin/SGLT2
+  ✓ PubMed-NLP                              Crocin+Safranal                → ACE-I/K-SpDiuretics
+  ~ node-only                               Crocin+Safranal                → CyclospIsotrRetinStatins
+  ? NOVEL — drug('SSRIs/MAOIs') not in DB   Crocin+Safranal                → SSRIs/MAOIs
+  ~ node-only                               Crocin+Safranal                → Benzodiazepines
+  ~ node-only                               Linalool+Geraniol              → Sildenafil/Nitrates
+  ✓ PubMed-NLP                              Linalool+Geraniol              → Insulin/Metformin/SGLT2
+  ~ node-only                               Linalool+Geraniol              → ACE-I/K-SpDiuretics
+  ~ node-only                               Linalool+Geraniol              → CyclospIsotrRetinStatins
+  ? NOVEL — drug('SSRIs/MAOIs') not in DB   Linalool+Geraniol              → SSRIs/MAOIs
+  ~ node-only                               Linalool+Geraniol              → Benzodiazepines
+
+Dish 51: Dziriyet
+------------------------------------------------------------------------------------------
+  ✓ PubMed-NLP                              Resveratrol+PACs               → Aspirin/Clopidogrel/NSAIDs
+  ~ node-only                               Resveratrol+PACs               → MAO-B-Inhibitors
+  ✓ DrugBank-named                          Resveratrol+PACs               → Cyclosporine/Isotretinoin/Statins
+  ✓ PubMed-NLP                              Resveratrol+PACs               → Insulin/Metformin/SGLT2
+  ✓ PubMed-NLP                              Benzaldehyde                   → Aspirin/Clopidogrel/NSAIDs
+  ~ node-only                               Benzaldehyde                   → MAO-B-Inhibitors
+  ✓ PubMed-NLP                              Benzaldehyde                   → Cyclosporine/Isotretinoin/Statins
+  ~ node-only                               Benzaldehyde                   → Insulin/Metformin/SGLT2
+  ~ node-only                               Albumin+Choline                → Aspirin/Clopidogrel/NSAIDs
+  ~ node-only                               Albumin+Choline                → MAO-B-Inhibitors
+  ✓ PubMed-NLP                              Albumin+Choline                → Cyclosporine/Isotretinoin/Statins
+  ~ node-only                               Albumin+Choline                → Insulin/Metformin/SGLT2
+  ✓ PubMed-NLP                              Sucrose+Fructose+Glucose       → Aspirin/Clopidogrel/NSAIDs
+  ~ node-only                               Sucrose+Fructose+Glucose       → MAO-B-Inhibitors
+  ✓ DrugBank-named                          Sucrose+Fructose+Glucose       → Cyclosporine/Isotretinoin/Statins
+  ✓ DrugBank-text                           Sucrose+Fructose+Glucose       → Insulin/Metformin/SGLT2
+
+Dish 52: Kaak Nakach
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('LipidCoatedStarch') not in DB  LipidCoatedStarch              → Metformin/Insulin
+  ? NOVEL — food('LipidCoatedStarch') not in DB  LipidCoatedStarch              → ACE-I/K-SpDiuretics
+  ? NOVEL — food('LipidCoatedStarch') not in DB  LipidCoatedStarch              → Benzodiazepines
+  ? NOVEL — food('LipidCoatedStarch') not in DB  LipidCoatedStarch              → AcidLabileDrugs/EntericCoat
+  ✓ PubMed-NLP                              K++InsolFiber                  → Metformin/Insulin
+  ~ node-only                               K++InsolFiber                  → ACE-I/K-SpDiuretics
+  ~ node-only                               K++InsolFiber                  → Benzodiazepines
+  ~ node-only                               K++InsolFiber                  → AcidLabileDrugs/EntericCoat
+  ✓ PubMed-NLP                              Linalool                       → Metformin/Insulin
+  ~ node-only                               Linalool                       → ACE-I/K-SpDiuretics
+  ~ node-only                               Linalool                       → Benzodiazepines
+  ~ node-only                               Linalool                       → AcidLabileDrugs/EntericCoat
+  ? NOVEL — food('NaHCO3+CO2') not in DB    NaHCO3+CO2                     → Metformin/Insulin
+  ? NOVEL — food('NaHCO3+CO2') not in DB    NaHCO3+CO2                     → ACE-I/K-SpDiuretics
+  ? NOVEL — food('NaHCO3+CO2') not in DB    NaHCO3+CO2                     → Benzodiazepines
+  ? NOVEL — food('NaHCO3+CO2') not in DB    NaHCO3+CO2                     → AcidLabileDrugs/EntericCoat
+
+Dish 53: Taminat l-Ghars
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('Pyrodextrins+InsolFi') not in DB  Pyrodextrins+InsolFiber        → Metformin/Insulin/SGLT2
+  ? NOVEL — food('Pyrodextrins+InsolFi') not in DB  Pyrodextrins+InsolFiber        → ACE-I/K-SpDiuretics/CKD
+  ? NOVEL — food('Pyrodextrins+InsolFi') not in DB  Pyrodextrins+InsolFiber        → Statins/Cyclosporine/Isotretinoin
+  ? NOVEL — food('Pyrodextrins+InsolFi') not in DB  Pyrodextrins+InsolFiber        → Orlistat
+  ? NOVEL — food('Pyrodextrins+InsolFi') not in DB  Pyrodextrins+InsolFiber        → NTI-Drugs/Lithium/Digoxin
+  ✓ PubMed-NLP                              K+_DatePaste1kg                → Metformin/Insulin/SGLT2
+  ~ node-only                               K+_DatePaste1kg                → ACE-I/K-SpDiuretics/CKD
+  ✓ DrugBank-named                          K+_DatePaste1kg                → Statins/Cyclosporine/Isotretinoin
+  ~ node-only                               K+_DatePaste1kg                → Orlistat
+  ✓ DrugBank-named                          K+_DatePaste1kg                → NTI-Drugs/Lithium/Digoxin
+  ? NOVEL — food('ButterGrainEncap250g') not in DB  ButterGrainEncap250g           → Metformin/Insulin/SGLT2
+  ? NOVEL — food('ButterGrainEncap250g') not in DB  ButterGrainEncap250g           → ACE-I/K-SpDiuretics/CKD
+  ? NOVEL — food('ButterGrainEncap250g') not in DB  ButterGrainEncap250g           → Statins/Cyclosporine/Isotretinoin
+  ? NOVEL — food('ButterGrainEncap250g') not in DB  ButterGrainEncap250g           → Orlistat
+  ? NOVEL — food('ButterGrainEncap250g') not in DB  ButterGrainEncap250g           → NTI-Drugs/Lithium/Digoxin
+  ? NOVEL — food('Honey200g') not in DB     Honey200g                      → Metformin/Insulin/SGLT2
+  ? NOVEL — food('Honey200g') not in DB     Honey200g                      → ACE-I/K-SpDiuretics/CKD
+  ? NOVEL — food('Honey200g') not in DB     Honey200g                      → Statins/Cyclosporine/Isotretinoin
+  ? NOVEL — food('Honey200g') not in DB     Honey200g                      → Orlistat
+  ? NOVEL — food('Honey200g') not in DB     Honey200g                      → NTI-Drugs/Lithium/Digoxin
+
+Dish 54: Qtayef
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('Sha'ra-Strands') not in DB  Sha'ra-Strands                 → Metformin/Insulin/SGLT2
+  ? NOVEL — food('Sha'ra-Strands') not in DB  Sha'ra-Strands                 → Aspirin/Clopidogrel/Warfarin
+  ? NOVEL — food('Sha'ra-Strands') not in DB  Sha'ra-Strands                 → Statins/Cyclosporine/VitD3/Amiodarone
+  ? NOVEL — food('Sha'ra-Strands') not in DB  Sha'ra-Strands                 → Benzodiazepines
+  ? NOVEL — food('Sha'ra-Strands') not in DB  Sha'ra-Strands                 → NTI-Drugs/Lithium/Digoxin
+  ? NOVEL — food('Sha'ra-Strands') not in DB  Sha'ra-Strands                 → Orlistat
+  ✓ PubMed-NLP                              WalnutALA+Ellagitannins        → Metformin/Insulin/SGLT2
+  ✓ PubMed-NLP                              WalnutALA+Ellagitannins        → Aspirin/Clopidogrel/Warfarin
+  ~ node-only                               WalnutALA+Ellagitannins        → Statins/Cyclosporine/VitD3/Amiodarone
+  ~ node-only                               WalnutALA+Ellagitannins        → Benzodiazepines
+  ~ node-only                               WalnutALA+Ellagitannins        → NTI-Drugs/Lithium/Digoxin
+  ~ node-only                               WalnutALA+Ellagitannins        → Orlistat
+  ? NOVEL — food('TripleSmen') not in DB    TripleSmen                     → Metformin/Insulin/SGLT2
+  ? NOVEL — food('TripleSmen') not in DB    TripleSmen                     → Aspirin/Clopidogrel/Warfarin
+  ? NOVEL — food('TripleSmen') not in DB    TripleSmen                     → Statins/Cyclosporine/VitD3/Amiodarone
+  ? NOVEL — food('TripleSmen') not in DB    TripleSmen                     → Benzodiazepines
+  ? NOVEL — food('TripleSmen') not in DB    TripleSmen                     → NTI-Drugs/Lithium/Digoxin
+  ? NOVEL — food('TripleSmen') not in DB    TripleSmen                     → Orlistat
+  ✓ DrugBank-text                           FructoseGlucose+Linalool       → Metformin/Insulin/SGLT2
+  ✓ DrugBank-named                          FructoseGlucose+Linalool       → Aspirin/Clopidogrel/Warfarin
+  ✓ DrugBank-named                          FructoseGlucose+Linalool       → Statins/Cyclosporine/VitD3/Amiodarone
+  ✓ PubMed-NLP                              FructoseGlucose+Linalool       → Benzodiazepines
+  ~ node-only                               FructoseGlucose+Linalool       → NTI-Drugs/Lithium/Digoxin
+  ~ node-only                               FructoseGlucose+Linalool       → Orlistat
+
+Dish 55: Griwech
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('DoubleLipid') not in DB   DoubleLipid                    → Statins/Cyclosporine/Griseofulvin/Isotretinoi
+  ? NOVEL — food('DoubleLipid') not in DB   DoubleLipid                    → Insulin/Metformin/SGLT2
+  ? NOVEL — food('DoubleLipid') not in DB   DoubleLipid                    → Paracetamol/Statins
+  ? NOVEL — food('DoubleLipid') not in DB   DoubleLipid                    → HRT/Tamoxifen/Warfarin
+  ? NOVEL — food('DoubleLipid') not in DB   DoubleLipid                    → Benzodiazepines
+  ? NOVEL — food('DoubleLipid') not in DB   DoubleLipid                    → Orlistat
+  ? NOVEL — food('BraidedLattice+3mm') not in DB  BraidedLattice+3mm             → Statins/Cyclosporine/Griseofulvin/Isotretinoi
+  ? NOVEL — food('BraidedLattice+3mm') not in DB  BraidedLattice+3mm             → Insulin/Metformin/SGLT2
+  ? NOVEL — food('BraidedLattice+3mm') not in DB  BraidedLattice+3mm             → Paracetamol/Statins
+  ? NOVEL — food('BraidedLattice+3mm') not in DB  BraidedLattice+3mm             → HRT/Tamoxifen/Warfarin
+  ? NOVEL — food('BraidedLattice+3mm') not in DB  BraidedLattice+3mm             → Benzodiazepines
+  ? NOVEL — food('BraidedLattice+3mm') not in DB  BraidedLattice+3mm             → Orlistat
+  ? NOVEL — food('MaillardHoneySynergy') not in DB  MaillardHoneySynergy           → Statins/Cyclosporine/Griseofulvin/Isotretinoi
+  ? NOVEL — food('MaillardHoneySynergy') not in DB  MaillardHoneySynergy           → Insulin/Metformin/SGLT2
+  ? NOVEL — food('MaillardHoneySynergy') not in DB  MaillardHoneySynergy           → Paracetamol/Statins
+  ? NOVEL — food('MaillardHoneySynergy') not in DB  MaillardHoneySynergy           → HRT/Tamoxifen/Warfarin
+  ? NOVEL — food('MaillardHoneySynergy') not in DB  MaillardHoneySynergy           → Benzodiazepines
+  ? NOVEL — food('MaillardHoneySynergy') not in DB  MaillardHoneySynergy           → Orlistat
+  ✓ PubMed-NLP                              Sesamin+Sesamolin              → Statins/Cyclosporine/Griseofulvin/Isotretinoi
+  ✓ PubMed-NLP                              Sesamin+Sesamolin              → Insulin/Metformin/SGLT2
+  ✓ PubMed-NLP                              Sesamin+Sesamolin              → Paracetamol/Statins
+  ✓ PubMed-NLP                              Sesamin+Sesamolin              → HRT/Tamoxifen/Warfarin
+  ~ node-only                               Sesamin+Sesamolin              → Benzodiazepines
+  ✓ PubMed-NLP                              Sesamin+Sesamolin              → Orlistat
+  ~ node-only                               Linalool                       → Statins/Cyclosporine/Griseofulvin/Isotretinoi
+  ✓ PubMed-NLP                              Linalool                       → Insulin/Metformin/SGLT2
+  ~ node-only                               Linalool                       → Paracetamol/Statins
+  ~ node-only                               Linalool                       → HRT/Tamoxifen/Warfarin
+  ~ node-only                               Linalool                       → Benzodiazepines
+  ~ node-only                               Linalool                       → Orlistat
+
+Dish 56: Mhancha
+------------------------------------------------------------------------------------------
+  ? NOVEL — food('DioulHighPorosity') not in DB  DioulHighPorosity              → Metformin/Insulin/SGLT2
+  ? NOVEL — food('DioulHighPorosity') not in DB  DioulHighPorosity              → Sildenafil/Nitrates
+  ? NOVEL — food('DioulHighPorosity') not in DB  DioulHighPorosity              → Isotretinoin/Griseofulvin/Cyclosporine/VitD3
+  ? NOVEL — food('DioulHighPorosity') not in DB  DioulHighPorosity              → Paracetamol
+  ? NOVEL — food('DioulHighPorosity') not in DB  DioulHighPorosity              → NTI-Drugs
+  ? NOVEL — food('DioulHighPorosity') not in DB  DioulHighPorosity              → Orlistat
+  ? NOVEL — food('LArg+Niacin') not in DB   LArg+Niacin                    → Metformin/Insulin/SGLT2
+  ? NOVEL — food('LArg+Niacin') not in DB   LArg+Niacin                    → Sildenafil/Nitrates
+  ? NOVEL — food('LArg+Niacin') not in DB   LArg+Niacin                    → Isotretinoin/Griseofulvin/Cyclosporine/VitD3
+  ? NOVEL — food('LArg+Niacin') not in DB   LArg+Niacin                    → Paracetamol
+  ? NOVEL — food('LArg+Niacin') not in DB   LArg+Niacin                    → NTI-Drugs
+  ? NOVEL — food('LArg+Niacin') not in DB   LArg+Niacin                    → Orlistat
+  ? NOVEL — food('DeepFryOil') not in DB    DeepFryOil                     → Metformin/Insulin/SGLT2
+  ? NOVEL — food('DeepFryOil') not in DB    DeepFryOil                     → Sildenafil/Nitrates
+  ? NOVEL — food('DeepFryOil') not in DB    DeepFryOil                     → Isotretinoin/Griseofulvin/Cyclosporine/VitD3
+  ? NOVEL — food('DeepFryOil') not in DB    DeepFryOil                     → Paracetamol
+  ? NOVEL — food('DeepFryOil') not in DB    DeepFryOil                     → NTI-Drugs
+  ? NOVEL — food('DeepFryOil') not in DB    DeepFryOil                     → Orlistat
+  ? NOVEL — food('Honey250g') not in DB     Honey250g                      → Metformin/Insulin/SGLT2
+  ? NOVEL — food('Honey250g') not in DB     Honey250g                      → Sildenafil/Nitrates
+  ? NOVEL — food('Honey250g') not in DB     Honey250g                      → Isotretinoin/Griseofulvin/Cyclosporine/VitD3
+  ? NOVEL — food('Honey250g') not in DB     Honey250g                      → Paracetamol
+  ? NOVEL — food('Honey250g') not in DB     Honey250g                      → NTI-Drugs
+  ? NOVEL — food('Honey250g') not in DB     Honey250g                      → Orlistat
+
+Dish 57: Chou-fleur
+------------------------------------------------------------------------------------------
+  ~ node-only                               I3C                            → Tamoxifen/HRT/OCP
+  ~ node-only                               I3C                            → ACE-I/ARB/Spiron
+  ~ node-only                               I3C                            → Statins
+  ~ node-only                               I3C                            → Antispasmodics
+  ✓ PubMed-NLP                              Amylopectin+K+                 → Tamoxifen/HRT/OCP
+  ✓ DrugBank-named                          Amylopectin+K+                 → ACE-I/ARB/Spiron
+  ~ node-only                               Amylopectin+K+                 → Statins
+  ~ node-only                               Amylopectin+K+                 → Antispasmodics
+  ~ node-only                               Lycopene                       → Tamoxifen/HRT/OCP
+  ~ node-only                               Lycopene                       → ACE-I/ARB/Spiron
+  ~ node-only                               Lycopene                       → Statins
+  ~ node-only                               Lycopene                       → Antispasmodics
+  ✓ PubMed-NLP                              CuminAldehyde+Allicin          → Tamoxifen/HRT/OCP
+  ~ node-only                               CuminAldehyde+Allicin          → ACE-I/ARB/Spiron
+  ~ node-only                               CuminAldehyde+Allicin          → Statins
+  ~ node-only                               CuminAldehyde+Allicin          → Antispasmodics
+
+Dish 58: Batata Red Sauce
+------------------------------------------------------------------------------------------
+  ✓ PubMed-NLP                              FullGelatStarch+K+             → Metformin/Insulin/SGLT2
+  ? NOVEL — drug('ACE-I/ARB') not in DB     FullGelatStarch+K+             → ACE-I/ARB
+  ~ node-only                               FullGelatStarch+K+             → LoopDiuretics
+  ~ node-only                               FullGelatStarch+K+             → Statins
+  ~ node-only                               ConcentratedLycopene           → Metformin/Insulin/SGLT2
+  ? NOVEL — drug('ACE-I/ARB') not in DB     ConcentratedLycopene           → ACE-I/ARB
+  ~ node-only                               ConcentratedLycopene           → LoopDiuretics
+  ~ node-only                               ConcentratedLycopene           → Statins
+  ✓ PubMed-NLP                              Quercetin+Allicin              → Metformin/Insulin/SGLT2
+  ? NOVEL — drug('ACE-I/ARB') not in DB     Quercetin+Allicin              → ACE-I/ARB
+  ~ node-only                               Quercetin+Allicin              → LoopDiuretics
+  ~ node-only                               Quercetin+Allicin              → Statins
+  ✓ PubMed-NLP                              Apigenin+Cuminaldehyde         → Metformin/Insulin/SGLT2
+  ? NOVEL — drug('ACE-I/ARB') not in DB     Apigenin+Cuminaldehyde         → ACE-I/ARB
+  ~ node-only                               Apigenin+Cuminaldehyde         → LoopDiuretics
+  ~ node-only                               Apigenin+Cuminaldehyde         → Statins
+
+Dish 59: Batata bel-Jelbana
+------------------------------------------------------------------------------------------
+  ✓ PubMed-NLP                              Saponins+Amylose               → Acarbose/Metformin
+  ✓ DrugBank-named                          Saponins+Amylose               → Propranolol/Phenytoin/Cyclosporine
+  ~ node-only                               Saponins+Amylose               → Sildenafil/ACE-I
+  ~ node-only                               Saponins+Amylose               → StatinsBile
+  ? NOVEL — food('Leucine+EssAA') not in DB  Leucine+EssAA                  → Acarbose/Metformin
+  ? NOVEL — food('Leucine+EssAA') not in DB  Leucine+EssAA                  → Propranolol/Phenytoin/Cyclosporine
+  ? NOVEL — food('Leucine+EssAA') not in DB  Leucine+EssAA                  → Sildenafil/ACE-I
+  ? NOVEL — food('Leucine+EssAA') not in DB  Leucine+EssAA                  → StatinsBile
+  ✓ PubMed-NLP                              Cinnamaldehyde                 → Acarbose/Metformin
+  ~ node-only                               Cinnamaldehyde                 → Propranolol/Phenytoin/Cyclosporine
+  ~ node-only                               Cinnamaldehyde                 → Sildenafil/ACE-I
+  ~ node-only                               Cinnamaldehyde                 → StatinsBile
+  ~ node-only                               Allicin+Piperine               → Acarbose/Metformin
+  ✓ PubMed-NLP                              Allicin+Piperine               → Propranolol/Phenytoin/Cyclosporine
+  ~ node-only                               Allicin+Piperine               → Sildenafil/ACE-I
+  ~ node-only                               Allicin+Piperine               → StatinsBile
+
+Dish 60: La Soupe (Veg+RedLentil)
+------------------------------------------------------------------------------------------
+  ✓ PubMed-NLP                              SolFiber+Folate                → Methotrexate/Antifolates
+  ~ node-only                               SolFiber+Folate                → Warfarin/NSAIDs
+  ~ node-only                               SolFiber+Folate                → CYP3A4-Substrates
+  ~ node-only                               SolFiber+Folate                → VitA-Retinoids
+  ? NOVEL — food('BetaCarotene+Mineral') not in DB  BetaCarotene+Minerals          → Methotrexate/Antifolates
+  ? NOVEL — food('BetaCarotene+Mineral') not in DB  BetaCarotene+Minerals          → Warfarin/NSAIDs
+  ? NOVEL — food('BetaCarotene+Mineral') not in DB  BetaCarotene+Minerals          → CYP3A4-Substrates
+  ? NOVEL — food('BetaCarotene+Mineral') not in DB  BetaCarotene+Minerals          → VitA-Retinoids
+  ✓ PubMed-NLP                              Curcumin+Gingerol+Piperine     → Methotrexate/Antifolates
+  ✓ DrugBank-named                          Curcumin+Gingerol+Piperine     → Warfarin/NSAIDs
+  ~ node-only                               Curcumin+Gingerol+Piperine     → CYP3A4-Substrates
+  ~ node-only                               Curcumin+Gingerol+Piperine     → VitA-Retinoids
+  ~ node-only                               Allicin-LateAdd                → Methotrexate/Antifolates
+  ✓ DrugBank-named                          Allicin-LateAdd                → Warfarin/NSAIDs
+  ~ node-only                               Allicin-LateAdd                → CYP3A4-Substrates
+  ✓ PubMed-NLP                              Allicin-LateAdd                → VitA-Retinoids
+
+Dish 61: Djelbana b'Garnon
+------------------------------------------------------------------------------------------
+  ~ node-only                               Cynarin+Silymarin              → HepatotoxicDrugs/Statins
+  ✓ PubMed-NLP                              Cynarin+Silymarin              → Isotretinoin/Cyclosporine
+  ~ node-only                               Cynarin+Silymarin              → Orlistat
+  ~ node-only                               Cynarin+Silymarin              → mTOR-Inhib
+  ✓ PubMed-NLP                              Cynarin+Silymarin              → Insulin/Metformin
+  ~ node-only                               Inositol+SolFiber              → HepatotoxicDrugs/Statins
+  ✓ PubMed-NLP                              Inositol+SolFiber              → Isotretinoin/Cyclosporine
+  ~ node-only                               Inositol+SolFiber              → Orlistat
+  ~ node-only                               Inositol+SolFiber              → mTOR-Inhib
+  ✓ PubMed-NLP                              Inositol+SolFiber              → Insulin/Metformin
+  ? NOVEL — food('Leucine+Gelatin') not in DB  Leucine+Gelatin                → HepatotoxicDrugs/Statins
+  ? NOVEL — food('Leucine+Gelatin') not in DB  Leucine+Gelatin                → Isotretinoin/Cyclosporine
+  ? NOVEL — food('Leucine+Gelatin') not in DB  Leucine+Gelatin                → Orlistat
+  ? NOVEL — food('Leucine+Gelatin') not in DB  Leucine+Gelatin                → mTOR-Inhib
+  ? NOVEL — food('Leucine+Gelatin') not in DB  Leucine+Gelatin                → Insulin/Metformin
+  ? NOVEL — food('GelatinisedFlour') not in DB  GelatinisedFlour               → HepatotoxicDrugs/Statins
+  ? NOVEL — food('GelatinisedFlour') not in DB  GelatinisedFlour               → Isotretinoin/Cyclosporine
+  ? NOVEL — food('GelatinisedFlour') not in DB  GelatinisedFlour               → Orlistat
+  ? NOVEL — food('GelatinisedFlour') not in DB  GelatinisedFlour               → mTOR-Inhib
+  ? NOVEL — food('GelatinisedFlour') not in DB  GelatinisedFlour               → Insulin/Metformin
+
+Dish 62: Fritte Omelette
+------------------------------------------------------------------------------------------
+  ✓ PubMed-NLP                              AcrylamideMaillard+StarchLipid → Insulin/Metformin/SGLT2
+  ~ node-only                               AcrylamideMaillard+StarchLipid → Anticholinergics/Donepezil
+  ~ node-only                               AcrylamideMaillard+StarchLipid → Isotretinoin/Griseofulvin/Cyclosporine
+  ~ node-only                               AcrylamideMaillard+StarchLipid → Orlistat
+  ~ node-only                               AcrylamideMaillard+StarchLipid → Paracetamol
+  ~ node-only                               Choline+Lutein+Leucine         → Insulin/Metformin/SGLT2
+  ~ node-only                               Choline+Lutein+Leucine         → Anticholinergics/Donepezil
+  ✓ PubMed-NLP                              Choline+Lutein+Leucine         → Isotretinoin/Griseofulvin/Cyclosporine
+  ~ node-only                               Choline+Lutein+Leucine         → Orlistat
+  ~ node-only                               Choline+Lutein+Leucine         → Paracetamol
+  ? NOVEL — food('OxidisedLipids+CCK') not in DB  OxidisedLipids+CCK             → Insulin/Metformin/SGLT2
+  ? NOVEL — food('OxidisedLipids+CCK') not in DB  OxidisedLipids+CCK             → Anticholinergics/Donepezil
+  ? NOVEL — food('OxidisedLipids+CCK') not in DB  OxidisedLipids+CCK             → Isotretinoin/Griseofulvin/Cyclosporine
+  ? NOVEL — food('OxidisedLipids+CCK') not in DB  OxidisedLipids+CCK             → Orlistat
+  ? NOVEL — food('OxidisedLipids+CCK') not in DB  OxidisedLipids+CCK             → Paracetamol
+
+==========================================================================================
+VERIFICATION SUMMARY
+==========================================================================================
+Total (bioactive × drug) pairs checked  : 1193
+  ✓ CONFIRMED  (DrugBank / PubMed)      :  186  (15%)
+  ~ NODE-ONLY  (both in DFI graph)      :  567  (47%)
+  ? NOVEL      (pair not in any DB)     :  440  (36%)
+
+Sources used:
+  DB-A  DrugBank named food↔drug pairs  : 1538
+  DB-B  DrugBank JSON interaction texts : 2512
+  DB-C  PubMed NLP extracted pairs      : 3638
+  DB-D  Unified-DFI node maps           : 1894 food + 5000 drug nodes
+
+INTERPRETATION:
+  ✓ CONFIRMED  = interaction is documented in at least one external DB → solid evidence
+  ~ NODE-ONLY  = both food entity and drug exist in the graph but no direct edge confirmed
+  ? NOVEL      = interaction not found in any DB → either genuinely new signal OR
+                 the bioactive/drug label needs alias expansion
+
+Full report → d:\23AIBox-DFinder\na_interaction_verification_v2.txt

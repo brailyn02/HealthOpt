@@ -1,0 +1,25 @@
+WRAPPER B RUNTIME VALIDATION
+============================
+Manual dish source: D:\23AIBox-DFinder\data\na_dish_compounds.json
+Runtime decomposer: llm_decompose() with NA seed + FooDB/HKG gate
+
+DISH-LEVEL AGREEMENT
+- Dishes evaluated: 56
+- Dishes with any overlap: 55/56 (98.2%)
+- Exact dish-level matches: 8/56 (14.3%)
+
+COMPOUND-LEVEL AGREEMENT
+- Manual compounds total: 292
+- Runtime compounds total: 194
+- Overlap total: 166
+- Recall vs manual: 56.8%
+- Precision vs manual: 85.6%
+
+HALLUCINATION/VERIFICATION CHECK (runtime compounds)
+- In FooDB: 194/194 (100.0%)
+- In HKG: 177/194 (91.2%)
+- In neither FooDB nor HKG (suspected hallucinations): 0/194 (0.0%)
+
+FILES WRITTEN
+- D:\23AIBox-DFinder\ablation_results\wrapper_b_runtime_vs_manual_food_level.csv
+- D:\23AIBox-DFinder\ablation_results\wrapper_b_runtime_vs_manual_compound_level.csv

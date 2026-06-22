@@ -1,0 +1,252 @@
+
+============================================================
+DATASET SIZES
+============================================================
+  DFI key-sentences unique drugs    : 682
+  drugs_cleaned_final unique entries : 670  (header: ['drug_id', 'drug_name', 'category', 'dual_role', 'notes'])
+  drugs_cleaned_with_categories      : 1422
+
+============================================================
+A) DFI drugs vs drugs_cleaned_final
+============================================================
+  DFI drugs present in cleaned_final  : 665
+  DFI drugs MISSING from cleaned_final: 17
+  Missing list (first 100):
+    (s)-3,5-dihydroxyphenylglycine
+    1,1-diphenyl,2-picrylhydrazyl
+    1,2-dimethyl hydrazine
+    1,25-dihydroxyvitamin d
+    2,2-azinobis[3-ethylbenzthiazoline]-6-sulfonic acid
+    2,2-diphenyl-1-picrylhydrazyl
+    2-amino-1-methyl-6-phenylimidazo4,5-bpyridine
+    3'-deoxy-3'-azidothymidine
+    7,12-dimethylbenz[α]anthracene
+    7,12-dimethylbenzaanthracene
+    capsaicin
+    cis-diamminedichloroplatinum
+    methicillin
+    na
+    norfloxacin
+    pl
+    remifentanil
+
+============================================================
+B) drugs_cleaned_final vs drugs_cleaned_with_categories
+============================================================
+  cleaned_final present in with_categories  : 156
+  cleaned_final MISSING from with_categories: 514
+  Missing list (first 100):
+    (acebutolol
+    (s)-3
+    1
+    1-methylnicotiamide
+    17-hydroxyprogesterone
+    2
+    2'-azinobis-3-ethylbenzothiazoline-6-sulfonic acid
+    2-amino-1-methyl-6-phenylimidazo4
+    22r-hydroxycholesterol
+    25-hydroxyvitamin d
+    25-hydroyvitamin d
+    4-chloro-dl-phenylalanine methyl ester hydrochloride
+    5-flu
+    5-fluorouracil
+    5-fu
+    5-hiaa
+    5-hydroxyindole acetic acid
+    6beta-hydroxycortisol
+    7
+    abts
+    acetaldehyde
+    acetate
+    acetic acid
+    acetylcholine
+    acetylcholine esterase
+    acetylcholinesterase
+    ach
+    ache
+    actinomycin d
+    actinomycin d-chase
+    activators
+    adenosine tri phosphate
+    adiponectin
+    adriamycin
+    ag
+    ag-nanoparticles
+    agii
+    al
+    alanine aminotransferase
+    albumin
+    alcl3
+    alcohol
+    alkaline phosphatase
+    alp
+    alt
+    aluminium chloride
+    aluminum
+    aluminum chloride
+    am
+    amb
+    ambrisentan
+    aminoglycosides
+    ammonia
+    amoxicillin/clavulanic acid
+    amp b
+    amphotericin b
+    ampt
+    amrinone
+    amx
+    anandamide
+    androgen
+    androgens
+    androstenedione
+    ang ii
+    angiotensin i
+    angiotensin ii
+    anti-malarial
+    antibiotic
+    anticholinestrase
+    anticoagulants
+    antidepressants
+    antiplatelet
+    apap
+    arachidonic acid
+    arbekacin
+    arginine
+    arsenic
+    arsenic ion
+    arsenicated
+    arsenite
+    artemisinin
+    as(iii)
+    as3+
+    asa
+    aspartate aminotransferase
+    aspirin
+    ast
+    atenolol
+    azt
+    bacitracin
+    bche
+    benzodiazepines
+    bicuculline
+    bleomycin
+    blm
+    bont/a
+    bonts
+    both drugs
+    botulinum neurotoxin type a
+    botulinum neurotoxins
+
+============================================================
+C) DFI drugs directly vs drugs_cleaned_with_categories
+============================================================
+  DFI drugs present in with_categories  : 158
+  DFI drugs MISSING from with_categories: 524
+  Missing list (first 100):
+    (acebutolol
+    (s)-3,5-dihydroxyphenylglycine
+    1,1-diphenyl,2-picrylhydrazyl
+    1,2-dimethyl hydrazine
+    1,25-dihydroxyvitamin d
+    1-methylnicotiamide
+    17-hydroxyprogesterone
+    2'-azinobis-3-ethylbenzothiazoline-6-sulfonic acid
+    2,2-azinobis[3-ethylbenzthiazoline]-6-sulfonic acid
+    2,2-diphenyl-1-picrylhydrazyl
+    2-amino-1-methyl-6-phenylimidazo4,5-bpyridine
+    22r-hydroxycholesterol
+    25-hydroxyvitamin d
+    25-hydroyvitamin d
+    3'-deoxy-3'-azidothymidine
+    4-chloro-dl-phenylalanine methyl ester hydrochloride
+    5-flu
+    5-fluorouracil
+    5-fu
+    5-hiaa
+    5-hydroxyindole acetic acid
+    6beta-hydroxycortisol
+    7,12-dimethylbenz[α]anthracene
+    7,12-dimethylbenzaanthracene
+    abts
+    acetaldehyde
+    acetate
+    acetic acid
+    acetylcholine
+    acetylcholine esterase
+    acetylcholinesterase
+    ach
+    ache
+    actinomycin d
+    actinomycin d-chase
+    activators
+    adenosine tri phosphate
+    adiponectin
+    adriamycin
+    ag
+    ag-nanoparticles
+    agii
+    al
+    alanine aminotransferase
+    albumin
+    alcl3
+    alcohol
+    alkaline phosphatase
+    alp
+    alt
+    aluminium chloride
+    aluminum
+    aluminum chloride
+    am
+    amb
+    ambrisentan
+    aminoglycosides
+    ammonia
+    amoxicillin/clavulanic acid
+    amp b
+    amphotericin b
+    ampt
+    amrinone
+    amx
+    anandamide
+    androgen
+    androgens
+    androstenedione
+    ang ii
+    angiotensin i
+    angiotensin ii
+    anti-malarial
+    antibiotic
+    anticholinestrase
+    anticoagulants
+    antidepressants
+    antiplatelet
+    apap
+    arachidonic acid
+    arbekacin
+    arginine
+    arsenic
+    arsenic ion
+    arsenicated
+    arsenite
+    artemisinin
+    as(iii)
+    as3+
+    asa
+    aspartate aminotransferase
+    aspirin
+    ast
+    atenolol
+    azt
+    bacitracin
+    bche
+    benzodiazepines
+    bicuculline
+    bleomycin
+    blm
+
+============================================================
+SUMMARY
+============================================================
+  DFI unique drugs: 682
+  Covered by drugs_cleaned_with_categories: 158 (23.2%)
+  NOT covered (these would be missing from training): 524

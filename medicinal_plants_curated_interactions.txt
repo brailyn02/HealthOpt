@@ -1,0 +1,172 @@
+================================================================================
+  MEDICINAL PLANTS — CURATED DRUG INTERACTIONS (FOR FINE-TUNING)
+  Sources: EBSCO, PubMed Central, Mayo Clinic, MDPI, NIH NCCIH, NCBI, AJRSP
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+  CATEGORY 1: Interactions with Blood Thinners (Anticoagulants)
+────────────────────────────────────────────────────────────────────────────────
+Many of these herbs either act as natural blood thinners or contain Vitamin K,
+which does the opposite — potentially leading to dangerous clotting or bleeding.
+
+[1] Medicago sativa (Alfalfa)
+    Drug(s)    : Warfarin (Coumadin)
+    Interaction: High in Vitamin K, which can directly counteract the
+                 anticoagulant effect of Warfarin, reducing its efficacy and
+                 increasing the risk of clot formation.
+    Mechanism  : Vitamin K antagonism of Warfarin
+    Evidence   : Clinical / Pharmacological
+    Source     : EBSCO Research Starters — Alfalfa as a Nutritional Supplement
+
+[2] Ferula assa-foetida (Asafoetida)
+    Drug(s)    : Warfarin
+    Interaction: Contains coumarin derivatives that may enhance the activity of
+                 Warfarin, increasing the risk of internal bleeding.
+    Mechanism  : Additive anticoagulant effect via coumarin compounds
+    Evidence   : In-vivo / Case report
+    Source     : PubMed Central (PMC3459456)
+
+[3] Aloe vera (Oral)
+    Drug(s)    : Aspirin; Antiplatelet drugs
+    Interaction: May slow blood clotting, potentially increasing the risk of
+                 bleeding when taken concurrently with aspirin or other
+                 antiplatelet agents.
+    Mechanism  : Additive antiplatelet / anticoagulant activity
+    Evidence   : Clinical advisory
+    Source     : Mayo Clinic — Aloe Vera Safety and Interactions
+
+[4] Carica papaya (Papaya)
+    Drug(s)    : Warfarin
+    Interaction: Contains papain (a proteolytic enzyme), which may increase the
+                 blood-thinning effects of Warfarin, raising the risk of
+                 haemorrhage.
+    Mechanism  : Papain-mediated potentiation of anticoagulant activity
+    Evidence   : Review / Case report
+    Source     : MDPI — Carica Papaya Review
+
+────────────────────────────────────────────────────────────────────────────────
+  CATEGORY 2: Interactions with Diabetes Medications
+────────────────────────────────────────────────────────────────────────────────
+These substances can naturally lower blood sugar; combined with insulin or
+metformin they may cause hypoglycaemia (dangerously low blood sugar).
+
+[5] Ocimum tenuiflorum (Holy Basil / Tulsi)
+    Drug(s)    : Insulin; Oral hypoglycaemic agents
+    Interaction: Significantly decreases blood glucose levels and can potentiate
+                 the action of exogenous insulin, risking hypoglycaemia.
+    Mechanism  : Enhanced insulin secretion / glucose uptake
+    Evidence   : Human clinical trial
+    Source     : PubMed Central (PMC3249909)
+
+[6] Astragalus propinquus (Astragalus)
+    Drug(s)    : Metformin
+    Interaction: Adding Astragalus to Metformin therapy reduces fasting blood
+                 glucose more than Metformin alone, requiring dosage
+                 re-evaluation to prevent hypoglycaemia.
+    Mechanism  : Additive hypoglycaemic effect
+    Evidence   : Clinical review / meta-analysis
+    Source     : NIH — National Center for Complementary and Integrative
+                 Health (NCCIH)
+
+[7] Arctium lappa (Burdock)
+    Drug(s)    : Acarbose; Insulin; Oral hypoglycaemic agents
+    Interaction: Exhibits alpha-glucosidase inhibition (similar mechanism to
+                 the drug Acarbose), which slows carbohydrate digestion and
+                 lowers post-prandial blood sugar; additive effect with
+                 anti-diabetic drugs.
+    Mechanism  : Alpha-glucosidase inhibition
+    Evidence   : In-vitro / animal in-vivo
+    Source     : PubMed Central (PMC9300799)
+
+[8] Senegalia senegal (Gum Arabic) / Amorphophallus konjac (Konjac)
+    Drug(s)    : Insulin; Metformin; Oral hypoglycaemic agents
+    Interaction: Both are soluble dietary fibres that slow glucose absorption
+                 from the gut, potentially requiring dosage adjustments for
+                 diabetic patients to avoid hypoglycaemia.
+    Mechanism  : Delayed gastric emptying / reduced glucose absorption
+    Evidence   : Clinical / pharmacological review
+    Source     : AJRSP — Medical Uses of Gum Arabic
+
+────────────────────────────────────────────────────────────────────────────────
+  CATEGORY 3: Interactions with Immunosuppressants
+────────────────────────────────────────────────────────────────────────────────
+Herbs that stimulate the immune system can counteract immunosuppressant
+medications used for organ transplants or autoimmune diseases.
+
+[9] Astragalus propinquus (Astragalus)
+    Drug(s)    : Cyclosporine; Corticosteroids; Immunosuppressants
+    Interaction: Known to enhance immune responses and upregulate
+                 pro-inflammatory cytokines, which can directly interfere with
+                 the intended effect of immunosuppressive therapy.
+    Mechanism  : Immune stimulation / cytokine upregulation
+    Evidence   : In-vivo / clinical review
+    Source     : NIH NCCIH — Astragalus Safety
+
+[10] Medicago sativa (Alfalfa)
+    Drug(s)    : Immunosuppressants (e.g., Hydroxychloroquine, Corticosteroids)
+    Interaction: Contains L-canavanine, a non-protein amino acid that can
+                 trigger or worsen flare-ups in patients with Systemic Lupus
+                 Erythematosus (SLE), counteracting disease management.
+    Mechanism  : L-canavanine-induced immune activation / SLE exacerbation
+    Evidence   : Case reports / in-vivo
+    Source     : EBSCO — Alfalfa Nutritional Supplement
+
+────────────────────────────────────────────────────────────────────────────────
+  CATEGORY 4: Absorption & General Drug Interactions
+────────────────────────────────────────────────────────────────────────────────
+The mucilaginous or high-fibre nature of some herbs can physically bind to oral
+medications, preventing their absorption into the bloodstream.
+
+[11] Althaea officinalis (Marshmallow Root) / Amorphophallus konjac (Konjac)
+    Drug(s)    : All oral medications (general)
+    Interaction: High mucilage/fibre content can bind to co-administered oral
+                 drugs, reducing their bioavailability. Recommended to take
+                 these herbs at least 2 hours apart from other medications.
+    Mechanism  : Physical adsorption / reduced GI absorption
+    Evidence   : Pharmacokinetic advisory
+    Source     : NCBI Bookshelf — LactMed (Marshmallow)
+
+[12] Senegalia senegal (Gum Arabic)
+    Drug(s)    : Amoxicillin
+    Interaction: Specifically reported to decrease the intestinal absorption of
+                 the antibiotic Amoxicillin, potentially leading to therapeutic
+                 failure.
+    Mechanism  : Physical binding / reduced drug absorption
+    Evidence   : Clinical study
+    Source     : AJRSP — Gum Arabic Interactions
+
+[13] Euterpe oleracea (Acai)
+    Drug(s)    : Methotrexate; Chemotherapy agents
+    Interaction: May interact with the metabolism of certain chemotherapy drugs
+                 (notably Methotrexate) by affecting the Cytochrome P450 enzyme
+                 system, potentially increasing drug toxicity.
+    Mechanism  : CYP450 modulation / altered drug metabolism
+    Evidence   : In-vitro / pharmacological review
+    Source     : PubMed Central (PMC12875430)
+
+================================================================================
+  SUMMARY TABLE
+================================================================================
+
+ #  | Plant                        | Drug(s)                     | Category
+----|------------------------------|-----------------------------|--------------------
+ 1  | Alfalfa                      | Warfarin                    | Anticoagulant
+ 2  | Asafoetida                   | Warfarin                    | Anticoagulant
+ 3  | Aloe vera                    | Aspirin / Antiplatelets     | Anticoagulant
+ 4  | Papaya                       | Warfarin                    | Anticoagulant
+ 5  | Holy Basil                   | Insulin                     | Antidiabetic
+ 6  | Astragalus                   | Metformin                   | Antidiabetic
+ 7  | Burdock                      | Acarbose / Insulin          | Antidiabetic
+ 8  | Gum Arabic / Konjac          | Insulin / Metformin         | Antidiabetic
+ 9  | Astragalus                   | Cyclosporine / Steroids     | Immunosuppressant
+10  | Alfalfa                      | Immunosuppressants          | Immunosuppressant
+11  | Marshmallow / Konjac         | All oral drugs              | Absorption
+12  | Gum Arabic                   | Amoxicillin                 | Absorption
+13  | Acai                         | Methotrexate / Chemo        | CYP450 / Metabolism
+cd D:\23AIBox-DFinder\DFinder-main\code && C:\Users\brain\anaconda3\python.exe main.py --load 1 --epochs 200 --lr 0.0001 --comment finetune-na --tensorboard 0cd D:\23AIBox-DFinder\DFinder-main\code && C:\Users\brain\anaconda3\python.exe main.py --load 1 --epochs 200 --lr 0.0001 --comment finetune-na --tensorboard 0
+================================================================================
+  NOTE: These interactions are sourced from published literature and clinical
+  advisories. They are intended as curated fine-tuning data for DFI models.
+  All 13 records cover plants NOT previously found in the unified-DFI dataset,
+  filling known gaps in the training corpus.
+================================================================================

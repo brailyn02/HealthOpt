@@ -1,0 +1,890 @@
+drug,food,drug_in_kge,food_compounds_kge,n_shared_enzymes,kge_score,found,top_enzyme_1,top_enz1_comp_rank,top_enz1_drug_rank,top_enzyme_2,top_enzyme_3,explanation
+levothyroxine,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+ciprofloxacin,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+digoxin,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+levothyroxine,Ferulic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Ferulic Acid'.
+digoxin,Ferulic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Ferulic Acid'.
+lisinopril,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+warfarin,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+phenytoin,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+lisinopril,Capsaicin,True,1,55,41.4849,True,CYP3A4,4,26,ABCB1,CYP1A2,CYP3A4 (w=10): Capsaicin activatess CYP3A4 [rank=4]; lisinopril bindss CYP3A4 [rank=26] | ABCB1 (w=8): Capsaicin activatess ABCB1 [rank=3]; lisinopril substrate_ofs ABCB1 [rank=21] | CYP1A2 (w=6): Capsaicin substrate_ofs CYP1A2 [rank=14]; lisinopril substrate_ofs CYP1A2 [rank=12]
+warfarin,Capsaicin,True,1,48,43.1989,True,CYP3A4,4,9,CYP1A2,ABCB1,CYP3A4 (w=10): Capsaicin activatess CYP3A4 [rank=4]; warfarin inducess CYP3A4 [rank=9] | CYP1A2 (w=6): Capsaicin substrate_ofs CYP1A2 [rank=14]; warfarin inducess CYP1A2 [rank=87] | ABCB1 (w=8): Capsaicin activatess ABCB1 [rank=3]; warfarin activatess ABCB1 [rank=109]
+theophylline,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+insulin,Amylopectin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+metformin,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+allopurinol,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+insulin,Potassium,False,0,0,0.0,False,,,,,,No KGE entities found for 'Potassium'.
+insulin,Cinnamaldehyde,False,0,0,0.0,False,,,,,,No KGE entities found for 'Cinnamaldehyde'.
+metformin,Cinnamaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Cinnamaldehyde'.
+ramipril,Capsaicin,True,1,48,41.6075,True,CYP1A2,14,10,ABCB1,CYP3A4,CYP1A2 (w=6): Capsaicin substrate_ofs CYP1A2 [rank=14]; ramipril inhibitss CYP1A2 [rank=10] | ABCB1 (w=8): Capsaicin activatess ABCB1 [rank=3]; ramipril activatess ABCB1 [rank=30] | CYP3A4 (w=10): Capsaicin activatess CYP3A4 [rank=4]; ramipril bindss CYP3A4 [rank=111]
+perindopril,Capsaicin,True,1,42,37.3668,True,ABCB1,3,34,CYP3A4,CYP1A2,ABCB1 (w=8): Capsaicin activatess ABCB1 [rank=3]; perindopril bindss ABCB1 [rank=34] | CYP3A4 (w=10): Capsaicin activatess CYP3A4 [rank=4]; perindopril bindss CYP3A4 [rank=104] | CYP1A2 (w=6): Capsaicin substrate_ofs CYP1A2 [rank=14]; perindopril bindss CYP1A2 [rank=21]
+lithium,Na+,False,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+lithium,Allicin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+saquinavir,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+cyclosporine,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+diazepam,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+alprazolam,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+lorazepam,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+warfarin,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+allopurinol,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+cyclosporine,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+orlistat,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+insulin,Coumarin,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Coumarin' compounds and 'insulin'.
+metformin,Coumarin,True,1,41,64.5905,True,CYP3A4,3,2,ABCB1,CYP2C9,CYP3A4 (w=10): Coumarin inducess CYP3A4 [rank=3]; metformin substrate_ofs CYP3A4 [rank=2] | ABCB1 (w=8): Coumarin inducess ABCB1 [rank=13]; metformin substrate_ofs ABCB1 [rank=50] | CYP2C9 (w=7): Coumarin substrate_ofs CYP2C9 [rank=16]; metformin substrate_ofs CYP2C9 [rank=20]
+insulin,Sucrose,False,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+insulin,Glucose,False,0,0,0.0,False,,,,,,No KGE entities found for 'Glucose'.
+insulin,Butyric Acid,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Butyric Acid' compounds and 'insulin'.
+metformin,Butyric Acid,True,1,53,59.7337,True,CYP3A4,8,2,CYP2C9,CYP2C19,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; metformin substrate_ofs CYP3A4 [rank=2] | CYP2C9 (w=7): Butyric Acid substrate_ofs CYP2C9 [rank=24]; metformin substrate_ofs CYP2C9 [rank=20] | CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; metformin substrate_ofs CYP2C19 [rank=82]
+statins,Butyric Acid,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Butyric Acid' compounds and 'statins'.
+tetracycline,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+tetracycline,Magnesium,True,1,51,49.9154,True,ABCB1,6,31,CYP3A4,CYP2C9,ABCB1 (w=8): Magnesium inhibitss ABCB1 [rank=6]; tetracycline inducess ABCB1 [rank=31] | CYP3A4 (w=10): Magnesium activatess CYP3A4 [rank=2]; tetracycline substrate_ofs CYP3A4 [rank=17] | CYP2C9 (w=7): Magnesium substrate_ofs CYP2C9 [rank=19]; tetracycline inducess CYP2C9 [rank=60]
+doxycycline,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+doxycycline,Magnesium,True,1,55,76.497,True,ABCB1,6,6,CYP3A4,CYP2C9,ABCB1 (w=8): Magnesium inhibitss ABCB1 [rank=6]; doxycycline inhibitss ABCB1 [rank=6] | CYP3A4 (w=10): Magnesium activatess CYP3A4 [rank=2]; doxycycline inhibitss CYP3A4 [rank=1] | CYP2C9 (w=7): Magnesium substrate_ofs CYP2C9 [rank=19]; doxycycline inhibitss CYP2C9 [rank=13]
+duloxetine,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+duloxetine,Magnesium,True,1,56,64.6489,True,ABCB1,6,33,CYP3A4,CYP2C19,ABCB1 (w=8): Magnesium inhibitss ABCB1 [rank=6]; duloxetine inhibitss ABCB1 [rank=33] | CYP3A4 (w=10): Magnesium activatess CYP3A4 [rank=2]; duloxetine substrate_ofs CYP3A4 [rank=4] | CYP2C19 (w=7): Magnesium substrate_ofs CYP2C19 [rank=26]; duloxetine inhibitss CYP2C19 [rank=30]
+metformin,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+metformin,Magnesium,True,1,51,61.392,True,CYP3A4,2,2,ABCB1,CYP2C9,CYP3A4 (w=10): Magnesium activatess CYP3A4 [rank=2]; metformin substrate_ofs CYP3A4 [rank=2] | ABCB1 (w=8): Magnesium inhibitss ABCB1 [rank=6]; metformin substrate_ofs ABCB1 [rank=50] | CYP2C9 (w=7): Magnesium substrate_ofs CYP2C9 [rank=19]; metformin substrate_ofs CYP2C9 [rank=20]
+ferrous sulfate anhydrous,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+ferrous sulfate anhydrous,Magnesium,True,1,44,76.2272,True,ABCB1,6,18,CYP3A4,CYP2C9,ABCB1 (w=8): Magnesium inhibitss ABCB1 [rank=6]; ferrous sulfate anhydrous inhibitss ABCB1 [rank=18] | CYP3A4 (w=10): Magnesium activatess CYP3A4 [rank=2]; ferrous sulfate anhydrous substrate_ofs CYP3A4 [rank=5] | CYP2C9 (w=7): Magnesium substrate_ofs CYP2C9 [rank=19]; ferrous sulfate anhydrous inhibitss CYP2C9 [rank=7]
+ferrous sulfate,Phytic Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+ferrous sulfate,Magnesium,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Magnesium' compounds and 'ferrous sulfate'.
+ferrous gluconate,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+ferrous gluconate,Magnesium,True,1,49,70.7367,True,ABCB1,6,26,CYP3A4,CYP2C19,ABCB1 (w=8): Magnesium inhibitss ABCB1 [rank=6]; ferrous gluconate inducess ABCB1 [rank=26] | CYP3A4 (w=10): Magnesium activatess CYP3A4 [rank=2]; ferrous gluconate substrate_ofs CYP3A4 [rank=1] | CYP2C19 (w=7): Magnesium substrate_ofs CYP2C19 [rank=26]; ferrous gluconate inducess CYP2C19 [rank=7]
+ferrous fumarate,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+ferrous fumarate,Magnesium,True,1,55,66.8154,True,ABCB1,6,18,CYP3A4,CYP2C9,ABCB1 (w=8): Magnesium inhibitss ABCB1 [rank=6]; ferrous fumarate substrate_ofs ABCB1 [rank=18] | CYP3A4 (w=10): Magnesium activatess CYP3A4 [rank=2]; ferrous fumarate activatess CYP3A4 [rank=1] | CYP2C9 (w=7): Magnesium substrate_ofs CYP2C9 [rank=19]; ferrous fumarate substrate_ofs CYP2C9 [rank=32]
+ferrous sulfate anhydrous,Gallic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+ferrous sulfate,Gallic Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+ferrous gluconate,Gallic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+ferrous fumarate,Gallic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+ca,Gallic Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+zn,Gallic Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+calcium carbonate,Gallic Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+zinc sulfate,Gallic Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+clozapine,Gallic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+theophylline,Gallic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+diazepam,Gallic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+alprazolam,Gallic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+lorazepam,Gallic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+propranolol,Gallic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+atenolol,Gallic Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+bisoprolol,Gallic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+insulin,Gallic Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+empagliflozin,Gallic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+dapagliflozin,Gallic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+canagliflozin,Gallic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Gallic Acid'.
+ferrous sulfate,Caffeine,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Caffeine' compounds and 'ferrous sulfate'.
+ca,Caffeine,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Caffeine' compounds and 'ca'.
+zn,Caffeine,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Caffeine' compounds and 'zn'.
+calcium carbonate,Caffeine,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Caffeine' compounds and 'calcium carbonate'.
+zinc sulfate,Caffeine,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Caffeine' compounds and 'zinc sulfate'.
+bisoprolol,Caffeine,True,1,44,38.8669,True,CYP3A4,22,5,ABCB1,CYP2C19,CYP3A4 (w=10): Caffeine activatess CYP3A4 [rank=22]; bisoprolol substrate_ofs CYP3A4 [rank=5] | ABCB1 (w=8): Caffeine activatess ABCB1 [rank=23]; bisoprolol inhibitss ABCB1 [rank=6] | CYP2C19 (w=7): Caffeine bindss CYP2C19 [rank=93]; bisoprolol substrate_ofs CYP2C19 [rank=34]
+insulin,Caffeine,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Caffeine' compounds and 'insulin'.
+empagliflozin,Caffeine,True,1,42,41.0915,True,CYP3A4,22,3,ABCB1,CYP2B6,CYP3A4 (w=10): Caffeine activatess CYP3A4 [rank=22]; empagliflozin substrate_ofs CYP3A4 [rank=3] | ABCB1 (w=8): Caffeine activatess ABCB1 [rank=23]; empagliflozin substrate_ofs ABCB1 [rank=30] | CYP2B6 (w=5): Caffeine inducess CYP2B6 [rank=55]; empagliflozin modulatess CYP2B6 [rank=21]
+dapagliflozin,Caffeine,True,1,42,37.221,True,CYP3A4,22,11,ABCB1,CYP2C19,CYP3A4 (w=10): Caffeine activatess CYP3A4 [rank=22]; dapagliflozin inhibitss CYP3A4 [rank=11] | ABCB1 (w=8): Caffeine activatess ABCB1 [rank=23]; dapagliflozin activatess ABCB1 [rank=32] | CYP2C19 (w=7): Caffeine bindss CYP2C19 [rank=93]; dapagliflozin inhibitss CYP2C19 [rank=109]
+canagliflozin,Caffeine,True,1,43,33.424,True,CYP3A4,22,2,ABCB1,CYP2B6,CYP3A4 (w=10): Caffeine activatess CYP3A4 [rank=22]; canagliflozin substrate_ofs CYP3A4 [rank=2] | ABCB1 (w=8): Caffeine activatess ABCB1 [rank=23]; canagliflozin bindss ABCB1 [rank=11] | CYP2B6 (w=5): Caffeine inducess CYP2B6 [rank=55]; canagliflozin substrate_ofs CYP2B6 [rank=87]
+ferrous sulfate anhydrous,Saponins,True,0,0,0.0,False,,,,,,No KGE entities found for 'Saponins'.
+ferrous sulfate,Saponins,False,0,0,0.0,False,,,,,,No KGE entities found for 'Saponins'.
+ferrous gluconate,Saponins,True,0,0,0.0,False,,,,,,No KGE entities found for 'Saponins'.
+ferrous fumarate,Saponins,True,0,0,0.0,False,,,,,,No KGE entities found for 'Saponins'.
+ca,Saponins,False,0,0,0.0,False,,,,,,No KGE entities found for 'Saponins'.
+zn,Saponins,False,0,0,0.0,False,,,,,,No KGE entities found for 'Saponins'.
+calcium carbonate,Saponins,False,0,0,0.0,False,,,,,,No KGE entities found for 'Saponins'.
+zinc sulfate,Saponins,False,0,0,0.0,False,,,,,,No KGE entities found for 'Saponins'.
+ciprofloxacin,Saponins,True,0,0,0.0,False,,,,,,No KGE entities found for 'Saponins'.
+clozapine,Saponins,True,0,0,0.0,False,,,,,,No KGE entities found for 'Saponins'.
+canagliflozin,Sucrose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+glipizide,Quercetin,True,1,37,41.1141,True,CYP3A4,45,3,ABCB1,CYP2C19,CYP3A4 (w=10): Quercetin substrate_ofs CYP3A4 [rank=45]; glipizide inducess CYP3A4 [rank=3] | ABCB1 (w=8): Quercetin substrate_ofs ABCB1 [rank=20]; glipizide substrate_ofs ABCB1 [rank=74] | CYP2C19 (w=7): Quercetin bindss CYP2C19 [rank=61]; glipizide substrate_ofs CYP2C19 [rank=6]
+flurbiprofen,Quercetin,True,1,46,35.6304,True,ABCB1,20,5,CYP3A4,CYP2B6,ABCB1 (w=8): Quercetin substrate_ofs ABCB1 [rank=20]; flurbiprofen inducess ABCB1 [rank=5] | CYP3A4 (w=10): Quercetin substrate_ofs CYP3A4 [rank=45]; flurbiprofen activatess CYP3A4 [rank=6] | CYP2B6 (w=5): Quercetin bindss CYP2B6 [rank=88]; flurbiprofen inducess CYP2B6 [rank=57]
+glipizide,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+flurbiprofen,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+lisinopril,Choline,True,0,0,0.0,False,,,,,,No KGE entities found for 'Choline'.
+enalapril,Choline,True,0,0,0.0,False,,,,,,No KGE entities found for 'Choline'.
+ramipril,Choline,True,0,0,0.0,False,,,,,,No KGE entities found for 'Choline'.
+captopril,Choline,True,0,0,0.0,False,,,,,,No KGE entities found for 'Choline'.
+perindopril,Choline,True,0,0,0.0,False,,,,,,No KGE entities found for 'Choline'.
+oxybutynin,Choline,True,0,0,0.0,False,,,,,,No KGE entities found for 'Choline'.
+ne,Choline,False,0,0,0.0,False,,,,,,No KGE entities found for 'Choline'.
+lisinopril,Oleuropein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Oleuropein'.
+amlodipine,Oleuropein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Oleuropein'.
+hydrochlorothiazide,Oleuropein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Oleuropein'.
+metoprolol,Oleuropein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Oleuropein'.
+losartan,Oleuropein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Oleuropein'.
+enalapril,Oleuropein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Oleuropein'.
+ramipril,Oleuropein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Oleuropein'.
+captopril,Oleuropein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Oleuropein'.
+perindopril,Oleuropein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Oleuropein'.
+cyclosporine,Oleuropein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Oleuropein'.
+simvastatin,Oleuropein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Oleuropein'.
+midazolam,Oleuropein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Oleuropein'.
+tacrolimus,Oleuropein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Oleuropein'.
+simvastatin,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+midazolam,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+tacrolimus,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+tacrolimus,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+insulin,Quercetin,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Quercetin' compounds and 'insulin'.
+levothyroxine,Curcumin,True,1,38,30.868,True,CYP3A4,49,10,CYP2C19,ABCB1,CYP3A4 (w=10): Curcumin activatess CYP3A4 [rank=49]; levothyroxine inducess CYP3A4 [rank=10] | CYP2C19 (w=7): Curcumin inducess CYP2C19 [rank=43]; levothyroxine substrate_ofs CYP2C19 [rank=90] | ABCB1 (w=8): Curcumin activatess ABCB1 [rank=121]; levothyroxine inducess ABCB1 [rank=71]
+insulin,Curcumin,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Curcumin' compounds and 'insulin'.
+glipizide,Curcumin,True,1,40,33.9426,True,CYP3A4,49,3,CYP2C19,ABCB1,CYP3A4 (w=10): Curcumin activatess CYP3A4 [rank=49]; glipizide inducess CYP3A4 [rank=3] | CYP2C19 (w=7): Curcumin inducess CYP2C19 [rank=43]; glipizide substrate_ofs CYP2C19 [rank=6] | ABCB1 (w=8): Curcumin activatess ABCB1 [rank=121]; glipizide substrate_ofs ABCB1 [rank=74]
+flurbiprofen,Curcumin,True,1,35,26.4074,True,CYP3A4,49,6,ABCB1,Solute carrier organic anion transporter family member 1B1,CYP3A4 (w=10): Curcumin activatess CYP3A4 [rank=49]; flurbiprofen activatess CYP3A4 [rank=6] | ABCB1 (w=8): Curcumin activatess ABCB1 [rank=121]; flurbiprofen inducess ABCB1 [rank=5] | Solute carrier organic anion transporter family member 1B1 (w=1): Curcumin inhibitss Solute carrier organic anion transporter family member 1B1 [rank=30]; flurbiprofen inducess Solute carrier organic anion transporter family member 1B1 [rank=35]
+digoxin,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+prednisone,Vitamin K,True,0,0,0.0,False,,,,,,No KGE entities found for 'Vitamin K'.
+digoxin,Vitamin K,True,0,0,0.0,False,,,,,,No KGE entities found for 'Vitamin K'.
+diazepam,Vitamin K,True,0,0,0.0,False,,,,,,No KGE entities found for 'Vitamin K'.
+alprazolam,Vitamin K,True,0,0,0.0,False,,,,,,No KGE entities found for 'Vitamin K'.
+lorazepam,Vitamin K,True,0,0,0.0,False,,,,,,No KGE entities found for 'Vitamin K'.
+statins,Amylopectin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+cyclosporine,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+simvastatin,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+atorvastatin,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+cyclosporine,Butyric Acid,True,1,47,71.7062,True,CYP3A4,8,1,CYP2C19,CYP2C9,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; cyclosporine inhibitss CYP3A4 [rank=1] | CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; cyclosporine inhibitss CYP2C19 [rank=6] | CYP2C9 (w=7): Butyric Acid substrate_ofs CYP2C9 [rank=24]; cyclosporine inhibitss CYP2C9 [rank=12]
+simvastatin,Butyric Acid,True,1,55,49.8511,True,CYP3A4,8,1,CYP2B6,CYP2C19,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; simvastatin activatess CYP3A4 [rank=1] | CYP2B6 (w=5): Butyric Acid inducess CYP2B6 [rank=15]; simvastatin inhibitss CYP2B6 [rank=10] | CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; simvastatin substrate_ofs CYP2C19 [rank=24]
+atorvastatin,Butyric Acid,True,1,55,54.0738,True,CYP3A4,8,3,ABCB1,CYP2C19,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; atorvastatin activatess CYP3A4 [rank=3] | ABCB1 (w=8): Butyric Acid inducess ABCB1 [rank=97]; atorvastatin inhibitss ABCB1 [rank=42] | CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; atorvastatin substrate_ofs CYP2C19 [rank=39]
+atropine,Butyric Acid,True,1,41,55.6245,True,CYP3A4,8,6,CYP2C19,CYP2C9,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; atropine inducess CYP3A4 [rank=6] | CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; atropine substrate_ofs CYP2C19 [rank=37] | CYP2C9 (w=7): Butyric Acid substrate_ofs CYP2C9 [rank=24]; atropine substrate_ofs CYP2C9 [rank=29]
+oxybutynin,Butyric Acid,True,1,40,57.1833,True,CYP3A4,8,2,ABCB1,CYP2C19,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; oxybutynin inhibitss CYP3A4 [rank=2] | ABCB1 (w=8): Butyric Acid inducess ABCB1 [rank=97]; oxybutynin inhibitss ABCB1 [rank=28] | CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; oxybutynin substrate_ofs CYP2C19 [rank=43]
+ne,Butyric Acid,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Butyric Acid' compounds and 'ne'.
+statins,Quercetin,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Quercetin' compounds and 'statins'.
+statins,Sucrose,False,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+statins,D-Fructose,False,0,0,0.0,False,,,,,,No KGE entities found for 'D-Fructose'.
+cyclosporine,Sucrose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+cyclosporine,D-Fructose,True,0,0,0.0,False,,,,,,No KGE entities found for 'D-Fructose'.
+insulin,Trans-Resveratrol,False,0,0,0.0,False,,,,,,No KGE entities found for 'Trans-Resveratrol'.
+statins,Trans-Resveratrol,False,0,0,0.0,False,,,,,,No KGE entities found for 'Trans-Resveratrol'.
+cyclosporine,Trans-Resveratrol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Trans-Resveratrol'.
+atorvastatin,Trans-Resveratrol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Trans-Resveratrol'.
+insulin,Piperine,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Piperine' compounds and 'insulin'.
+insulin,Starch,False,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+tacrolimus,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+clopidogrel,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+statins,Allicin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+atorvastatin,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+statins,Fat,False,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+simvastatin,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+atorvastatin,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+fe,Phytic Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+lisinopril,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+enalapril,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+ramipril,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+captopril,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+perindopril,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+levothyroxine,Cuminaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Cuminaldehyde'.
+t,Iron,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Iron' compounds and 't'.
+al,Iron,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Iron' compounds and 'al'.
+levothyroxine,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+t,Fat,False,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+al,Fat,False,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+amiodarone,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+t,Cuminaldehyde,False,0,0,0.0,False,,,,,,No KGE entities found for 'Cuminaldehyde'.
+al,Cuminaldehyde,False,0,0,0.0,False,,,,,,No KGE entities found for 'Cuminaldehyde'.
+ferrous sulfate anhydrous,Anthocyanins,True,0,0,0.0,False,,,,,,No KGE entities found for 'Anthocyanins'.
+ferrous sulfate,Anthocyanins,False,0,0,0.0,False,,,,,,No KGE entities found for 'Anthocyanins'.
+ferrous gluconate,Anthocyanins,True,0,0,0.0,False,,,,,,No KGE entities found for 'Anthocyanins'.
+ferrous fumarate,Anthocyanins,True,0,0,0.0,False,,,,,,No KGE entities found for 'Anthocyanins'.
+ferrous sulfate,Fat,False,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+ferrous gluconate,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+ferrous fumarate,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+fe,Fat,False,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+saquinavir,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+digoxin,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+amiodarone,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+fe,Allicin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+ferrous sulfate anhydrous,Acetic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Acetic Acid'.
+ferrous sulfate,Acetic Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Acetic Acid'.
+ferrous gluconate,Acetic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Acetic Acid'.
+ferrous fumarate,Acetic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Acetic Acid'.
+warfarin,Acetic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Acetic Acid'.
+saquinavir,Acetic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Acetic Acid'.
+allopurinol,Acetic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Acetic Acid'.
+digoxin,Acetic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Acetic Acid'.
+furosemide,Apigenin,True,1,50,40.6314,True,CYP3A4,60,5,ABCB1,CYP2C19,CYP3A4 (w=10): Apigenin inducess CYP3A4 [rank=60]; furosemide inducess CYP3A4 [rank=5] | ABCB1 (w=8): Apigenin activatess ABCB1 [rank=34]; furosemide inducess ABCB1 [rank=16] | CYP2C19 (w=7): Apigenin bindss CYP2C19 [rank=103]; furosemide inducess CYP2C19 [rank=11]
+hydrochlorothiazide,Apigenin,True,1,79,35.4086,True,CYP3A4,60,45,ABCB1,CYP1A2,CYP3A4 (w=10): Apigenin inducess CYP3A4 [rank=60]; hydrochlorothiazide inducess CYP3A4 [rank=45] | ABCB1 (w=8): Apigenin activatess ABCB1 [rank=34]; hydrochlorothiazide activatess ABCB1 [rank=52] | CYP1A2 (w=6): Apigenin substrate_ofs CYP1A2 [rank=82]; hydrochlorothiazide inducess CYP1A2 [rank=83]
+torasemide,Apigenin,True,1,40,41.491,True,CYP3A4,60,10,ABCB1,CYP2C19,CYP3A4 (w=10): Apigenin inducess CYP3A4 [rank=60]; torasemide substrate_ofs CYP3A4 [rank=10] | ABCB1 (w=8): Apigenin activatess ABCB1 [rank=34]; torasemide substrate_ofs ABCB1 [rank=3] | CYP2C19 (w=7): Apigenin bindss CYP2C19 [rank=103]; torasemide substrate_ofs CYP2C19 [rank=9]
+spironolactone,Apigenin,True,1,50,40.3205,True,CYP3A4,60,8,ABCB1,CYP2C19,CYP3A4 (w=10): Apigenin inducess CYP3A4 [rank=60]; spironolactone inducess CYP3A4 [rank=8] | ABCB1 (w=8): Apigenin activatess ABCB1 [rank=34]; spironolactone inducess ABCB1 [rank=5] | CYP2C19 (w=7): Apigenin bindss CYP2C19 [rank=103]; spironolactone inducess CYP2C19 [rank=10]
+lisinopril,Apigenin,True,1,71,35.2523,True,CYP3A4,60,26,ABCB1,CYP1A2,CYP3A4 (w=10): Apigenin inducess CYP3A4 [rank=60]; lisinopril bindss CYP3A4 [rank=26] | ABCB1 (w=8): Apigenin activatess ABCB1 [rank=34]; lisinopril substrate_ofs ABCB1 [rank=21] | CYP1A2 (w=6): Apigenin substrate_ofs CYP1A2 [rank=82]; lisinopril substrate_ofs CYP1A2 [rank=12]
+enalapril,Apigenin,True,1,47,31.8986,True,ABCB1,34,28,CYP3A4,CYP2C19,ABCB1 (w=8): Apigenin activatess ABCB1 [rank=34]; enalapril inhibitss ABCB1 [rank=28] | CYP3A4 (w=10): Apigenin inducess CYP3A4 [rank=60]; enalapril substrate_ofs CYP3A4 [rank=61] | CYP2C19 (w=7): Apigenin bindss CYP2C19 [rank=103]; enalapril modulatess CYP2C19 [rank=91]
+ramipril,Apigenin,True,1,49,32.9079,True,ABCB1,34,30,CYP1A2,CYP3A4,ABCB1 (w=8): Apigenin activatess ABCB1 [rank=34]; ramipril activatess ABCB1 [rank=30] | CYP1A2 (w=6): Apigenin substrate_ofs CYP1A2 [rank=82]; ramipril inhibitss CYP1A2 [rank=10] | CYP3A4 (w=10): Apigenin inducess CYP3A4 [rank=60]; ramipril bindss CYP3A4 [rank=111]
+captopril,Apigenin,True,1,58,39.2378,True,CYP3A4,60,16,ABCB1,CYP2C19,CYP3A4 (w=10): Apigenin inducess CYP3A4 [rank=60]; captopril substrate_ofs CYP3A4 [rank=16] | ABCB1 (w=8): Apigenin activatess ABCB1 [rank=34]; captopril inhibitss ABCB1 [rank=11] | CYP2C19 (w=7): Apigenin bindss CYP2C19 [rank=103]; captopril inhibitss CYP2C19 [rank=78]
+perindopril,Apigenin,True,1,44,28.8287,True,ABCB1,34,34,CYP3A4,CYP1A2,ABCB1 (w=8): Apigenin activatess ABCB1 [rank=34]; perindopril bindss ABCB1 [rank=34] | CYP3A4 (w=10): Apigenin inducess CYP3A4 [rank=60]; perindopril bindss CYP3A4 [rank=104] | CYP1A2 (w=6): Apigenin substrate_ofs CYP1A2 [rank=82]; perindopril bindss CYP1A2 [rank=21]
+codeine,Carvone,True,0,0,0.0,False,,,,,,No KGE entities found for 'Carvone'.
+tramadol,Carvone,True,0,0,0.0,False,,,,,,No KGE entities found for 'Carvone'.
+allopurinol,Carvone,True,0,0,0.0,False,,,,,,No KGE entities found for 'Carvone'.
+colchicine,Carvone,True,0,0,0.0,False,,,,,,No KGE entities found for 'Carvone'.
+al,Purine,False,0,0,0.0,False,,,,,,No KGE entities found for 'Purine'.
+da,Purine,False,0,0,0.0,False,,,,,,No KGE entities found for 'Purine'.
+metformin,Purine,True,0,0,0.0,False,,,,,,No KGE entities found for 'Purine'.
+levothyroxine,Purine,True,0,0,0.0,False,,,,,,No KGE entities found for 'Purine'.
+ciprofloxacin,Purine,True,0,0,0.0,False,,,,,,No KGE entities found for 'Purine'.
+colchicine,Purine,True,0,0,0.0,False,,,,,,No KGE entities found for 'Purine'.
+buspirone,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+buspirone,Iron,True,1,55,69.6812,True,CYP3A4,4,2,ABCB1,CYP2D6,CYP3A4 (w=10): Iron substrate_ofs CYP3A4 [rank=4]; buspirone substrate_ofs CYP3A4 [rank=2] | ABCB1 (w=8): Iron substrate_ofs ABCB1 [rank=5]; buspirone inhibitss ABCB1 [rank=19] | CYP2D6 (w=8): Iron substrate_ofs CYP2D6 [rank=13]; buspirone substrate_ofs CYP2D6 [rank=73]
+spironolactone,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+aluminum hydroxide,Citric Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Citric Acid'.
+magnesium hydroxide,Citric Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Citric Acid'.
+ferrous sulfate anhydrous,Citric Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Citric Acid'.
+ferrous sulfate,Citric Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Citric Acid'.
+ferrous gluconate,Citric Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Citric Acid'.
+ferrous fumarate,Citric Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Citric Acid'.
+insulin,Soy Lecithin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+insulin,Cholesterol,False,0,0,0.0,False,,,,,,No KGE entities found for 'Cholesterol'.
+metformin,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+cyclosporine,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+isotretinoin,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+allopurinol,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+allopurinol,Cholesterol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Cholesterol'.
+aluminum hydroxide,Purine,False,0,0,0.0,False,,,,,,No KGE entities found for 'Purine'.
+magnesium hydroxide,Purine,False,0,0,0.0,False,,,,,,No KGE entities found for 'Purine'.
+ritonavir,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+insulin,Fat,False,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+metformin,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+levodopa,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+ciprofloxacin,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+tetracycline,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+doxycycline,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+ritonavir,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+statins,L-Leucine,False,0,0,0.0,False,,,,,,No KGE entities found for 'L-Leucine'.
+cyclosporine,L-Leucine,True,0,0,0.0,False,,,,,,No KGE entities found for 'L-Leucine'.
+ritonavir,L-Leucine,True,0,0,0.0,False,,,,,,No KGE entities found for 'L-Leucine'.
+insulin,L-Leucine,False,0,0,0.0,False,,,,,,No KGE entities found for 'L-Leucine'.
+allopurinol,L-Leucine,True,0,0,0.0,False,,,,,,No KGE entities found for 'L-Leucine'.
+levodopa,L-Leucine,True,0,0,0.0,False,,,,,,No KGE entities found for 'L-Leucine'.
+levothyroxine,L-Leucine,True,0,0,0.0,False,,,,,,No KGE entities found for 'L-Leucine'.
+statins,Iodine,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Iodine' compounds and 'statins'.
+statins,Alpha-Linolenic Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+cyclosporine,Iodine,True,1,41,39.2728,True,CYP3A4,55,1,CYP2C19,UGT1A1,CYP3A4 (w=10): Iodine inhibitss CYP3A4 [rank=55]; cyclosporine inhibitss CYP3A4 [rank=1] | CYP2C19 (w=7): Iodine substrate_ofs CYP2C19 [rank=41]; cyclosporine inhibitss CYP2C19 [rank=6] | UGT1A1 (w=3): Iodine inhibitss UGT1A1 [rank=129]; cyclosporine bindss UGT1A1 [rank=19]
+cyclosporine,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+atorvastatin,Iodine,True,1,53,34.221,True,CYP3A4,55,3,CYP2C19,CYP1A2,CYP3A4 (w=10): Iodine inhibitss CYP3A4 [rank=55]; atorvastatin activatess CYP3A4 [rank=3] | CYP2C19 (w=7): Iodine substrate_ofs CYP2C19 [rank=41]; atorvastatin substrate_ofs CYP2C19 [rank=39] | CYP1A2 (w=6): Iodine substrate_ofs CYP1A2 [rank=102]; atorvastatin substrate_ofs CYP1A2 [rank=62]
+atorvastatin,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+simvastatin,Iodine,True,1,53,34.6911,True,CYP3A4,55,1,CYP2C19,CYP1A2,CYP3A4 (w=10): Iodine inhibitss CYP3A4 [rank=55]; simvastatin activatess CYP3A4 [rank=1] | CYP2C19 (w=7): Iodine substrate_ofs CYP2C19 [rank=41]; simvastatin substrate_ofs CYP2C19 [rank=24] | CYP1A2 (w=6): Iodine substrate_ofs CYP1A2 [rank=102]; simvastatin modulatess CYP1A2 [rank=15]
+simvastatin,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+ritonavir,Iodine,True,1,42,39.0985,True,CYP3A4,55,1,CYP2C19,CYP1A2,CYP3A4 (w=10): Iodine inhibitss CYP3A4 [rank=55]; ritonavir inducess CYP3A4 [rank=1] | CYP2C19 (w=7): Iodine substrate_ofs CYP2C19 [rank=41]; ritonavir inducess CYP2C19 [rank=6] | CYP1A2 (w=6): Iodine substrate_ofs CYP1A2 [rank=102]; ritonavir inducess CYP1A2 [rank=72]
+ritonavir,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+insulin,Iodine,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Iodine' compounds and 'insulin'.
+metformin,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+allopurinol,Iodine,True,1,47,33.3845,True,CYP3A4,55,11,CYP2C19,CYP1A2,CYP3A4 (w=10): Iodine inhibitss CYP3A4 [rank=55]; allopurinol inducess CYP3A4 [rank=11] | CYP2C19 (w=7): Iodine substrate_ofs CYP2C19 [rank=41]; allopurinol inhibitss CYP2C19 [rank=144] | CYP1A2 (w=6): Iodine substrate_ofs CYP1A2 [rank=102]; allopurinol activatess CYP1A2 [rank=71]
+allopurinol,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+levodopa,Iodine,True,1,55,28.8638,True,CYP3A4,55,15,NOS2,CA2,CYP3A4 (w=10): Iodine inhibitss CYP3A4 [rank=55]; levodopa inhibitss CYP3A4 [rank=15] | NOS2 (w=1): Iodine inducess NOS2 [rank=47]; levodopa inhibitss NOS2 [rank=29] | CA2 (w=1): Iodine inhibitss CA2 [rank=50]; levodopa activatess CA2 [rank=3]
+levodopa,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+levothyroxine,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+warfarin,Iodine,True,1,47,34.68,True,CYP3A4,55,9,CYP2C19,CYP1A2,CYP3A4 (w=10): Iodine inhibitss CYP3A4 [rank=55]; warfarin inducess CYP3A4 [rank=9] | CYP2C19 (w=7): Iodine substrate_ofs CYP2C19 [rank=41]; warfarin substrate_ofs CYP2C19 [rank=103] | CYP1A2 (w=6): Iodine substrate_ofs CYP1A2 [rank=102]; warfarin inducess CYP1A2 [rank=87]
+ciprofloxacin,Iodine,True,1,62,34.1558,True,CYP3A4,55,3,CYP2C19,UGT1A1,CYP3A4 (w=10): Iodine inhibitss CYP3A4 [rank=55]; ciprofloxacin inhibitss CYP3A4 [rank=3] | CYP2C19 (w=7): Iodine substrate_ofs CYP2C19 [rank=41]; ciprofloxacin substrate_ofs CYP2C19 [rank=96] | UGT1A1 (w=3): Iodine inhibitss UGT1A1 [rank=129]; ciprofloxacin substrate_ofs UGT1A1 [rank=75]
+ciprofloxacin,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+tetracycline,Iodine,True,1,53,28.918,True,CYP3A4,55,17,CYP2C19,SLC22A7,CYP3A4 (w=10): Iodine inhibitss CYP3A4 [rank=55]; tetracycline substrate_ofs CYP3A4 [rank=17] | CYP2C19 (w=7): Iodine substrate_ofs CYP2C19 [rank=41]; tetracycline bindss CYP2C19 [rank=138] | SLC22A7 (w=1): Iodine inhibitss SLC22A7 [rank=62]; tetracycline inhibitss SLC22A7 [rank=10]
+tetracycline,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+doxycycline,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+statins,Calcium,False,0,0,0.0,False,,,,,,No KGE entities found for 'Calcium'.
+insulin,Calcium,False,0,0,0.0,False,,,,,,No KGE entities found for 'Calcium'.
+levodopa,Calcium,True,0,0,0.0,False,,,,,,No KGE entities found for 'Calcium'.
+torasemide,Glucose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Glucose'.
+statins,Glucose,False,0,0,0.0,False,,,,,,No KGE entities found for 'Glucose'.
+isotretinoin,Glucose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Glucose'.
+statins,Soy Lecithin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+simvastatin,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+cyclosporine,Limonene,True,0,0,0.0,False,,,,,,No KGE entities found for 'Limonene'.
+isosorbide mononitrate,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+nitroglycerin,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+aspirin,Fat,False,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+clopidogrel,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+lithium,Fat,False,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+empagliflozin,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+dapagliflozin,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+canagliflozin,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+insulin,Arginine,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Arginine' compounds and 'insulin'.
+insulin,Amygdalin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Amygdalin'.
+metformin,Amygdalin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amygdalin'.
+statins,Arginine,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Arginine' compounds and 'statins'.
+statins,Amygdalin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Amygdalin'.
+cyclosporine,Arginine,True,1,53,69.2999,True,CYP3A4,12,1,ABCB1,CYP2D6,CYP3A4 (w=10): Arginine substrate_ofs CYP3A4 [rank=12]; cyclosporine inhibitss CYP3A4 [rank=1] | ABCB1 (w=8): Arginine activatess ABCB1 [rank=5]; cyclosporine inhibitss ABCB1 [rank=23] | CYP2D6 (w=8): Arginine activatess CYP2D6 [rank=29]; cyclosporine inhibitss CYP2D6 [rank=13]
+cyclosporine,Amygdalin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amygdalin'.
+amiodarone,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+amiodarone,Amygdalin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amygdalin'.
+simvastatin,Amygdalin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amygdalin'.
+sildenafil,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+sildenafil,Amygdalin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amygdalin'.
+t,Arginine,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Arginine' compounds and 't'.
+t,Alpha-Linolenic Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+t,Amygdalin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Amygdalin'.
+isosorbide mononitrate,Arginine,True,1,41,45.2389,True,CYP3A4,12,34,ABCB1,CYP2D6,CYP3A4 (w=10): Arginine substrate_ofs CYP3A4 [rank=12]; isosorbide mononitrate inducess CYP3A4 [rank=34] | ABCB1 (w=8): Arginine activatess ABCB1 [rank=5]; isosorbide mononitrate inhibitss ABCB1 [rank=9] | CYP2D6 (w=8): Arginine activatess CYP2D6 [rank=29]; isosorbide mononitrate inhibitss CYP2D6 [rank=17]
+isosorbide mononitrate,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+isosorbide mononitrate,Amygdalin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amygdalin'.
+nitroglycerin,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+nitroglycerin,Amygdalin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amygdalin'.
+lithium,Arginine,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Arginine' compounds and 'lithium'.
+lithium,Alpha-Linolenic Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+lithium,Amygdalin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Amygdalin'.
+digoxin,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+digoxin,Amygdalin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amygdalin'.
+empagliflozin,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+empagliflozin,Amygdalin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amygdalin'.
+dapagliflozin,Arginine,True,1,49,39.7155,True,CYP3A4,12,11,ABCB1,CYP2C19,CYP3A4 (w=10): Arginine substrate_ofs CYP3A4 [rank=12]; dapagliflozin inhibitss CYP3A4 [rank=11] | ABCB1 (w=8): Arginine activatess ABCB1 [rank=5]; dapagliflozin activatess ABCB1 [rank=32] | CYP2C19 (w=7): Arginine inducess CYP2C19 [rank=47]; dapagliflozin inhibitss CYP2C19 [rank=109]
+dapagliflozin,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+dapagliflozin,Amygdalin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amygdalin'.
+canagliflozin,Arginine,True,1,45,39.6687,True,CYP3A4,12,2,ABCB1,CYP2D6,CYP3A4 (w=10): Arginine substrate_ofs CYP3A4 [rank=12]; canagliflozin substrate_ofs CYP3A4 [rank=2] | ABCB1 (w=8): Arginine activatess ABCB1 [rank=5]; canagliflozin bindss ABCB1 [rank=11] | CYP2D6 (w=8): Arginine activatess CYP2D6 [rank=29]; canagliflozin inhibitss CYP2D6 [rank=135]
+canagliflozin,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+canagliflozin,Amygdalin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amygdalin'.
+amiodarone,Honey,True,27,141,72.1045,True,ABCB1,3,4,CYP3A4,CYP2D6,ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; amiodarone inhibitss ABCB1 [rank=4] | CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; amiodarone substrate_ofs CYP3A4 [rank=7] | CYP2D6 (w=8): Biotin inhibitss CYP2D6 [rank=25]; amiodarone inducess CYP2D6 [rank=85]
+sildenafil,Honey,True,27,143,53.9275,True,CYP3A4,1,9,CYP2C19,ABCB1,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; sildenafil substrate_ofs CYP3A4 [rank=9] | CYP2C19 (w=7): Copper substrate_ofs CYP2C19 [rank=18]; sildenafil inhibitss CYP2C19 [rank=46] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; sildenafil activatess ABCB1 [rank=114]
+t,Honey,False,27,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Honey' compounds and 't'.
+isosorbide mononitrate,Honey,True,27,134,62.168,True,ABCB1,3,9,CYP3A4,CYP2D6,ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; isosorbide mononitrate inhibitss ABCB1 [rank=9] | CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; isosorbide mononitrate inducess CYP3A4 [rank=34] | CYP2D6 (w=8): Biotin inhibitss CYP2D6 [rank=25]; isosorbide mononitrate inhibitss CYP2D6 [rank=17]
+aspirin,Honey,False,27,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Honey' compounds and 'aspirin'.
+clopidogrel,Honey,True,27,141,82.8997,True,CYP3A4,1,22,CYP2D6,CYP2C9,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; clopidogrel substrate_ofs CYP3A4 [rank=22] | CYP2D6 (w=8): Biotin inhibitss CYP2D6 [rank=25]; clopidogrel inhibitss CYP2D6 [rank=68] | CYP2C9 (w=7): Copper inhibitss CYP2C9 [rank=14]; clopidogrel inhibitss CYP2C9 [rank=61]
+diazepam,Honey,True,27,140,67.654,True,ABCB1,3,16,CYP3A4,CYP2C19,ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; diazepam inhibitss ABCB1 [rank=16] | CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; diazepam activatess CYP3A4 [rank=8] | CYP2C19 (w=7): Copper substrate_ofs CYP2C19 [rank=18]; diazepam inhibitss CYP2C19 [rank=26]
+alprazolam,Honey,True,27,130,70.1448,True,CYP3A4,1,6,ABCB1,CYP2C9,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; alprazolam substrate_ofs CYP3A4 [rank=6] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; alprazolam inhibitss ABCB1 [rank=119] | CYP2C9 (w=7): Copper inhibitss CYP2C9 [rank=14]; alprazolam substrate_ofs CYP2C9 [rank=39]
+lorazepam,Honey,True,27,130,96.377,True,CYP3A4,1,1,ABCB1,CYP2C9,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; lorazepam substrate_ofs CYP3A4 [rank=1] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; lorazepam substrate_ofs ABCB1 [rank=22] | CYP2C9 (w=7): Copper inhibitss CYP2C9 [rank=14]; lorazepam substrate_ofs CYP2C9 [rank=8]
+insulin,Linalool,False,0,0,0.0,False,,,,,,No KGE entities found for 'Linalool'.
+insulin,Geraniol,False,0,0,0.0,False,,,,,,No KGE entities found for 'Geraniol'.
+metformin,Linalool,True,0,0,0.0,False,,,,,,No KGE entities found for 'Linalool'.
+metformin,Geraniol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Geraniol'.
+diazepam,Geraniol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Geraniol'.
+alprazolam,Linalool,True,0,0,0.0,False,,,,,,No KGE entities found for 'Linalool'.
+alprazolam,Geraniol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Geraniol'.
+lorazepam,Linalool,True,0,0,0.0,False,,,,,,No KGE entities found for 'Linalool'.
+lorazepam,Geraniol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Geraniol'.
+lisinopril,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+enalapril,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+ramipril,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+captopril,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+perindopril,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+spironolactone,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+amiloride,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+triamterene,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+rs,Amylopectin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+amlodipine,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+diltiazem,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+lisinopril,Butyric Acid,True,1,50,42.42,True,CYP3A4,8,26,ABCB1,CYP1A2,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; lisinopril bindss CYP3A4 [rank=26] | ABCB1 (w=8): Butyric Acid inducess ABCB1 [rank=97]; lisinopril substrate_ofs ABCB1 [rank=21] | CYP1A2 (w=6): Butyric Acid modulatess CYP1A2 [rank=16]; lisinopril substrate_ofs CYP1A2 [rank=12]
+enalapril,Butyric Acid,True,1,46,41.1259,True,CYP3A4,8,61,ABCB1,CYP2C9,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; enalapril substrate_ofs CYP3A4 [rank=61] | ABCB1 (w=8): Butyric Acid inducess ABCB1 [rank=97]; enalapril inhibitss ABCB1 [rank=28] | CYP2C9 (w=7): Butyric Acid substrate_ofs CYP2C9 [rank=24]; enalapril substrate_ofs CYP2C9 [rank=44]
+ramipril,Butyric Acid,True,1,53,44.5036,True,CYP1A2,16,10,ABCB1,CYP3A4,CYP1A2 (w=6): Butyric Acid modulatess CYP1A2 [rank=16]; ramipril inhibitss CYP1A2 [rank=10] | ABCB1 (w=8): Butyric Acid inducess ABCB1 [rank=97]; ramipril activatess ABCB1 [rank=30] | CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; ramipril bindss CYP3A4 [rank=111]
+captopril,Butyric Acid,True,1,57,53.3674,True,CYP3A4,8,16,ABCB1,CYP2C19,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; captopril substrate_ofs CYP3A4 [rank=16] | ABCB1 (w=8): Butyric Acid inducess ABCB1 [rank=97]; captopril inhibitss ABCB1 [rank=11] | CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; captopril inhibitss CYP2C19 [rank=78]
+perindopril,Butyric Acid,True,1,40,41.1448,True,CYP3A4,8,104,CYP2B6,ABCB1,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; perindopril bindss CYP3A4 [rank=104] | CYP2B6 (w=5): Butyric Acid inducess CYP2B6 [rank=15]; perindopril modulatess CYP2B6 [rank=11] | ABCB1 (w=8): Butyric Acid inducess ABCB1 [rank=97]; perindopril bindss ABCB1 [rank=34]
+spironolactone,Butyric Acid,True,1,46,57.9193,True,CYP3A4,8,8,CYP2C19,ABCB1,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; spironolactone inducess CYP3A4 [rank=8] | CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; spironolactone inducess CYP2C19 [rank=10] | ABCB1 (w=8): Butyric Acid inducess ABCB1 [rank=97]; spironolactone inducess ABCB1 [rank=5]
+amiloride,Butyric Acid,True,1,44,56.7172,True,CYP3A4,8,1,CYP2C19,CYP2C9,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; amiloride activatess CYP3A4 [rank=1] | CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; amiloride inducess CYP2C19 [rank=20] | CYP2C9 (w=7): Butyric Acid substrate_ofs CYP2C9 [rank=24]; amiloride activatess CYP2C9 [rank=5]
+triamterene,Butyric Acid,True,1,41,33.1924,True,CYP3A4,8,33,ABCB1,CYP1A1,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; triamterene substrate_ofs CYP3A4 [rank=33] | ABCB1 (w=8): Butyric Acid inducess ABCB1 [rank=97]; triamterene inhibitss ABCB1 [rank=21] | CYP1A1 (w=3): Butyric Acid modulatess CYP1A1 [rank=44]; triamterene substrate_ofs CYP1A1 [rank=32]
+rs,Butyric Acid,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Butyric Acid' compounds and 'rs'.
+amlodipine,Butyric Acid,True,1,43,71.917,True,CYP3A4,8,2,CYP2C19,ABCB1,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; amlodipine inhibitss CYP3A4 [rank=2] | CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; amlodipine inhibitss CYP2C19 [rank=26] | ABCB1 (w=8): Butyric Acid inducess ABCB1 [rank=97]; amlodipine inhibitss ABCB1 [rank=4]
+diltiazem,Butyric Acid,True,1,41,48.1204,True,CYP3A4,8,6,ABCB1,CYP2C19,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; diltiazem inhibitss CYP3A4 [rank=6] | ABCB1 (w=8): Butyric Acid inducess ABCB1 [rank=97]; diltiazem inhibitss ABCB1 [rank=8] | CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; diltiazem substrate_ofs CYP2C19 [rank=103]
+warfarin,Butyric Acid,True,1,40,41.3191,True,CYP3A4,8,9,CYP2C9,CYP2C19,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; warfarin inducess CYP3A4 [rank=9] | CYP2C9 (w=7): Butyric Acid substrate_ofs CYP2C9 [rank=24]; warfarin inducess CYP2C9 [rank=92] | CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; warfarin substrate_ofs CYP2C19 [rank=103]
+diazepam,Butyric Acid,True,1,46,45.1854,True,CYP2C19,11,26,CYP3A4,ABCB1,CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; diazepam inhibitss CYP2C19 [rank=26] | CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; diazepam activatess CYP3A4 [rank=8] | ABCB1 (w=8): Butyric Acid inducess ABCB1 [rank=97]; diazepam inhibitss ABCB1 [rank=16]
+alprazolam,Butyric Acid,True,1,38,46.7904,True,CYP3A4,8,6,CYP2C19,CYP2C9,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; alprazolam substrate_ofs CYP3A4 [rank=6] | CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; alprazolam substrate_ofs CYP2C19 [rank=16] | CYP2C9 (w=7): Butyric Acid substrate_ofs CYP2C9 [rank=24]; alprazolam substrate_ofs CYP2C9 [rank=39]
+lorazepam,Butyric Acid,True,1,43,61.6694,True,CYP3A4,8,1,CYP2C19,CYP2C9,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; lorazepam substrate_ofs CYP3A4 [rank=1] | CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; lorazepam substrate_ofs CYP2C19 [rank=4] | CYP2C9 (w=7): Butyric Acid substrate_ofs CYP2C9 [rank=24]; lorazepam substrate_ofs CYP2C9 [rank=8]
+amiloride,Magnesium,True,1,39,60.3409,True,CYP3A4,2,1,ABCB1,CYP2C19,CYP3A4 (w=10): Magnesium activatess CYP3A4 [rank=2]; amiloride activatess CYP3A4 [rank=1] | ABCB1 (w=8): Magnesium inhibitss ABCB1 [rank=6]; amiloride bindss ABCB1 [rank=9] | CYP2C19 (w=7): Magnesium substrate_ofs CYP2C19 [rank=26]; amiloride inducess CYP2C19 [rank=20]
+triamterene,Magnesium,True,1,45,42.2618,True,ABCB1,6,21,CYP3A4,UGT1A1,ABCB1 (w=8): Magnesium inhibitss ABCB1 [rank=6]; triamterene inhibitss ABCB1 [rank=21] | CYP3A4 (w=10): Magnesium activatess CYP3A4 [rank=2]; triamterene substrate_ofs CYP3A4 [rank=33] | UGT1A1 (w=3): Magnesium inhibitss UGT1A1 [rank=5]; triamterene substrate_ofs UGT1A1 [rank=121]
+rs,Potassium,False,0,0,0.0,False,,,,,,No KGE entities found for 'Potassium'.
+rs,Magnesium,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Magnesium' compounds and 'rs'.
+amlodipine,Magnesium,True,1,61,79.853,True,ABCB1,6,4,CYP3A4,CYP2C19,ABCB1 (w=8): Magnesium inhibitss ABCB1 [rank=6]; amlodipine inhibitss ABCB1 [rank=4] | CYP3A4 (w=10): Magnesium activatess CYP3A4 [rank=2]; amlodipine inhibitss CYP3A4 [rank=2] | CYP2C19 (w=7): Magnesium substrate_ofs CYP2C19 [rank=26]; amlodipine inhibitss CYP2C19 [rank=26]
+diltiazem,Magnesium,True,1,54,55.3245,True,ABCB1,6,8,CYP3A4,CYP2C9,ABCB1 (w=8): Magnesium inhibitss ABCB1 [rank=6]; diltiazem inhibitss ABCB1 [rank=8] | CYP3A4 (w=10): Magnesium activatess CYP3A4 [rank=2]; diltiazem inhibitss CYP3A4 [rank=6] | CYP2C9 (w=7): Magnesium substrate_ofs CYP2C9 [rank=19]; diltiazem substrate_ofs CYP2C9 [rank=101]
+fe,Arginine,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Arginine' compounds and 'fe'.
+fe,Magnesium,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Magnesium' compounds and 'fe'.
+enalapril,Magnesium,True,1,59,52.8844,True,ABCB1,6,28,CYP3A4,CYP2C9,ABCB1 (w=8): Magnesium inhibitss ABCB1 [rank=6]; enalapril inhibitss ABCB1 [rank=28] | CYP3A4 (w=10): Magnesium activatess CYP3A4 [rank=2]; enalapril substrate_ofs CYP3A4 [rank=61] | CYP2C9 (w=7): Magnesium substrate_ofs CYP2C9 [rank=19]; enalapril substrate_ofs CYP2C9 [rank=44]
+ramipril,Magnesium,True,1,56,47.3182,True,ABCB1,6,30,CYP3A4,CYP1A2,ABCB1 (w=8): Magnesium inhibitss ABCB1 [rank=6]; ramipril activatess ABCB1 [rank=30] | CYP3A4 (w=10): Magnesium activatess CYP3A4 [rank=2]; ramipril bindss CYP3A4 [rank=111] | CYP1A2 (w=6): Magnesium modulatess CYP1A2 [rank=86]; ramipril inhibitss CYP1A2 [rank=10]
+perindopril,Arginine,True,1,47,37.1957,True,ABCB1,5,34,CYP3A4,CYP1A2,ABCB1 (w=8): Arginine activatess ABCB1 [rank=5]; perindopril bindss ABCB1 [rank=34] | CYP3A4 (w=10): Arginine substrate_ofs CYP3A4 [rank=12]; perindopril bindss CYP3A4 [rank=104] | CYP1A2 (w=6): Arginine substrate_ofs CYP1A2 [rank=19]; perindopril bindss CYP1A2 [rank=21]
+metformin,Protein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+insulin,Protein,False,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+statins,Protein,False,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+cyclosporine,Protein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+simvastatin,Protein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+fe,Protein,False,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+lisinopril,Protein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+enalapril,Protein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+ramipril,Protein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+captopril,Protein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+perindopril,Protein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+sildenafil,Protein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+t,Protein,False,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+nitroglycerin,Protein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+diazepam,Protein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+alprazolam,Protein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+lorazepam,Protein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+midazolam,Protein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+tacrolimus,Protein,True,0,0,0.0,False,,,,,,No KGE entities found for 'Protein'.
+statins,Limonene,False,0,0,0.0,False,,,,,,No KGE entities found for 'Limonene'.
+statins,Linalool,False,0,0,0.0,False,,,,,,No KGE entities found for 'Linalool'.
+cyclosporine,Linalool,True,0,0,0.0,False,,,,,,No KGE entities found for 'Linalool'.
+simvastatin,Limonene,True,0,0,0.0,False,,,,,,No KGE entities found for 'Limonene'.
+simvastatin,Linalool,True,0,0,0.0,False,,,,,,No KGE entities found for 'Linalool'.
+fe,Limonene,False,0,0,0.0,False,,,,,,No KGE entities found for 'Limonene'.
+fe,Linalool,False,0,0,0.0,False,,,,,,No KGE entities found for 'Linalool'.
+codeine,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+tamoxifen,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+metoprolol,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+estradiol,Fat,False,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+progesterone,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+conjugated estrogens,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+omeprazole,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+lansoprazole,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+erythromycin,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+clarithromycin,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+metformin,Sesame,True,115,142,86.5907,True,CYP3A4,1,2,ABCB1,CYP2C9,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; metformin substrate_ofs CYP3A4 [rank=2] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; metformin substrate_ofs ABCB1 [rank=50] | CYP2C9 (w=7): Copper inhibitss CYP2C9 [rank=14]; metformin substrate_ofs CYP2C9 [rank=20]
+insulin,Sesame,False,115,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Sesame' compounds and 'insulin'.
+empagliflozin,Sesame,True,115,133,76.1457,True,CYP3A4,1,3,ABCB1,CYP2C9,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; empagliflozin substrate_ofs CYP3A4 [rank=3] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; empagliflozin substrate_ofs ABCB1 [rank=30] | CYP2C9 (w=7): Copper inhibitss CYP2C9 [rank=14]; empagliflozin substrate_ofs CYP2C9 [rank=19]
+dapagliflozin,Sesame,True,115,138,57.554,True,CYP3A4,1,11,ABCB1,CYP2C19,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; dapagliflozin inhibitss CYP3A4 [rank=11] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; dapagliflozin activatess ABCB1 [rank=32] | CYP2C19 (w=7): Iron activatess CYP2C19 [rank=1]; dapagliflozin inhibitss CYP2C19 [rank=109]
+canagliflozin,Sesame,True,115,139,67.5465,True,CYP3A4,1,2,ABCB1,CYP2C9,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; canagliflozin substrate_ofs CYP3A4 [rank=2] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; canagliflozin bindss ABCB1 [rank=11] | CYP2C9 (w=7): Copper inhibitss CYP2C9 [rank=14]; canagliflozin substrate_ofs CYP2C9 [rank=71]
+statins,Sesame,False,115,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Sesame' compounds and 'statins'.
+cyclosporine,Sesame,True,115,134,111.417,True,CYP3A4,1,1,ABCB1,CYP2D6,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; cyclosporine inhibitss CYP3A4 [rank=1] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; cyclosporine inhibitss ABCB1 [rank=23] | CYP2D6 (w=8): Biotin inhibitss CYP2D6 [rank=25]; cyclosporine inhibitss CYP2D6 [rank=13]
+isotretinoin,Sesame,True,115,136,73.0398,True,CYP3A4,1,23,ABCB1,CYP2C9,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; isotretinoin substrate_ofs CYP3A4 [rank=23] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; isotretinoin inhibitss ABCB1 [rank=27] | CYP2C9 (w=7): Copper inhibitss CYP2C9 [rank=14]; isotretinoin substrate_ofs CYP2C9 [rank=11]
+simvastatin,Sesame,True,115,138,71.201,True,CYP3A4,1,1,CYP2B6,ABCB1,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; simvastatin activatess CYP3A4 [rank=1] | CYP2B6 (w=5): Retinol inhibitss CYP2B6 [rank=5]; simvastatin inhibitss CYP2B6 [rank=10] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; simvastatin bindss ABCB1 [rank=70]
+orlistat,Sesame,True,115,131,58.9212,True,CYP3A4,1,18,ABCB1,CYP2C9,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; orlistat substrate_ofs CYP3A4 [rank=18] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; orlistat substrate_ofs ABCB1 [rank=7] | CYP2C9 (w=7): Copper inhibitss CYP2C9 [rank=14]; orlistat substrate_ofs CYP2C9 [rank=114]
+codeine,Sesame,True,115,142,68.9828,True,CYP3A4,1,7,ABCB1,CYP2D6,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; codeine substrate_ofs CYP3A4 [rank=7] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; codeine inducess ABCB1 [rank=55] | CYP2D6 (w=8): Biotin inhibitss CYP2D6 [rank=25]; codeine substrate_ofs CYP2D6 [rank=83]
+tamoxifen,Sesame,True,115,135,85.1579,True,CYP3A4,1,5,ABCB1,CYP2C19,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; tamoxifen inhibitss CYP3A4 [rank=5] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; tamoxifen substrate_ofs ABCB1 [rank=12] | CYP2C19 (w=7): Copper substrate_ofs CYP2C19 [rank=18]; tamoxifen substrate_ofs CYP2C19 [rank=7]
+metoprolol,Sesame,True,115,136,34.7975,True,CYP3A4,1,24,UGT1A1,CYP1A1,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; metoprolol substrate_ofs CYP3A4 [rank=24] | UGT1A1 (w=3): Biotin inhibitss UGT1A1 [rank=10]; metoprolol substrate_ofs UGT1A1 [rank=125] | CYP1A1 (w=3): Copper inhibitss CYP1A1 [rank=30]; metoprolol inducess CYP1A1 [rank=147]
+estradiol,Sesame,False,115,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Sesame' compounds and 'estradiol'.
+conjugated estrogens,Sesame,True,115,136,62.741,True,CYP3A4,1,23,CYP2C9,CYP2C19,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; conjugated estrogens inhibitss CYP3A4 [rank=23] | CYP2C9 (w=7): Copper inhibitss CYP2C9 [rank=14]; conjugated estrogens bindss CYP2C9 [rank=12] | CYP2C19 (w=7): Copper substrate_ofs CYP2C19 [rank=18]; conjugated estrogens inhibitss CYP2C19 [rank=70]
+conjugated estrogens,Sucrose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+omeprazole,Sucrose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+lansoprazole,Sucrose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+erythromycin,Sucrose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+clarithromycin,Sucrose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+allopurinol,Potassium,True,0,0,0.0,False,,,,,,No KGE entities found for 'Potassium'.
+ferrous sulfate anhydrous,Potassium,True,0,0,0.0,False,,,,,,No KGE entities found for 'Potassium'.
+ferrous sulfate,Potassium,False,0,0,0.0,False,,,,,,No KGE entities found for 'Potassium'.
+ferrous fumarate,Potassium,True,0,0,0.0,False,,,,,,No KGE entities found for 'Potassium'.
+aspirin,Allicin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+aspirin,Ginger,False,128,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Ginger' compounds and 'aspirin'.
+aspirin,Curcumin,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Curcumin' compounds and 'aspirin'.
+cyclosporine,Ginger,True,128,135,111.417,True,CYP3A4,1,1,ABCB1,CYP2D6,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; cyclosporine inhibitss CYP3A4 [rank=1] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; cyclosporine inhibitss ABCB1 [rank=23] | CYP2D6 (w=8): Biotin inhibitss CYP2D6 [rank=25]; cyclosporine inhibitss CYP2D6 [rank=13]
+simvastatin,Ginger,True,128,138,71.1855,True,CYP3A4,1,1,CYP2B6,ABCB1,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; simvastatin activatess CYP3A4 [rank=1] | CYP2B6 (w=5): Retinol inhibitss CYP2B6 [rank=5]; simvastatin inhibitss CYP2B6 [rank=10] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; simvastatin bindss ABCB1 [rank=70]
+midazolam,Ginger,True,128,132,85.9295,True,CYP3A4,1,1,ABCB1,CYP2D6,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; midazolam substrate_ofs CYP3A4 [rank=1] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; midazolam inducess ABCB1 [rank=53] | CYP2D6 (w=8): Biotin inhibitss CYP2D6 [rank=25]; midazolam substrate_ofs CYP2D6 [rank=69]
+statins,Ginger,False,128,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Ginger' compounds and 'statins'.
+statins,Curcumin,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Curcumin' compounds and 'statins'.
+iron,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+zinc sulfate,Phytic Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+t,Phytic Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+al,Phytic Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+cm,Purine,False,0,0,0.0,False,,,,,,No KGE entities found for 'Purine'.
+aspirin,Purine,False,0,0,0.0,False,,,,,,No KGE entities found for 'Purine'.
+omeprazole,Purine,True,0,0,0.0,False,,,,,,No KGE entities found for 'Purine'.
+diclofenac,Purine,True,0,0,0.0,False,,,,,,No KGE entities found for 'Purine'.
+ferrous sulfate,Iron,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Iron' compounds and 'ferrous sulfate'.
+zinc sulfate,Iron,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Iron' compounds and 'zinc sulfate'.
+iron,Potassium,True,0,0,0.0,False,,,,,,No KGE entities found for 'Potassium'.
+ciprofloxacin,Carotene,True,1,45,23.2256,True,CYP3A4,77,3,AR,GLRA1,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; ciprofloxacin inhibitss CYP3A4 [rank=3] | AR (w=1): Carotene inhibitss AR [rank=25]; ciprofloxacin inhibitss AR [rank=40] | GLRA1 (w=1): Carotene modulatess GLRA1 [rank=41]; ciprofloxacin inhibitss GLRA1 [rank=5]
+iron,Carotene,True,1,44,22.4401,True,CYP3A4,77,4,CYP2B6,Solute carrier organic anion transporter family member 1B3,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; iron substrate_ofs CYP3A4 [rank=4] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; iron substrate_ofs CYP2B6 [rank=79] | Solute carrier organic anion transporter family member 1B3 (w=1): Carotene inhibitss Solute carrier organic anion transporter family member 1B3 [rank=34]; iron substrate_ofs Solute carrier organic anion transporter family member 1B3 [rank=14]
+ferrous sulfate anhydrous,Carotene,True,1,46,24.455,True,CYP3A4,77,5,CYP2B6,ESR1,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; ferrous sulfate anhydrous substrate_ofs CYP3A4 [rank=5] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; ferrous sulfate anhydrous inducess CYP2B6 [rank=13] | ESR1 (w=1): Carotene inhibitss ESR1 [rank=53]; ferrous sulfate anhydrous inhibitss ESR1 [rank=63]
+ferrous sulfate,Carotene,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Carotene' compounds and 'ferrous sulfate'.
+zinc sulfate,Carotene,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Carotene' compounds and 'zinc sulfate'.
+acarbose,Carotene,True,1,46,26.7309,True,CYP3A4,77,1,CYP2B6,AR,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; acarbose inhibitss CYP3A4 [rank=1] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; acarbose bindss CYP2B6 [rank=37] | AR (w=1): Carotene inhibitss AR [rank=25]; acarbose inhibitss AR [rank=20]
+lisinopril,Carotene,True,1,72,21.1447,True,CYP3A4,77,26,CYP2B6,gyrA,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; lisinopril bindss CYP3A4 [rank=26] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; lisinopril inducess CYP2B6 [rank=120] | gyrA (w=1): Carotene activatess gyrA [rank=3]; lisinopril inhibitss gyrA [rank=9]
+enalapril,Carotene,True,1,48,18.0993,True,CYP3A4,77,61,CHRNA7,PPARG,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; enalapril substrate_ofs CYP3A4 [rank=61] | CHRNA7 (w=1): Carotene substrate_ofs CHRNA7 [rank=4]; enalapril inhibitss CHRNA7 [rank=16] | PPARG (w=1): Carotene substrate_ofs PPARG [rank=57]; enalapril inhibitss PPARG [rank=12]
+ramipril,Carotene,True,1,43,19.0229,True,CYP3A4,77,111,CYP2B6,SHBG,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; ramipril bindss CYP3A4 [rank=111] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; ramipril modulatess CYP2B6 [rank=21] | SHBG (w=1): Carotene inhibitss SHBG [rank=44]; ramipril inhibitss SHBG [rank=20]
+captopril,Carotene,True,1,52,21.7171,True,CYP3A4,77,16,CYP2B6,ESR1,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; captopril substrate_ofs CYP3A4 [rank=16] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; captopril modulatess CYP2B6 [rank=59] | ESR1 (w=1): Carotene inhibitss ESR1 [rank=53]; captopril inducess ESR1 [rank=4]
+perindopril,Carotene,True,1,43,19.6345,True,CYP3A4,77,104,CYP2B6,SHBG,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; perindopril bindss CYP3A4 [rank=104] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; perindopril modulatess CYP2B6 [rank=11] | SHBG (w=1): Carotene inhibitss SHBG [rank=44]; perindopril inhibitss SHBG [rank=28]
+buspirone,Carotene,True,1,51,24.437,True,CYP3A4,77,2,CYP2B6,Solute carrier organic anion transporter family member 1B3,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; buspirone substrate_ofs CYP3A4 [rank=2] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; buspirone inducess CYP2B6 [rank=52] | Solute carrier organic anion transporter family member 1B3 (w=1): Carotene inhibitss Solute carrier organic anion transporter family member 1B3 [rank=34]; buspirone inhibitss Solute carrier organic anion transporter family member 1B3 [rank=4]
+spironolactone,Carotene,True,1,41,24.7494,True,CYP3A4,77,8,CYP2B6,CHRNA7,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; spironolactone inducess CYP3A4 [rank=8] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; spironolactone inducess CYP2B6 [rank=3] | CHRNA7 (w=1): Carotene substrate_ofs CHRNA7 [rank=4]; spironolactone inhibitss CHRNA7 [rank=35]
+allopurinol,Carotene,True,1,48,24.4097,True,CYP3A4,77,11,CYP2B6,XDH,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; allopurinol inducess CYP3A4 [rank=11] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; allopurinol bindss CYP2B6 [rank=4] | XDH (w=1): Carotene activatess XDH [rank=13]; allopurinol inhibitss XDH [rank=17]
+colchicine,Carotene,True,1,40,25.9248,True,CYP3A4,77,4,CYP2B6,Solute carrier organic anion transporter family member 1B3,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; colchicine inhibitss CYP3A4 [rank=4] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; colchicine inhibitss CYP2B6 [rank=30] | Solute carrier organic anion transporter family member 1B3 (w=1): Carotene inhibitss Solute carrier organic anion transporter family member 1B3 [rank=34]; colchicine inducess Solute carrier organic anion transporter family member 1B3 [rank=15]
+cyclosporine,Carotene,True,1,45,26.5934,True,CYP3A4,77,1,CYP2B6,GABRG3,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; cyclosporine inhibitss CYP3A4 [rank=1] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; cyclosporine inducess CYP2B6 [rank=10] | GABRG3 (w=1): Carotene activatess GABRG3 [rank=27]; cyclosporine inhibitss GABRG3 [rank=3]
+midazolam,Carotene,True,1,32,23.8426,True,CYP3A4,77,1,CYP2B6,CA4,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; midazolam substrate_ofs CYP3A4 [rank=1] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; midazolam substrate_ofs CYP2B6 [rank=23] | CA4 (w=1): Carotene inhibitss CA4 [rank=43]; midazolam inhibitss CA4 [rank=60]
+tacrolimus,Carotene,True,1,53,24.1728,True,CYP3A4,77,1,CYP2B6,AR,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; tacrolimus substrate_ofs CYP3A4 [rank=1] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; tacrolimus inhibitss CYP2B6 [rank=31] | AR (w=1): Carotene inhibitss AR [rank=25]; tacrolimus bindss AR [rank=14]
+statins,Carotene,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Carotene' compounds and 'statins'.
+warfarin,Carotene,True,1,47,21.8608,True,CYP3A4,77,9,AR,MPO,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; warfarin inducess CYP3A4 [rank=9] | AR (w=1): Carotene inhibitss AR [rank=25]; warfarin inhibitss AR [rank=64] | MPO (w=1): Carotene activatess MPO [rank=15]; warfarin inhibitss MPO [rank=33]
+phenytoin,Carotene,True,1,49,26.5779,True,CYP3A4,77,6,CYP2B6,AR,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; phenytoin inducess CYP3A4 [rank=6] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; phenytoin inducess CYP2B6 [rank=7] | AR (w=1): Carotene inhibitss AR [rank=25]; phenytoin inhibitss AR [rank=5]
+glipizide,Carotene,True,1,49,24.733,True,CYP3A4,77,3,CYP2B6,Solute carrier organic anion transporter family member 1B3,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; glipizide inducess CYP3A4 [rank=3] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; glipizide substrate_ofs CYP2B6 [rank=7] | Solute carrier organic anion transporter family member 1B3 (w=1): Carotene inhibitss Solute carrier organic anion transporter family member 1B3 [rank=34]; glipizide inducess Solute carrier organic anion transporter family member 1B3 [rank=26]
+flurbiprofen,Carotene,True,1,49,21.6543,True,CYP3A4,77,6,CYP2B6,Solute carrier organic anion transporter family member 1B3,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; flurbiprofen activatess CYP3A4 [rank=6] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; flurbiprofen inducess CYP2B6 [rank=57] | Solute carrier organic anion transporter family member 1B3 (w=1): Carotene inhibitss Solute carrier organic anion transporter family member 1B3 [rank=34]; flurbiprofen inhibitss Solute carrier organic anion transporter family member 1B3 [rank=88]
+retinol,Carotene,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Carotene' compounds and 'retinol'.
+t,Calcium,False,0,0,0.0,False,,,,,,No KGE entities found for 'Calcium'.
+al,Calcium,False,0,0,0.0,False,,,,,,No KGE entities found for 'Calcium'.
+tetracycline,Tyramine-Containing Foods,True,0,0,0.0,False,,,,,,No KGE entities found for 'Tyramine-Containing Foods'.
+tetracycline,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+t,Tyramine-Containing Foods,False,0,0,0.0,False,,,,,,No KGE entities found for 'Tyramine-Containing Foods'.
+t,Na+,False,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+doxycycline,Tyramine-Containing Foods,True,0,0,0.0,False,,,,,,No KGE entities found for 'Tyramine-Containing Foods'.
+doxycycline,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+al,Tyramine-Containing Foods,False,0,0,0.0,False,,,,,,No KGE entities found for 'Tyramine-Containing Foods'.
+al,Na+,False,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+phenelzine,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+tranylcypromine,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+isocarboxazid,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+selegiline,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+lisinopril,Tyramine-Containing Foods,True,0,0,0.0,False,,,,,,No KGE entities found for 'Tyramine-Containing Foods'.
+lisinopril,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+amlodipine,Tyramine-Containing Foods,True,0,0,0.0,False,,,,,,No KGE entities found for 'Tyramine-Containing Foods'.
+amlodipine,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+hydrochlorothiazide,Tyramine-Containing Foods,True,0,0,0.0,False,,,,,,No KGE entities found for 'Tyramine-Containing Foods'.
+hydrochlorothiazide,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+metoprolol,Tyramine-Containing Foods,True,0,0,0.0,False,,,,,,No KGE entities found for 'Tyramine-Containing Foods'.
+metoprolol,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+losartan,Tyramine-Containing Foods,True,0,0,0.0,False,,,,,,No KGE entities found for 'Tyramine-Containing Foods'.
+losartan,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+phenelzine,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+tranylcypromine,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+isocarboxazid,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+selegiline,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+amlodipine,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+hydrochlorothiazide,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+losartan,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+amlodipine,Capsaicin,True,1,43,68.6373,True,CYP3A4,4,2,CYP2D6,ABCB1,CYP3A4 (w=10): Capsaicin activatess CYP3A4 [rank=4]; amlodipine inhibitss CYP3A4 [rank=2] | CYP2D6 (w=8): Capsaicin inducess CYP2D6 [rank=28]; amlodipine inhibitss CYP2D6 [rank=18] | ABCB1 (w=8): Capsaicin activatess ABCB1 [rank=3]; amlodipine inhibitss ABCB1 [rank=4]
+hydrochlorothiazide,Capsaicin,True,1,66,41.4489,True,CYP3A4,4,45,ABCB1,CYP1A2,CYP3A4 (w=10): Capsaicin activatess CYP3A4 [rank=4]; hydrochlorothiazide inducess CYP3A4 [rank=45] | ABCB1 (w=8): Capsaicin activatess ABCB1 [rank=3]; hydrochlorothiazide activatess ABCB1 [rank=52] | CYP1A2 (w=6): Capsaicin substrate_ofs CYP1A2 [rank=14]; hydrochlorothiazide inducess CYP1A2 [rank=83]
+metoprolol,Capsaicin,True,1,39,22.0744,True,CYP3A4,4,24,CYP1A1,TERT,CYP3A4 (w=10): Capsaicin activatess CYP3A4 [rank=4]; metoprolol substrate_ofs CYP3A4 [rank=24] | CYP1A1 (w=3): Capsaicin substrate_ofs CYP1A1 [rank=52]; metoprolol inducess CYP1A1 [rank=147] | TERT (w=1): Capsaicin inhibitss TERT [rank=76]; metoprolol inhibitss TERT [rank=46]
+lisinopril,Vitamin C,True,0,0,0.0,False,,,,,,No KGE entities found for 'Vitamin C'.
+lisinopril,Flavonoids,True,1,66,18.7614,True,ABCB1,104,21,gyrA,DYRK1A,ABCB1 (w=8): Flavonoids activatess ABCB1 [rank=104]; lisinopril substrate_ofs ABCB1 [rank=21] | gyrA (w=1): Flavonoids inducess gyrA [rank=36]; lisinopril inhibitss gyrA [rank=9] | DYRK1A (w=1): Flavonoids inhibitss DYRK1A [rank=69]; lisinopril inhibitss DYRK1A [rank=34]
+ramipril,Flavonoids,True,1,48,17.2456,True,ABCB1,104,30,gyrA,ALB,ABCB1 (w=8): Flavonoids activatess ABCB1 [rank=104]; ramipril activatess ABCB1 [rank=30] | gyrA (w=1): Flavonoids inducess gyrA [rank=36]; ramipril inhibitss gyrA [rank=19] | ALB (w=1): Flavonoids modulatess ALB [rank=1]; ramipril inhibitss ALB [rank=1]
+captopril,Vitamin C,True,0,0,0.0,False,,,,,,No KGE entities found for 'Vitamin C'.
+captopril,Flavonoids,True,1,65,18.362,True,ABCB1,104,11,CA1,ESR1,ABCB1 (w=8): Flavonoids activatess ABCB1 [rank=104]; captopril inhibitss ABCB1 [rank=11] | CA1 (w=1): Flavonoids inhibitss CA1 [rank=21]; captopril inducess CA1 [rank=81] | ESR1 (w=1): Flavonoids activatess ESR1 [rank=40]; captopril inducess ESR1 [rank=4]
+perindopril,Vitamin C,True,0,0,0.0,False,,,,,,No KGE entities found for 'Vitamin C'.
+perindopril,Flavonoids,True,1,44,17.3027,True,ABCB1,104,34,CA1,NOS2,ABCB1 (w=8): Flavonoids activatess ABCB1 [rank=104]; perindopril bindss ABCB1 [rank=34] | CA1 (w=1): Flavonoids inhibitss CA1 [rank=21]; perindopril inhibitss CA1 [rank=5] | NOS2 (w=1): Flavonoids activatess NOS2 [rank=3]; perindopril inhibitss NOS2 [rank=10]
+ferrous sulfate anhydrous,Flavonoids,True,1,47,18.8383,True,ABCB1,104,18,SLC6A14,NOS1,ABCB1 (w=8): Flavonoids activatess ABCB1 [rank=104]; ferrous sulfate anhydrous inhibitss ABCB1 [rank=18] | SLC6A14 (w=1): Flavonoids inhibitss SLC6A14 [rank=24]; ferrous sulfate anhydrous substrate_ofs SLC6A14 [rank=26] | NOS1 (w=1): Flavonoids inhibitss NOS1 [rank=29]; ferrous sulfate anhydrous inhibitss NOS1 [rank=93]
+ferrous sulfate,Vitamin C,False,0,0,0.0,False,,,,,,No KGE entities found for 'Vitamin C'.
+ferrous sulfate,Flavonoids,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Flavonoids' compounds and 'ferrous sulfate'.
+ferrous gluconate,Flavonoids,True,1,36,17.0311,True,ABCB1,104,26,Solute carrier organic anion transporter family member 1B3,S100A7,ABCB1 (w=8): Flavonoids activatess ABCB1 [rank=104]; ferrous gluconate inducess ABCB1 [rank=26] | Solute carrier organic anion transporter family member 1B3 (w=1): Flavonoids inhibitss Solute carrier organic anion transporter family member 1B3 [rank=43]; ferrous gluconate inhibitss Solute carrier organic anion transporter family member 1B3 [rank=5] | S100A7 (w=1): Flavonoids inhibitss S100A7 [rank=67]; ferrous gluconate inhibitss S100A7 [rank=37]
+ferrous fumarate,Flavonoids,True,1,37,16.99,True,ABCB1,104,18,Solute carrier organic anion transporter family member 1B3,KNG1,ABCB1 (w=8): Flavonoids activatess ABCB1 [rank=104]; ferrous fumarate substrate_ofs ABCB1 [rank=18] | Solute carrier organic anion transporter family member 1B3 (w=1): Flavonoids inhibitss Solute carrier organic anion transporter family member 1B3 [rank=43]; ferrous fumarate inducess Solute carrier organic anion transporter family member 1B3 [rank=15] | KNG1 (w=1): Flavonoids substrate_ofs KNG1 [rank=31]; ferrous fumarate inhibitss KNG1 [rank=54]
+amlodipine,Flavonoids,True,1,38,18.588,True,ABCB1,104,4,CA1,ACVR1B,ABCB1 (w=8): Flavonoids activatess ABCB1 [rank=104]; amlodipine inhibitss ABCB1 [rank=4] | CA1 (w=1): Flavonoids inhibitss CA1 [rank=21]; amlodipine inhibitss CA1 [rank=73] | ACVR1B (w=1): Flavonoids inducess ACVR1B [rank=52]; amlodipine inducess ACVR1B [rank=6]
+hydrochlorothiazide,Flavonoids,True,1,76,18.2145,True,ABCB1,104,52,GRIK2,Solute carrier organic anion transporter family member 1B3,ABCB1 (w=8): Flavonoids activatess ABCB1 [rank=104]; hydrochlorothiazide activatess ABCB1 [rank=52] | GRIK2 (w=1): Flavonoids inhibitss GRIK2 [rank=6]; hydrochlorothiazide inhibitss GRIK2 [rank=15] | Solute carrier organic anion transporter family member 1B3 (w=1): Flavonoids inhibitss Solute carrier organic anion transporter family member 1B3 [rank=43]; hydrochlorothiazide inhibitss Solute carrier organic anion transporter family member 1B3 [rank=21]
+metoprolol,Vitamin C,True,0,0,0.0,False,,,,,,No KGE entities found for 'Vitamin C'.
+metoprolol,Flavonoids,True,1,48,12.7824,True,CA1,21,36,GSTP1,NOS1,CA1 (w=1): Flavonoids inhibitss CA1 [rank=21]; metoprolol inhibitss CA1 [rank=36] | GSTP1 (w=1): Flavonoids substrate_ofs GSTP1 [rank=15]; metoprolol inhibitss GSTP1 [rank=6] | NOS1 (w=1): Flavonoids inhibitss NOS1 [rank=29]; metoprolol inducess NOS1 [rank=29]
+aspirin,Flavonoids,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Flavonoids' compounds and 'aspirin'.
+statins,Vitamin C,False,0,0,0.0,False,,,,,,No KGE entities found for 'Vitamin C'.
+statins,Flavonoids,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Flavonoids' compounds and 'statins'.
+isotretinoin,Vitamin C,True,0,0,0.0,False,,,,,,No KGE entities found for 'Vitamin C'.
+isotretinoin,Flavonoids,True,1,50,18.7446,True,ABCB1,104,27,S100A7,NOS2,ABCB1 (w=8): Flavonoids activatess ABCB1 [rank=104]; isotretinoin inhibitss ABCB1 [rank=27] | S100A7 (w=1): Flavonoids inhibitss S100A7 [rank=67]; isotretinoin inducess S100A7 [rank=1] | NOS2 (w=1): Flavonoids activatess NOS2 [rank=3]; isotretinoin inhibitss NOS2 [rank=32]
+amlodipine,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+hydrochlorothiazide,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+metoprolol,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+isotretinoin,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+atropine,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+oxybutynin,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+ne,Fat,False,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+colchicine,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+phenytoin,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+glipizide,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+flurbiprofen,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+paracetamol,Fat,False,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+ethanol,Fat,False,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+acetaminophen,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+statins,Choline,False,0,0,0.0,False,,,,,,No KGE entities found for 'Choline'.
+isotretinoin,Choline,True,0,0,0.0,False,,,,,,No KGE entities found for 'Choline'.
+atorvastatin,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+atorvastatin,Choline,True,0,0,0.0,False,,,,,,No KGE entities found for 'Choline'.
+simvastatin,Choline,True,0,0,0.0,False,,,,,,No KGE entities found for 'Choline'.
+ritonavir,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+ritonavir,Choline,True,0,0,0.0,False,,,,,,No KGE entities found for 'Choline'.
+allopurinol,Choline,True,0,0,0.0,False,,,,,,No KGE entities found for 'Choline'.
+colchicine,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+paracetamol,Soy Lecithin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+paracetamol,Choline,False,0,0,0.0,False,,,,,,No KGE entities found for 'Choline'.
+ethanol,Soy Lecithin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+ethanol,Choline,False,0,0,0.0,False,,,,,,No KGE entities found for 'Choline'.
+acetaminophen,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+acetaminophen,Choline,True,0,0,0.0,False,,,,,,No KGE entities found for 'Choline'.
+acarbose,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+metformin,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+acarbose,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+lisinopril,Quercetin,True,1,69,40.6492,True,ABCB1,20,21,CYP3A4,CYP1A2,ABCB1 (w=8): Quercetin substrate_ofs ABCB1 [rank=20]; lisinopril substrate_ofs ABCB1 [rank=21] | CYP3A4 (w=10): Quercetin substrate_ofs CYP3A4 [rank=45]; lisinopril bindss CYP3A4 [rank=26] | CYP1A2 (w=6): Quercetin substrate_ofs CYP1A2 [rank=34]; lisinopril substrate_ofs CYP1A2 [rank=12]
+amlodipine,Quercetin,True,1,42,60.8898,True,CYP3A4,45,2,ABCB1,CYP2D6,CYP3A4 (w=10): Quercetin substrate_ofs CYP3A4 [rank=45]; amlodipine inhibitss CYP3A4 [rank=2] | ABCB1 (w=8): Quercetin substrate_ofs ABCB1 [rank=20]; amlodipine inhibitss ABCB1 [rank=4] | CYP2D6 (w=8): Quercetin inhibitss CYP2D6 [rank=103]; amlodipine inhibitss CYP2D6 [rank=18]
+hydrochlorothiazide,Quercetin,True,1,70,41.4863,True,CYP3A4,45,45,ABCB1,CYP1A2,CYP3A4 (w=10): Quercetin substrate_ofs CYP3A4 [rank=45]; hydrochlorothiazide inducess CYP3A4 [rank=45] | ABCB1 (w=8): Quercetin substrate_ofs ABCB1 [rank=20]; hydrochlorothiazide activatess ABCB1 [rank=52] | CYP1A2 (w=6): Quercetin substrate_ofs CYP1A2 [rank=34]; hydrochlorothiazide inducess CYP1A2 [rank=83]
+losartan,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+clopidogrel,Quercetin,True,1,49,46.1307,True,CYP3A4,45,22,CYP2D6,ABCB1,CYP3A4 (w=10): Quercetin substrate_ofs CYP3A4 [rank=45]; clopidogrel substrate_ofs CYP3A4 [rank=22] | CYP2D6 (w=8): Quercetin inhibitss CYP2D6 [rank=103]; clopidogrel inhibitss CYP2D6 [rank=68] | ABCB1 (w=8): Quercetin substrate_ofs ABCB1 [rank=20]; clopidogrel substrate_ofs ABCB1 [rank=111]
+acarbose,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+cholestyramine,Sucrose,False,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+colestipol,Sucrose,False,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+colestipol,Glucose,False,0,0,0.0,False,,,,,,No KGE entities found for 'Glucose'.
+metoclopramide,Butyric Acid,True,1,37,53.4654,True,CYP3A4,8,5,ABCB1,CYP2C19,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; metoclopramide substrate_ofs CYP3A4 [rank=5] | ABCB1 (w=8): Butyric Acid inducess ABCB1 [rank=97]; metoclopramide inhibitss ABCB1 [rank=14] | CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; metoclopramide substrate_ofs CYP2C19 [rank=32]
+domperidone,Butyric Acid,True,1,37,50.4045,True,CYP3A4,8,3,ABCB1,CYP2C9,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; domperidone substrate_ofs CYP3A4 [rank=3] | ABCB1 (w=8): Butyric Acid inducess ABCB1 [rank=97]; domperidone substrate_ofs ABCB1 [rank=8] | CYP2C9 (w=7): Butyric Acid substrate_ofs CYP2C9 [rank=24]; domperidone substrate_ofs CYP2C9 [rank=37]
+cholestyramine,Butyric Acid,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Butyric Acid' compounds and 'cholestyramine'.
+colestipol,Butyric Acid,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Butyric Acid' compounds and 'colestipol'.
+ure,Amylopectin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+lansoprazole,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+erythromycin,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+clarithromycin,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+furosemide,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+torasemide,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+spironolactone,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+furosemide,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+hydrochlorothiazide,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+torasemide,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+amlodipine,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+metoprolol,Phytic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Phytic Acid'.
+griseofulvin,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+fe,Amylopectin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+levothyroxine,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+warfarin,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+ciprofloxacin,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+furosemide,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+torasemide,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+spironolactone,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+ketoconazole,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+itraconazole,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+enalapril,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+ramipril,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+captopril,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+perindopril,Na+,True,0,0,0.0,False,,,,,,No KGE entities found for 'Na+'.
+t,Potassium,False,0,0,0.0,False,,,,,,No KGE entities found for 'Potassium'.
+triamterene,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+triamterene,Oleic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Oleic Acid'.
+haloperidol,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+haloperidol,Oleic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Oleic Acid'.
+haloperidol,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+codeine,Oleic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Oleic Acid'.
+tamoxifen,Oleic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Oleic Acid'.
+spironolactone,Arginine,True,1,49,53.4514,True,CYP3A4,12,8,ABCB1,CYP2C19,CYP3A4 (w=10): Arginine substrate_ofs CYP3A4 [rank=12]; spironolactone inducess CYP3A4 [rank=8] | ABCB1 (w=8): Arginine activatess ABCB1 [rank=5]; spironolactone inducess ABCB1 [rank=5] | CYP2C19 (w=7): Arginine inducess CYP2C19 [rank=47]; spironolactone inducess CYP2C19 [rank=10]
+spironolactone,Vitamin E,True,1,50,63.0427,True,ABCB1,1,5,CYP3A4,CYP2C19,ABCB1 (w=8): Vitamin E inducess ABCB1 [rank=1]; spironolactone inducess ABCB1 [rank=5] | CYP3A4 (w=10): Vitamin E bindss CYP3A4 [rank=3]; spironolactone inducess CYP3A4 [rank=8] | CYP2C19 (w=7): Vitamin E substrate_ofs CYP2C19 [rank=9]; spironolactone inducess CYP2C19 [rank=10]
+amiloride,Vitamin E,True,1,55,60.9031,True,CYP3A4,3,1,ABCB1,CYP2C19,CYP3A4 (w=10): Vitamin E bindss CYP3A4 [rank=3]; amiloride activatess CYP3A4 [rank=1] | ABCB1 (w=8): Vitamin E inducess ABCB1 [rank=1]; amiloride bindss ABCB1 [rank=9] | CYP2C19 (w=7): Vitamin E substrate_ofs CYP2C19 [rank=9]; amiloride inducess CYP2C19 [rank=20]
+triamterene,Arginine,True,1,57,36.2373,True,CYP3A4,12,33,ABCB1,CYP1A1,CYP3A4 (w=10): Arginine substrate_ofs CYP3A4 [rank=12]; triamterene substrate_ofs CYP3A4 [rank=33] | ABCB1 (w=8): Arginine activatess ABCB1 [rank=5]; triamterene inhibitss ABCB1 [rank=21] | CYP1A1 (w=3): Arginine substrate_ofs CYP1A1 [rank=140]; triamterene substrate_ofs CYP1A1 [rank=32]
+triamterene,Vitamin E,True,1,48,38.5011,True,ABCB1,1,21,CYP3A4,CYP1A1,ABCB1 (w=8): Vitamin E inducess ABCB1 [rank=1]; triamterene inhibitss ABCB1 [rank=21] | CYP3A4 (w=10): Vitamin E bindss CYP3A4 [rank=3]; triamterene substrate_ofs CYP3A4 [rank=33] | CYP1A1 (w=3): Vitamin E inducess CYP1A1 [rank=75]; triamterene substrate_ofs CYP1A1 [rank=32]
+isotretinoin,Arginine,True,1,40,50.5016,True,CYP3A4,12,23,ABCB1,CYP2C19,CYP3A4 (w=10): Arginine substrate_ofs CYP3A4 [rank=12]; isotretinoin substrate_ofs CYP3A4 [rank=23] | ABCB1 (w=8): Arginine activatess ABCB1 [rank=5]; isotretinoin inhibitss ABCB1 [rank=27] | CYP2C19 (w=7): Arginine inducess CYP2C19 [rank=47]; isotretinoin substrate_ofs CYP2C19 [rank=41]
+isotretinoin,Vitamin E,True,1,41,51.9303,True,ABCB1,1,27,CYP3A4,CYP2C19,ABCB1 (w=8): Vitamin E inducess ABCB1 [rank=1]; isotretinoin inhibitss ABCB1 [rank=27] | CYP3A4 (w=10): Vitamin E bindss CYP3A4 [rank=3]; isotretinoin substrate_ofs CYP3A4 [rank=23] | CYP2C19 (w=7): Vitamin E substrate_ofs CYP2C19 [rank=9]; isotretinoin substrate_ofs CYP2C19 [rank=41]
+phenelzine,Vitamin E,True,1,50,72.306,True,CYP3A4,3,4,CYP2D6,CYP2C19,CYP3A4 (w=10): Vitamin E bindss CYP3A4 [rank=3]; phenelzine inhibitss CYP3A4 [rank=4] | CYP2D6 (w=8): Vitamin E inducess CYP2D6 [rank=32]; phenelzine inhibitss CYP2D6 [rank=6] | CYP2C19 (w=7): Vitamin E substrate_ofs CYP2C19 [rank=9]; phenelzine inhibitss CYP2C19 [rank=8]
+tranylcypromine,Arginine,True,1,51,59.8465,True,CYP3A4,12,1,CYP2D6,CYP2C19,CYP3A4 (w=10): Arginine substrate_ofs CYP3A4 [rank=12]; tranylcypromine inhibitss CYP3A4 [rank=1] | CYP2D6 (w=8): Arginine activatess CYP2D6 [rank=29]; tranylcypromine inhibitss CYP2D6 [rank=36] | CYP2C19 (w=7): Arginine inducess CYP2C19 [rank=47]; tranylcypromine inhibitss CYP2C19 [rank=64]
+tranylcypromine,Vitamin E,True,1,47,63.0822,True,CYP3A4,3,1,CYP2D6,CYP2C19,CYP3A4 (w=10): Vitamin E bindss CYP3A4 [rank=3]; tranylcypromine inhibitss CYP3A4 [rank=1] | CYP2D6 (w=8): Vitamin E inducess CYP2D6 [rank=32]; tranylcypromine inhibitss CYP2D6 [rank=36] | CYP2C19 (w=7): Vitamin E substrate_ofs CYP2C19 [rank=9]; tranylcypromine inhibitss CYP2C19 [rank=64]
+isocarboxazid,Vitamin E,True,1,49,54.751,True,CYP3A4,3,2,CYP2C19,ABCB1,CYP3A4 (w=10): Vitamin E bindss CYP3A4 [rank=3]; isocarboxazid substrate_ofs CYP3A4 [rank=2] | CYP2C19 (w=7): Vitamin E substrate_ofs CYP2C19 [rank=9]; isocarboxazid inhibitss CYP2C19 [rank=53] | ABCB1 (w=8): Vitamin E inducess ABCB1 [rank=1]; isocarboxazid substrate_ofs ABCB1 [rank=102]
+selegiline,Vitamin E,True,1,42,63.3809,True,ABCB1,1,60,CYP3A4,CYP2D6,ABCB1 (w=8): Vitamin E inducess ABCB1 [rank=1]; selegiline inhibitss ABCB1 [rank=60] | CYP3A4 (w=10): Vitamin E bindss CYP3A4 [rank=3]; selegiline substrate_ofs CYP3A4 [rank=2] | CYP2D6 (w=8): Vitamin E inducess CYP2D6 [rank=32]; selegiline substrate_ofs CYP2D6 [rank=51]
+fluoxetine,Vitamin E,True,1,57,72.2118,True,CYP3A4,3,1,ABCB1,CYP2D6,CYP3A4 (w=10): Vitamin E bindss CYP3A4 [rank=3]; fluoxetine inhibitss CYP3A4 [rank=1] | ABCB1 (w=8): Vitamin E inducess ABCB1 [rank=1]; fluoxetine inhibitss ABCB1 [rank=15] | CYP2D6 (w=8): Vitamin E inducess CYP2D6 [rank=32]; fluoxetine inhibitss CYP2D6 [rank=50]
+sertraline,Vitamin E,True,1,52,56.5007,True,CYP3A4,3,6,CYP2C19,ABCB1,CYP3A4 (w=10): Vitamin E bindss CYP3A4 [rank=3]; sertraline substrate_ofs CYP3A4 [rank=6] | CYP2C19 (w=7): Vitamin E substrate_ofs CYP2C19 [rank=9]; sertraline inhibitss CYP2C19 [rank=23] | ABCB1 (w=8): Vitamin E inducess ABCB1 [rank=1]; sertraline activatess ABCB1 [rank=17]
+isotretinoin,Sucrose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+tranylcypromine,Sucrose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+tranylcypromine,Glucose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Glucose'.
+sertraline,Sucrose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+diazepam,Sucrose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+lorazepam,Sucrose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+lorazepam,Glucose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Glucose'.
+sildenafil,Sorbitol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sorbitol'.
+isosorbide mononitrate,Potassium,True,0,0,0.0,False,,,,,,No KGE entities found for 'Potassium'.
+isosorbide mononitrate,Sorbitol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sorbitol'.
+nitroglycerin,Sorbitol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sorbitol'.
+empagliflozin,Sorbitol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sorbitol'.
+dapagliflozin,Potassium,True,0,0,0.0,False,,,,,,No KGE entities found for 'Potassium'.
+dapagliflozin,Sorbitol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sorbitol'.
+canagliflozin,Sorbitol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sorbitol'.
+phenelzine,Sorbitol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sorbitol'.
+tranylcypromine,Potassium,True,0,0,0.0,False,,,,,,No KGE entities found for 'Potassium'.
+tranylcypromine,Sorbitol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sorbitol'.
+isocarboxazid,Sorbitol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sorbitol'.
+selegiline,Sorbitol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sorbitol'.
+fluoxetine,Sorbitol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sorbitol'.
+sertraline,Sorbitol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sorbitol'.
+sildenafil,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+t,Soy Lecithin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+isosorbide mononitrate,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+nitroglycerin,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+empagliflozin,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+dapagliflozin,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+canagliflozin,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+lisinopril,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+enalapril,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+ramipril,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+captopril,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+perindopril,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+spironolactone,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+amiloride,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+triamterene,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+phenelzine,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+tranylcypromine,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+isocarboxazid,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+selegiline,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+fluoxetine,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+sertraline,Soy Lecithin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Soy Lecithin'.
+lisinopril,Crocin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Crocin'.
+enalapril,Crocin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Crocin'.
+ramipril,Crocin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Crocin'.
+captopril,Crocin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Crocin'.
+perindopril,Crocin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Crocin'.
+spironolactone,Crocin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Crocin'.
+amiloride,Crocin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Crocin'.
+triamterene,Crocin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Crocin'.
+empagliflozin,Linalool,True,0,0,0.0,False,,,,,,No KGE entities found for 'Linalool'.
+empagliflozin,Geraniol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Geraniol'.
+dapagliflozin,Linalool,True,0,0,0.0,False,,,,,,No KGE entities found for 'Linalool'.
+dapagliflozin,Geraniol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Geraniol'.
+canagliflozin,Linalool,True,0,0,0.0,False,,,,,,No KGE entities found for 'Linalool'.
+canagliflozin,Geraniol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Geraniol'.
+aspirin,Benzaldehyde,False,0,0,0.0,False,,,,,,No KGE entities found for 'Benzaldehyde'.
+clopidogrel,Benzaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Benzaldehyde'.
+nsaid,Benzaldehyde,False,0,0,0.0,False,,,,,,No KGE entities found for 'Benzaldehyde'.
+ibuprofen,Benzaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Benzaldehyde'.
+naproxen,Benzaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Benzaldehyde'.
+cyclosporine,Benzaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Benzaldehyde'.
+isotretinoin,Benzaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Benzaldehyde'.
+statins,Benzaldehyde,False,0,0,0.0,False,,,,,,No KGE entities found for 'Benzaldehyde'.
+cyclosporine,Choline,True,0,0,0.0,False,,,,,,No KGE entities found for 'Choline'.
+clopidogrel,Sucrose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+nsaid,Sucrose,False,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+nsaid,D-Fructose,False,0,0,0.0,False,,,,,,No KGE entities found for 'D-Fructose'.
+nsaid,Glucose,False,0,0,0.0,False,,,,,,No KGE entities found for 'Glucose'.
+ibuprofen,D-Fructose,True,0,0,0.0,False,,,,,,No KGE entities found for 'D-Fructose'.
+ibuprofen,Glucose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Glucose'.
+naproxen,Sucrose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Sucrose'.
+naproxen,D-Fructose,True,0,0,0.0,False,,,,,,No KGE entities found for 'D-Fructose'.
+naproxen,Glucose,True,0,0,0.0,False,,,,,,No KGE entities found for 'Glucose'.
+isotretinoin,D-Fructose,True,0,0,0.0,False,,,,,,No KGE entities found for 'D-Fructose'.
+metformin,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+lisinopril,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+enalapril,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+ramipril,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+captopril,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+perindopril,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+spironolactone,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+amiloride,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+triamterene,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+diazepam,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+alprazolam,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+lorazepam,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+omeprazole,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+lansoprazole,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+erythromycin,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+clarithromycin,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+azithromycin,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+insulin,Fiber,False,0,0,0.0,False,,,,,,No KGE entities found for 'Fiber'.
+enalapril,Fiber,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fiber'.
+ramipril,Fiber,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fiber'.
+captopril,Fiber,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fiber'.
+perindopril,Fiber,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fiber'.
+spironolactone,Fiber,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fiber'.
+amiloride,Fiber,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fiber'.
+triamterene,Fiber,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fiber'.
+diazepam,Fiber,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fiber'.
+alprazolam,Fiber,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fiber'.
+lorazepam,Potassium,True,0,0,0.0,False,,,,,,No KGE entities found for 'Potassium'.
+lorazepam,Fiber,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fiber'.
+lithium,Fiber,False,0,0,0.0,False,,,,,,No KGE entities found for 'Fiber'.
+phenytoin,Fiber,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fiber'.
+statins,Potassium,False,0,0,0.0,False,,,,,,No KGE entities found for 'Potassium'.
+isotretinoin,Potassium,True,0,0,0.0,False,,,,,,No KGE entities found for 'Potassium'.
+lithium,Potassium,False,0,0,0.0,False,,,,,,No KGE entities found for 'Potassium'.
+lisinopril,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+enalapril,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+ramipril,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+captopril,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+perindopril,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+amiloride,Fat,True,0,0,0.0,False,,,,,,No KGE entities found for 'Fat'.
+digoxin,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+lithium,Starch,False,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+phenytoin,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+lisinopril,Honey,True,27,144,63.244,True,CYP3A4,1,26,ABCB1,CYP1A2,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; lisinopril bindss CYP3A4 [rank=26] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; lisinopril substrate_ofs ABCB1 [rank=21] | CYP1A2 (w=6): Retinol inhibitss CYP1A2 [rank=10]; lisinopril substrate_ofs CYP1A2 [rank=12]
+enalapril,Honey,True,27,136,62.6975,True,ABCB1,3,28,CYP3A4,CYP2C9,ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; enalapril inhibitss ABCB1 [rank=28] | CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; enalapril substrate_ofs CYP3A4 [rank=61] | CYP2C9 (w=7): Copper inhibitss CYP2C9 [rank=14]; enalapril substrate_ofs CYP2C9 [rank=44]
+ramipril,Honey,True,27,140,68.1114,True,CYP1A2,10,10,ABCB1,CYP3A4,CYP1A2 (w=6): Retinol inhibitss CYP1A2 [rank=10]; ramipril inhibitss CYP1A2 [rank=10] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; ramipril activatess ABCB1 [rank=30] | CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; ramipril bindss CYP3A4 [rank=111]
+captopril,Honey,True,27,140,77.9323,True,ABCB1,3,11,CYP3A4,CYP2C19,ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; captopril inhibitss ABCB1 [rank=11] | CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; captopril substrate_ofs CYP3A4 [rank=16] | CYP2C19 (w=7): Copper substrate_ofs CYP2C19 [rank=18]; captopril inhibitss CYP2C19 [rank=78]
+perindopril,Honey,True,27,135,58.9623,True,ABCB1,3,34,CYP3A4,CYP1A2,ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; perindopril bindss ABCB1 [rank=34] | CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; perindopril bindss CYP3A4 [rank=104] | CYP1A2 (w=6): Retinol inhibitss CYP1A2 [rank=10]; perindopril bindss CYP1A2 [rank=21]
+amiloride,Honey,True,27,137,85.0791,True,CYP3A4,1,1,ABCB1,CYP2C9,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; amiloride activatess CYP3A4 [rank=1] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; amiloride bindss ABCB1 [rank=9] | CYP2C9 (w=7): Copper inhibitss CYP2C9 [rank=14]; amiloride activatess CYP2C9 [rank=5]
+triamterene,Honey,True,27,142,53.7014,True,ABCB1,3,21,CYP3A4,CYP1A1,ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; triamterene inhibitss ABCB1 [rank=21] | CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; triamterene substrate_ofs CYP3A4 [rank=33] | CYP1A1 (w=3): Copper inhibitss CYP1A1 [rank=30]; triamterene substrate_ofs CYP1A1 [rank=32]
+orlistat,Honey,True,27,130,58.7982,True,CYP3A4,1,18,ABCB1,CYP2C9,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; orlistat substrate_ofs CYP3A4 [rank=18] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; orlistat substrate_ofs ABCB1 [rank=7] | CYP2C9 (w=7): Copper inhibitss CYP2C9 [rank=14]; orlistat substrate_ofs CYP2C9 [rank=114]
+aspirin,Alpha-Linolenic Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+clopidogrel,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+phenytoin,Alpha-Linolenic Acid,True,0,0,0.0,False,,,,,,No KGE entities found for 'Alpha-Linolenic Acid'.
+aspirin,Linalool,False,0,0,0.0,False,,,,,,No KGE entities found for 'Linalool'.
+clopidogrel,Linalool,True,0,0,0.0,False,,,,,,No KGE entities found for 'Linalool'.
+warfarin,Linalool,True,0,0,0.0,False,,,,,,No KGE entities found for 'Linalool'.
+t,Glucose,False,0,0,0.0,False,,,,,,No KGE entities found for 'Glucose'.
+t,Linalool,False,0,0,0.0,False,,,,,,No KGE entities found for 'Linalool'.
+amiodarone,Linalool,True,0,0,0.0,False,,,,,,No KGE entities found for 'Linalool'.
+griseofulvin,Butyric Acid,True,1,38,43.9189,True,CYP3A4,8,1,CYP2C19,ABCB1,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; griseofulvin inducess CYP3A4 [rank=1] | CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; griseofulvin inducess CYP2C19 [rank=38] | ABCB1 (w=8): Butyric Acid inducess ABCB1 [rank=97]; griseofulvin inducess ABCB1 [rank=9]
+estradiol,Butyric Acid,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Butyric Acid' compounds and 'estradiol'.
+progesterone,Butyric Acid,True,1,52,48.4755,True,CYP2C19,11,6,CYP3A4,ABCB1,CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; progesterone inducess CYP2C19 [rank=6] | CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; progesterone activatess CYP3A4 [rank=13] | ABCB1 (w=8): Butyric Acid inducess ABCB1 [rank=97]; progesterone inhibitss ABCB1 [rank=36]
+conjugated estrogens,Butyric Acid,True,1,40,43.2209,True,CYP3A4,8,23,CYP2C19,CYP2C9,CYP3A4 (w=10): Butyric Acid bindss CYP3A4 [rank=8]; conjugated estrogens inhibitss CYP3A4 [rank=23] | CYP2C19 (w=7): Butyric Acid substrate_ofs CYP2C19 [rank=11]; conjugated estrogens inhibitss CYP2C19 [rank=70] | CYP2C9 (w=7): Butyric Acid substrate_ofs CYP2C9 [rank=24]; conjugated estrogens bindss CYP2C9 [rank=12]
+griseofulvin,Honey,True,27,134,62.0374,True,CYP3A4,1,1,ABCB1,CYP2C19,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; griseofulvin inducess CYP3A4 [rank=1] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; griseofulvin inducess ABCB1 [rank=9] | CYP2C19 (w=7): Copper substrate_ofs CYP2C19 [rank=18]; griseofulvin inducess CYP2C19 [rank=38]
+paracetamol,Honey,False,27,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Honey' compounds and 'paracetamol'.
+atorvastatin,Honey,True,27,144,79.568,True,CYP3A4,1,3,ABCB1,CYP2B6,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; atorvastatin activatess CYP3A4 [rank=3] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; atorvastatin inhibitss ABCB1 [rank=42] | CYP2B6 (w=5): Retinol inhibitss CYP2B6 [rank=5]; atorvastatin inducess CYP2B6 [rank=17]
+griseofulvin,Sesame,True,115,137,62.0749,True,CYP3A4,1,1,ABCB1,CYP2C19,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; griseofulvin inducess CYP3A4 [rank=1] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; griseofulvin inducess ABCB1 [rank=9] | CYP2C19 (w=7): Copper substrate_ofs CYP2C19 [rank=18]; griseofulvin inducess CYP2C19 [rank=38]
+paracetamol,Sesame,False,115,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Sesame' compounds and 'paracetamol'.
+atorvastatin,Sesame,True,115,145,79.6955,True,CYP3A4,1,3,ABCB1,CYP2B6,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; atorvastatin activatess CYP3A4 [rank=3] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; atorvastatin inhibitss ABCB1 [rank=42] | CYP2B6 (w=5): Retinol inhibitss CYP2B6 [rank=5]; atorvastatin inducess CYP2B6 [rank=17]
+warfarin,Sesame,True,115,132,63.0519,True,CYP3A4,1,9,CYP2C9,ABCB1,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; warfarin inducess CYP3A4 [rank=9] | CYP2C9 (w=7): Copper inhibitss CYP2C9 [rank=14]; warfarin inducess CYP2C9 [rank=92] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; warfarin activatess ABCB1 [rank=109]
+diazepam,Sesame,True,115,142,67.6465,True,ABCB1,3,16,CYP3A4,CYP2C19,ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; diazepam inhibitss ABCB1 [rank=16] | CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; diazepam activatess CYP3A4 [rank=8] | CYP2C19 (w=7): Copper substrate_ofs CYP2C19 [rank=18]; diazepam inhibitss CYP2C19 [rank=26]
+alprazolam,Sesame,True,115,133,70.0278,True,CYP3A4,1,6,ABCB1,CYP2C9,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; alprazolam substrate_ofs CYP3A4 [rank=6] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; alprazolam inhibitss ABCB1 [rank=119] | CYP2C9 (w=7): Copper inhibitss CYP2C9 [rank=14]; alprazolam substrate_ofs CYP2C9 [rank=39]
+lorazepam,Sesame,True,115,133,96.377,True,CYP3A4,1,1,ABCB1,CYP2C9,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; lorazepam substrate_ofs CYP3A4 [rank=1] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; lorazepam substrate_ofs ABCB1 [rank=22] | CYP2C9 (w=7): Copper inhibitss CYP2C9 [rank=14]; lorazepam substrate_ofs CYP2C9 [rank=8]
+griseofulvin,Arginine,True,1,44,45.2375,True,CYP3A4,12,1,ABCB1,CYP2C19,CYP3A4 (w=10): Arginine substrate_ofs CYP3A4 [rank=12]; griseofulvin inducess CYP3A4 [rank=1] | ABCB1 (w=8): Arginine activatess ABCB1 [rank=5]; griseofulvin inducess ABCB1 [rank=9] | CYP2C19 (w=7): Arginine inducess CYP2C19 [rank=47]; griseofulvin inducess CYP2C19 [rank=38]
+griseofulvin,Niacin,True,1,46,54.9007,True,CYP3A4,7,1,ABCB1,CYP2C19,CYP3A4 (w=10): Niacin inhibitss CYP3A4 [rank=7]; griseofulvin inducess CYP3A4 [rank=1] | ABCB1 (w=8): Niacin inhibitss ABCB1 [rank=26]; griseofulvin inducess ABCB1 [rank=9] | CYP2C19 (w=7): Niacin activatess CYP2C19 [rank=64]; griseofulvin inducess CYP2C19 [rank=38]
+warfarin,Niacin,True,1,47,46.9246,True,CYP3A4,7,9,CYP2C9,ABCB1,CYP3A4 (w=10): Niacin inhibitss CYP3A4 [rank=7]; warfarin inducess CYP3A4 [rank=9] | CYP2C9 (w=7): Niacin substrate_ofs CYP2C9 [rank=5]; warfarin inducess CYP2C9 [rank=92] | ABCB1 (w=8): Niacin inhibitss ABCB1 [rank=26]; warfarin activatess ABCB1 [rank=109]
+levothyroxine,Arginine,True,1,38,42.769,True,CYP3A4,12,10,ABCB1,CYP2C19,CYP3A4 (w=10): Arginine substrate_ofs CYP3A4 [rank=12]; levothyroxine inducess CYP3A4 [rank=10] | ABCB1 (w=8): Arginine activatess ABCB1 [rank=5]; levothyroxine inducess ABCB1 [rank=71] | CYP2C19 (w=7): Arginine inducess CYP2C19 [rank=47]; levothyroxine substrate_ofs CYP2C19 [rank=90]
+levothyroxine,Niacin,True,1,37,55.7429,True,CYP3A4,7,10,ABCB1,CYP2C9,CYP3A4 (w=10): Niacin inhibitss CYP3A4 [rank=7]; levothyroxine inducess CYP3A4 [rank=10] | ABCB1 (w=8): Niacin inhibitss ABCB1 [rank=26]; levothyroxine inducess ABCB1 [rank=71] | CYP2C9 (w=7): Niacin substrate_ofs CYP2C9 [rank=5]; levothyroxine substrate_ofs CYP2C9 [rank=72]
+phenytoin,Arginine,True,1,48,57.0378,True,CYP3A4,12,6,CYP2C19,ABCB1,CYP3A4 (w=10): Arginine substrate_ofs CYP3A4 [rank=12]; phenytoin inducess CYP3A4 [rank=6] | CYP2C19 (w=7): Arginine inducess CYP2C19 [rank=47]; phenytoin inducess CYP2C19 [rank=26] | ABCB1 (w=8): Arginine activatess ABCB1 [rank=5]; phenytoin inducess ABCB1 [rank=88]
+phenytoin,Niacin,True,1,52,65.9276,True,CYP3A4,7,6,ABCB1,CYP2C9,CYP3A4 (w=10): Niacin inhibitss CYP3A4 [rank=7]; phenytoin inducess CYP3A4 [rank=6] | ABCB1 (w=8): Niacin inhibitss ABCB1 [rank=26]; phenytoin inducess ABCB1 [rank=88] | CYP2C9 (w=7): Niacin substrate_ofs CYP2C9 [rank=5]; phenytoin inducess CYP2C9 [rank=33]
+orlistat,Arginine,True,1,36,38.3607,True,CYP3A4,12,18,ABCB1,CYP2C19,CYP3A4 (w=10): Arginine substrate_ofs CYP3A4 [rank=12]; orlistat substrate_ofs CYP3A4 [rank=18] | ABCB1 (w=8): Arginine activatess ABCB1 [rank=5]; orlistat substrate_ofs ABCB1 [rank=7] | CYP2C19 (w=7): Arginine inducess CYP2C19 [rank=47]; orlistat substrate_ofs CYP2C19 [rank=97]
+orlistat,Niacin,True,1,45,50.2352,True,CYP3A4,7,18,ABCB1,CYP2C9,CYP3A4 (w=10): Niacin inhibitss CYP3A4 [rank=7]; orlistat substrate_ofs CYP3A4 [rank=18] | ABCB1 (w=8): Niacin inhibitss ABCB1 [rank=26]; orlistat substrate_ofs ABCB1 [rank=7] | CYP2C9 (w=7): Niacin substrate_ofs CYP2C9 [rank=5]; orlistat substrate_ofs CYP2C9 [rank=114]
+fe,Glucose,False,0,0,0.0,False,,,,,,No KGE entities found for 'Glucose'.
+tamoxifen,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+estradiol,Amylopectin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+progesterone,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+conjugated estrogens,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+conjugated estrogens,Potassium,True,0,0,0.0,False,,,,,,No KGE entities found for 'Potassium'.
+levonorgestrel,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+ethinylestradiol,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+buspirone,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+losartan,Amylopectin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Amylopectin'.
+tamoxifen,Cuminaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Cuminaldehyde'.
+tamoxifen,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+estradiol,Cuminaldehyde,False,0,0,0.0,False,,,,,,No KGE entities found for 'Cuminaldehyde'.
+estradiol,Allicin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+progesterone,Cuminaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Cuminaldehyde'.
+progesterone,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+conjugated estrogens,Cuminaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Cuminaldehyde'.
+conjugated estrogens,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+levonorgestrel,Cuminaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Cuminaldehyde'.
+levonorgestrel,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+ethinylestradiol,Cuminaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Cuminaldehyde'.
+ethinylestradiol,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+empagliflozin,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+dapagliflozin,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+canagliflozin,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+losartan,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+valsartan,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+furosemide,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+torasemide,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+empagliflozin,Quercetin,True,1,52,43.4954,True,CYP3A4,45,3,ABCB1,CYP1A2,CYP3A4 (w=10): Quercetin substrate_ofs CYP3A4 [rank=45]; empagliflozin substrate_ofs CYP3A4 [rank=3] | ABCB1 (w=8): Quercetin substrate_ofs ABCB1 [rank=20]; empagliflozin substrate_ofs ABCB1 [rank=30] | CYP1A2 (w=6): Quercetin substrate_ofs CYP1A2 [rank=34]; empagliflozin substrate_ofs CYP1A2 [rank=61]
+empagliflozin,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+dapagliflozin,Quercetin,True,1,48,39.3905,True,CYP3A4,45,11,ABCB1,CYP2C19,CYP3A4 (w=10): Quercetin substrate_ofs CYP3A4 [rank=45]; dapagliflozin inhibitss CYP3A4 [rank=11] | ABCB1 (w=8): Quercetin substrate_ofs ABCB1 [rank=20]; dapagliflozin activatess ABCB1 [rank=32] | CYP2C19 (w=7): Quercetin bindss CYP2C19 [rank=61]; dapagliflozin inhibitss CYP2C19 [rank=109]
+dapagliflozin,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+canagliflozin,Quercetin,True,1,49,38.0025,True,CYP3A4,45,2,ABCB1,CYP2D6,CYP3A4 (w=10): Quercetin substrate_ofs CYP3A4 [rank=45]; canagliflozin substrate_ofs CYP3A4 [rank=2] | ABCB1 (w=8): Quercetin substrate_ofs ABCB1 [rank=20]; canagliflozin bindss ABCB1 [rank=11] | CYP2D6 (w=8): Quercetin inhibitss CYP2D6 [rank=103]; canagliflozin inhibitss CYP2D6 [rank=135]
+canagliflozin,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+metformin,Cuminaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Cuminaldehyde'.
+insulin,Apigenin,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Apigenin' compounds and 'insulin'.
+insulin,Cuminaldehyde,False,0,0,0.0,False,,,,,,No KGE entities found for 'Cuminaldehyde'.
+empagliflozin,Apigenin,True,1,48,36.8046,True,CYP3A4,60,3,ABCB1,CYP1A2,CYP3A4 (w=10): Apigenin inducess CYP3A4 [rank=60]; empagliflozin substrate_ofs CYP3A4 [rank=3] | ABCB1 (w=8): Apigenin activatess ABCB1 [rank=34]; empagliflozin substrate_ofs ABCB1 [rank=30] | CYP1A2 (w=6): Apigenin substrate_ofs CYP1A2 [rank=82]; empagliflozin substrate_ofs CYP1A2 [rank=61]
+empagliflozin,Cuminaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Cuminaldehyde'.
+dapagliflozin,Apigenin,True,1,44,35.5329,True,CYP3A4,60,11,ABCB1,CYP2C19,CYP3A4 (w=10): Apigenin inducess CYP3A4 [rank=60]; dapagliflozin inhibitss CYP3A4 [rank=11] | ABCB1 (w=8): Apigenin activatess ABCB1 [rank=34]; dapagliflozin activatess ABCB1 [rank=32] | CYP2C19 (w=7): Apigenin bindss CYP2C19 [rank=103]; dapagliflozin inhibitss CYP2C19 [rank=109]
+dapagliflozin,Cuminaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Cuminaldehyde'.
+canagliflozin,Apigenin,True,1,47,30.7032,True,CYP3A4,60,2,ABCB1,CYP1A1,CYP3A4 (w=10): Apigenin inducess CYP3A4 [rank=60]; canagliflozin substrate_ofs CYP3A4 [rank=2] | ABCB1 (w=8): Apigenin activatess ABCB1 [rank=34]; canagliflozin bindss ABCB1 [rank=11] | CYP1A1 (w=3): Apigenin modulatess CYP1A1 [rank=109]; canagliflozin inhibitss CYP1A1 [rank=59]
+canagliflozin,Cuminaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Cuminaldehyde'.
+losartan,Cuminaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Cuminaldehyde'.
+valsartan,Apigenin,True,1,38,27.5534,True,ABCB1,34,50,CYP3A4,CYP2C19,ABCB1 (w=8): Apigenin activatess ABCB1 [rank=34]; valsartan activatess ABCB1 [rank=50] | CYP3A4 (w=10): Apigenin inducess CYP3A4 [rank=60]; valsartan inducess CYP3A4 [rank=139] | CYP2C19 (w=7): Apigenin bindss CYP2C19 [rank=103]; valsartan substrate_ofs CYP2C19 [rank=32]
+valsartan,Cuminaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Cuminaldehyde'.
+acarbose,Saponins,True,0,0,0.0,False,,,,,,No KGE entities found for 'Saponins'.
+metformin,Saponins,True,0,0,0.0,False,,,,,,No KGE entities found for 'Saponins'.
+propranolol,Saponins,True,0,0,0.0,False,,,,,,No KGE entities found for 'Saponins'.
+propranolol,Starch,True,0,0,0.0,False,,,,,,No KGE entities found for 'Starch'.
+phenytoin,Saponins,True,0,0,0.0,False,,,,,,No KGE entities found for 'Saponins'.
+cyclosporine,Saponins,True,0,0,0.0,False,,,,,,No KGE entities found for 'Saponins'.
+acarbose,Cinnamaldehyde,True,0,0,0.0,False,,,,,,No KGE entities found for 'Cinnamaldehyde'.
+propranolol,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+cyclosporine,Piperine,True,1,40,37.4654,True,CYP3A4,47,1,CYP2C19,ABCB1,CYP3A4 (w=10): Piperine substrate_ofs CYP3A4 [rank=47]; cyclosporine inhibitss CYP3A4 [rank=1] | CYP2C19 (w=7): Piperine bindss CYP2C19 [rank=115]; cyclosporine inhibitss CYP2C19 [rank=6] | ABCB1 (w=8): Piperine activatess ABCB1 [rank=138]; cyclosporine inhibitss ABCB1 [rank=23]
+cholestyramine,Allicin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+cholestyramine,Piperine,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Piperine' compounds and 'cholestyramine'.
+folate,Folic Acid,False,0,0,0.0,False,,,,,,No KGE entities found for 'Folic Acid'.
+methotrexate,Carotene,True,1,42,23.0437,True,CYP3A4,77,21,CYP2B6,XDH,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; methotrexate substrate_ofs CYP3A4 [rank=21] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; methotrexate modulatess CYP2B6 [rank=4] | XDH (w=1): Carotene activatess XDH [rank=13]; methotrexate inhibitss XDH [rank=8]
+folate,Carotene,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Carotene' compounds and 'folate'.
+pemetrexed,Carotene,True,1,48,22.4099,True,CYP3A4,77,9,CYP2B6,ESR1,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; pemetrexed bindss CYP3A4 [rank=9] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; pemetrexed activatess CYP2B6 [rank=46] | ESR1 (w=1): Carotene inhibitss ESR1 [rank=53]; pemetrexed inhibitss ESR1 [rank=3]
+trimethoprim,Carotene,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Carotene' compounds and 'trimethoprim'.
+nsaid,Carotene,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Carotene' compounds and 'nsaid'.
+naproxen,Carotene,True,1,65,22.9343,True,CYP3A4,77,3,CYP2B6,CHRNA7,CYP3A4 (w=10): Carotene activatess CYP3A4 [rank=77]; naproxen activatess CYP3A4 [rank=3] | CYP2B6 (w=5): Carotene bindss CYP2B6 [rank=62]; naproxen inducess CYP2B6 [rank=82] | CHRNA7 (w=1): Carotene substrate_ofs CHRNA7 [rank=4]; naproxen inhibitss CHRNA7 [rank=36]
+methotrexate,Ginger,True,128,138,72.7835,True,CYP3A4,1,21,ABCB1,CYP2C9,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; methotrexate substrate_ofs CYP3A4 [rank=21] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; methotrexate activatess ABCB1 [rank=16] | CYP2C9 (w=7): Copper inhibitss CYP2C9 [rank=14]; methotrexate substrate_ofs CYP2C9 [rank=37]
+methotrexate,Piperine,True,1,36,28.2257,True,CYP3A4,47,21,ABCB1,CYP2C19,CYP3A4 (w=10): Piperine substrate_ofs CYP3A4 [rank=47]; methotrexate substrate_ofs CYP3A4 [rank=21] | ABCB1 (w=8): Piperine activatess ABCB1 [rank=138]; methotrexate activatess ABCB1 [rank=16] | CYP2C19 (w=7): Piperine bindss CYP2C19 [rank=115]; methotrexate modulatess CYP2C19 [rank=23]
+folate,Curcumin,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Curcumin' compounds and 'folate'.
+folate,Ginger,False,128,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Ginger' compounds and 'folate'.
+folate,Piperine,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Piperine' compounds and 'folate'.
+pemetrexed,Curcumin,True,1,42,27.6158,True,CYP3A4,49,9,CYP1A2,ABCB1,CYP3A4 (w=10): Curcumin activatess CYP3A4 [rank=49]; pemetrexed bindss CYP3A4 [rank=9] | CYP1A2 (w=6): Curcumin substrate_ofs CYP1A2 [rank=29]; pemetrexed modulatess CYP1A2 [rank=73] | ABCB1 (w=8): Curcumin activatess ABCB1 [rank=121]; pemetrexed bindss ABCB1 [rank=34]
+pemetrexed,Ginger,True,128,139,68.708,True,CYP3A4,1,9,CYP2C9,ABCB1,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; pemetrexed bindss CYP3A4 [rank=9] | CYP2C9 (w=7): Copper inhibitss CYP2C9 [rank=14]; pemetrexed substrate_ofs CYP2C9 [rank=10] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; pemetrexed bindss ABCB1 [rank=34]
+pemetrexed,Piperine,True,1,41,23.0913,True,CYP3A4,47,9,ABCB1,SLC22A6,CYP3A4 (w=10): Piperine substrate_ofs CYP3A4 [rank=47]; pemetrexed bindss CYP3A4 [rank=9] | ABCB1 (w=8): Piperine activatess ABCB1 [rank=138]; pemetrexed bindss ABCB1 [rank=34] | SLC22A6 (w=1): Piperine inhibitss SLC22A6 [rank=42]; pemetrexed inhibitss SLC22A6 [rank=65]
+trimethoprim,Ginger,False,128,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Ginger' compounds and 'trimethoprim'.
+trimethoprim,Piperine,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Piperine' compounds and 'trimethoprim'.
+nsaid,Curcumin,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Curcumin' compounds and 'nsaid'.
+nsaid,Ginger,False,128,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Ginger' compounds and 'nsaid'.
+nsaid,Piperine,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Piperine' compounds and 'nsaid'.
+naproxen,Curcumin,True,1,45,31.3635,True,CYP3A4,49,3,ABCB1,CYP2C19,CYP3A4 (w=10): Curcumin activatess CYP3A4 [rank=49]; naproxen activatess CYP3A4 [rank=3] | ABCB1 (w=8): Curcumin activatess ABCB1 [rank=121]; naproxen inducess ABCB1 [rank=9] | CYP2C19 (w=7): Curcumin inducess CYP2C19 [rank=43]; naproxen modulatess CYP2C19 [rank=74]
+naproxen,Ginger,True,128,143,65.519,True,CYP3A4,1,3,ABCB1,CYP2C9,CYP3A4 (w=10): Retinol inhibitss CYP3A4 [rank=1]; naproxen activatess CYP3A4 [rank=3] | ABCB1 (w=8): Zinc inhibitss ABCB1 [rank=3]; naproxen inducess ABCB1 [rank=9] | CYP2C9 (w=7): Copper inhibitss CYP2C9 [rank=14]; naproxen substrate_ofs CYP2C9 [rank=16]
+naproxen,Piperine,True,1,58,28.3527,True,CYP3A4,47,3,ABCB1,CYP2C19,CYP3A4 (w=10): Piperine substrate_ofs CYP3A4 [rank=47]; naproxen activatess CYP3A4 [rank=3] | ABCB1 (w=8): Piperine activatess ABCB1 [rank=138]; naproxen inducess ABCB1 [rank=9] | CYP2C19 (w=7): Piperine bindss CYP2C19 [rank=115]; naproxen modulatess CYP2C19 [rank=74]
+nsaid,Allicin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+ibuprofen,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+naproxen,Allicin,True,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+retinol,Allicin,False,0,0,0.0,False,,,,,,No KGE entities found for 'Allicin'.
+isotretinoin,Myo-Inositol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Myo-Inositol'.
+cyclosporine,Myo-Inositol,True,0,0,0.0,False,,,,,,No KGE entities found for 'Myo-Inositol'.
+atropine,Lutein,True,1,52,50.4449,True,CYP3A4,3,6,ABCB1,CYP2C19,CYP3A4 (w=10): Lutein substrate_ofs CYP3A4 [rank=3]; atropine inducess CYP3A4 [rank=6] | ABCB1 (w=8): Lutein activatess ABCB1 [rank=18]; atropine modulatess ABCB1 [rank=9] | CYP2C19 (w=7): Lutein substrate_ofs CYP2C19 [rank=60]; atropine substrate_ofs CYP2C19 [rank=37]
+atropine,L-Leucine,True,0,0,0.0,False,,,,,,No KGE entities found for 'L-Leucine'.
+oxybutynin,Lutein,True,1,60,52.2683,True,CYP3A4,3,2,ABCB1,CYP2C19,CYP3A4 (w=10): Lutein substrate_ofs CYP3A4 [rank=3]; oxybutynin inhibitss CYP3A4 [rank=2] | ABCB1 (w=8): Lutein activatess ABCB1 [rank=18]; oxybutynin inhibitss ABCB1 [rank=28] | CYP2C19 (w=7): Lutein substrate_ofs CYP2C19 [rank=60]; oxybutynin substrate_ofs CYP2C19 [rank=43]
+oxybutynin,L-Leucine,True,0,0,0.0,False,,,,,,No KGE entities found for 'L-Leucine'.
+ne,Lutein,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Lutein' compounds and 'ne'.
+ne,L-Leucine,False,0,0,0.0,False,,,,,,No KGE entities found for 'L-Leucine'.
+donepezil,Lutein,True,1,59,39.0931,True,CYP3A4,3,4,ABCB1,CYP2C19,CYP3A4 (w=10): Lutein substrate_ofs CYP3A4 [rank=3]; donepezil substrate_ofs CYP3A4 [rank=4] | ABCB1 (w=8): Lutein activatess ABCB1 [rank=18]; donepezil substrate_ofs ABCB1 [rank=31] | CYP2C19 (w=7): Lutein substrate_ofs CYP2C19 [rank=60]; donepezil substrate_ofs CYP2C19 [rank=59]
+donepezil,L-Leucine,True,0,0,0.0,False,,,,,,No KGE entities found for 'L-Leucine'.
+isotretinoin,Lutein,True,1,64,50.579,True,CYP3A4,3,23,ABCB1,CYP2C19,CYP3A4 (w=10): Lutein substrate_ofs CYP3A4 [rank=3]; isotretinoin substrate_ofs CYP3A4 [rank=23] | ABCB1 (w=8): Lutein activatess ABCB1 [rank=18]; isotretinoin inhibitss ABCB1 [rank=27] | CYP2C19 (w=7): Lutein substrate_ofs CYP2C19 [rank=60]; isotretinoin substrate_ofs CYP2C19 [rank=41]
+isotretinoin,L-Leucine,True,0,0,0.0,False,,,,,,No KGE entities found for 'L-Leucine'.
+griseofulvin,Choline,True,0,0,0.0,False,,,,,,No KGE entities found for 'Choline'.
+griseofulvin,Lutein,True,1,46,45.4477,True,CYP3A4,3,1,ABCB1,CYP2C19,CYP3A4 (w=10): Lutein substrate_ofs CYP3A4 [rank=3]; griseofulvin inducess CYP3A4 [rank=1] | ABCB1 (w=8): Lutein activatess ABCB1 [rank=18]; griseofulvin inducess ABCB1 [rank=9] | CYP2C19 (w=7): Lutein substrate_ofs CYP2C19 [rank=60]; griseofulvin inducess CYP2C19 [rank=38]
+griseofulvin,L-Leucine,True,0,0,0.0,False,,,,,,No KGE entities found for 'L-Leucine'.
+cyclosporine,Lutein,True,1,48,63.9071,True,CYP3A4,3,1,ABCB1,CYP2C19,CYP3A4 (w=10): Lutein substrate_ofs CYP3A4 [rank=3]; cyclosporine inhibitss CYP3A4 [rank=1] | ABCB1 (w=8): Lutein activatess ABCB1 [rank=18]; cyclosporine inhibitss ABCB1 [rank=23] | CYP2C19 (w=7): Lutein substrate_ofs CYP2C19 [rank=60]; cyclosporine inhibitss CYP2C19 [rank=6]
+paracetamol,Lutein,False,1,0,0.0,False,,,,,,No shared enzyme targets in KGE between 'Lutein' compounds and 'paracetamol'.
+paracetamol,L-Leucine,False,0,0,0.0,False,,,,,,No KGE entities found for 'L-Leucine'.

@@ -1,0 +1,1539 @@
+drug_name,food_name
+(R)-warfarin,anticoagulant herbs
+(R)-warfarin,garlic
+(R)-warfarin,ginger
+(R)-warfarin,ginkgo biloba
+(R)-warfarin,grapefruit
+(R)-warfarin,st. john's wort
+(R)-warfarin,vitamin K
+(S)-Warfarin,anticoagulant herbs
+(S)-Warfarin,garlic
+(S)-Warfarin,ginger
+(S)-Warfarin,ginkgo biloba
+(S)-Warfarin,vitamin K
+Abacavir,alcohol
+Abaloparatide,calcium-rich foods
+Abaloparatide,vitamin D
+Abciximab,anticoagulant herbs
+Abciximab,garlic
+Abciximab,ginger
+Abciximab,ginkgo biloba
+Abciximab,ginseng
+Abemaciclib,grapefruit
+Abemaciclib,st. john's wort
+Abiraterone,st. john's wort
+Acalabrutinib,grapefruit
+Acalabrutinib,st. john's wort
+Acenocoumarol,anticoagulant herbs
+Acenocoumarol,garlic
+Acenocoumarol,ginger
+Acenocoumarol,ginkgo biloba
+Acenocoumarol,kale
+Acenocoumarol,spinach
+Acenocoumarol,st. john's wort
+Acenocoumarol,vitamin K
+Acepromazine,alcohol
+Acetaminophen,alcohol
+Acetohexamide,alcohol
+Acetohydroxamic acid,alcohol
+Acetohydroxamic acid,iron
+Acetohydroxamic acid,iron supplements
+Acetylsalicylic acid,alcohol
+Acetylsalicylic acid,anticoagulant herbs
+Acetylsalicylic acid,garlic
+Acetylsalicylic acid,ginger
+Acetylsalicylic acid,ginkgo biloba
+Acitretin,alcohol
+Adenosine,caffeine
+Alectinib,grapefruit
+Alectinib,st. john's wort
+Alendronic acid,calcium-rich foods
+Alendronic acid,vitamin D
+Alimemazine,alcohol
+Aliskiren,high-fat foods
+Allopurinol,alcohol
+Alpelisib,st. john's wort
+Alprazolam,alcohol
+Alprazolam,caffeine
+Alprazolam,grapefruit
+Alteplase,anticoagulant herbs
+Alteplase,garlic
+Alteplase,ginger
+Alteplase,ginkgo biloba
+Amantadine,alcohol
+Amediplase,anticoagulant herbs
+Amediplase,garlic
+Amediplase,ginger
+Amediplase,ginkgo biloba
+Amiloride,natural licorice
+Amiloride,potassium-rich foods
+Amineptine,alcohol
+Amineptine,caffeine
+Amineptine,st. john's wort
+Aminophylline,alcohol
+Aminophylline,caffeine
+Aminophylline,grapefruit
+Aminophylline,st. john's wort
+Aminophylline,vitamin B6 (pyridoxine)
+Amiodarone,grapefruit
+Amiodarone,st. john's wort
+Amisulpride,alcohol
+Amitriptyline,alcohol
+Amitriptyline,caffeine
+Amitriptyline,st. john's wort
+Amlodipine,grapefruit
+Amlodipine,natural licorice
+Amobarbital,alcohol
+Amoxapine,alcohol
+Amprenavir,alcohol
+Amprenavir,high-fat foods
+Amyl Nitrite,alcohol
+Ancrod,anticoagulant herbs
+Ancrod,garlic
+Ancrod,ginger
+Ancrod,ginkgo biloba
+Anistreplase,anticoagulant herbs
+Anistreplase,garlic
+Anistreplase,ginger
+Anistreplase,ginkgo biloba
+Antithrombin Alfa,anticoagulant herbs
+Antithrombin Alfa,garlic
+Antithrombin Alfa,ginger
+Antithrombin Alfa,ginkgo biloba
+Antithrombin III human,anticoagulant herbs
+Antithrombin III human,garlic
+Antithrombin III human,ginger
+Antithrombin III human,ginkgo biloba
+Apixaban,anticoagulant herbs
+Apixaban,garlic
+Apixaban,ginger
+Apixaban,ginkgo biloba
+Apixaban,grapefruit
+Apixaban,st. john's wort
+Apomorphine,alcohol
+Apremilast,st. john's wort
+Ardeparin,anticoagulant herbs
+Ardeparin,garlic
+Ardeparin,ginger
+Ardeparin,ginkgo biloba
+Ardeparin,ginseng
+Argatroban,anticoagulant herbs
+Argatroban,garlic
+Argatroban,ginger
+Argatroban,ginkgo biloba
+Argatroban,grapefruit
+Argatroban,st. john's wort
+Aripiprazole,alcohol
+Armodafinil,alcohol
+Armodafinil,grapefruit
+Armodafinil,st. john's wort
+Artemether,grapefruit
+Asunaprevir,grapefruit
+Asunaprevir,st. john's wort
+Atorvastatin,grapefruit
+Atrasentan,st. john's wort
+Atropine,alcohol
+Avanafil,alcohol
+Avapritinib,grapefruit
+Avapritinib,st. john's wort
+Axitinib,grapefruit
+Axitinib,st. john's wort
+Azatadine,alcohol
+Azelaic acid,alcohol
+Azelastine,alcohol
+Baclofen,alcohol
+Baloxavir marboxil,calcium-rich foods
+Baloxavir marboxil,dairy
+Baloxavir marboxil,magnesium
+Baloxavir marboxil,milk
+Bazedoxifene,calcium supplements
+Bazedoxifene,calcium-rich foods
+Bazedoxifene,vitamin D
+Bedaquiline,alcohol
+Bemiparin,anticoagulant herbs
+Bemiparin,garlic
+Bemiparin,ginger
+Bemiparin,ginkgo biloba
+Benazepril,potassium-rich foods
+Benzatropine,alcohol
+Benzgalantamine,alcohol
+Benzhydrocodone,alcohol
+Benzphetamine,caffeine
+Bepridil,alcohol
+Beraprost,anticoagulant herbs
+Beraprost,garlic
+Beraprost,ginger
+Beraprost,ginkgo biloba
+Betrixaban,anticoagulant herbs
+Betrixaban,garlic
+Betrixaban,ginger
+Betrixaban,ginkgo biloba
+Bictegravir,magnesium
+Bictegravir,st. john's wort
+Bilastine,fruit juice
+Bilastine,grapefruit
+Biotin,avidin (raw egg white)
+Biperiden,alcohol
+Bisacodyl,dairy
+Bisacodyl,milk
+Bismuth subcitrate potassium,alcohol
+Bivalirudin,anticoagulant herbs
+Bivalirudin,echinacea
+Bivalirudin,garlic
+Bivalirudin,ginger
+Bivalirudin,ginkgo biloba
+Bortezomib,citrus
+Bortezomib,flavonoid-rich foods
+Bortezomib,grapefruit
+Bortezomib,green tea
+Bortezomib,st. john's wort
+Bortezomib,tea
+Bortezomib,vitamin C
+Bosutinib,grapefruit
+Bosutinib,st. john's wort
+Brentuximab vedotin,grapefruit
+Brentuximab vedotin,st. john's wort
+Brexanolone,alcohol
+Brexpiprazole,st. john's wort
+Brigatinib,grapefruit
+Brigatinib,st. john's wort
+Brimonidine,alcohol
+Brivaracetam,alcohol
+Bromazepam,alcohol
+Bromocriptine,alcohol
+Brompheniramine,alcohol
+Buprenorphine,alcohol
+Buprenorphine,grapefruit
+Bupropion,alcohol
+Buspirone,alcohol
+Buspirone,grapefruit
+Busulfan,grapefruit
+Busulfan,st. john's wort
+Butabarbital,alcohol
+Butalbital,alcohol
+Butorphanol,alcohol
+Cabazitaxel,grapefruit
+Cabazitaxel,st. john's wort
+Cabergoline,grapefruit
+Cabergoline,st. john's wort
+Cabozantinib,grapefruit
+Cabozantinib,st. john's wort
+Canagliflozin,alcohol
+Cangrelor,anticoagulant herbs
+Cangrelor,garlic
+Cangrelor,ginger
+Cangrelor,ginkgo biloba
+Cannabidiol,alcohol
+Cannabidiol,grapefruit
+Cannabidiol,st. john's wort
+Captopril,ephedra
+Captopril,high-salt foods
+Captopril,natural licorice
+Captopril,potassium-rich foods
+Carbamazepine,alcohol
+Carbamazepine,grapefruit
+Carbamazepine,st. john's wort
+Carbinoxamine,alcohol
+Carboplatin,echinacea
+Cariprazine,alcohol
+Cariprazine,grapefruit
+Cariprazine,st. john's wort
+Carisoprodol,alcohol
+Carmustine,echinacea
+Cefamandole,alcohol
+Cefdinir,iron
+Cefdinir,magnesium
+Cefditoren,magnesium
+Cefoperazone,alcohol
+Cefotetan,alcohol
+Celecoxib,alcohol
+Celecoxib,magnesium
+Celiprolol,fruit juice
+Celiprolol,grapefruit
+Celiprolol,orange juice
+Cenobamate,alcohol
+Ceritinib,grapefruit
+Ceritinib,st. john's wort
+Cerivastatin,grapefruit
+Certoparin,anticoagulant herbs
+Certoparin,garlic
+Certoparin,ginger
+Certoparin,ginkgo biloba
+Cetirizine,alcohol
+Chloral hydrate,alcohol
+Chlorambucil,echinacea
+Chlorcyclizine,alcohol
+Chlordiazepoxide,alcohol
+Chlorpheniramine,alcohol
+Chlorpromazine,alcohol
+Chlorpropamide,alcohol
+Chlorprothixene,alcohol
+Chlorzoxazone,alcohol
+Chromic chloride,chromium
+Chromic chloride,niacin (vitamin B3)
+Chromium,chromium
+Chromium,niacin (vitamin B3)
+Chromium nicotinate,chromium
+Chromium nicotinate,niacin (vitamin B3)
+Chromium picolinate,chromium
+Chromium picolinate,niacin (vitamin B3)
+Cilostazol,grapefruit
+Cinolazepam,alcohol
+Cinolazepam,caffeine
+Ciprofloxacin,caffeine
+Ciprofloxacin,calcium-rich foods
+Ciprofloxacin,dairy
+Ciprofloxacin,milk
+Cisapride,grapefruit
+Cisapride,st. john's wort
+Cisplatin,echinacea
+Citalopram,alcohol
+Citalopram,st. john's wort
+Clemastine,alcohol
+Clidinium,alcohol
+Clobazam,alcohol
+Clofarabine,echinacea
+Clofedanol,alcohol
+Clomipramine,alcohol
+Clomipramine,grapefruit
+Clonazepam,alcohol
+Clonazepam,caffeine
+Clonidine,alcohol
+Clorazepic acid,alcohol
+Clorindione,anticoagulant herbs
+Clorindione,garlic
+Clorindione,ginger
+Clorindione,ginkgo biloba
+Cloxazolam,alcohol
+Clozapine,alcohol
+Clozapine,caffeine
+Clozapine,st. john's wort
+Cobicistat,st. john's wort
+Cobimetinib,grapefruit
+Cobimetinib,st. john's wort
+Codeine,alcohol
+Copanlisib,grapefruit
+Copanlisib,st. john's wort
+Coumarin,anticoagulant herbs
+Coumarin,garlic
+Coumarin,ginger
+Coumarin,ginkgo biloba
+Coumarin,vitamin K
+Crizotinib,grapefruit
+Crizotinib,st. john's wort
+Cyclizine,alcohol
+Cyclobenzaprine,alcohol
+Cycloserine,high-fat foods
+Cyclosporine,grapefruit
+Cyclosporine,potassium-rich foods
+Cyclosporine,st. john's wort
+Cyproheptadine,alcohol
+Cyproterone acetate,alcohol
+Dabigatran,anticoagulant herbs
+Dabigatran,garlic
+Dabigatran,ginger
+Dabigatran,ginkgo biloba
+Dabigatran etexilate,anticoagulant herbs
+Dabigatran etexilate,garlic
+Dabigatran etexilate,ginger
+Dabigatran etexilate,ginkgo biloba
+Dabigatran etexilate,st. john's wort
+Dabrafenib,grapefruit
+Dabrafenib,high-fat foods
+Dabrafenib,st. john's wort
+Daclatasvir,grapefruit
+Daclatasvir,st. john's wort
+Dacomitinib,grapefruit
+Dacomitinib,st. john's wort
+Dalteparin,anticoagulant herbs
+Dalteparin,garlic
+Dalteparin,ginger
+Dalteparin,ginkgo biloba
+Danaparoid,alcohol
+Danaparoid,anticoagulant herbs
+Danaparoid,garlic
+Danaparoid,ginger
+Danaparoid,ginkgo biloba
+Dapagliflozin,alcohol
+Darbepoetin alfa,iron
+Darbepoetin alfa,iron supplements
+Darexaban,anticoagulant herbs
+Darexaban,garlic
+Darexaban,ginger
+Darexaban,ginkgo biloba
+Daridorexant,alcohol
+Darolutamide,st. john's wort
+Dasabuvir,st. john's wort
+Dasatinib,grapefruit
+Dasatinib,st. john's wort
+Defibrotide,anticoagulant herbs
+Defibrotide,garlic
+Defibrotide,ginger
+Defibrotide,ginkgo biloba
+Deflazacort,grapefruit
+Deflazacort,st. john's wort
+Delamanid,st. john's wort
+Demeclocycline,dairy
+Demeclocycline,milk
+Denosumab,calcium supplements
+Denosumab,calcium-rich foods
+Denosumab,vitamin D
+Desipramine,alcohol
+Desipramine,caffeine
+Desirudin,anticoagulant herbs
+Desirudin,garlic
+Desirudin,ginger
+Desirudin,ginkgo biloba
+Desmoteplase,anticoagulant herbs
+Desmoteplase,garlic
+Desmoteplase,ginger
+Desmoteplase,ginkgo biloba
+Desvenlafaxine,alcohol
+Desvenlafaxine,st. john's wort
+Deutetrabenazine,alcohol
+Dexamethasone,alcohol
+Dexbrompheniramine,alcohol
+Dexchlorpheniramine maleate,alcohol
+Dexlansoprazole,st. john's wort
+Dexmethylphenidate,alcohol
+Dextran,anticoagulant herbs
+Dextran,garlic
+Dextran,ginger
+Dextran,ginkgo biloba
+Dextroamphetamine,fruit juice
+Dextropropoxyphene,alcohol
+Diamorphine,alcohol
+Diazepam,alcohol
+Dichloralphenazone,alcohol
+Diclofenac,alcohol
+Diclofenamide,potassium-rich foods
+Dicoumarol,anticoagulant herbs
+Dicoumarol,garlic
+Dicoumarol,ginger
+Dicoumarol,ginkgo biloba
+Dicoumarol,ginseng
+Dicyclomine,alcohol
+Didanosine,alcohol
+Dienogest,grapefruit
+Dienogest,st. john's wort
+Difelikefalin,alcohol
+Difenoxin,alcohol
+Diflunisal,alcohol
+Digitoxin,avocado
+Digitoxin,high-fiber foods
+Digoxin,calcium-rich foods
+Digoxin,high-fiber foods
+Digoxin,potassium-rich foods
+Digoxin,st. john's wort
+Dihydrocodeine,alcohol
+Dihydroergotamine,grapefruit
+Diltiazem,natural licorice
+Dimenhydrinate,alcohol
+Diphenadione,anticoagulant herbs
+Diphenadione,garlic
+Diphenadione,ginger
+Diphenadione,ginkgo biloba
+Diphenhydramine,alcohol
+Diphenoxylate,alcohol
+Dipyridamole,anticoagulant herbs
+Dipyridamole,coffee
+Dipyridamole,garlic
+Dipyridamole,ginger
+Dipyridamole,ginkgo biloba
+Dipyridamole,tea
+Dipyridamole,xanthines
+Diroximel fumarate,alcohol
+Disopyramide,alcohol
+Disulfiram,alcohol
+Ditazole,anticoagulant herbs
+Ditazole,garlic
+Ditazole,ginger
+Ditazole,ginkgo biloba
+Docetaxel,grapefruit
+Docetaxel,st. john's wort
+Dofetilide,grapefruit
+Dofetilide,st. john's wort
+Dolutegravir,st. john's wort
+Donepezil,alcohol
+Doravirine,st. john's wort
+Doxazosin,alcohol
+Doxepin,alcohol
+Doxepin,st. john's wort
+Doxercalciferol,magnesium
+Doxorubicin,grapefruit
+Doxorubicin,st. john's wort
+Doxycycline,calcium-rich foods
+Doxylamine,alcohol
+Dronabinol,alcohol
+Dronedarone,grapefruit
+Dronedarone,st. john's wort
+Drospirenone,st. john's wort
+Drotrecogin alfa,anticoagulant herbs
+Drotrecogin alfa,garlic
+Drotrecogin alfa,ginger
+Drotrecogin alfa,ginkgo biloba
+Duloxetine,alcohol
+Duvelisib,st. john's wort
+Edetic acid,anticoagulant herbs
+Edetic acid,garlic
+Edetic acid,ginger
+Edetic acid,ginkgo biloba
+Edoxaban,anticoagulant herbs
+Edoxaban,garlic
+Edoxaban,ginger
+Edoxaban,ginkgo biloba
+Efavirenz,alcohol
+Elagolix,calcium supplements
+Elagolix,calcium-rich foods
+Elagolix,vitamin D
+Elbasvir,grapefruit
+Elbasvir,st. john's wort
+Elexacaftor,grapefruit
+Elexacaftor,st. john's wort
+Eliglustat,grapefruit
+Eliglustat,st. john's wort
+Eluxadoline,alcohol
+Elvitegravir,st. john's wort
+Enalapril,ephedra
+Enalapril,natural licorice
+Enalapril,potassium-rich foods
+Enasidenib,grapefruit
+Enasidenib,st. john's wort
+Encorafenib,grapefruit
+Encorafenib,st. john's wort
+Enoxaparin,anticoagulant herbs
+Enoxaparin,garlic
+Enoxaparin,ginger
+Enoxaparin,ginkgo biloba
+Entrectinib,grapefruit
+Entrectinib,st. john's wort
+Enzalutamide,st. john's wort
+Eplerenone,grapefruit
+Eplontersen,vitamin A
+Epoprostenol,anticoagulant herbs
+Epoprostenol,garlic
+Epoprostenol,ginger
+Epoprostenol,ginkgo biloba
+Eptifibatide,anticoagulant herbs
+Eptifibatide,garlic
+Eptifibatide,ginger
+Eptifibatide,ginkgo biloba
+Eravacycline,st. john's wort
+Erdafitinib,grapefruit
+Erdafitinib,st. john's wort
+Erlotinib,grapefruit
+Erlotinib,st. john's wort
+Ertugliflozin,alcohol
+Erythrityl tetranitrate,alcohol
+Erythromycin,grapefruit
+Erythropoietin,iron
+Erythropoietin,iron supplements
+Escitalopram,alcohol
+Esketamine,alcohol
+Estazolam,alcohol
+Esterified estrogens,grapefruit
+Esterified estrogens,st. john's wort
+Estradiol acetate,grapefruit
+Estradiol acetate,st. john's wort
+Estradiol cypionate,grapefruit
+Estradiol cypionate,st. john's wort
+Estradiol valerate,grapefruit
+Estradiol valerate,st. john's wort
+Estramustine,dairy
+Estramustine,milk
+Estrone,alcohol
+Estrone,grapefruit
+Eszopiclone,alcohol
+Eszopiclone,high-fat foods
+Ethchlorvynol,alcohol
+Ethinylestradiol,st. john's wort
+Ethosuximide,alcohol
+Ethyl biscoumacetate,anticoagulant herbs
+Ethyl biscoumacetate,garlic
+Ethyl biscoumacetate,ginger
+Ethyl biscoumacetate,ginkgo biloba
+Etodolac,alcohol
+Etonogestrel,alcohol
+Etonogestrel,caffeine
+Etoposide,grapefruit
+Etoposide,st. john's wort
+Etravirine,grapefruit
+Etravirine,st. john's wort
+Etretinate,alcohol
+Everolimus,grapefruit
+Everolimus,st. john's wort
+Famotidine,alcohol
+Famotidine,caffeine
+Fedratinib,grapefruit
+Fedratinib,st. john's wort
+Felbamate,alcohol
+Felodipine,grapefruit
+Fenoprofen,alcohol
+Fentanyl,alcohol
+Ferric cation,dairy
+Ferric cation,milk
+Ferrous fumarate,caffeine
+Ferrous fumarate,calcium supplements
+Ferrous fumarate,calcium-rich foods
+Ferrous fumarate,dairy
+Ferrous fumarate,iron
+Ferrous fumarate,milk
+Ferrous gluconate,caffeine
+Ferrous gluconate,calcium supplements
+Ferrous gluconate,calcium-rich foods
+Ferrous gluconate,dairy
+Ferrous gluconate,iron
+Ferrous gluconate,milk
+Ferrous sulfate anhydrous,caffeine
+Ferrous sulfate anhydrous,calcium supplements
+Ferrous sulfate anhydrous,calcium-rich foods
+Ferrous sulfate anhydrous,dairy
+Ferrous sulfate anhydrous,iron
+Ferrous sulfate anhydrous,milk
+Ferulic acid,anticoagulant herbs
+Ferulic acid,garlic
+Ferulic acid,ginger
+Ferulic acid,ginkgo biloba
+Fexofenadine,apple
+Fexofenadine,fruit juice
+Fexofenadine,grapefruit
+Fidanacogene elaparvovec,alcohol
+Finerenone,grapefruit
+Flavin adenine dinucleotide,alcohol
+Flavin mononucleotide,alcohol
+Fleroxacin,caffeine
+Fleroxacin,dairy
+Fleroxacin,milk
+Flibanserin,alcohol
+Flibanserin,grapefruit
+Flibanserin,st. john's wort
+Floctafenine,alcohol
+Floctafenine,anticoagulant herbs
+Floctafenine,garlic
+Floctafenine,ginger
+Floctafenine,ginkgo biloba
+Fludiazepam,alcohol
+Fludiazepam,caffeine
+Fludiazepam,grapefruit
+Fludrocortisone,high-salt foods
+Fluindione,anticoagulant herbs
+Fluindione,garlic
+Fluindione,ginger
+Fluindione,ginkgo biloba
+Flunarizine,alcohol
+Flunitrazepam,alcohol
+Flunitrazepam,caffeine
+Flunitrazepam,grapefruit
+Fluoxetine,alcohol
+Flupentixol,alcohol
+Fluphenazine,alcohol
+Flurazepam,alcohol
+Flurbiprofen,alcohol
+Fluspirilene,alcohol
+Fluvoxamine,alcohol
+Fluvoxamine,caffeine
+Fluvoxamine,grapefruit
+Fomepizole,alcohol
+Fondaparinux,anticoagulant herbs
+Fondaparinux,garlic
+Fondaparinux,ginger
+Fondaparinux,ginkgo biloba
+Fondaparinux,ginseng
+Fosamprenavir,alcohol
+Fosamprenavir,high-fat foods
+Fosaprepitant,grapefruit
+Fosaprepitant,st. john's wort
+Fosinopril,ephedra
+Fosinopril,high-salt foods
+Fosinopril,natural licorice
+Fosinopril,potassium-rich foods
+Fosnetupitant,st. john's wort
+Fosphenytoin,alcohol
+Fosphenytoin,st. john's wort
+Fostamatinib,st. john's wort
+Fostemsavir,st. john's wort
+Furosemide,alcohol
+Furosemide,natural licorice
+Furosemide,orange juice
+Furosemide,potassium-rich foods
+GW-813893,anticoagulant herbs
+GW-813893,garlic
+GW-813893,ginger
+GW-813893,ginkgo biloba
+Gabapentin,alcohol
+Gabexate,anticoagulant herbs
+Gabexate,garlic
+Gabexate,ginger
+Gabexate,ginkgo biloba
+Galcanezumab,alcohol
+Gefitinib,grapefruit
+Gilteritinib,grapefruit
+Gilteritinib,st. john's wort
+Ginkgo biloba,anticoagulant herbs
+Ginkgo biloba,garlic
+Ginkgo biloba,ginger
+Ginkgo biloba,ginkgo biloba
+Glasdegib,st. john's wort
+Glecaprevir,st. john's wort
+Gliclazide,alcohol
+Glimepiride,alcohol
+Glipizide,alcohol
+Glutethimide,alcohol
+Glyburide,alcohol
+Grepafloxacin,caffeine
+Griseofulvin,alcohol
+Guanfacine,alcohol
+Guanfacine,high-fat foods
+Haloperidol,alcohol
+Heparin,anticoagulant herbs
+Heparin,calcium supplements
+Heparin,calcium-rich foods
+Heparin,garlic
+Heparin,ginger
+Heparin,ginkgo biloba
+Hydrochlorothiazide,alcohol
+Hydrochlorothiazide,calcium supplements
+Hydrochlorothiazide,calcium-rich foods
+Hydrochlorothiazide,high-salt foods
+Hydrochlorothiazide,iron
+Hydrochlorothiazide,iron supplements
+Hydrochlorothiazide,natural licorice
+Hydrochlorothiazide,orange juice
+Hydrochlorothiazide,potassium-rich foods
+Hydrocodone,alcohol
+Hydrocortisone,alcohol
+Hydroflumethiazide,potassium-rich foods
+Hydromorphone,alcohol
+Hydroxyzine,alcohol
+Hydroxyzine,grapefruit
+Ibritumomab tiuxetan,anticoagulant herbs
+Ibritumomab tiuxetan,garlic
+Ibritumomab tiuxetan,ginger
+Ibritumomab tiuxetan,ginkgo biloba
+Ibrutinib,grapefruit
+Ibrutinib,st. john's wort
+Ibuprofen,alcohol
+Idelalisib,grapefruit
+Idelalisib,st. john's wort
+Idraparinux,anticoagulant herbs
+Idraparinux,garlic
+Idraparinux,ginger
+Idraparinux,ginkgo biloba
+Ifosfamide,alcohol
+Ifosfamide,grapefruit
+Ifosfamide,st. john's wort
+Iloperidone,alcohol
+Iloprost,anticoagulant herbs
+Iloprost,garlic
+Iloprost,ginger
+Iloprost,ginkgo biloba
+Imatinib,grapefruit
+Imatinib,st. john's wort
+Imipramine,alcohol
+Imipramine,caffeine
+Imipramine,high-fiber foods
+Imipramine,st. john's wort
+Indapamide,alcohol
+Indapamide,potassium-rich foods
+Indinavir,alcohol
+Indinavir,grapefruit
+Indomethacin,alcohol
+Inotersen,vitamin A
+Inotersen,vitamin A supplements
+Insulin degludec,alcohol
+Insulin detemir,alcohol
+Insulin glulisine,alcohol
+Insulin human,alcohol
+Insulin pork,alcohol
+Interferon alfa-2a,alcohol
+Interferon alfa-2b,alcohol
+Interferon alfa-n1,alcohol
+Interferon beta-1a,alcohol
+Interferon beta-1b,alcohol
+Interferon gamma-1b,alcohol
+Iodide I-123,iodine
+Iodide I-131,iodine
+Iodine,broccoli
+Iodine,goitrogenic foods
+Iodine,soy/soybean
+Isavuconazole,grapefruit
+Isavuconazole,st. john's wort
+Isavuconazonium,grapefruit
+Isavuconazonium,st. john's wort
+Isocarboxazid,aged cheese
+Isocarboxazid,alcohol
+Isocarboxazid,caffeine
+Isocarboxazid,cheese
+Isocarboxazid,tyramine-containing foods
+Isocarboxazid,yogurt
+Isoniazid,alcohol
+Isoniazid,caffeine
+Isoniazid,cheese
+Isoniazid,chocolate
+Isoniazid,fava beans
+Isoniazid,histamine-containing foods
+Isoniazid,pickled foods
+Isoniazid,tyramine-containing foods
+Isoniazid,vitamin B6 (pyridoxine)
+Isotretinoin,alcohol
+Isotretinoin,vitamin A
+Isotretinoin,vitamin A supplements
+Istradefylline,st. john's wort
+Itraconazole,grapefruit
+Ivabradine,grapefruit
+Ivosidenib,grapefruit
+Ivosidenib,high-fat foods
+Ivosidenib,st. john's wort
+Ixabepilone,grapefruit
+Ixabepilone,st. john's wort
+Ixazomib,st. john's wort
+Ketamine,alcohol
+Ketazolam,alcohol
+Ketazolam,caffeine
+Ketazolam,grapefruit
+Ketoconazole,alcohol
+Ketoprofen,alcohol
+Lapatinib,grapefruit
+Larotrectinib,grapefruit
+Larotrectinib,st. john's wort
+Lasmiditan,alcohol
+Ledipasvir,st. john's wort
+Lefamulin,grapefruit
+Lefamulin,st. john's wort
+Lenvatinib,ephedra
+Lenvatinib,natural licorice
+Lepirudin,anticoagulant herbs
+Lepirudin,chamomile
+Lepirudin,garlic
+Lepirudin,ginger
+Lepirudin,ginkgo biloba
+Lepirudin,ginseng
+Lercanidipine,alcohol
+Lercanidipine,grapefruit
+Lercanidipine,st. john's wort
+Letaxaban,anticoagulant herbs
+Letaxaban,garlic
+Letaxaban,ginger
+Letaxaban,ginkgo biloba
+Letermovir,st. john's wort
+Levocetirizine,alcohol
+Levodopa,iron
+Levoketoconazole,alcohol
+Levomilnacipran,alcohol
+Levomilnacipran,anticoagulant herbs
+Levomilnacipran,grapefruit
+Levomilnacipran,st. john's wort
+Levorphanol,alcohol
+Levothyroxine,calcium supplements
+Levothyroxine,calcium-rich foods
+Levothyroxine,grapefruit
+Levothyroxine,high-fiber foods
+Levothyroxine,iron
+Levothyroxine,iron supplements
+Levothyroxine,magnesium
+Levothyroxine,soy/soybean
+Linagliptin,alcohol
+Lindane,alcohol
+Linezolid,cheese
+Linezolid,fava beans
+Linezolid,pickled foods
+Linezolid,tyramine-containing foods
+Liotrix,calcium supplements
+Liotrix,calcium-rich foods
+Liotrix,grapefruit
+Liotrix,high-fiber foods
+Liotrix,iron
+Liotrix,iron supplements
+Lisdexamfetamine,vitamin C
+Lisinopril,ephedra
+Lisinopril,high-salt foods
+Lisinopril,natural licorice
+Lisinopril,potassium-rich foods
+Lithium carbonate,alcohol
+Lithium carbonate,caffeine
+Lithium carbonate,iodine
+Lithium carbonate,iodine-containing foods
+Lithium citrate,alcohol
+Lithium citrate,caffeine
+Lithium citrate,iodine
+Lithium citrate,iodine-containing foods
+Lofexidine,alcohol
+Lomefloxacin,magnesium
+Lomitapide,grapefruit
+Lonafarnib,grapefruit
+Lonafarnib,seville orange
+Lopinavir,st. john's wort
+Lorazepam,alcohol
+Lorazepam,caffeine
+Lorlatinib,grapefruit
+Lorlatinib,st. john's wort
+Lovastatin,grapefruit
+Loxapine,alcohol
+Loxoprofen,grapefruit
+Loxoprofen,st. john's wort
+Lumateperone,grapefruit
+Lumateperone,st. john's wort
+Lumefantrine,grapefruit
+Lurasidone,alcohol
+Lurasidone,grapefruit
+Macimorelin,st. john's wort
+Magaldrate,alcohol
+Maprotiline,caffeine
+Maraviroc,st. john's wort
+Maribavir,st. john's wort
+Mecamylamine,alcohol
+Meclizine,alcohol
+Meclofenamic acid,alcohol
+Medroxyprogesterone acetate,st. john's wort
+Mefenamic acid,alcohol
+Mefloquine,alcohol
+Melagatran,anticoagulant herbs
+Melagatran,garlic
+Melagatran,ginger
+Melagatran,ginkgo biloba
+Melatonin,alcohol
+Melatonin,melatonin
+Meloxicam,alcohol
+Meperidine,alcohol
+Meprobamate,alcohol
+Mepyramine,alcohol
+Metaxalone,alcohol
+Metformin,alcohol
+Methadone,alcohol
+Methocarbamol,alcohol
+Methohexital,alcohol
+Methotrexate,alcohol
+Methotrexate,caffeine
+Methotrexate,dairy
+Methotrexate,milk
+Methotrexate,st. john's wort
+Methoxyflurane,alcohol
+Methsuximide,alcohol
+Methylergometrine,grapefruit
+Methylphenidate,alcohol
+Methylprednisolone,alcohol
+Metoclopramide,alcohol
+Metoprolol,alcohol
+Metoprolol,natural licorice
+Metronidazole,alcohol
+Metyrosine,alcohol
+Mevastatin,alcohol
+Mevastatin,grapefruit
+Midazolam,alcohol
+Midazolam,grapefruit
+Midostaurin,grapefruit
+Midostaurin,st. john's wort
+Mifepristone,grapefruit
+Migalastat,caffeine
+Milnacipran,alcohol
+Minocycline,calcium-rich foods
+Minocycline,iron
+Minocycline,magnesium
+Mipomersen,alcohol
+Mirtazapine,alcohol
+Mobocertinib,st. john's wort
+Moclobemide,aged cheese
+Moclobemide,alcohol
+Moclobemide,cheese
+Moclobemide,tyramine-containing foods
+Moclobemide,yogurt
+Moexipril,ephedra
+Moexipril,high-salt foods
+Moexipril,natural licorice
+Moexipril,potassium-rich foods
+Molindone,alcohol
+Monopotassium phosphate,calcium-rich foods
+Monopotassium phosphate,magnesium
+Monteplase,anticoagulant herbs
+Monteplase,garlic
+Monteplase,ginger
+Monteplase,ginkgo biloba
+Morphine,alcohol
+Mycophenolate mofetil,calcium-rich foods
+Mycophenolate mofetil,iron
+Mycophenolate mofetil,magnesium
+Nabilone,alcohol
+Nabumetone,alcohol
+Nadolol,alcohol
+Nadolol,natural licorice
+Nadroparin,anticoagulant herbs
+Nadroparin,garlic
+Nadroparin,ginger
+Nadroparin,ginkgo biloba
+Nafamostat,anticoagulant herbs
+Nafamostat,garlic
+Nafamostat,ginger
+Nafamostat,ginkgo biloba
+Nafarelin,alcohol
+Nalbuphine,alcohol
+Naldemedine,st. john's wort
+Nebivolol,alcohol
+Nefazodone,alcohol
+Neratinib,grapefruit
+Neratinib,st. john's wort
+Netupitant,grapefruit
+Netupitant,st. john's wort
+Nevirapine,alcohol
+Niacin,alcohol
+Nicardipine,grapefruit
+Nifedipine,alcohol
+Nifedipine,grapefruit
+Nifedipine,natural licorice
+Nifurtimox,alcohol
+Nilotinib,grapefruit
+Nilotinib,st. john's wort
+Nilutamide,alcohol
+Nimodipine,grapefruit
+Nirmatrelvir,st. john's wort
+Nirogacestat,grapefruit
+Nisoldipine,grapefruit
+Nitrazepam,alcohol
+Nitrazepam,caffeine
+Nitroglycerin,alcohol
+Nizatidine,alcohol
+Nizatidine,caffeine
+Norfloxacin,caffeine
+Norgestrel,grapefruit
+Norgestrel,st. john's wort
+Normethadone,alcohol
+Nortriptyline,alcohol
+Ofloxacin,caffeine
+Olanzapine,alcohol
+Olaparib,grapefruit
+Olaparib,st. john's wort
+Omadacycline,calcium-rich foods
+Omadacycline,iron
+Omadacycline,magnesium
+Omadacycline,zinc
+Ombitasvir,st. john's wort
+Opium,alcohol
+Orciprenaline,caffeine
+Orphenadrine,alcohol
+Osimertinib,st. john's wort
+Otamixaban,anticoagulant herbs
+Otamixaban,garlic
+Otamixaban,ginger
+Otamixaban,ginkgo biloba
+Oxazepam,alcohol
+Oxcarbazepine,alcohol
+Oxilofrine,alcohol
+Oxprenolol,alcohol
+Oxprenolol,natural licorice
+Oxtriphylline,caffeine
+Oxybutynin,alcohol
+Oxycodone,alcohol
+Oxymorphone,alcohol
+Oxytetracycline,dairy
+Oxytetracycline,milk
+Ozanimod,tyramine-containing foods
+Paclitaxel,echinacea
+Paclitaxel,grapefruit
+Paclitaxel,st. john's wort
+Pacritinib,grapefruit
+Pacritinib,st. john's wort
+Palbociclib,grapefruit
+Palbociclib,st. john's wort
+Paliperidone,alcohol
+Palovarotene,grapefruit
+Palovarotene,st. john's wort
+Panobinostat,grapefruit
+Panobinostat,st. john's wort
+Pargyline,aged cheese
+Pargyline,cheese
+Pargyline,tyramine-containing foods
+Pargyline,yogurt
+Paricalcitol,grapefruit
+Paritaprevir,st. john's wort
+Parnaparin,anticoagulant herbs
+Parnaparin,garlic
+Parnaparin,ginger
+Parnaparin,ginkgo biloba
+Paroxetine,alcohol
+Pazopanib,grapefruit
+Pazopanib,st. john's wort
+Pegaspargase,alcohol
+Peginterferon alfa-2b,caffeine
+Pemetrexed,folic acid/folate
+Pemetrexed,vitamin B12
+Pemigatinib,grapefruit
+Pemoline,alcohol
+Pemoline,caffeine
+Pentazocine,alcohol
+Pentosan polysulfate,anticoagulant herbs
+Pentoxifylline,caffeine
+Pentoxyverine,alcohol
+Periciazine,alcohol
+Perindopril,ephedra
+Perindopril,high-salt foods
+Perindopril,natural licorice
+Perindopril,potassium-rich foods
+Perphenazine,alcohol
+Pexidartinib,grapefruit
+Pexidartinib,high-fat foods
+Pexidartinib,st. john's wort
+Phenelzine,aged cheese
+Phenelzine,alcohol
+Phenelzine,caffeine
+Phenelzine,cheese
+Phenelzine,fava beans
+Phenelzine,pickled foods
+Phenelzine,st. john's wort
+Phenelzine,tyramine-containing foods
+Phenindamine,alcohol
+Phenindione,anticoagulant herbs
+Phenindione,garlic
+Phenindione,ginger
+Phenindione,ginkgo biloba
+Phenindione,ginseng
+Phenobarbital,alcohol
+Phenobarbital,caffeine
+Phenprocoumon,anticoagulant herbs
+Phenprocoumon,garlic
+Phenprocoumon,ginger
+Phenprocoumon,ginkgo biloba
+Phenprocoumon,grapefruit
+Phenprocoumon,st. john's wort
+Phenprocoumon,vitamin K
+Phentermine,caffeine
+Phenylbutazone,alcohol
+Phenylpropanolamine,caffeine
+Phenytoin,alcohol
+Pibrentasvir,st. john's wort
+Picosulfuric acid,alcohol
+Pimavanserin,grapefruit
+Pimavanserin,st. john's wort
+Pimozide,grapefruit
+Pimozide,st. john's wort
+Pindolol,alcohol
+Pipotiazine,alcohol
+Piroxicam,alcohol
+Pitolisant,st. john's wort
+Polatuzumab vedotin,grapefruit
+Polyethylene glycol,alcohol
+Polyethylene glycol,dairy
+Polyethylene glycol,milk
+Polythiazide,alcohol
+Ponatinib,grapefruit
+Ponatinib,st. john's wort
+Potassium bicarbonate,potassium-rich foods
+Practolol,alcohol
+Practolol,natural licorice
+Pramlintide,alcohol
+Prasugrel,anticoagulant herbs
+Prasugrel,garlic
+Prasugrel,ginger
+Prasugrel,ginkgo biloba
+Prazepam,alcohol
+Prazepam,caffeine
+Prazepam,grapefruit
+Praziquantel,grapefruit
+Prazosin,alcohol
+Prazosin,natural licorice
+Prednisolone,alcohol
+Prednisolone acetate,alcohol
+Prednisone,alcohol
+Pregabalin,alcohol
+Pretomanid,alcohol
+Primidone,alcohol
+Primidone,st. john's wort
+Probenecid,alcohol
+Procainamide,alcohol
+Procarbazine,aged cheese
+Procarbazine,alcohol
+Procarbazine,cheese
+Procarbazine,tyramine-containing foods
+Procarbazine,yogurt
+Prochlorperazine,alcohol
+Progesterone,alcohol
+Progesterone,caffeine
+Promazine,alcohol
+Promethazine,alcohol
+Propafenone,grapefruit
+Propiverine,high-fat foods
+Propranolol,alcohol
+Propranolol,natural licorice
+Protein C,anticoagulant herbs
+Protein C,garlic
+Protein C,ginger
+Protein C,ginkgo biloba
+Protein S human,anticoagulant herbs
+Protein S human,garlic
+Protein S human,ginger
+Protein S human,ginkgo biloba
+Protirelin,high-fat foods
+Pyrimethamine,folic acid/folate
+Quazepam,alcohol
+Quetiapine,alcohol
+Quinagolide,alcohol
+Quinapril,ephedra
+Quinapril,high-fat foods
+Quinapril,high-salt foods
+Quinapril,natural licorice
+Quinapril,potassium-rich foods
+Quinidine,grapefruit
+Quinidine,st. john's wort
+Racepinephrine,caffeine
+Raloxifene,alcohol
+Raloxifene,vitamin D
+Ramelteon,alcohol
+Ramelteon,high-fat foods
+Ramipril,potassium-rich foods
+Ranolazine,grapefruit
+Rasagiline,cheese
+Rasagiline,fava beans
+Rasagiline,pickled foods
+Rasagiline,st. john's wort
+Rasagiline,tyramine-containing foods
+Regadenoson,caffeine
+Regorafenib,grapefruit
+Regorafenib,st. john's wort
+Remifentanil,alcohol
+Remimazolam,alcohol
+Reserpine,alcohol
+Reteplase,anticoagulant herbs
+Reteplase,garlic
+Reteplase,ginger
+Reteplase,ginkgo biloba
+Reviparin,anticoagulant herbs
+Reviparin,garlic
+Reviparin,ginger
+Reviparin,ginkgo biloba
+Ribavirin,alcohol
+Ribociclib,grapefruit
+Ribociclib,st. john's wort
+Rifampin,alcohol
+Rifamycin,alcohol
+Rilmenidine,alcohol
+Rilpivirine,st. john's wort
+Rilzabrutinib,grapefruit
+Riociguat,magnesium
+Riociguat,st. john's wort
+Risedronic acid,calcium-rich foods
+Risedronic acid,vitamin D
+Ritonavir,st. john's wort
+Rivaroxaban,anticoagulant herbs
+Rivaroxaban,garlic
+Rivaroxaban,ginger
+Rivaroxaban,ginkgo biloba
+Rivaroxaban,st. john's wort
+Rolapitant,st. john's wort
+Rolitetracycline,calcium-rich foods
+Rolitetracycline,dairy
+Rolitetracycline,milk
+Romidepsin,grapefruit
+Romidepsin,st. john's wort
+Romosozumab,calcium supplements
+Romosozumab,calcium-rich foods
+Romosozumab,vitamin D
+Rucaparib,grapefruit
+Rucaparib,st. john's wort
+Rupatadine,grapefruit
+Ruxolitinib,grapefruit
+Ruxolitinib,st. john's wort
+Safinamide,alcohol
+Safinamide,cheese
+Safinamide,fava beans
+Safinamide,pickled foods
+Safinamide,st. john's wort
+Safinamide,tyramine-containing foods
+Salmon calcitonin,calcium supplements
+Salmon calcitonin,calcium-rich foods
+Salmon calcitonin,vitamin D
+Salsalate,alcohol
+Saquinavir,grapefruit
+Saruplase,anticoagulant herbs
+Saruplase,garlic
+Saruplase,ginger
+Saruplase,ginkgo biloba
+Scopolamine,grapefruit
+Secnidazole,alcohol
+Secobarbital,alcohol
+Segesterone acetate,st. john's wort
+Selegiline,aged cheese
+Selegiline,cheese
+Selegiline,tyramine-containing foods
+Selegiline,yogurt
+Semuloparin,anticoagulant herbs
+Semuloparin,garlic
+Semuloparin,ginger
+Semuloparin,ginkgo biloba
+Sennosides,natural licorice
+Sertraline,st. john's wort
+Silodrate,magnesium
+Simvastatin,grapefruit
+Siponimod,st. john's wort
+Sirolimus,grapefruit
+Sirolimus,st. john's wort
+Sodium feredetate,caffeine
+Sodium feredetate,dairy
+Sodium feredetate,iron
+Sodium feredetate,milk
+Sodium fluoride,dairy
+Sodium fluoride,milk
+Sodium oxybate,alcohol
+Sonidegib,grapefruit
+Sonidegib,st. john's wort
+Sorafenib,grapefruit
+Sorafenib,high-fat foods
+Sorafenib,st. john's wort
+Spirapril,ephedra
+Spirapril,high-salt foods
+Spirapril,natural licorice
+Spirapril,potassium-rich foods
+Spironolactone,potassium-rich foods
+Stavudine,alcohol
+Stiripentol,alcohol
+Stiripentol,caffeine
+Stiripentol,dairy
+Stiripentol,milk
+Streptokinase,anticoagulant herbs
+Streptokinase,garlic
+Streptokinase,ginger
+Streptokinase,ginkgo biloba
+Strontium ranelate,calcium supplements
+Strontium ranelate,calcium-rich foods
+Sufentanil,alcohol
+Sufentanil,grapefruit
+Sulindac,alcohol
+Sulodexide,anticoagulant herbs
+Sulodexide,garlic
+Sulodexide,ginger
+Sulodexide,ginkgo biloba
+Sulpiride,alcohol
+Sumatriptan,alcohol
+Sunitinib,grapefruit
+Sunitinib,st. john's wort
+Suvorexant,grapefruit
+Suzetrigine,grapefruit
+"Synthetic Conjugated Estrogens, A",grapefruit
+"Synthetic Conjugated Estrogens, A",st. john's wort
+"Synthetic Conjugated Estrogens, B",grapefruit
+"Synthetic Conjugated Estrogens, B",st. john's wort
+Tacrolimus,alcohol
+Tacrolimus,grapefruit
+Tacrolimus,magnesium
+Tacrolimus,st. john's wort
+Tadalafil,alcohol
+Tadalafil,grapefruit
+Taletrectinib,grapefruit
+Tamoxifen,st. john's wort
+Tapentadol,alcohol
+Tasimelteon,grapefruit
+Tasimelteon,st. john's wort
+Telaprevir,st. john's wort
+Temazepam,alcohol
+Temsirolimus,grapefruit
+Temsirolimus,st. john's wort
+Tenecteplase,anticoagulant herbs
+Tenecteplase,garlic
+Tenecteplase,ginger
+Tenecteplase,ginkgo biloba
+Teniposide,grapefruit
+Teniposide,st. john's wort
+Tenofovir alafenamide,st. john's wort
+Terbinafine,caffeine
+Terfenadine,grapefruit
+Terfenadine,st. john's wort
+Tetrabenazine,alcohol
+Tetracycline,dairy
+Tetracycline,milk
+Tezacaftor,grapefruit
+Tezacaftor,st. john's wort
+Thalidomide,alcohol
+Theophylline,alcohol
+Theophylline,st. john's wort
+Thiethylperazine,alcohol
+Thiopental,alcohol
+Thioproperazine,alcohol
+Thioridazine,alcohol
+Thiotepa,grapefruit
+Thiotepa,st. john's wort
+Thiothixene,alcohol
+Tiagabine,alcohol
+Tianeptine,grapefruit
+Tianeptine,st. john's wort
+Tiaprofenic acid,alcohol
+Tibolone,st. john's wort
+Ticagrelor,anticoagulant herbs
+Ticagrelor,garlic
+Ticagrelor,ginger
+Ticagrelor,ginkgo biloba
+Ticagrelor,grapefruit
+Ticagrelor,st. john's wort
+Tiludronic acid,calcium supplements
+Tiludronic acid,calcium-rich foods
+Tiludronic acid,magnesium
+Tinidazole,alcohol
+Tinzaparin,anticoagulant herbs
+Tinzaparin,garlic
+Tinzaparin,ginger
+Tinzaparin,ginkgo biloba
+Tioclomarol,anticoagulant herbs
+Tioclomarol,garlic
+Tioclomarol,ginger
+Tioclomarol,ginkgo biloba
+Tiratricol,calcium supplements
+Tiratricol,calcium-rich foods
+Tiratricol,iron
+Tiratricol,iron supplements
+Tizanidine,alcohol
+Tocopherylquinone,anticoagulant herbs
+Tocopherylquinone,garlic
+Tocopherylquinone,ginger
+Tocopherylquinone,ginkgo biloba
+Tofacitinib,grapefruit
+Tofacitinib,st. john's wort
+Tolazamide,alcohol
+Tolbutamide,alcohol
+Tolmetin,alcohol
+Tolvaptan,alcohol
+Tolvaptan,grapefruit
+Tolvaptan,st. john's wort
+Toremifene,grapefruit
+Trabectedin,alcohol
+Trabectedin,grapefruit
+Trabectedin,st. john's wort
+Tramadol,alcohol
+Trandolapril,ephedra
+Trandolapril,high-salt foods
+Trandolapril,natural licorice
+Trandolapril,potassium-rich foods
+Tranylcypromine,aged cheese
+Tranylcypromine,alcohol
+Tranylcypromine,cheese
+Tranylcypromine,fava beans
+Tranylcypromine,pickled foods
+Tranylcypromine,st. john's wort
+Tranylcypromine,tyramine-containing foods
+Trastuzumab emtansine,grapefruit
+Trazodone,alcohol
+Trazodone,st. john's wort
+Triamterene,potassium-rich foods
+Triazolam,alcohol
+Triazolam,grapefruit
+Triethylenetetramine,iron
+Triethylenetetramine,iron supplements
+Trifluoperazine,alcohol
+Triflusal,anticoagulant herbs
+Triflusal,garlic
+Triflusal,ginger
+Triflusal,ginkgo biloba
+Trimethadione,alcohol
+Trimethobenzamide,alcohol
+Trimipramine,alcohol
+Trioxsalen,celery
+Trioxsalen,parsley
+Triprolidine,alcohol
+Tropisetron,alcohol
+Ubrogepant,st. john's wort
+Upadacitinib,grapefruit
+Upadacitinib,st. john's wort
+Urokinase,anticoagulant herbs
+Urokinase,garlic
+Urokinase,ginger
+Urokinase,ginkgo biloba
+Valbenazine,st. john's wort
+Valdecoxib,alcohol
+Valoctocogene roxaparvovec,alcohol
+Valproic acid,alcohol
+Valproic acid,dairy
+Valproic acid,milk
+Vandetanib,grapefruit
+Vandetanib,st. john's wort
+Vanzacaftor,grapefruit
+Vardenafil,grapefruit
+Varenicline,alcohol
+Velpatasvir,st. john's wort
+Vemurafenib,caffeine
+Vemurafenib,grapefruit
+Vemurafenib,high-fat foods
+Vemurafenib,st. john's wort
+Venetoclax,grapefruit
+Venetoclax,st. john's wort
+Venlafaxine,alcohol
+Venlafaxine,st. john's wort
+Verapamil,alcohol
+Verapamil,grapefruit
+Vilazodone,alcohol
+Vilazodone,st. john's wort
+Vinblastine,grapefruit
+Vinblastine,st. john's wort
+Vincristine,grapefruit
+Vincristine,st. john's wort
+Vindesine,grapefruit
+Vindesine,st. john's wort
+Vinflunine,grapefruit
+Vinflunine,st. john's wort
+Vinorelbine,grapefruit
+Vinorelbine,st. john's wort
+Voclosporin,grapefruit
+Vorapaxar,anticoagulant herbs
+Vorapaxar,garlic
+Vorapaxar,ginger
+Vorapaxar,ginkgo biloba
+Vorapaxar,grapefruit
+Vorapaxar,st. john's wort
+Vortioxetine,alcohol
+Vortioxetine,st. john's wort
+Voxelotor,grapefruit
+Voxelotor,st. john's wort
+Voxilaprevir,st. john's wort
+Warfarin,anticoagulant herbs
+Warfarin,garlic
+Warfarin,ginger
+Warfarin,ginkgo biloba
+Warfarin,grapefruit
+Warfarin,st. john's wort
+Warfarin,vitamin K
+Warfarin,vitamin K-rich foods
+Ximelagatran,anticoagulant herbs
+Ximelagatran,garlic
+Ximelagatran,ginger
+Ximelagatran,ginkgo biloba
+Zalcitabine,magnesium
+Zaleplon,alcohol
+Zaleplon,high-fat foods
+Zanubrutinib,grapefruit
+Zanubrutinib,st. john's wort
+Ziconotide,alcohol
+Zileuton,alcohol
+Zileuton,grapefruit
+Zileuton,st. john's wort
+Zinc,dairy
+Zinc,high-fiber foods
+Zinc,milk
+Zinc,zinc
+Zinc acetate,dairy
+Zinc acetate,high-fiber foods
+Zinc acetate,milk
+Zinc acetate,zinc
+Zinc ascorbate,dairy
+Zinc ascorbate,high-fiber foods
+Zinc ascorbate,milk
+Zinc ascorbate,zinc
+Zinc citrate,dairy
+Zinc citrate,high-fiber foods
+Zinc citrate,milk
+Zinc citrate,zinc
+Zinc gluconate,dairy
+Zinc gluconate,high-fiber foods
+Zinc gluconate,milk
+Zinc gluconate,zinc
+Zinc oxide,dairy
+Zinc oxide,high-fiber foods
+Zinc oxide,milk
+Zinc oxide,zinc
+Zinc sulfate,dairy
+Zinc sulfate,high-fiber foods
+Zinc sulfate,milk
+Zinc sulfate,zinc
+"Zinc sulfate, unspecified form",dairy
+"Zinc sulfate, unspecified form",high-fiber foods
+"Zinc sulfate, unspecified form",milk
+"Zinc sulfate, unspecified form",zinc
+Ziprasidone,alcohol
+Zolpidem,alcohol
+Zonisamide,alcohol
+Zopiclone,alcohol
+Zopiclone,grapefruit
+Zuclopenthixol,alcohol

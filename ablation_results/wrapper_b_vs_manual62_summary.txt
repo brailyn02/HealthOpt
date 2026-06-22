@@ -1,0 +1,28 @@
+WRAPPER B vs MANUAL 62-FOOD COMPOUND AUDIT
+==========================================
+Manual source: data\na_dish_compounds.json
+Wrapper B cache: data\llm_food_cache.json
+FoodB compound source: Compound.csv (columns: name, moldb_iupac)
+
+FOOD COVERAGE
+- Manual foods total: 56
+- Manual foods with a Wrapper B cache match: 3/56 (5.4%)
+
+MANUAL COMPOUNDS (for 62 foods)
+- Compound mentions: 292
+- In FoodB vocab: 165/292 (56.5%)
+
+WRAPPER B COMPOUNDS (only for foods that matched cache)
+- Compound mentions: 15
+- In FoodB vocab: 12/15 (80.0%)
+
+FOOD-WISE AGREEMENT (manual vs wrapper)
+- Overlap compounds (sum across foods): 2
+- Manual-only compounds (sum across foods): 290
+- Wrapper-only compounds (sum across foods): 13
+
+FILES WRITTEN
+- ablation_results\wrapper_b_vs_manual62_food_level.csv
+- ablation_results\wrapper_b_vs_manual62_compound_level.csv
+- ablation_results\manual62_compounds_not_in_foodb.csv
+- ablation_results\wrapper_b_compounds_not_in_foodb.csv

@@ -1,0 +1,55 @@
+=== FooDB / food_drug_pairs Merge Report ===
+Input pairs (unique after dedup): 52987
+
+--- Entity Resolution ---
+New food entities:  0
+  (existing)        2057
+New drug entities:  0
+  (existing)        5000
+
+--- Master Sizes After Merge ---
+Food master total:  2057
+Drug master total:  5000
+
+--- Interaction Pairs ---
+Pre-merge pairs:    60392
+Newly added pairs:  0
+Total pairs now:    60392
+
+--- Skipped ---
+Unresolved foods:   335  (not in master or FooDB Compound.csv)
+Unresolved drugs:   0  (not in master or DrugBank SMILES)
+
+Top 30 unresolved foods:
+  abalone
+  adzuki bean
+  alfalfa
+  Allium
+  almond
+  American lobster
+  anchovy
+  angelica
+  anise
+  apple cider
+  apricot
+  Asparagus
+  Asparagus racemosus
+  Atlantic cod
+  Atlantic croaker
+  Atlantic halibut
+  Atlantic salmon
+  avocado oil
+  baby food
+  Barley
+  bean
+  beverages
+  biscuit
+  bison
+  bitter gourd
+  Black Chokeberry
+  Black Radish
+  black raspberry
+  black walnut
+  black-eyed pea
+
+Top 30 unresolved drugs:

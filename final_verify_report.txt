@@ -1,0 +1,26 @@
+Final SMILES Verification
+================================================================================
+
+  ✓ MATCH                                                                           Uric Acid
+  ✓ MATCH                                                                           Allicin true
+  ✓ MATCH                                                                           Carvone
+  ✗ NOT_FOUND/ERROR: HTTP 400                                                       Apigenin
+  ✓ MATCH                                                                           EPA
+  ✓ MATCH                                                                           Linoleic Acid
+  ✗ MISMATCH: got CID=140698061 ((3Z,6Z,9Z)-hexadeca-3,6,9-triene) expected=5280934  ALA
+  ✗ NOT_FOUND/ERROR: HTTP 400                                                       Quercetin
+  ✗ NOT_FOUND/ERROR: HTTP 400                                                       Benzo[a]pyrene
+  ✗ NOT_FOUND/ERROR: HTTP 400                                                       Sucrose
+  ✗ NOT_FOUND/ERROR: HTTP 400                                                       6-Gingerol
+  ✗ NOT_FOUND/ERROR: HTTP 400                                                       Sesamin
+  ✗ NOT_FOUND/ERROR: HTTP 400                                                       Lycopene
+  ✗ MISMATCH: got CID=5314041 (1,3,3-trimethyl-2-[(E)-prop-1-enyl]cyclohexene) expected=5280489  Beta-Carotene
+  ✗ NOT_FOUND/ERROR: HTTP 400                                                       Tripalmitin
+  ✓ MATCH                                                                           Linalool
+  ✗ NOT_FOUND/ERROR: HTTP 400                                                       Capsaicin
+  ✗ MISMATCH: got CID=0 () expected=969516                                          Curcumin
+  ✓ MATCH                                                                           Piperine
+  ✓ MATCH                                                                           Quercetin2
+  ✗ NOT_FOUND/ERROR: HTTP 400                                                       Maltose
+
+SUMMARY: 8 OK, 13 FAIL

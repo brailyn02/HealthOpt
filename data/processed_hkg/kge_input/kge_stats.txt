@@ -1,0 +1,23 @@
+KGE Training Data Stats
+=============================================
+  total_triplets   : 4,155,750
+  total_entities   : 66,255
+  total_relations  : 7
+  train_triplets   : 3,740,175
+  valid_triplets   : 207,787
+  test_triplets    : 207,788
+
+Entity breakdown:
+  FOOD       : 1,003
+  COMPOUND   : 61,832
+  TARGET     : 2,063
+  DRUG       : 1,357
+
+Relation breakdown:
+  activates                 : 651
+  binds                     : 1,974
+  contains                  : 4,141,317
+  induces                   : 533
+  inhibits                  : 7,998
+  modulates                 : 178
+  substrate_of              : 3,099

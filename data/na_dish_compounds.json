@@ -1,0 +1,406 @@
+{
+  "couscous": [
+    "Phytic Acid",
+    "Ferulic Acid"
+  ],
+  "zfiti / zviti": [
+    "Allicin",
+    "Capsaicin",
+    "Piperine",
+    "Phytic Acid"
+  ],
+  "chakhchoukha": [
+    "Amylopectin",
+    "Lycopene",
+    "Potassium",
+    "Cinnamaldehyde",
+    "Capsaicin",
+    "Purines"
+  ],
+  "guedid / kadid": [
+    "Tyramine",
+    "Na",
+    "Allicin",
+    "AGEs"
+  ],
+  "osban / osbane": [
+    "Triglycerides",
+    "Apigenin",
+    "Allicin",
+    "Quercetin",
+    "Purines",
+    "Piperine"
+  ],
+  "lahm lhalou": [
+    "Coumarin",
+    "Cinnamaldehyde",
+    "Sucrose / Glucose",
+    "Amygdalin",
+    "Butyric Acid"
+  ],
+  "chorba frik / jari": [
+    "Phytic Acid",
+    "Magnesium",
+    "Smoked / Roasted PAHs",
+    "Soluble Fiber",
+    "RosmarinicAcid",
+    "Menthol"
+  ],
+  "atay": [
+    "Tannins",
+    "Caffeine",
+    "Saponins",
+    "Sucrose / Glucose"
+  ],
+  "chakchouka": [
+    "Quercetin",
+    "Allicin",
+    "Capsaicin",
+    "Lycopene",
+    "Choline"
+  ],
+  "tajine zeitoun": [
+    "Oleuropein",
+    "Cinnamaldehyde",
+    "Allicin",
+    "Curcumin"
+  ],
+  "rechta": [
+    "Glucobrassicin",
+    "Cinnamaldehyde",
+    "Amylopectin",
+    "Quercetin",
+    "Curcumin"
+  ],
+  "dolma": [
+    "Solanine",
+    "Cucurbitacin",
+    "Amylose",
+    "Allicin",
+    "Apigenin",
+    "Vitamin K"
+  ],
+  "trida (w: white sauce": [
+    "W: Amylopectin",
+    "Butyric Acid",
+    "Quercetin",
+    "Choline"
+  ],
+  "mesfouf": [
+    "Sucrose/Fructose",
+    "Amylopectin",
+    "Butyric Acid",
+    "Resveratrol"
+  ],
+  "tilitili / tlitli": [
+    "Amylopectin",
+    "Cinnamaldehyde",
+    "Piperine",
+    "Choline"
+  ],
+  "berkoukes": [
+    "Amylose/Amylopectin",
+    "Lycopene",
+    "Capsaicin",
+    "Curcumin"
+  ],
+  "mthawem / methoum": [
+    "Allicin",
+    "Cinnamaldehyde",
+    "Purines",
+    "Saturated Lipids"
+  ],
+  "bouzlouf/chtitha": [
+    "S: Allicin",
+    "Purines",
+    "Capsaicin",
+    "Cuminaldehyde"
+  ],
+  "doubara (biskria)": [
+    "Phytic Acid",
+    "Purines",
+    "Cuminaldehyde",
+    "Capsaicin",
+    "Allicin"
+  ],
+  "garantita/karentica": [
+    "Phytic Acid",
+    "Cuminaldehyde",
+    "Purines",
+    "Capsaicin",
+    "Non-Heme Fe",
+    "Plant Protein"
+  ],
+  "merguez": [
+    "Heme Iron",
+    "Sat.Fats",
+    "Capsaicin",
+    "Cuminaldehyde"
+  ],
+  "mederbel": [
+    "Nasunin",
+    "LipidSponge",
+    "Allicin",
+    "Purines",
+    "Acetic Acid"
+  ],
+  "harira": [
+    "Beta-Glucan",
+    "Carvone",
+    "Purines"
+  ],
+  "adas": [
+    "Phytic Acid",
+    "Non-Heme Iron",
+    "Allicin",
+    "Potassium",
+    "Cuminaldehyde"
+  ],
+  "chorba bidha": [
+    "Citric Acid",
+    "Cinnamaldehyde",
+    "Phytic Acid",
+    "Purines"
+  ],
+  "bourak jazairi": [
+    "Saturated Fats",
+    "Amylopectin",
+    "Purines",
+    "Large Neutral Amino Acids",
+    "Iodine",
+    "Omega3",
+    "Calcium",
+    "Acrylamide"
+  ],
+  "zlabia": [
+    "Limonene"
+  ],
+  "baklawa": [
+    "GelatinisedStarch",
+    "LaminatedGluten",
+    "Saturated Fats",
+    "LArginine",
+    "Omega3",
+    "Amygdalin",
+    "Honey"
+  ],
+  "makroud el-koucha": [
+    "Amylopectin",
+    "Butyric Acid / SCFAs",
+    "Linalool"
+  ],
+  "tcharak (a=aryan/b=meskar)": [
+    "Shortcrust-FriableMatrix",
+    "LArginine",
+    "Mg2",
+    "Albumin",
+    "Protein",
+    "Limonene",
+    "Linalool"
+  ],
+  "tamina": [
+    "Pyrodextrins",
+    "Butter Emulsion",
+    "Sesamin",
+    "Sesamolin",
+    "Sucrose / Icing Sugar"
+  ],
+  "douwara / bakbouka": [
+    "Purines",
+    "Lycopene",
+    "Potassium",
+    "Phytic Acid",
+    "Allicin",
+    "Gingerol",
+    "Curcumin"
+  ],
+  "hommos": [
+    "Sodium Bicarbonate",
+    "Phytic Acid",
+    "Purines",
+    "Cuminaldehyde",
+    "Olive Oil",
+    "NonHemeIron"
+  ],
+  "loubia": [
+    "Phytic Acid",
+    "Saponins",
+    "Phaseolamin",
+    "Potassium",
+    "Purines",
+    "Allicin",
+    "Cuminaldehyde",
+    "Beta-Carotene"
+  ],
+  "dchicha with klila": [
+    "Calcium",
+    "Beta-Glucan",
+    "Tyramine",
+    "Na",
+    "Saturated Fats"
+  ],
+  "hmiss": [
+    "Capsaicin",
+    "Lycopene",
+    "Allicin",
+    "Oleic Acid"
+  ],
+  "brik": [
+    "Saturated Fats",
+    "Lecithin",
+    "Choline",
+    "Purines",
+    "Cuminaldehyde",
+    "Acrylamide"
+  ],
+  "mhadjeb (a=spicy/b=plain)": [
+    "Amylopectin",
+    "Lycopene",
+    "Allicin",
+    "Quercetin",
+    "Capsaicin",
+    "Triglycerides"
+  ],
+  "baghrir": [
+    "Amylopectin",
+    "CO2",
+    "Sucrose / Glucose",
+    "Butyric Acid / SCFAs"
+  ],
+  "matlouh": [
+    "Amylopectin",
+    "CO2",
+    "HydrationMatrix",
+    "Na",
+    "Phytic Acid"
+  ],
+  "mbessas": [
+    "Amylopectin",
+    "Lipid",
+    "DenseMatrix",
+    "Maillard / AGEs"
+  ],
+  "ftir": [
+    "Amylopectin",
+    "Triglycerides",
+    "Na",
+    "ZeroFermentation"
+  ],
+  "bradj": [
+    "Potassium",
+    "Cinnamaldehyde",
+    "Eugenol",
+    "Omega3",
+    "Lignans",
+    "Linalool"
+  ],
+  "shbah el-safra": [
+    "L-Arginine",
+    "Vitamin E",
+    "Sucrose / Glucose",
+    "Potassium",
+    "Sorbitol",
+    "Crocin",
+    "Safranal"
+  ],
+  "dziriyet": [
+    "Resveratrol",
+    "PACs",
+    "Benzaldehyde",
+    "Albumin",
+    "Choline",
+    "Sucrose",
+    "Fructose",
+    "Glucose"
+  ],
+  "kaak nakach": [
+    "LipidCoatedStarch",
+    "Potassium",
+    "Insoluble Fiber",
+    "Linalool",
+    "Sodium Bicarbonate",
+    "CO₂"
+  ],
+  "taminat l-ghars": [
+    "Pyrodextrins",
+    "InsolFiber",
+    "Potassium",
+    "Butter",
+    "Grain Starch",
+    "Honey"
+  ],
+  "qtayef": [
+    "Sha'ra-Strands",
+    "WalnutALA",
+    "Ellagitannins",
+    "FructoseGlucose",
+    "Linalool"
+  ],
+  "griwech": [
+    "BraidedLattice",
+    "3mm",
+    "Maillard",
+    "Honey Synergy",
+    "Sesamin",
+    "Sesamolin",
+    "Linalool"
+  ],
+  "mhancha": [
+    "L-Arginine",
+    "Niacin",
+    "Oxidised Lipids"
+  ],
+  "chou-fleur": [
+    "I3C",
+    "Amylopectin",
+    "Potassium",
+    "Lycopene",
+    "CuminAldehyde",
+    "Allicin"
+  ],
+  "batata red sauce": [
+    "Gelatinised Starch",
+    "Potassium",
+    "Quercetin",
+    "Allicin",
+    "Apigenin",
+    "Cuminaldehyde"
+  ],
+  "batata bel-jelbana": [
+    "Saponins",
+    "Amylose",
+    "Leucine",
+    "EssAA",
+    "Cinnamaldehyde",
+    "Allicin",
+    "Piperine"
+  ],
+  "la soupe (veg+redlentil)": [
+    "Soluble Fiber",
+    "Folate",
+    "Beta-Carotene",
+    "Minerals",
+    "Curcumin",
+    "Gingerol",
+    "Piperine",
+    "Allicin-LateAdd"
+  ],
+  "djelbana b'garnon": [
+    "Cynarin",
+    "Silymarin",
+    "Inositol",
+    "SolFiber",
+    "Leucine",
+    "Gelatin",
+    "GelatinisedFlour"
+  ],
+  "fritte omelette": [
+    "AcrylamideMaillard",
+    "StarchLipid",
+    "Choline",
+    "Lutein",
+    "Leucine",
+    "OxidisedLipids",
+    "CCK"
+  ]
+}

@@ -1,0 +1,401 @@
+====================================================================================================
+SMILES VERIFICATION REPORT — north_african_food_drug_interactions.txt
+Total unique SMILES verified: 88
+OK: 80  |  INVALID: 8  |  NOT_FOUND: 0  |  ERRORS: 0
+====================================================================================================
+
+>>> INVALID SMILES (need correction)
+--------------------------------------------------------------------------------
+  Label : bare
+  Line  : 18
+  SMILES: COC1=C(C=CC(=C1)
+  Detail: PubChem rejected: {
+  "Fault": {
+    "Code": "PUGREST.BadRequest",
+    "Message": "Unable to standardize the given structure - perhaps som
+
+  Label : Benzo[a]pyrene rep.
+  Line  : 312
+  SMILES: C1=CC2=C(C=C1)C=C3C=CC=CC3
+  Detail: PubChem rejected: {
+  "Fault": {
+    "Code": "PUGREST.BadRequest",
+    "Message": "Unable to standardize the given structure - perhaps som
+
+  Label : bare
+  Line  : 673
+  SMILES: C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O
+  Detail: PubChem rejected: {
+  "Fault": {
+    "Code": "PUGREST.BadRequest",
+    "Message": "Unable to standardize the given structure - perhaps som
+
+  Label : bare
+  Line  : 779
+  SMILES: CC(=CCCC(=CCCC(=CCCC(=CCCC(=C)C=CC(=C)C=CC(=C)C=CC(=C)C=CC=C(C)C=CC
+  Detail: PubChem rejected: {
+  "Fault": {
+    "Code": "PUGREST.BadRequest",
+    "Message": "Unable to standardize the given structure - perhaps som
+
+  Label : bare
+  Line  : 1143
+  SMILES: C=CCSS=CC=CS(=O)CC=C
+  Detail: PubChem rejected: {
+  "Fault": {
+    "Code": "PUGREST.BadRequest",
+    "Message": "Unable to standardize the given structure - perhaps som
+
+  Label : Sesamin abbrev.
+  Line  : 2592
+  SMILES: C1OC2=CC(=CC=C2)CC3CC(=O)OC4=CC=C(C=C34)OC
+  Detail: PubChem rejected: {
+  "Fault": {
+    "Code": "PUGREST.BadRequest",
+    "Message": "Unable to standardize the given structure - perhaps som
+
+  Label : bare
+  Line  : 2954
+  SMILES: CC(=CCC=C(C)C=CC
+  Detail: PubChem rejected: {
+  "Fault": {
+    "Code": "PUGREST.BadRequest",
+    "Message": "Unable to standardize the given structure - perhaps som
+
+  Label : Lycopene simplified
+  Line  : 5194
+  SMILES: CC(=CCC/C(=C\CCC=C(C)C)
+  Detail: PubChem rejected: {
+  "Fault": {
+    "Code": "PUGREST.BadRequest",
+    "Message": "Unable to standardize the given structure - perhaps som
+
+
+>>> NOT FOUND IN PUBCHEM (may be polymer/class/truncated)
+--------------------------------------------------------------------------------
+
+>>> ERRORS / TIMEOUTS
+--------------------------------------------------------------------------------
+
+>>> ALL VERIFIED OK
+--------------------------------------------------------------------------------
+  [     890]  bare                                 C6H18O24P6      MW=660.04    (2,3,4,5,6-pentaphosphonooxycyclohexyl) dihydrogen phos
+             File SMILES : OP(O)(=O)OC1C(OP(O)(O)=O)C(OP(O)(O)=O)C(OP(O)(O)=O)C(OP(O)(O)=O)C1OP(O)(O)=O
+             PubChem SMILES: ?
+
+  [71593486]  bare                                 C5H8OS2         MW=148.3     3-ethenylsulfinylsulfanylprop-1-ene
+             File SMILES : C=CCSS(=O)C=C
+             PubChem SMILES: ?
+
+  [ 1548943]  bare                                 C18H27NO3       MW=305.4     (E)-N-[(4-hydroxy-3-methoxyphenyl)methyl]-8-methylnon-6
+             File SMILES : CC(C)/C=C/CCCCC(=O)NCC1=CC(=C(C=C1)O)OC
+             PubChem SMILES: ?
+
+  [   17429]  bare                                 C6H11NO         MW=113.16    piperidine-1-carbaldehyde
+             File SMILES : C1CCN(CC1)C(=O)
+             PubChem SMILES: ?
+
+  [     872]  bare                                 C12H22O11       MW=342.30    6-[[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymeth
+             File SMILES : C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)O)O)O)O)O)O)O)O
+             PubChem SMILES: ?
+
+  [     307]  bare                                 C9H8O           MW=132.16    3-phenylprop-2-enal
+             File SMILES : C1=CC=C(C=C1)C=CC=O
+             PubChem SMILES: ?
+
+  [    5610]  bare                                 C8H11NO         MW=137.18    4-(2-aminoethyl)phenol
+             File SMILES : NCCc1ccc(O)cc1
+             PubChem SMILES: ?
+
+  [   10467]  bare                                 C20H40O2        MW=312.5     icosanoic acid
+             File SMILES : CCCCCCCCCCCCCCCCCCCC(=O)O
+             PubChem SMILES: ?
+
+  [     323]  bare                                 C9H6O2          MW=146.14    chromen-2-one
+             File SMILES : C1=CC=C2C(=C1)C=CC(=O)O2
+             PubChem SMILES: ?
+
+  [    1115]  bare                                 C12H22O11       MW=342.30    2-[3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxy-
+             File SMILES : C(C1C(C(C(C(O1)OC2(C(C(C(O2)CO)O)O)CO)O)O)O)O
+             PubChem SMILES: ?
+
+  [     264]  bare                                 C4H8O2          MW=88.11     butanoic acid
+             File SMILES : CCCC(=O)O
+             PubChem SMILES: ?
+
+  [     890]  Phytic Acid                          C6H18O24P6      MW=660.04    (2,3,4,5,6-pentaphosphonooxycyclohexyl) dihydrogen phos
+             File SMILES : OP(=O)(O)OC1C(OP(=O)(O)O)C(OP(=O)(O)O)C(OP(=O)(O)O)C(OP(=O)(O)O)C1OP(=O)(O)O
+             PubChem SMILES: ?
+
+  [ 4632231]  Pectin rep.                          C6H10O6         MW=178.14    4,5,6-trihydroxyoxane-2-carboxylic acid
+             File SMILES : OC1OC(C(=O)O)CC(O)C1O
+             PubChem SMILES: ?
+
+  [ 5315615]  Rosmarinic Acid                      C18H16O8        MW=360.3     3-(3,4-dihydroxyphenyl)-2-[(E)-3-(3,4-dihydroxyphenyl)p
+             File SMILES : OC(=O)C(Cc1ccc(O)c(O)c1)OC(=O)/C=C/c1ccc(O)c(O)c1
+             PubChem SMILES: ?
+
+  [       0]  Sucrose                              ?               MW=?         ?
+             File SMILES : OC[C@H]1O[C@@](CO)(O[C@@H]2[C@@H](O)[C@H](O)[C@@H](O)[C@H]2O)[C@@H](O)[C@@H]1O
+             PubChem SMILES: ?
+
+  [ 5280343]  bare                                 C15H10O7        MW=302.23    2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one
+             File SMILES : C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O
+             PubChem SMILES: ?
+
+  [     305]  bare                                 C5H14NO+        MW=104.17    2-hydroxyethyl(trimethyl)azanium
+             File SMILES : C[N+](C)(C)CCO
+             PubChem SMILES: ?
+
+  [       0]  bare                                 ?               MW=?         ?
+             File SMILES : CC=C1C(C(OC1C(=O)OC)OC2C(C(C(C(O2)CO)O)O)O)OC3=CC(=C(C=C3)O)O
+             PubChem SMILES: ?
+
+  [  969516]  bare                                 C21H20O6        MW=368.4     (1E,6E)-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-die
+             File SMILES : COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O
+             PubChem SMILES: ?
+
+  [       0]  bare                                 ?               MW=?         ?
+             File SMILES : CCCCCC(CC(=O)CC1=CC(=C(C=C1)OC)O)O
+             PubChem SMILES: ?
+
+  [  445154]  bare                                 C14H12O3        MW=228.24    5-[(E)-2-(4-hydroxyphenyl)ethenyl]benzene-1,3-diol
+             File SMILES : C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O
+             PubChem SMILES: ?
+
+  [10250249]  bare                                 C22H22O7        MW=398.4     (1E,6E)-1-(4-hydroxy-3,5-dimethoxyphenyl)-7-(4-hydroxy-
+             File SMILES : COC1=CC(=CC(=C1O)OC)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC
+             PubChem SMILES: ?
+
+  [       0]  Uric Acid product                    ?               MW=?         ?
+             File SMILES : C12C(=O)NC(=O)NC1=C(NC(=O)N2)O
+             PubChem SMILES: ?
+
+  [     326]  bare                                 C10H12O         MW=148.20    4-propan-2-ylbenzaldehyde
+             File SMILES : CC(C)c1ccc(C=O)cc1
+             PubChem SMILES: ?
+
+  [     890]  bare                                 C6H18O24P6      MW=660.04    (2,3,4,5,6-pentaphosphonooxycyclohexyl) dihydrogen phos
+             File SMILES : C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O
+             PubChem SMILES: ?
+
+  [   65036]  bare                                 C6H10OS2        MW=162.3     3-prop-2-enylsulfinylsulfanylprop-1-ene
+             File SMILES : C=CCSS(=O)CC=C
+             PubChem SMILES: ?
+
+  [     176]  bare                                 C2H4O2          MW=60.05     acetic acid
+             File SMILES : CC(=O)O
+             PubChem SMILES: ?
+
+  [ 6992021]  bare                                 C6H12O6         MW=180.16    (2R,3R,4S,5S,6S)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol
+             File SMILES : OC[C@@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O
+             PubChem SMILES: ?
+
+  [     932]  Apigenin                             C15H12O5        MW=272.25    5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-
+             File SMILES : O=C1CC(c2ccc(O)cc2)Oc3cc(O)cc(O)c13
+             PubChem SMILES: ?
+
+  [       0]  Carvone                              ?               MW=?         ?
+             File SMILES : O=C1CC(=C(C)C)CC(=C1)C
+             PubChem SMILES: ?
+
+  [     311]  Citric Acid                          C6H8O7          MW=192.12    2-hydroxypropane-1,2,3-tricarboxylic acid
+             File SMILES : OC(=O)CC(O)(CC(=O)O)C(=O)O
+             PubChem SMILES: ?
+
+  [  637511]  bare                                 C9H8O           MW=132.16    (E)-3-phenylprop-2-enal
+             File SMILES : O=C/C=C/c1ccccc1
+             PubChem SMILES: ?
+
+  [15166682]  Lecithin/PC                          C33H66NO8P      MW=635.9     (3-hexadecanoyloxy-2-nonanoyloxypropyl) 2-(trimethylaza
+             File SMILES : CCCCCCCCCCCCCCCC(=O)OCC(OC(=O)CCCCCCCC)COP([O-])(=O)OCC[N+](C)(C)C
+             PubChem SMILES: ?
+
+  [  445639]  Oleic Acid                           C18H34O2        MW=282.5     (Z)-octadec-9-enoic acid
+             File SMILES : CCCCCCCC/C=C\CCCCCCCC(=O)O
+             PubChem SMILES: ?
+
+  [ 6441454]  EPA repr.                            C22H34O2        MW=330.5     (4Z,7Z,10Z,13Z,16Z)-docosa-4,7,10,13,16-pentaenoic acid
+             File SMILES : CCCCC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCC(=O)O
+             PubChem SMILES: ?
+
+  [     271]  bare                                 Ca+2            MW=40.08     calcium(2+)
+             File SMILES : [Ca+2]
+             PubChem SMILES: ?
+
+  [    6579]  bare                                 C3H5NO          MW=71.08     prop-2-enamide
+             File SMILES : C=CC(=O)N
+             PubChem SMILES: ?
+
+  [89810768]  Fructose                             C6H12O6         MW=180.16    (2R,3S,4R,5S)-2,5-bis(hydroxymethyl)oxolane-2,3,4-triol
+             File SMILES : OC[C@@H]1O[C@](O)(CO)[C@@H](O)[C@H]1O
+             PubChem SMILES: ?
+
+  [    5793]  Glucose                              C6H12O6         MW=180.16    (3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol
+             File SMILES : OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O
+             PubChem SMILES: ?
+
+  [  440917]  Limonene                             C10H16          MW=136.23    (4R)-1-methyl-4-prop-1-en-2-ylcyclohexene
+             File SMILES : CC(=C)[C@@H]1CCC(=CC1)C
+             PubChem SMILES: ?
+
+  [     985]  Palmitic Acid                        C16H32O2        MW=256.42    hexadecanoic acid
+             File SMILES : CCCCCCCCCCCCCCCC(=O)O
+             PubChem SMILES: ?
+
+  [   71070]  L-Arginine                           C6H14N4O2       MW=174.20    (2R)-2-amino-5-(diaminomethylideneamino)pentanoic acid
+             File SMILES : NC(=N)NCCC[C@@H](N)C(=O)O
+             PubChem SMILES: ?
+
+  [85563211]  Linalool                             C9H16O          MW=140.22    3,6-dimethylhepta-1,6-dien-3-ol
+             File SMILES : CC(=C)CCC(C)(O)C=C
+             PubChem SMILES: ?
+
+  [  637566]  Geraniol                             C10H18O         MW=154.25    (2E)-3,7-dimethylocta-2,6-dien-1-ol
+             File SMILES : OC/C=C(\C)CCC=C(C)C
+             PubChem SMILES: ?
+
+  [     888]  Magnesium ion                        Mg+2            MW=24.305    magnesium(2+)
+             File SMILES : [Mg+2]
+             PubChem SMILES: ?
+
+  [    3314]  Eugenol                              C10H12O2        MW=164.20    2-methoxy-4-prop-2-enylphenol
+             File SMILES : C(c1ccc(O)c(OC)c1)C=C
+             PubChem SMILES: ?
+
+  [       0]  Sucrose                              ?               MW=?         ?
+             File SMILES : OC[C@H]1O[C@@H](O[C@@]2(CO)O[C@H](O)[C@@H](O)[C@@H]2O)[C@@H](O)[C@@H]1O
+             PubChem SMILES: ?
+
+  [       0]  Lycopene                             ?               MW=?         ?
+             File SMILES : CC(=CCC=C(C)C=CC=C(C)CCC=C(C)C=CC=C(C)CCC=C(C)C)C
+             PubChem SMILES: ?
+
+  [    3473]  Gingerol                             C17H26O4        MW=294.4     5-hydroxy-1-(4-hydroxy-3-methoxyphenyl)decan-3-one
+             File SMILES : CCCCCC(O)CC(=O)CCc1ccc(O)c(OC)c1
+             PubChem SMILES: ?
+
+  [54670067]  Ascorbic Acid                        C6H8O6          MW=176.12    (2R)-2-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan
+             File SMILES : OC[C@H](O)[C@H]1OC(=O)C(O)=C1O
+             PubChem SMILES: ?
+
+  [135398638]  Hypoxanthine                         C5H4N4O         MW=136.11    1,7-dihydropurin-6-one
+             File SMILES : O=c1[nH]cnc2[nH]cnc12
+             PubChem SMILES: ?
+
+  [  637542]  bare                                 C9H8O3          MW=164.16    (E)-3-(4-hydroxyphenyl)prop-2-enoic acid
+             File SMILES : OC(=O)/C=C/c1ccc(O)cc1
+             PubChem SMILES: ?
+
+  [  159797]  Allicin                              C6H10O2S        MW=146.21    3-prop-2-enylsulfonylprop-1-ene
+             File SMILES : O=S(=O)(CC=C)CC=C
+             PubChem SMILES: ?
+
+  [ 5280343]  Quercetin                            C15H10O7        MW=302.23    2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one
+             File SMILES : O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12
+             PubChem SMILES: ?
+
+  [     923]  Na ion                               Na+             MW=22.9897693  sodium(1+)
+             File SMILES : [Na+]
+             PubChem SMILES: ?
+
+  [12137791]  Linoleic Acid                        C19H34O2        MW=294.5     (9Z,12Z)-nonadeca-9,12-dienoic acid
+             File SMILES : CCCCCC/C=C\C/C=C\CCCCCCCC(=O)O
+             PubChem SMILES: ?
+
+  [     813]  K ion                                K+              MW=39.0983   potassium(1+)
+             File SMILES : [K+]
+             PubChem SMILES: ?
+
+  [  596375]  bare                                 C10H12O2        MW=164.20    2-methoxy-5-prop-2-enylphenol
+             File SMILES : C=CCc1ccc(OC)c(O)c1
+             PubChem SMILES: ?
+
+  [135073985]  ALA                                  C19H32O2        MW=292.5     (9Z,12Z,15Z)-nonadeca-9,12,15-trienoic acid
+             File SMILES : CCC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O
+             PubChem SMILES: ?
+
+  [    6549]  bare                                 C10H18O         MW=154.25    3,7-dimethylocta-1,6-dien-3-ol
+             File SMILES : CC(C)=CCCC(C)(O)C=C
+             PubChem SMILES: ?
+
+  [    5780]  Sorbitol                             C6H14O6         MW=182.17    (2R,3R,4R,5S)-hexane-1,2,3,4,5,6-hexol
+             File SMILES : OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
+             PubChem SMILES: ?
+
+  [    9895]  Safranal                             C10H16O         MW=152.23    2,6,6-trimethylcyclohexene-1-carbaldehyde
+             File SMILES : CC1=C(C=O)C(C)(C)CCC1
+             PubChem SMILES: ?
+
+  [     240]  Benzaldehyde                         C7H6O           MW=106.12    benzaldehyde
+             File SMILES : O=Cc1ccccc1
+             PubChem SMILES: ?
+
+  [  516892]  Bicarbonate                          CHNaO3          MW=84.007    sodium hydrogen carbonate
+             File SMILES : OC(=O)[O-].[Na+]
+             PubChem SMILES: ?
+
+  [10219674]  Pectin represent.                    C6H12O6         MW=180.16    (3R,4S,5R,6S)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol
+             File SMILES : OC[C@@H]1OC(O)[C@H](O)[C@@H](O)[C@H]1O
+             PubChem SMILES: ?
+
+  [ 5321995]  Maltose                              C12H22O11       MW=342.30    (2R,3S,4S,5R)-2-(hydroxymethyl)-6-[(2R,3R,4S,5S,6R)-3,4
+             File SMILES : OC[C@H]1OC(O[C@@H]2[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O2)[C@H](O)[C@@H](O)[C@@H]1O
+             PubChem SMILES: ?
+
+  [       0]  ALA                                  ?               MW=?         ?
+             File SMILES : OC(=O)CCC/C=C\C/C=C\C/C=C\CCCCCCCCC
+             PubChem SMILES: ?
+
+  [71337232]  4-HNE                                C10H18O2        MW=170.25    3-hydroxydec-4-enal
+             File SMILES : CCCCCC=CC(O)CC=O
+             PubChem SMILES: ?
+
+  [    3712]  I3C                                  C9H9NO          MW=147.17    1H-indol-3-ylmethanol
+             File SMILES : OCC1=CNC2=CC=CC=C12
+             PubChem SMILES: ?
+
+  [     326]  Cuminaldehyde                        C10H12O         MW=148.20    4-propan-2-ylbenzaldehyde
+             File SMILES : O=Cc1ccc(C(C)C)cc1
+             PubChem SMILES: ?
+
+  [ 5281648]  Quercetin                            C15H10O7        MW=302.23    2-(3,4-dihydroxyphenyl)-5,7,8-trihydroxychromen-4-one
+             File SMILES : OC1=CC(=C2C(=O)C=C(OC2=C1O)c3ccc(O)c(O)c3)O
+             PubChem SMILES: ?
+
+  [       0]  Apigenin                             ?               MW=?         ?
+             File SMILES : O=C1CC(=CC2=CC(O)=CC(O)=C12)c3ccc(O)cc3
+             PubChem SMILES: ?
+
+  [  439524]  L-Leucine                            C6H13NO2        MW=131.17    (2R)-2-amino-4-methylpentanoic acid
+             File SMILES : CC(C)C[C@@H](N)C(=O)O
+             PubChem SMILES: ?
+
+  [  638024]  Piperine                             C17H19NO3       MW=285.34    (2E,4E)-5-(1,3-benzodioxol-5-yl)-1-piperidin-1-ylpenta-
+             File SMILES : O=C(/C=C/C=C/c1ccc2c(c1)OCO2)N1CCCCC1
+             PubChem SMILES: ?
+
+  [       0]  Beta-Carotene                        ?               MW=?         ?
+             File SMILES : CC(=CCC=C(C)CCC=C(C)CCC=C(C)C)C
+             PubChem SMILES: ?
+
+  [  969516]  Curcumin                             C21H20O6        MW=368.4     (1E,6E)-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-die
+             File SMILES : O=C(/C=C/c1ccc(O)c(OC)c1)CC(=O)/C=C/c1ccc(O)c(OC)c1
+             PubChem SMILES: ?
+
+  [  161032]  Allicin                              C6H10OS         MW=130.21    3-prop-2-enylsulfinylprop-1-ene
+             File SMILES : O=S(CC=C)CC=C
+             PubChem SMILES: ?
+
+  [     892]  Inositol                             C6H12O6         MW=180.16    cyclohexane-1,2,3,4,5,6-hexol
+             File SMILES : OC1C(O)C(O)C(O)C(O)C1O
+             PubChem SMILES: ?
+
+  [    6579]  Acrylamide                           C3H5NO          MW=71.08     prop-2-enamide
+             File SMILES : NC(=O)C=C
+             PubChem SMILES: ?
+
+  [     305]  Choline                              C5H14NO+        MW=104.17    2-hydroxyethyl(trimethyl)azanium
+             File SMILES : OCC[N+](C)(C)C
+             PubChem SMILES: ?
+

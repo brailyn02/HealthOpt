@@ -1,0 +1,1895 @@
+original_id,new_id,name,type
+0,0,Bilberry,Food_Source
+1,1,Caffeine,Food Bioactive
+2,2,Calcium,Dietary Nutrient
+3,3,Chamomile,Food_Source
+4,4,Cheese,Food_Source
+5,5,Coffee,Food_Source
+6,6,Dairy,Food_Source
+7,7,Danshen Compound,Food_Source
+8,8,Echinacea,Food_Source
+9,9,Fat,Compound_Group
+10,10,Fiber,Compound_Group
+11,11,Folic Acid,Food Bioactive
+12,12,Garlic Bulb,Food_Source
+13,13,Ginger,Food_Source
+14,14,Ginkgo Biloba,Food_Source
+15,15,Ginseng,Food_Source
+16,16,Grapefruit,Food_Source
+17,17,Green Tea,Food_Source
+18,18,Iron,Dietary Nutrient
+19,19,Licorice Extract,Compound_Group
+20,20,Magnesium,Dietary Nutrient
+21,21,Milk,Food_Source
+23,22,Potassium,Dietary Nutrient
+24,23,Protein,Compound_Group
+25,24,Salt,Food_Source
+26,25,Sodium,Dietary Nutrient
+27,26,Vitamin B Complex,Dietary Nutrient
+28,27,Vitamin C,Dietary Nutrient
+29,28,Vitamin D,Dietary Nutrient
+30,29,Vitamin E,Dietary Nutrient
+31,30,Vitamin K2,Dietary Nutrient
+32,31,Zinc,Dietary Nutrient
+33,32,Carvone,Food Bioactive
+34,33,Acetic Acid,Food Bioactive
+35,34,Acorn,Food_Source
+36,35,Shi Chang Pu,Food_Source
+37,36,Bael Fruit,Food_Source
+38,37,Agave,Food_Source
+39,38,Alaska Pollock,Food_Source
+40,39,Ale,Food_Source
+41,40,Gracilaria Seaweed,Food_Source
+42,41,Amaranth,Food_Source
+43,42,Amlaki,Food_Source
+44,43,Dill,Food_Source
+45,44,Angelica Dahurica,Food_Source
+46,45,Angelica Keiskei,Food_Source
+47,46,Anise Myrtle,Food_Source
+48,47,Anthocyanins,Compound_Group
+49,48,Groundnut,Food_Source
+50,49,Apple,Food_Source
+51,50,Apple Condensed Tannin,Compound_Group
+53,51,Araceae,Food_Source
+54,52,Bearberry,Food_Source
+55,53,Black Chokeberry,Food_Source
+56,54,Ashwagandha,Food_Source
+57,55,Asparagus,Food_Source
+58,56,Auraptene,Food Bioactive
+59,57,Neem,Food_Source
+60,58,Desert Date,Food_Source
+61,59,Banana,Food_Source
+62,60,Beef Tallow,Food_Source
+63,61,Beer,Food_Source
+64,62,Berberine,Food Bioactive
+65,63,Bergamot,Food_Source
+67,64,Blackcurrant,Food_Source
+68,65,Blueberry,Food_Source
+69,66,Blueberry Anthocyanins-Enriched Extract,Compound_Group
+70,67,Fingerroot,Food_Source
+71,68,Brassica Sprout,Food_Source
+72,69,Broccoli,Food_Source
+73,70,Brown Algae,Food_Source
+74,71,Brussels Sprouts,Food_Source
+75,72,Buckwheat Protein Extract,Compound_Group
+76,73,Budo-No-Megumi,Food_Source
+77,74,C-Phycocyanin,Compound_Group
+78,75,Cirsium Chanroenicum,Food Bioactive
+79,76,Cinnamon,Food_Source
+80,77,Caffeic Acid,Food Bioactive
+81,78,Pigeonpea,Food_Source
+82,79,Canola,Food_Source
+83,80,Capsaicin,Food Bioactive
+84,81,Carrageenan,Compound_Group
+85,82,Carrots,Food_Source
+86,83,Castor,Food_Source
+87,84,Celery,Food_Source
+88,85,Chelerythrine,Food Bioactive
+89,86,Chelidonine,Food Bioactive
+90,87,Chenopodium,Food Bioactive
+91,88,Cherries,Food_Source
+92,89,Chicken,Food_Source
+93,90,Chinese Parsley,Food_Source
+94,91,Chitosan,Compound_Group
+95,92,Chuan Lian,Food_Source
+96,93,Chicory,Food_Source
+97,94,Thistle,Food Bioactive
+98,95,Watermelon,Food_Source
+99,96,Citrus Juices,Food_Source
+100,97,Citrus Leaf Extract,Compound_Group
+101,98,Citrus Reticulate,Food_Source
+103,99,Cnidium,Food_Source
+104,100,Cocoa,Food_Source
+105,101,Coconut,Food_Source
+106,102,Coconut Flower Sap,Food Bioactive
+107,103,Codliver,Food_Source
+108,104,Coenzyme Q10,Food_Source
+109,105,Cola,Food_Source
+110,106,Combretaceae,Food_Source
+111,107,Common Sage,Food Bioactive
+112,108,Common Valerian,Food Bioactive
+113,109,Compositae,Food_Source
+114,110,Cone Flower,Food Bioactive
+115,111,Cordyceps,Food_Source
+116,112,Coriandrum Sativum L. Seed Extract,Compound_Group
+117,113,Corilagin,Food Bioactive
+118,114,Corn Oil,Food_Source
+119,115,Corni,Food Bioactive
+120,116,Cottonseed,Food_Source
+121,117,Cranberries,Food_Source
+122,118,Crataegi,Food Bioactive
+123,119,Crataegus,Food Bioactive
+124,120,Cucumis Melo,Food Bioactive
+125,121,Cucurbita Andreana,Food Bioactive
+126,122,Curcuminoids,Compound_Group
+127,123,Cuscutae,Food_Source
+128,124,Cyanidin,Food Bioactive
+129,125,Cyperus Rotundus,Food Bioactive
+130,126,D. Edulis,Food Bioactive
+131,127,Proprietary Korean Herbal Formula,Compound_Group
+132,128,Daidzein,Food Bioactive
+133,129,Daikon,Food_Source
+134,130,Dairy Product,Food_Source
+135,131,Dairy Product Fermented By Lactobacilli,Food_Source
+136,132,Damnacanthal,Food Bioactive
+137,133,Danggui,Food_Source
+138,134,Daucus Carota,Food Bioactive
+139,135,Dehydroepiandrosterone,Food Bioactive
+140,136,Delphinidin,Food Bioactive
+141,137,Dengzhan Shengmai Formula,Compound_Group
+142,138,Dioscin,Food Bioactive
+143,139,Dioscorea,Food_Source
+144,140,Dioscorea Nipponica Makino,Food Bioactive
+145,141,Dioscoreae Rhizoma,Food Bioactive
+146,142,Equisetum Arvense L,Food_Source
+147,143,Eucalyptus Microcorys Extract,Compound_Group
+148,144,Evodia Rutaecarpa,Food Bioactive
+149,145,Falcarinol,Food Bioactive
+150,146,Fava Bean,Food_Source
+151,147,Foeniculum Vulgare,Food Bioactive
+152,148,Fenugreek,Food_Source
+153,149,Ff-D,Food Bioactive
+154,150,Fish Flakes,Food_Source
+155,151,Fish Flakes Supplemented With The Diatom Thalassiosira Weissflogii,Food Bioactive
+156,152,Fish Oil,Food_Source
+157,153,Folic,Food Bioactive
+158,154,Folinic Acid,Food Bioactive
+159,155,Folinic Acids,Food Bioactive
+160,156,Fortified Oil,Food_Source
+161,157,Fortified Wine,Food_Source
+162,158,Fresh Palm Oil,Food_Source
+163,159,Galactomannan,Compound_Group
+164,160,Gallic Acid,Food Bioactive
+165,161,Garcinia Kola,Food_Source
+166,162,Garcinol,Food Bioactive
+167,163,Garden Cress,Food_Source
+168,164,Gegen,Food Bioactive
+169,165,Ginger-Green Tea Mixture,Compound_Group
+170,166,Ginsenoside Rg1,Food Bioactive
+171,167,Protopanaxatriol (Pt) Ginsenosides,Compound_Group
+172,168,Grape Seed,Food_Source
+173,169,Groundnut Oils,Food_Source
+174,170,Guineense Swartz,Food Bioactive
+175,171,Guttiferae,Food Bioactive
+176,172,Harpagophytum Procumbens Extract,Compound_Group
+177,173,"Herbal Mixtures Of Liriope Platyphylla, Glycyrrhiza Uralensis, And Cinnamomum Cassia",Food_Source
+178,174,Hibiscus Rosa Sinensis,Food_Source
+179,175,Hibiscus Sabdariffa,Food_Source
+180,176,Hippophae Rhamnoides,Food_Source
+181,177,Honey,Food_Source
+182,178,Horse Chestnut,Food_Source
+183,179,Hypericum Extract Formulation,Compound_Group
+184,180,Indian Gooseberry,Food_Source
+185,181,Kidney Beans,Food_Source
+186,182,Kiwi,Food_Source
+187,183,Kudzu,Food_Source
+188,184,L. Usitatissimum,Food Bioactive
+189,185,Laminaria Hyperborea,Food_Source
+190,186,Laurus Nobilis L,Food Bioactive
+191,187,Lavandula Burnetii,Food Bioactive
+192,188,Lavender,Food_Source
+193,189,Soy Lecithin,Food Bioactive
+194,190,Lemon,Food_Source
+195,191,Lemon Myrtle,Food_Source
+196,192,Lepidium Sativum,Food Bioactive
+197,193,Lime,Food_Source
+198,194,Linalool,Food Bioactive
+199,195,Linseed,Food_Source
+200,196,Luffa,Food Bioactive
+201,197,Lutein,Food Bioactive
+202,198,Lycii,Food Bioactive
+203,199,M. Parviflora,Food Bioactive
+204,200,Macrotyloma Uniflorum,Food Bioactive
+205,201,Malus,Food Bioactive
+206,202,Malva Parviflora,Food Bioactive
+207,203,Malva Sylvestris,Food Bioactive
+208,204,Malvidin,Food Bioactive
+209,205,Malβg,Food Bioactive
+210,206,Manganese,Food Bioactive
+211,207,Mangifera Indica,Food Bioactive
+212,208,Mangosteen,Food Bioactive
+213,209,Marula,Food Bioactive
+214,210,Melon,Food_Source
+215,211,Mentha Piperita,Food Bioactive
+216,212,Bitter Melon Leaf Extract,Compound_Group
+217,213,Morinda Citrifolia Linn.,Food Bioactive
+218,214,Moringa Oleifera,Food Bioactive
+219,215,Morus,Food Bioactive
+220,216,Morus Alba L-H2O,Food Bioactive
+221,217,Muscadine Grapes,Food Bioactive
+222,218,Mustard,Food Bioactive
+223,219,Myo-Inositol,Food Bioactive
+224,220,Naoxintong Formula,Compound_Group
+225,221,Neferine,Food Bioactive
+226,222,Nelumbo Nucifera Gaertn,Food Bioactive
+227,223,Nelumbonucifera,Food Bioactive
+228,224,Nepitrin,Food Bioactive
+229,225,Niacin,Dietary Nutrient
+230,226,Nigella Sativa,Food Bioactive
+231,227,Non-Alcoholic Beverage Made Of Red Wine Vinegar And Grape Juice,Food_Source
+232,228,O. Basilicum,Food Bioactive
+233,229,Oat,Food_Source
+234,230,Ocimum Basilicum,Food Bioactive
+235,231,Olerciamide A,Food Bioactive
+236,232,Olive Oil,Food_Source
+237,233,Onion,Food_Source
+238,234,Origanum Majorana,Food Bioactive
+239,235,Oroxylum Indicum Seed Extracts,Food_Source
+240,236,Oyster,Food_Source
+241,237,Oyster (Ostrea Plicatula Gmelin) Polysaccharides,Compound_Group
+242,238,P. Dulce,Food Bioactive
+243,239,P. Guineense,Food Bioactive
+244,240,P. Hydropiper,Food Bioactive
+245,241,P. Pulmonarius,Food Bioactive
+246,242,P. Pulmonarius Glucans,Compound_Group
+247,243,P. Vulgaris,Food Bioactive
+248,244,Palm Oil,Food_Source
+249,245,Panax Notoginseng Ledeb,Food Bioactive
+250,246,Parkia Speciosa,Food Bioactive
+251,247,Parsley,Food_Source
+252,248,Passiflora Incarnata,Food Bioactive
+253,249,Pectolinarigenin,Food Bioactive
+254,250,Peonidin,Food Bioactive
+255,251,Perilla,Food Bioactive
+256,252,Perilla Frutescens Britton,Food Bioactive
+257,253,Phaseolus Vulgaris,Food Bioactive
+258,254,Phoenix Dactylifera,Food Bioactive
+259,255,Phyllanthaceae,Food Bioactive
+260,256,Phyllanthus Acidus,Food Bioactive
+261,257,Phyllanthus Emblica Linn,Food Bioactive
+262,258,Phyllanthus Emblica-Etoh,Food Bioactive
+263,259,Physalis,Food Bioactive
+264,260,Physalis Peruviana,Food Bioactive
+265,261,Phytate,Food Bioactive
+266,262,Pinitol,Food Bioactive
+267,263,Pinus Halepensis,Food Bioactive
+268,264,Piperine,Food Bioactive
+269,265,Pistacia Lentiscus Oil,Food_Source
+270,266,Pithecellobium Dulce,Food Bioactive
+271,267,Pleurotus Ostreatus,Food Bioactive
+272,268,Pleurotus Pulmonarius,Food Bioactive
+273,269,Polygonum Hydropiper,Food Bioactive
+274,270,Polygonum Viviparum,Food Bioactive
+275,271,Polysaccharides Extracted From The Egyptian Mango Mangifera Indica,Compound_Group
+276,272,Pomegranate,Food_Source
+277,273,Ponciri Fructus,Food Bioactive
+278,274,Poncirus Trifoliata,Food Bioactive
+279,275,Portulaca Oleracea L.,Food Bioactive
+280,276,Propolis,Food Bioactive
+281,277,Psidium Guajava,Food Bioactive
+282,278,Pueraria Lobata,Food Bioactive
+283,279,Quercetin,Food Bioactive
+284,280,Quercus,Food Bioactive
+285,281,R. Hastatus,Food Bioactive
+286,282,Rainbow Trout,Food Bioactive
+287,283,Raphia Hookeri,Food Bioactive
+288,284,Raspberry,Food_Source
+289,285,Red Wine,Food_Source
+290,286,Red Wine Vinegar And Grape Juice,Food_Source
+291,287,Repeatedly Heated Palm,Food Bioactive
+292,288,Repeatedly-Heated Vegetable,Food Bioactive
+293,289,"3,4',5-Trihydroxystilbene",Food Bioactive
+294,290,Rhizoma,Food Bioactive
+295,291,Rhodiola Rosea,Food Bioactive
+296,292,Riboflavin,Dietary Nutrient
+297,293,Rosa Damascena,Food Bioactive
+298,294,Rosaceae,Food Bioactive
+299,295,Rosavin,Food Bioactive
+300,296,Rosmarinus Officinalis L.,Food Bioactive
+301,297,Rubi,Food Bioactive
+302,298,Rubus,Food Bioactive
+303,299,Rubus Coreanus,Food Bioactive
+304,300,Brassica Napus L. Var. Napobrassica,Food Bioactive
+305,301,S. Aqueum,Food Bioactive
+306,302,S. Aromaticum,Food Bioactive
+307,303,S. Indicum,Food Bioactive
+308,304,S. Limbata,Food Bioactive
+309,305,S.Limbata,Food Bioactive
+310,306,S.Montana Extract,Compound_Group
+311,307,Saffron,Food Bioactive
+312,308,Sage,Food_Source
+313,309,Salvia Przewalskii,Food Bioactive
+314,310,Sambucus Williamsii Hance,Food Bioactive
+315,311,Sanguinarine,Food Bioactive
+316,312,Sardine,Food_Source
+317,313,Satureja Montana Extract,Compound_Group
+318,314,Sauchinone,Food Bioactive
+319,315,Schisandra Chinensis,Food Bioactive
+320,316,Sclerocarya Birrea,Food Bioactive
+321,317,Scuppernongs,Food Bioactive
+322,318,Scutellarin,Food Bioactive
+323,319,Seaweed,Food Bioactive
+324,320,Selenium,Food Bioactive
+325,321,Semi-Skimmed Milk,Food_Source
+326,322,Sesame,Food_Source
+327,323,Seseli Praecox,Food Bioactive
+328,324,Sheabutter,Food Bioactive
+329,325,Shexiang Baoxin Formula,Compound_Group
+330,326,Shiitake,Food_Source
+331,327,Silybum Marianum,Food Bioactive
+332,328,Sinapis Alba,Food Bioactive
+333,329,Sodium Caseinate,Dietary Nutrient
+334,330,Soft Plain Cheese,Food Bioactive
+335,331,Sonchus Asper,Food Bioactive
+336,332,Soyabeans,Food Bioactive
+337,333,Sparassis Crispa,Food Bioactive
+338,334,Spinacia Oleracea,Food Bioactive
+339,335,Spirafolide,Food Bioactive
+340,336,Spirodela Polyrhiza,Food Bioactive
+341,337,Spirulina,Food_Source
+342,338,Squash,Food_Source
+343,339,St. John'S Wort,Food_Source
+344,340,Sucrose,Food Bioactive
+345,341,Sucrose Fatty Acid Ester,Dietary Lipid
+346,342,Syzygium Aqueum,Food Bioactive
+347,343,Syzygium Aromaticum,Food Bioactive
+348,344,Syzygium Cumini Extract,Compound_Group
+349,345,Taraxacum Platycarpum,Food Bioactive
+350,346,Tartary Buckwheat Sprouts,Food_Source
+351,347,Tasmannia Pepper Leaf,Food_Source
+352,348,Terminalia Belerica,Food Bioactive
+353,349,Tf(Ic*As)*483/13,Food Bioactive
+354,350,Thiamine,Dietary Nutrient
+355,351,Thiamine Pyrophosphate,Dietary Nutrient
+356,352,Thyme,Food_Source
+357,353,Tormentillae,Food Bioactive
+358,354,Tremella Fuciformis,Food Bioactive
+359,355,Tribulus Terrestris,Food Bioactive
+360,356,Trifolium Pratense,Food Bioactive
+361,357,Trigonelline,Food Bioactive
+362,358,Tristemma Hirtum,Food Bioactive
+363,359,Triticum Sativum,Food Bioactive
+364,360,Trolox,Food Bioactive
+365,361,U. Dioica,Food Bioactive
+366,362,Uapaca Guineensis,Food Bioactive
+367,363,Umbelliferae,Food Bioactive
+368,364,Urtica,Food Bioactive
+369,365,Urtica Dioica Extract,Compound_Group
+370,366,Vaccinium Bracteatum Thunb. Fruit,Food_Source
+371,367,Valerian,Food_Source
+372,368,Vco,Food Bioactive
+373,369,Vegetable Juice,Food_Source
+374,370,Vegetol Red Grapevin,Food Bioactive
+375,371,Virgin Coconut Oil,Food_Source
+376,372,Vitamin B6,Dietary Nutrient
+377,373,Vitamin D3,Dietary Nutrient
+378,374,Wheat,Food_Source
+379,375,Whey Protein,Compound_Group
+380,376,Whey Protein Isolate,Compound_Group
+381,377,Wine,Food_Source
+382,378,Wpi,Food Bioactive
+383,379,Crataegi Standardized Extract,Compound_Group
+384,380,Yogurt Bacteria,Food Bioactive
+385,381,Zhi-Xiong,Food Bioactive
+386,382,Npc209773,Food Bioactive
+387,383,(+-)-Trimeprazine,Food Bioactive
+388,384,2-Amino-5-Phenyl4(5H)-Oxazolone,Food Bioactive
+389,385,Deutetrabenazine (Usan/Inn),Food Bioactive
+390,386,"(2R,4S)-Ketoconazole",Food Bioactive
+391,387,"Med.21724, Compound Benztropine",Food Bioactive
+392,388,"(1R,2S)-Tranylcypromine",Food Bioactive
+393,389,Magaldrate (Usan:Usp:Inn:Ban),Food Bioactive
+394,390,Naringin,Food Bioactive
+395,391,(+-)-Chlorpheniramine,Food Bioactive
+396,392,Ginkgo Biloba Leaf Extract,Compound_Group
+397,393,Vitis Vinifera Leaves Polyphenolic,Food Bioactive
+398,394,Thymoquinone,Food Bioactive
+399,395,T. Cacao,Food Bioactive
+400,396,Theobroma Cacao,Food Bioactive
+401,397,Rhodiola,Food Bioactive
+402,398,Silydianin,Food Bioactive
+403,399,Silybin,Food Bioactive
+404,400,Isosilybin,Food Bioactive
+405,401,Silychristin,Food Bioactive
+406,402,Cherry,Food_Source
+407,403,Panax Notoginseng Saponins,Compound_Group
+408,404,Xuesaitong,Food Bioactive
+409,405,Chocolate,Food_Source
+410,406,Berberis Vulgaris,Food Bioactive
+411,407,Cocoa Powder,Compound_Group
+412,408,Fennel,Food_Source
+414,409,Nigella Sativa Oil,Food_Source
+415,410,Panax Ginseng C.A. Meyer,Food Bioactive
+416,411,Glycyrrhizic Acid,Food Bioactive
+417,412,Soybean Extract,Compound_Group
+418,413,Green Tea Extract,Compound_Group
+419,414,Arbutin,Food Bioactive
+420,415,Polysaccharide Of Spirulina Platensis,Food Bioactive
+421,416,Pomelo Extract,Compound_Group
+422,417,Cranberry Juice,Food_Source
+423,418,Rosa Damascena Extract,Compound_Group
+424,419,Fruit Juices,Food_Source
+425,420,Turmeric Rhizome Powder Suspension,Compound_Group
+426,421,Multivitamin,Dietary Nutrient
+427,422,Mandarin Juice,Food_Source
+428,423,Piper Longum L.,Food Bioactive
+429,424,Orange,Food_Source
+430,425,Garcinia Mangostana,Food Bioactive
+431,426,Glycyrrhiza Glabra Fabaceae,Food Bioactive
+432,427,Red Spinach,Food Bioactive
+433,428,Olive,Food Bioactive
+434,429,Palm,Food Bioactive
+435,430,Red Ginseng,Food Bioactive
+436,431,Mentha Spicata,Food Bioactive
+437,432,Panax Quinquefolius,Food Bioactive
+438,433,Grape Seed Proanthocyanidin Extract,Compound_Group
+439,434,Punica Granatum,Food Bioactive
+440,435,Black Tea,Food_Source
+441,436,Camellia Sinensis,Food Bioactive
+442,437,Vicia Faba,Food Bioactive
+443,438,Thymus Vulgaris,Food Bioactive
+444,439,Thyme (Thymus Vulgaris) Leaf Aqueous Extract,Compound_Group
+445,440,10-Gingerol,Food Bioactive
+446,441,Whole-Grain,Food_Source
+447,442,Refined-Grain,Food_Source
+448,443,Corn,Food_Source
+449,444,A.Atroviolaceum Extract,Compound_Group
+450,445,Crocus Sativus,Food Bioactive
+451,446,Grape Juice,Food_Source
+452,447,Korean Red Ginseng Total Extract,Compound_Group
+453,448,Salvia Miltiorrhiza,Food Bioactive
+454,449,Citrus Unshiu,Food Bioactive
+455,450,T. Foenum-Graecum Aqueous Extract,Compound_Group
+456,451,Glycyrrhetinic Acid,Food Bioactive
+457,452,Tea,Food_Source
+458,453,Milk Thistle,Food_Source
+459,454,Crocin,Food Bioactive
+460,455,Salvia,Food Bioactive
+461,456,Vitis Vinifera,Food Bioactive
+462,457,Whole-Grain Cereal,Food Bioactive
+463,458,Soybean Oil,Food_Source
+464,459,Grapes,Food Bioactive
+465,460,Clementine,Food_Source
+466,461,Schisandra,Food Bioactive
+467,462,Vaccinium Macrocarpon,Food Bioactive
+468,463,Kiwifruit,Food_Source
+469,464,Legume,Food Bioactive
+470,465,Gamma-Mangostin,Food Bioactive
+471,466,Pomegranate Seeds Oil,Food_Source
+472,467,Anticoagulant Herbs,Food_Source
+473,468,Garlic,Food_Source
+474,469,Vitamin K,Dietary Nutrient
+475,470,Alcohol,Food Bioactive
+476,471,Calcium-Rich Foods,Dietary Nutrient
+477,472,Kale,Food_Source
+478,473,Spinach,Food_Source
+479,474,Iron Supplements,Dietary Nutrient
+480,475,High-Fat Foods,Food Bioactive
+481,476,Natural Licorice,Food Bioactive
+482,477,Potassium-Rich Foods,Dietary Nutrient
+483,478,Vitamin B6 (Pyridoxine),Dietary Nutrient
+484,479,Calcium Supplements,Dietary Nutrient
+485,480,Fruit Juice,Food_Source
+486,481,Avidin (Raw Egg White),Food Bioactive
+487,482,Citrus,Food Bioactive
+488,483,Flavonoid-Rich Foods,Food Bioactive
+489,484,Ephedra,Food Bioactive
+490,485,High-Salt Foods,Food Bioactive
+491,486,Niacin (Vitamin B3),Dietary Nutrient
+492,487,Avocado,Food_Source
+493,488,High-Fiber Foods,Food Bioactive
+494,489,Xanthines,Food Bioactive
+495,490,Vitamin A,Dietary Nutrient
+496,491,Vitamin A Supplements,Dietary Nutrient
+497,492,Iodine,Food Bioactive
+498,493,Goitrogenic Foods,Food Bioactive
+499,494,Soy/Soybean,Food Bioactive
+500,495,Aged Cheese,Food Bioactive
+501,496,Tyramine-Containing Foods,Food Bioactive
+502,497,Yogurt,Food_Source
+503,498,Fava Beans,Food Bioactive
+504,499,Histamine-Containing Foods,Food Bioactive
+505,500,Pickled Foods,Food Bioactive
+506,501,Iodine-Containing Foods,Food Bioactive
+507,502,Seville Orange,Food Bioactive
+508,503,Melatonin,Endogenous Metabolite
+509,504,Folic Acid/Folate,Dietary Nutrient
+510,505,Vitamin B12,Dietary Nutrient
+511,506,Vitamin K-Rich Foods,Dietary Nutrient
+512,507,D-Aspartic Acid,Food Bioactive
+513,508,Palmitic Acid,Dietary Lipid
+514,509,Glucose,Food Bioactive
+515,510,Naringenin,Food Bioactive
+516,511,L-Leucine,Dietary Amino Acid
+517,512,Arginine,Dietary Amino Acid
+518,513,Epsilon-Polylysine,Food Bioactive
+519,514,D-Fructose,Food Bioactive
+520,515,L-Serine,Dietary Amino Acid
+521,516,Nitrogen,Food Bioactive
+522,517,L-Proline,Dietary Amino Acid
+523,518,Ethanol,Food Bioactive
+524,519,"1-Methyl-4-(6-Methylhept-6-En-2-Yl)Cyclohexa-1,4-Diene",Food Bioactive
+525,520,Curcumene,Food Bioactive
+526,521,Curcumenol,Food Bioactive
+527,522,Ethinylestradiol,Food Bioactive
+528,523,L-Arabinose,Food Bioactive
+529,524,(-)-Zingiberene,Food Bioactive
+530,525,Turmerone,Food Bioactive
+531,526,Curzerenone,Food Bioactive
+532,527,"1,8-Cineole",Food Bioactive
+533,528,Malic Acid,Food Bioactive
+534,529,Lactose,Food Bioactive
+535,530,Phosphine,Food Bioactive
+536,531,Deae-Cellulose,Food Bioactive
+537,532,Nitrate,Food Bioactive
+538,533,Nicotinic Acid,Food Bioactive
+539,534,Glutamic Acid,Food Bioactive
+540,535,"4-((3,3-Dimethyloxiran-2-Yl)Methoxy)Furo(3,2-G)Chromen-7-One",Food Bioactive
+541,536,Citric Acid,Food Bioactive
+542,537,L-Tryptophan,Dietary Amino Acid
+543,538,Npc214502,Food Bioactive
+544,539,(-)-Asparagine,Dietary Amino Acid
+545,540,Maltose,Food Bioactive
+546,541,Oxalic Acid,Food Bioactive
+547,542,Rutin,Food Bioactive
+548,543,Hydrogen Sulfide,Food Bioactive
+549,544,"2,3-Dihydroxybutanedioic Acid",Food Bioactive
+550,545,Xanthyletin,Food Bioactive
+551,546,Succinic Acid,Food Bioactive
+552,547,2-Oxoglutaric Acid,Food Bioactive
+553,548,1-Methyl-4-Prop-1-En-2-Ylcyclohexene,Food Bioactive
+554,549,Elemol,Food Bioactive
+555,550,Xanthoxyletin,Food Bioactive
+556,551,L-Lysine,Dietary Amino Acid
+557,552,Mannan,Food Bioactive
+558,553,L-Histidine,Dietary Amino Acid
+559,554,Pyrrolidine,Food Bioactive
+560,555,L-Threonine,Dietary Amino Acid
+561,556,Citronellol,Food Bioactive
+562,557,Zingiberol,Food Bioactive
+563,558,L-Tyrosine,Dietary Amino Acid
+564,559,Delphinidin 3-O-Glucoside Cation,Food Bioactive
+565,560,Decanoic Acid,Food Bioactive
+566,561,Raffinose,Food Bioactive
+567,562,"2-(3,4-Dihydroxyphenyl)-3,5,7-Trihydroxy-1-Benzopyrylium",Food Bioactive
+568,563,Beta-Sesquiphellandrene,Food Bioactive
+569,564,Delphinidin Chloride,Food Bioactive
+570,565,L-Alanine,Dietary Amino Acid
+571,566,L-Methionine,Dietary Amino Acid
+572,567,Petunidin 3-Glucoside,Food Bioactive
+573,568,Delphinidin 3-Galactoside,Food Bioactive
+574,569,Ursolic Acid,Food Bioactive
+575,570,L-Isoleucine,Dietary Amino Acid
+576,571,Camphene,Food Bioactive
+577,572,Glycine,Dietary Amino Acid
+578,573,Quinate,Food Bioactive
+579,574,Genistin,Food Bioactive
+580,575,Daidzin,Food Bioactive
+581,576,Stearic Acid,Food_Source
+582,577,Fluoride Ion,Food Bioactive
+583,578,Magnesium Ion,Dietary Nutrient
+584,579,Choline,Food Bioactive
+585,580,Catechin,Food Bioactive
+586,581,Malonylgenistin,Food Bioactive
+587,582,(-)-Beta-Sitosterol,Food Bioactive
+588,583,6'-Sialyllactose,Food Bioactive
+589,584,Sulfide Ion,Food Bioactive
+590,585,Chlorine,Food Bioactive
+591,586,Phosphate,Food Bioactive
+592,587,Copper,Food Bioactive
+593,588,Cdp-Dg(16:0/18:0),Endogenous Metabolite
+594,589,"Disodium;[3-[2,3-Di(Octadeca-9,12-Dienoyloxy)Propoxy-Oxidophosphoryl]Oxy-2-Hydroxypropyl] 2,3-Di(Octadeca-9,12-Dienoyloxy)Propyl Phosphate",Dietary Nutrient
+595,590,1-Palmitoylglycerol 3-Phosphate,Food Bioactive
+596,591,Cdp-Dg(16:0/16:0),Endogenous Metabolite
+597,592,Isoamyl Alcohol,Food Bioactive
+598,593,Glycerol,Food Bioactive
+599,594,Ethyl Acetate,Food Bioactive
+600,595,Cadaverine,Food Bioactive
+601,596,Isobutanol,Food Bioactive
+602,597,Sorbitol,Food Bioactive
+603,598,2-Methyl-2-Butanol,Food Bioactive
+604,599,Putrescine,Food Bioactive
+605,600,D-Galacturonic Acid,Food Bioactive
+606,601,Gluconic Acid,Food Bioactive
+607,602,Cholesterol,Food Bioactive
+608,603,Lignin,Compound_Group
+609,604,(-)-Gallocatechin Gallate,Food Bioactive
+610,605,Stachyose,Food Bioactive
+611,606,"Bis((3R,4S,5S,6R)-2-[[(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-Ethyl-6-Methylheptan-2-Yl]-10,13-Dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-Dodecahydro-1H-Cyclopenta[A]Phenanthren-3-Yl]Oxy]-6-(Hydroxymethyl)Oxane-3,4,5-Triol);(3R,4S,5S,6R)-2-[[(3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-Ethyl-6-Methylhept-6-En-2-Yl]-10,13-Dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-Dodecahydro-1H-Cyclopenta[A]Phenanthren-3-Yl]Oxy]-6-(Hydroxymethyl)Oxane-3,4,5-Triol",Food Bioactive
+612,607,Theaflavin (Standard),Food Bioactive
+613,608,Hexanal,Food Bioactive
+614,609,"(1R,2S,4R,5S)-6-[(2R,3R,4S,5S)-3,4,5-Trihydroxyoxan-2-Yl]Oxycyclohexane-1,2,3,4,5-Pentol",Food Bioactive
+615,610,Epigallocatechin,Food Bioactive
+616,611,Diosgenin,Food Bioactive
+617,612,Epicatechin Gallate,Food Bioactive
+618,613,Water,Food Bioactive
+619,614,Ellagic Acid,Food Bioactive
+620,615,Stachyurin,Food Bioactive
+621,616,Luteolin,Food Bioactive
+622,617,Ascorbic Acid; Biotin; Cyanocobalamin; Dexpanthenol; Ergocalciferol; Folic Acid; Niacinamide; Pyridoxine Hydrochloride; Riboflavin 5'-Phosphate Sodium; Thiamine Hydrochloride; Vitamin A; Vitamin E,Dietary Nutrient
+623,618,Galloylpunicalin,Food Bioactive
+624,619,Glytoucan:G35236Gy,Food Bioactive
+625,620,Benzoic Acid,Food Bioactive
+626,621,Peonidin 3-Arabinoside,Food Bioactive
+627,622,4-Hydroxybenzoic Acid,Food Bioactive
+628,623,Piperidines,Food Bioactive
+629,624,Peonidin 3-Galactoside,Food Bioactive
+630,625,Betulinic Acid,Food Bioactive
+631,626,Mannitol,Food Bioactive
+632,627,"Ethanedioic Acid, Calcium Salt (1:1)",Dietary Nutrient
+633,628,"3,4',5,7-Tetrahydroxy-3'-Methoxyflavylium",Food Bioactive
+634,629,Hyperoside,Food Bioactive
+635,630,4-Hydroxyglucobrassicin,Food Bioactive
+636,631,Eugenol,Food Bioactive
+637,632,Gamma-Terpinene,Food Bioactive
+638,633,Allyl Isothiocyanate,Food Bioactive
+639,634,Myrcene,Food Bioactive
+640,635,Invert Sugar,Food Bioactive
+641,636,Apiole,Food Bioactive
+642,637,Chrysoeriol 7-O-(6''-Malonyl-Apiosyl-Glucoside),Food Bioactive
+643,638,P-Cymen-8-Ol,Food Bioactive
+644,639,Psoralen,Food Bioactive
+645,640,Hesperetin,Food Bioactive
+646,641,Terpinolene,Food Bioactive
+647,642,Apigenin 7-O-(6''-Malonyl-Apiosyl-Glucoside),Food Bioactive
+648,643,Isorhamnetin,Food Bioactive
+649,644,4-Methoxyglucobrassicin,Food Bioactive
+650,645,Coumarin,Food Bioactive
+651,646,4-Vinylguaiacol,Food Bioactive
+652,647,"Rubber, Natural-Smoked Sheet And Latex Solids (Hevea Brasiliensis)",Food Bioactive
+653,648,Myristicin,Food Bioactive
+654,649,Imperatorin,Food Bioactive
+655,650,Luteolin 7-O-(2-Apiosyl-6-Malonyl)-Glucoside,Food Bioactive
+656,651,Bergapten,Food Bioactive
+657,652,"1-Allyl-2,3,4,5-Tetramethoxybenzene",Food Bioactive
+658,653,Pseudotaraxasterol,Food Bioactive
+659,654,"24-Methylene,25-Methylcholesta-5-En-3Beta-Ol",Food Bioactive
+660,655,Beta-Pinene,Food Bioactive
+661,656,Apigenin,Food Bioactive
+662,657,Xylan Sulfate,Food Bioactive
+663,658,Methylamine,Food Bioactive
+664,659,P-Cymene,Food Bioactive
+665,660,L-Glutamine,Dietary Amino Acid
+666,661,Lauric Acid,Dietary Lipid
+667,662,(-)-Cystine,Food Bioactive
+668,663,Theobromine,Food Bioactive
+669,664,Myristic Acid,Dietary Lipid
+670,665,"3,3',4',5,7-Pentahydroxy-5'-Methoxyflavylium",Food Bioactive
+671,666,"Glycerophospholipids, Cephalins",Food Bioactive
+672,667,D-Xylose,Food Bioactive
+673,668,"(2R,3R,4S,5S)-2,3,4,5-Tetrahydroxyhexanal",Food Bioactive
+674,669,Heptanoic Acid,Food Bioactive
+675,670,An Inositol,Food Bioactive
+676,671,Amygdalin,Food Bioactive
+677,672,Eicosanoic Acid,Food Bioactive
+678,673,Ammonia,Food Bioactive
+679,674,Kaempferol,Food Bioactive
+680,675,"Kaempferol 3,7,4'-O-Triglucoside",Food Bioactive
+681,676,Kaempferol 3-O-Sophoroside,Food Bioactive
+682,677,Nonanoic Acid,Food Bioactive
+683,678,Hexanoic Acid,Food Bioactive
+684,679,Butyric Acid,Dietary Lipid
+685,680,Octanoic Acid,Food Bioactive
+686,681,Npc212957,Food Bioactive
+687,682,Beta-D-Glucopyranuronic Acid,Food Bioactive
+688,683,Eriocitrin,Food Bioactive
+689,684,Lactic Acid,Food Bioactive
+690,685,Lonicerin,Food Bioactive
+691,686,"3,5-Dihydroxyphenyl Beta-D-Glucopyranoside",Food Bioactive
+692,687,P-Menth-4(8)-En-3-One,Food Bioactive
+693,688,D-Arabitol,Food Bioactive
+694,689,Narirutin,Food Bioactive
+695,690,Hesperidin,Food Bioactive
+696,691,Menthofuran,Food Bioactive
+697,692,Ethyl Lactate,Food Bioactive
+698,693,Erythritol,Food Bioactive
+699,694,(-)-Menthol,Food Bioactive
+700,695,Myricetin,Food Bioactive
+701,696,Pyridoxine,Food Bioactive
+702,697,Isorhoifolin,Food Bioactive
+703,698,Diosmin,Food Bioactive
+704,699,D-Galactose,Food Bioactive
+705,700,"(3B,5A,6B,25R)-3,6-Dihydroxyspirostane-2,12-Dione 3-[4'-(2''-Glucosyl-3''-Xylosyl)-Galactoside]",Food Bioactive
+706,701,"(3B,5A,25R)-3-Hydroxyspirostan-6-One 3-[2-Acetylarabinosyl-(1->6)-Glucoside]",Food Bioactive
+707,702,"(2A,3B,5A,6A,22R,25R)-Furostane-22-Methoxy-2,3,6,26-Tetrol 3-[Glucosyl-(1->2)-[Xylosyl-(1->3)]-Glucosyl-(1->4)-Galactoside] 26-Glucoside",Food Bioactive
+708,703,"(25S)-Spirostane-3B,5B,6A-Triol 3-[4''-Rhamnosylglucoside]",Food Bioactive
+709,704,"(3B,5A,6B,22A,25R)-Furostane-22-Methoxy-3,6,26-Triol 3-[Glucosyl-(1->2)-[Xylosyl-(1->3)]-Glucosyl-(1->4)-Galactoside] 26-Glucoside",Food Bioactive
+710,705,Levodopa,Food Bioactive
+711,706,Uridine,Food Bioactive
+712,707,Pipecolic Acid,Food Bioactive
+713,708,Choline Alfoscerate,Food Bioactive
+714,709,Acetylglycine,Food Bioactive
+715,710,Pyruvic Acid,Food Bioactive
+716,711,Chloride,Food Bioactive
+717,712,O-Alpha-D-Glucopyranosyl-(1->4)-O-Alpha-D-Glucopyranosyl-(1->4)-D-Glucopyranose,Food Bioactive
+718,713,Vicine,Food Bioactive
+719,714,Sulfate Ion,Food Bioactive
+720,715,Calcium Oxide,Dietary Nutrient
+721,716,Pantothenic Acid,Food Bioactive
+722,717,Gossypol,Food Bioactive
+723,718,Carotene,Food Bioactive
+724,719,Atropine,Food Bioactive
+725,720,Dopamine,Dietary Amine
+726,721,Bilirubin,Endogenous Metabolite
+727,722,Serotonin,Dietary Amine
+728,723,Theophylline,Food Bioactive
+729,724,Isoflavones,Compound_Group
+730,725,Genistein,Food Bioactive
+731,726,Salicylates,Compound_Group
+732,727,Estrogen,Endogenous Metabolite
+733,728,Creatinine,Endogenous Metabolite
+734,729,Glycosides,Compound_Group
+735,730,Aldosterone,Endogenous Metabolite
+736,731,Xanthine,Food Bioactive
+737,732,Adenosine,Food Bioactive
+738,733,Uric Acid,Endogenous Metabolite
+739,734,Estradiol,Endogenous Metabolite
+740,735,Ketones,Compound_Group
+741,736,Vasopressin,Endogenous Metabolite
+742,737,H+,Food Bioactive
+743,738,Curcumin,Food Bioactive
+744,739,Sugars,Compound_Group
+745,740,Rhamnetin,Food Bioactive
+746,741,Trimethylamine,Food Bioactive
+747,742,Cortisol,Endogenous Metabolite
+748,743,Cortisone,Endogenous Metabolite
+749,744,Chrysin,Food Bioactive
+750,745,Superoxide,Endogenous Metabolite
+751,746,Isoeugenol,Food Bioactive
+752,747,Testosterone,Endogenous Metabolite
+753,748,Petunidin,Food Bioactive
+754,749,Flavonoids,Compound_Group
+755,750,Epigallocatechin-3-Gallate,Food Bioactive
+756,751,Kaempferide,Food Bioactive
+757,752,Histamine,Food Bioactive
+758,753,Taurine,Dietary Amino Acid
+759,754,Oleic Acid,Dietary Lipid
+760,755,Nad+,Food Bioactive
+761,756,Zingerone,Food Bioactive
+762,757,Pterostilbene,Food Bioactive
+763,758,Phenylephrine,Food Bioactive
+764,759,Vanillin,Food Bioactive
+765,760,Retinoic Acid,Food Bioactive
+766,761,Sildenafil,Food Bioactive
+767,762,Phytic Acid,Food Bioactive
+768,763,Ferulic Acid,Food Bioactive
+769,764,Nitric Oxide,Food Bioactive
+770,765,Nobiletin,Food Bioactive
+771,766,Pinocembrin,Food Bioactive
+772,767,Galangin,Food Bioactive
+773,768,Ornithine,Dietary Amino Acid
+774,769,Coumestrol,Food Bioactive
+775,770,Phosphorus,Food Bioactive
+776,771,Theaflavin,Food Bioactive
+777,772,Adenosine Triphosphate,Food Bioactive
+778,773,Isoimperatorin,Food Bioactive
+779,774,Atp,Food Bioactive
+780,775,Rosmarinic Acid,Food Bioactive
+781,776,Gelatin,Food Bioactive
+782,777,Bornyl Acetate,Food Bioactive
+783,778,Sterols,Compound_Group
+784,779,Arsenic,Food Bioactive
+785,780,Α-Tocopherol,Dietary Nutrient
+786,781,Progesterone,Food Bioactive
+787,782,Cadmium,Food Bioactive
+788,783,Retinol,Dietary Nutrient
+789,784,Casein,Food Bioactive
+790,785,Glutathione,Food Bioactive
+791,786,Enterolactone,Food Bioactive
+792,787,P-Coumaric Acid,Food Bioactive
+793,788,Tricin,Food Bioactive
+794,789,Phloretin,Food Bioactive
+795,790,Oxytocin,Endogenous Metabolite
+796,791,Phenols,Food Bioactive
+797,792,Tetrahydrocortisone,Food Bioactive
+798,793,Cyanocobalamin,Dietary Nutrient
+799,794,2-Phenylethanol,Food Bioactive
+800,795,Na+,Food Bioactive
+801,796,Acetaldehyde,Food Bioactive
+802,797,Cinnamaldehyde,Food Bioactive
+803,798,Pectin,Compound_Group
+804,799,Purine,Food Bioactive
+805,800,Punicalagin,Food Bioactive
+806,801,N-Nitrosodimethylamine,Food Bioactive
+807,802,L-Acetylcarnitine,Food Bioactive
+808,803,L-Citrulline,Dietary Amino Acid
+809,804,Epiestradiol,Food Bioactive
+810,805,(E)-Aconitic Acid,Food Bioactive
+811,806,"(Z,Z)-9,12-Octadecadienoic Acid",Food Bioactive
+812,807,Amoxycillin,Food Bioactive
+813,808,Calcitriol,Food Bioactive
+814,809,Morphine,Food Bioactive
+815,810,17Alpha-Ethynylestradiol,Food Bioactive
+816,811,"24,25-Dihydroxyvitamin D3",Dietary Nutrient
+817,812,Codeine,Food Bioactive
+818,813,Carbon Monoxide,Food Bioactive
+819,814,Nicotine,Food Bioactive
+820,815,L-Theanine,Food Bioactive
+821,816,Levoglutamide,Food Bioactive
+822,817,3-Aminopropanoic Acid,Food Bioactive
+823,818,Alpha-Tocopherol,Dietary Nutrient
+824,819,25-Hydroxycholecalciferol,Dietary Nutrient
+825,820,"Ng,Ng-Dimethyl-L-Arginine",Dietary Amino Acid
+826,821,Cobalamin,Dietary Nutrient
+827,822,Creatine,Food Bioactive
+828,823,L-Carnitine,Food Bioactive
+829,824,L-Cysteine,Dietary Amino Acid
+830,825,Ozone,Food Bioactive
+831,826,Dodecanoic Acid,Food Bioactive
+832,827,Phytomenadione,Food Bioactive
+833,828,Sulforaphane,Food Bioactive
+834,829,Somatostatin,Food Bioactive
+835,830,Eicosapentaenoic Acid,Food Bioactive
+836,831,Starch,Food_Source
+837,832,5-Formyltetrahydrofolic Acid,Food Bioactive
+838,833,Eriodictyol 7-Rutinoside,Food Bioactive
+839,834,Digoxin,Food Bioactive
+840,835,(±)-Erythro-Isoleucine,Dietary Amino Acid
+841,836,Riboflavine,Dietary Nutrient
+842,837,(9Z)-Lycopene,Food Bioactive
+843,838,Phosphorylcholine,Food Bioactive
+844,839,Bradykinin,Food Bioactive
+845,840,Titanium,Food Bioactive
+846,841,Arachidonic Acid,Food Bioactive
+847,842,L-Dopa,Food Bioactive
+848,843,Polyamines,Food Bioactive
+849,844,Epinephrine,Dietary Amine
+850,845,Kynurenine,Food Bioactive
+851,846,Deoxyadenosine,Food Bioactive
+852,847,S-Adenosyl-L-Methionine,Dietary Amino Acid
+853,848,Hexyl 2-Methylpropanoate,Food Bioactive
+854,849,Benzyl Alcohol,Food Bioactive
+855,850,Sulfide,Food Bioactive
+856,851,Valproic Acid,Food Bioactive
+857,852,Lanthanum,Food Bioactive
+858,853,Boron,Food Bioactive
+859,854,Ceramide,Food Bioactive
+860,855,Calcium Oxalate,Dietary Nutrient
+861,856,Fluoride,Food Bioactive
+862,857,Maltodextrin,Food Bioactive
+863,858,Prostaglandin E2,Food Bioactive
+864,859,Trichloroacetic Acid,Food Bioactive
+865,860,Methylmalonic Acid,Food Bioactive
+866,861,Elaidic Acid,Food Bioactive
+867,862,Cytarabine,Food Bioactive
+868,863,Oxypurinol,Food Bioactive
+869,864,Glycerol Trioleate,Food Bioactive
+870,865,Liothyronine,Food Bioactive
+871,866,Silicon,Food Bioactive
+872,867,2-Propanol,Food Bioactive
+873,868,Urea,Food Bioactive
+874,869,Nadph,Food Bioactive
+875,870,Thromboxane B2,Food Bioactive
+876,871,Angiotensin Ii,Food Bioactive
+877,872,Trans-Resveratrol,Food Bioactive
+878,873,Acetate,Food Bioactive
+879,874,Thymidine,Food Bioactive
+880,875,Glycerol Trilinoleate,Food Bioactive
+881,876,Androstenedione,Food Bioactive
+882,877,Calamene,Food Bioactive
+883,878,Agmatine,Food Bioactive
+884,879,Loperamide,Food Bioactive
+885,880,Betaine,Food Bioactive
+886,881,Scopolamine,Food Bioactive
+887,882,Gadolinium,Food Bioactive
+888,883,Adenosine Monophosphate,Food Bioactive
+889,884,Oxalate,Food Bioactive
+890,885,Simvastatin,Food Bioactive
+891,886,(E)-2-Phenyl-2-Butenal,Food Bioactive
+892,887,Nitrous Oxide,Food Bioactive
+893,888,Cholestanol,Food Bioactive
+894,889,Methane,Food Bioactive
+895,890,Nicotinamide,Food Bioactive
+896,891,Propene,Food Bioactive
+897,892,Fluticasone,Food Bioactive
+898,893,Rebaudioside A,Food Bioactive
+899,894,Glutathione Disulfide,Food Bioactive
+900,895,Phosphocreatine,Food Bioactive
+901,896,Papaverine,Food Bioactive
+902,897,Sphingosine 1-Phosphate,Food Bioactive
+903,898,N-Acetylneuraminic Acid,Food Bioactive
+904,899,Thromboxane,Food Bioactive
+905,900,Butyrylcholine,Food Bioactive
+906,901,Ondansetron,Food Bioactive
+907,902,Mevalonic Acid,Food Bioactive
+908,903,Selenomethionine,Food Bioactive
+909,904,5-Aminolevulinic Acid,Food Bioactive
+910,905,Pravastatin,Food Bioactive
+911,906,Clopidogrel,Food Bioactive
+912,907,Aflatoxin B1,Food Bioactive
+913,908,Nickel,Food Bioactive
+914,909,3-Methoxy-4-Hydroxyphenylacetic Acid,Food Bioactive
+915,910,Dihydrotestosterone,Food Bioactive
+916,911,L-Cystathionine,Food Bioactive
+917,912,Esters,Food Bioactive
+918,913,Epicatechin 3-Gallate,Food Bioactive
+919,914,Campesterol,Food Bioactive
+920,915,Lactitol,Food Bioactive
+921,916,Syringic Acid,Food Bioactive
+922,917,Prostaglandin E1,Food Bioactive
+923,918,Vanillylmandelic Acid,Food Bioactive
+924,919,Normetanephrine,Food Bioactive
+925,920,Adp,Food Bioactive
+926,921,Phosphatidylcholine,Food Bioactive
+927,922,Xylitol,Food Bioactive
+928,923,Prostaglandin D2,Food Bioactive
+929,924,Doconexent,Food Bioactive
+930,925,"8,11,14-Eicosatrienoic Acid",Food Bioactive
+931,926,Biotin,Food Bioactive
+932,927,Leukotriene C4,Food Bioactive
+933,928,Testosterone Enanthate,Food Bioactive
+934,929,Methanol,Food Bioactive
+935,930,Diphenhydramine,Food Bioactive
+936,931,Agar,Food Bioactive
+937,932,Guanosine Triphosphate,Food Bioactive
+938,933,3-Phenyl-2-Propenal,Food Bioactive
+939,934,2-Oxopentanedioic Acid,Food Bioactive
+940,935,Mg2+,Food Bioactive
+941,936,Substance P,Food Bioactive
+942,937,Sulfate,Food Bioactive
+943,938,Citrate,Food Bioactive
+944,939,Sparteine,Food Bioactive
+945,940,Hypoxanthine,Food Bioactive
+946,941,Lactulose,Food Bioactive
+947,942,Naproxen,Food Bioactive
+948,943,Hydroxycobalamin,Dietary Nutrient
+949,944,"Glycerol 1,2-Di-(9Z-Octadecenoate)",Food Bioactive
+950,945,Γ-Tocopherol,Dietary Nutrient
+951,946,Erythroneopterin,Food Bioactive
+952,947,4-Hydroxybenzaldehyde,Food Bioactive
+953,948,3-Hydroxybutanoic Acid,Food Bioactive
+954,949,Sapropterin,Food Bioactive
+955,950,Zinc Sulfate,Dietary Nutrient
+956,951,Estrone,Food Bioactive
+957,952,Hydroquinone,Food Bioactive
+958,953,Beta-D-Glucuronic Acid,Food Bioactive
+959,954,Estrone Sulfate,Food Bioactive
+960,955,Guanine,Food Bioactive
+961,956,Lipoic Acid,Food Bioactive
+962,957,Lathosterol,Food Bioactive
+963,958,Pentanoic Acid,Food Bioactive
+964,959,Procyanidin,Food Bioactive
+965,960,3-Methoxy-4-Hydroxyphenylglycol,Food Bioactive
+966,961,Sulfur Dioxide,Food Bioactive
+967,962,Nitrogen Oxides,Food Bioactive
+968,963,Corticosterone,Food Bioactive
+969,964,Ergocalciferol,Dietary Nutrient
+970,965,Synephrine,Food Bioactive
+971,966,Uracil,Food Bioactive
+972,967,Deoxypyridinoline,Food Bioactive
+973,968,Anabasine,Food Bioactive
+974,969,Zinc Oxide,Dietary Nutrient
+975,970,Diethylstilbesterol,Food Bioactive
+976,971,3-Methyl-L-Histidine,Dietary Amino Acid
+977,972,Amlodipine,Food Bioactive
+978,973,4-Hydroxyproline,Food Bioactive
+979,974,N-Acetylglucosamine,Food Bioactive
+980,975,"7Z,10Z,13Z,16Z,19Z-Docosapentaenoic Acid",Food Bioactive
+981,976,L-Homocysteine,Food Bioactive
+982,977,D-Mannose,Food Bioactive
+983,978,Phosphatidylserine,Food Bioactive
+984,979,Porphobilinogen,Food Bioactive
+985,980,"3,4-Dihydroxyphenylacetic Acid",Food Bioactive
+986,981,Phenol,Food Bioactive
+987,982,Indole,Food Bioactive
+988,983,Isocitric Acid,Food Bioactive
+989,984,Sodium Taurocholate,Dietary Nutrient
+990,985,11-Dehydro-Thromboxane B2,Food Bioactive
+991,986,Isodulcitol,Food Bioactive
+992,987,Cytosine,Food Bioactive
+993,988,Umbelliferone,Food Bioactive
+994,989,Tartaric Acid,Food Bioactive
+995,990,Azelaic Acid,Food Bioactive
+996,991,Estriol,Food Bioactive
+997,992,Squalene,Food Bioactive
+998,993,17-Hydroxyprogesterone,Food Bioactive
+999,994,Trimethylamine Oxide,Food Bioactive
+1000,995,2-Methylpropanoic Acid,Food Bioactive
+1001,996,4-Hydroxybutyric Acid,Food Bioactive
+1002,997,Pseudoephedrine,Food Bioactive
+1003,998,Deoxycholic Acid,Food Bioactive
+1004,999,Bupropion,Food Bioactive
+1005,1000,Dextrin,Food Bioactive
+1006,1001,Palmidrol,Food Bioactive
+1007,1002,Dimethyl Trisulfide,Food Bioactive
+1008,1003,Menatetrenone,Food Bioactive
+1009,1004,Vanillic Acid,Food Bioactive
+1010,1005,Selenate,Food Bioactive
+1011,1006,Dimethylamine,Food Bioactive
+1012,1007,(Z)-Aconitic Acid,Food Bioactive
+1013,1008,Cholic Acid,Food Bioactive
+1014,1009,Glycocholic Acid,Food Bioactive
+1015,1010,Acetovanillone,Food Bioactive
+1016,1011,Allicin,Food Bioactive
+1017,1012,Glucosamine,Food Bioactive
+1018,1013,Canrenone,Food Bioactive
+1019,1014,Dextromethorphan,Food Bioactive
+1020,1015,Sertraline,Food Bioactive
+1021,1016,Mangiferin,Food Bioactive
+1022,1017,Calcium Carbonate,Dietary Nutrient
+1023,1018,Spermidine,Food Bioactive
+1024,1019,Bergamottin,Food Bioactive
+1025,1020,Glucoraphanin,Food Bioactive
+1026,1021,Gamma-Butyrolactone,Food Bioactive
+1027,1022,3-Nitrotyrosine,Food Bioactive
+1028,1023,12-Hepe,Food Bioactive
+1029,1024,Hydroxylamine,Food Bioactive
+1030,1025,Tangeritin,Food Bioactive
+1031,1026,Tylosin,Food Bioactive
+1032,1027,Hyperforin,Food Bioactive
+1033,1028,Hypericin,Food Bioactive
+1034,1029,Inosine,Food Bioactive
+1035,1030,Anethole,Food Bioactive
+1036,1031,Debrisoquine,Food Bioactive
+1037,1032,N-Methyl-D-Aspartic Acid,Food Bioactive
+1038,1033,Fructosamine,Food Bioactive
+1039,1034,L-Fucose,Food Bioactive
+1040,1035,Steviol,Food Bioactive
+1041,1036,6-Sulfatoxymelatonin,Food Bioactive
+1042,1037,Fumaric Acid,Food Bioactive
+1043,1038,Sodium Lauryl Sulfate,Dietary Nutrient
+1044,1039,Mandelic Acid,Food Bioactive
+1045,1040,"8-Hydroxy-2-Methoxy-6-Methyl-1,4-Naphthoquinone",Compound_Group
+1046,1041,Acetaminophen,Food Bioactive
+1047,1042,Palmitate,Food Bioactive
+1048,1043,Methionine Sulfoxide,Dietary Amino Acid
+1049,1044,Dimethyl Sulfoxide,Food Bioactive
+1050,1045,Acteoside,Food Bioactive
+1051,1046,Saponins,Compound_Group
+1052,1047,Leukotriene B4,Food Bioactive
+1053,1048,Ajmaline,Food Bioactive
+1054,1049,Alpha-Linolenic Acid,Food Bioactive
+1055,1050,Metanephrine,Food Bioactive
+1056,1051,Limonene,Food Bioactive
+1057,1052,Pyridoxal,Food Bioactive
+1058,1053,Glucosylceramide,Food Bioactive
+1059,1054,Carbonic Acid,Food Bioactive
+1060,1055,Quinoline,Food Bioactive
+1061,1056,"1,2-Benzenediol",Food Bioactive
+1062,1057,Gentisic Acid,Food Bioactive
+1063,1058,Quinine,Food Bioactive
+1064,1059,Plastochromanol 8,Food Bioactive
+1065,1060,Mesna,Food Bioactive
+1066,1061,(-)-Arctigenin,Food Bioactive
+1067,1062,Lf,Food Bioactive
+1068,1063,Venlafaxine,Food Bioactive
+1069,1064,Fosfomycin,Food Bioactive
+1070,1065,Orotic Acid,Food Bioactive
+1071,1066,Nitrite,Food Bioactive
+1072,1067,Deoxyuridine,Food Bioactive
+1073,1068,Chondroitin Sulfate,Food Bioactive
+1074,1069,Flavones,Food Bioactive
+1075,1070,Puerarin,Food Bioactive
+1076,1071,Ubiquinol-10,Food Bioactive
+1077,1072,Propionylcarnitine,Food Bioactive
+1078,1073,Dimethylglycine,Food Bioactive
+1079,1074,Formic Acid,Food Bioactive
+1080,1075,Hyaluronic Acid,Food Bioactive
+1081,1076,"1,3-Dimethyluric Acid",Food Bioactive
+1082,1077,Ammonium,Food Bioactive
+1083,1078,Quercetin 3-Rutinoside,Food Bioactive
+1084,1079,Gdp,Food Bioactive
+1085,1080,Cytidine,Food Bioactive
+1086,1081,Cardiolipin,Food Bioactive
+1087,1082,Hippuric Acid,Food Bioactive
+1088,1083,Peroxynitrite,Food Bioactive
+1089,1084,Beta-D-Glucopyranose,Food Bioactive
+1090,1085,Pyrimidine,Food Bioactive
+1091,1086,3-Hydroxy-3-Methylglutaryl-Coa,Endogenous Metabolite
+1092,1087,Acetylsalicylic Acid,Food Bioactive
+1093,1088,Protoporphyrin Ix,Food Bioactive
+1094,1089,S-Adenosylmethionine,Food Bioactive
+1095,1090,8-Hete,Food Bioactive
+1096,1091,9-Hete,Food Bioactive
+1097,1092,2-Phenylethylamine,Food Bioactive
+1098,1093,Selenite,Food Bioactive
+1099,1094,Cetyl Alcohol,Food Bioactive
+1100,1095,Proanthocyanidins,Compound_Group
+1101,1096,Thromboxane A2,Food Bioactive
+1102,1097,Hexane,Compound_Group
+1103,1098,Allantoin,Food Bioactive
+1104,1099,Biopterin,Food Bioactive
+1105,1100,D-Ribose,Food Bioactive
+1106,1101,Ketoprofen Glucuronide,Food Bioactive
+1107,1102,Glycolipids,Compound_Group
+1108,1103,3-Methylxanthine,Food Bioactive
+1109,1104,Homocysteinesulfinic Acid,Food Bioactive
+1110,1105,Iodide,Food Bioactive
+1111,1106,Toluene,Food Bioactive
+1112,1107,Hafnium,Food Bioactive
+1113,1108,Xanthotoxin,Food Bioactive
+1114,1109,Pyridinoline,Food Bioactive
+1115,1110,Ergothioneine,Food Bioactive
+1116,1111,Chenodeoxycholic Acid,Food Bioactive
+1117,1112,Prostaglandin E3,Food Bioactive
+1118,1113,Clenbuterol,Food Bioactive
+1119,1114,1-Methyluric Acid,Food Bioactive
+1120,1115,Lipoxin A4,Food Bioactive
+1121,1116,Resolvin E1,Food Bioactive
+1122,1117,"4,5-Dihydroorotic Acid",Food Bioactive
+1123,1118,Aniline,Food Bioactive
+1124,1119,4-Hydroxyphenylacetic Acid,Food Bioactive
+1125,1120,Heparan Sulfate,Food Bioactive
+1126,1121,Formaldehyde,Food Bioactive
+1127,1122,Pentosidine,Food Bioactive
+1128,1123,Methanethiol,Food Bioactive
+1129,1124,"3,5-Dihydroxybenzoic Acid",Food Bioactive
+1130,1125,Retinol Palmitate,Dietary Nutrient
+1131,1126,Cysteamine,Food_Source
+1132,1127,Glycyrrhizin,Food Bioactive
+1133,1128,Resolvin D2,Food Bioactive
+1134,1129,Valerenic Acid,Food Bioactive
+1135,1130,Benzene,Food Bioactive
+1136,1131,Carbamate,Food Bioactive
+1137,1132,(±)-Menthyl Acetate,Food Bioactive
+1138,1133,Dhea Sulfate,Food Bioactive
+1139,1134,Protopanaxadiol,Food Bioactive
+1140,1135,Stigmasterol,Food Bioactive
+1141,1136,Boric Acid (H3Bo3),Food Bioactive
+1142,1137,Adrenosterone,Food Bioactive
+1143,1138,Gonadotropin Releasing Hormone,Food Bioactive
+1144,1139,Triamterene,Food Bioactive
+1145,1140,Molybdenum,Food Bioactive
+1146,1141,Hydrochlorothiazide,Food Bioactive
+1147,1142,Imidazole,Food Bioactive
+1148,1143,Atorvastatin,Food Bioactive
+1149,1144,Tantalum,Food Bioactive
+1150,1145,7-Dehydrocholesterol,Food Bioactive
+1151,1146,Glaucine,Food Bioactive
+1152,1147,Rubidium,Food Bioactive
+1153,1148,Carbonate,Food Bioactive
+1154,1149,Farnesyl Pyrophosphate,Food Bioactive
+1155,1150,Acetaminophen Glucuronide,Food Bioactive
+1156,1151,Dimethicone,Food Bioactive
+1157,1152,Phloroglucinol,Food Bioactive
+1158,1153,5-Aminoimidazole-4-Carboxamide,Food Bioactive
+1159,1154,Homocysteine Thiolactone,Food Bioactive
+1160,1155,Procaine,Food Bioactive
+1161,1156,Garlicin,Food Bioactive
+1162,1157,Calcium Gluconate,Dietary Nutrient
+1163,1158,Zirconium,Food Bioactive
+1164,1159,Glycitein,Food Bioactive
+1165,1160,Tetragastrin,Food Bioactive
+1166,1161,Hemin,Food Bioactive
+1167,1162,Gamolenic Acid,Food Bioactive
+1168,1163,4-Aminobenzoic Acid,Food Bioactive
+1169,1164,Stigmastanol,Food Bioactive
+1170,1165,5-Hydroxy-L-Tryptophan,Dietary Amino Acid
+1171,1166,Isoprene,Food Bioactive
+1172,1167,"17,18-Dihete",Food Bioactive
+1173,1168,Prostaglandin I2,Food Bioactive
+1174,1169,Calcium Sulfate,Dietary Nutrient
+1175,1170,Silica Gel,Food Bioactive
+1176,1171,Nonivamide,Food Bioactive
+1177,1172,2-Hydroxyvaleric Acid,Food Bioactive
+1178,1173,Phenyllactic Acid,Food Bioactive
+1179,1174,3-Phenylpropanoic Acid,Food Bioactive
+1180,1175,3-Methylbutanoic Acid,Food Bioactive
+1181,1176,3-Butyl-1(3H)-Isobenzofuranone,Food Bioactive
+1182,1177,Ergosterol,Food Bioactive
+1183,1178,Taurodeoxycholic Acid,Food Bioactive
+1184,1179,Thymine,Food Bioactive
+1185,1180,"5,10-Methylenetetrahydrofolic Acid",Food Bioactive
+1186,1181,Dibutyl Phthalate,Food Bioactive
+1187,1182,Salbutamol,Food Bioactive
+1188,1183,Magnoflorine,Food Bioactive
+1189,1184,S-Adenosyl-L-Homocysteine,Food Bioactive
+1190,1185,1-Methylxanthine,Food Bioactive
+1191,1186,Vanadium,Food Bioactive
+1192,1187,5-Methoxytryptamine,Food Bioactive
+1193,1188,Parthenolide,Food Bioactive
+1194,1189,Lanosterol,Food Bioactive
+1195,1190,Ricinoleic Acid,Food Bioactive
+1196,1191,2-Methoxyphenol,Food Bioactive
+1197,1192,1-Hexanol,Food Bioactive
+1198,1193,Baicalein,Food Bioactive
+1199,1194,Aesculetin,Food Bioactive
+1200,1195,4-Nitrophenol,Food Bioactive
+1201,1196,Ethylene,Food Bioactive
+1202,1197,6-Hydroxydopamine,Food Bioactive
+1203,1198,5-Isopropyl-2-Methylphenol,Food Bioactive
+1204,1199,2-Isopropyl-5-Methylphenol,Food Bioactive
+1205,1200,Argininosuccinic Acid,Food Bioactive
+1206,1201,Jasmonic Acid,Food Bioactive
+1207,1202,Tryptamine,Food Bioactive
+1208,1203,Chinese Tannin,Compound_Group
+1209,1204,(±)-Phenylalanine,Dietary Amino Acid
+1210,1205,Monocrotaline,Food Bioactive
+1211,1206,Scoparone,Food Bioactive
+1212,1207,Kynurenic Acid,Food Bioactive
+1213,1208,Valencene,Food Bioactive
+1214,1209,Eupatilin,Food Bioactive
+1215,1210,Potassium Chloride,Dietary Nutrient
+1216,1211,Iduronic Acid,Food Bioactive
+1217,1212,Phosphatidylethanolamine,Food Bioactive
+1218,1213,"7-Methyl-3-Methylene-1,6-Octadiene",Food Bioactive
+1219,1214,D-Camphor,Food Bioactive
+1220,1215,Trehalose,Food Bioactive
+1221,1216,Cellobiose,Food Bioactive
+1222,1217,Cyanide,Food Bioactive
+1223,1218,Safrole,Food Bioactive
+1224,1219,Paraquat,Food Bioactive
+1225,1220,Tungsten,Food Bioactive
+1226,1221,Violaxanthin,Food Bioactive
+1227,1222,Inositol Phosphate,Food Bioactive
+1228,1223,Chlorophyll,Food Bioactive
+1229,1224,Ochratoxin A,Food Bioactive
+1230,1225,2-Methylbutanal,Food Bioactive
+1231,1226,Heptanal,Food Bioactive
+1232,1227,Sesamol,Food Bioactive
+1233,1228,Methyl Salicylate,Food Bioactive
+1234,1229,Rotenone,Food Bioactive
+1235,1230,3-Isothiocyanato-1-Propene,Food Bioactive
+1236,1231,Glabridin,Food Bioactive
+1237,1232,Methyl Jasmonate,Food Bioactive
+1238,1233,Linalyl Acetate,Food Bioactive
+1239,1234,Prostaglandin A1,Food Bioactive
+1240,1235,Cholate,Food Bioactive
+1241,1236,Citalopram,Food Bioactive
+1242,1237,Clofenotane,Food Bioactive
+1243,1238,Endrin,Food Bioactive
+1244,1239,Castasterone,Food Bioactive
+1245,1240,Lithospermic Acid,Food Bioactive
+1246,1241,Octopamine,Food Bioactive
+1247,1242,Piperidine,Food Bioactive
+1248,1243,Betulin,Food Bioactive
+1249,1244,Soyasaponin I,Food Bioactive
+1250,1245,Abscisic Acid,Food Bioactive
+1251,1246,11-Dehydrocorticosterone,Food Bioactive
+1252,1247,1H-Indole-3-Acetonitrile,Food Bioactive
+1253,1248,Phosphoric Acid,Food Bioactive
+1254,1249,Guanosine,Food Bioactive
+1255,1250,Amp,Food Bioactive
+1256,1251,Isoborneol,Food Bioactive
+1257,1252,Spermine,Food Bioactive
+1258,1253,Pyridine,Food Bioactive
+1259,1254,Acetyl-Coa,Endogenous Metabolite
+1260,1255,Chlorate,Food Bioactive
+1261,1256,(R)-Oxypeucedanin,Food Bioactive
+1262,1257,Phosphoenolpyruvate,Food Bioactive
+1263,1258,Guanidine,Food Bioactive
+1264,1259,Iodate,Food Bioactive
+1265,1260,Emodin,Food Bioactive
+1266,1261,Fad,Food Bioactive
+1267,1262,Carboxyatractyloside,Food Bioactive
+1268,1263,"2,3-Butanedione",Food Bioactive
+1269,1264,Methylpyrazine,Food Bioactive
+1270,1265,Choline Chloride,Food Bioactive
+1271,1266,Isopimpinellin,Food Bioactive
+1272,1267,Tellurium,Food Bioactive
+1273,1268,Carbon Disulfide,Food Bioactive
+1274,1269,Tetrahydrocurcumin,Food Bioactive
+1275,1270,Xanthorrhizol,Food Bioactive
+1276,1271,Dityrosine,Food Bioactive
+1277,1272,Taurocholic Acid,Food Bioactive
+1278,1273,N6-Methyladenosine,Food Bioactive
+1279,1274,Geranylgeraniol,Food Bioactive
+1280,1275,Pyridoxamine,Food Bioactive
+1281,1276,Ligustilide,Food Bioactive
+1282,1277,Fisetin,Food Bioactive
+1283,1278,Acetoin,Food Bioactive
+1284,1279,2-Furanmethanol,Food Bioactive
+1285,1280,3-Hydroxyflavone,Food Bioactive
+1286,1281,3-Methoxytyramine,Food Bioactive
+1287,1282,Sodium Nitrite,Dietary Nutrient
+1288,1283,Urolithin A,Food Bioactive
+1289,1284,Scopoletin,Food Bioactive
+1290,1285,Utp,Food Bioactive
+1291,1286,Nad,Food Bioactive
+1292,1287,"Inositol 1,4,5-Trisphosphate",Food Bioactive
+1293,1288,(S)-[6]-Gingerol,Food Bioactive
+1294,1289,Racemethionine,Food Bioactive
+1295,1290,3-Hydroxyanthranilic Acid,Food Bioactive
+1296,1291,Phosphatidylglycerol,Food Bioactive
+1297,1292,Cinnamyl Alcohol,Food Bioactive
+1298,1293,Methoxyl,Food Bioactive
+1299,1294,Cucurbitacin E,Food Bioactive
+1300,1295,N-Methyltryptamine,Food Bioactive
+1301,1296,Sodium Hypochlorite,Dietary Nutrient
+1302,1297,Isopimaric Acid,Food Bioactive
+1303,1298,Maltotriose,Food Bioactive
+1304,1299,Chitinase,Food Bioactive
+1305,1300,Asiatic Acid,Food Bioactive
+1306,1301,Protopine,Food Bioactive
+1307,1302,Dehydroascorbic Acid,Food Bioactive
+1308,1303,Biochanin A,Food Bioactive
+1309,1304,2-Aminoacrylate,Food Bioactive
+1310,1305,Kaurenoic Acid,Food Bioactive
+1311,1306,Nadh,Food Bioactive
+1312,1307,Morin,Food Bioactive
+1313,1308,Achillin,Food Bioactive
+1314,1309,Capsanthin,Food Bioactive
+1315,1310,Anatabine,Food Bioactive
+1316,1311,Phlorizin,Food Bioactive
+1317,1312,Palmitoyl-Coa,Endogenous Metabolite
+1318,1313,Triethylamine,Food Bioactive
+1319,1314,Acetamide,Food Bioactive
+1320,1315,Chlorpheniramine,Food Bioactive
+1321,1316,Pregnenolone Sulfate,Food Bioactive
+1322,1317,Methylglyoxal,Food Bioactive
+1323,1318,Isoscopoletin,Food Bioactive
+1324,1319,Cyclohexane,Food Bioactive
+1325,1320,Geraniol,Food Bioactive
+1326,1321,Aesculin,Food Bioactive
+1327,1322,Betaine Aldehyde,Food Bioactive
+1328,1323,H2O,Food Bioactive
+1329,1324,"1,2,3-Benzenetriol",Food Bioactive
+1330,1325,Ursodeoxycholic Acid,Food Bioactive
+1331,1326,Mercury,Food Bioactive
+1332,1327,Rhein,Food Bioactive
+1333,1328,Oripavine,Food Bioactive
+1334,1329,Farnesol,Food Bioactive
+1335,1330,Beta-Elemene,Food Bioactive
+1336,1331,Cinnamic Acid,Food Bioactive
+1337,1332,L-5-Oxo-2-Pyrrolidinecarboxylic Acid,Food Bioactive
+1338,1333,Sinigrin,Food Bioactive
+1339,1334,Astragalin,Food Bioactive
+1340,1335,Fucoxanthin,Food Bioactive
+1341,1336,Oleanolic Acid,Food Bioactive
+1342,1337,Fucosterol,Food Bioactive
+1343,1338,Isoferulic Acid,Food Bioactive
+1344,1339,Betanin,Food Bioactive
+1345,1340,Cafestol,Food Bioactive
+1346,1341,Kahweol,Food Bioactive
+1347,1342,Maltoheptaose,Food Bioactive
+1348,1343,Vitexin,Food Bioactive
+1349,1344,Isovitexin,Food Bioactive
+1350,1345,Orientin,Food Bioactive
+1351,1346,Anandamide,Food Bioactive
+1352,1347,Threonic Acid,Food Bioactive
+1353,1348,Beta-Solamarine,Food Bioactive
+1354,1349,Isoxanthopterin,Food Bioactive
+1355,1350,Lead,Food Bioactive
+1356,1351,Paeonol,Food Bioactive
+1357,1352,Naphthalen-1-Ol,Food Bioactive
+1358,1353,Iron Oxide,Dietary Nutrient
+1359,1354,3-Hexen-1-Ol,Food Bioactive
+1360,1355,Carveol,Food Bioactive
+1361,1356,Lithocholic Acid,Food Bioactive
+1362,1357,Patchouli Alcohol,Food Bioactive
+1363,1358,N-Acetyl-L-Cysteine,Dietary Amino Acid
+1364,1359,N-Butanol,Food Bioactive
+1365,1360,Maltopentaose,Food Bioactive
+1366,1361,Sulfite,Food Bioactive
+1367,1362,Myosmine,Food Bioactive
+1368,1363,Boldine,Food Bioactive
+1369,1364,Caffeic Acid Ethyl Ester,Food Bioactive
+1370,1365,"2,4-Dichlorophenoxyacetic Acid",Food Bioactive
+1371,1366,Molybdate,Food Bioactive
+1372,1367,Chromone,Food Bioactive
+1373,1368,Thiamine Hydrochloride,Dietary Nutrient
+1374,1369,Hexylamine,Food Bioactive
+1375,1370,4-Pyridoxic Acid,Food Bioactive
+1376,1371,Cesium,Food Bioactive
+1377,1372,Paraoxon,Food Bioactive
+1378,1373,Anisatin,Food Bioactive
+1379,1374,N-Ethyl Trans-2-Cis-6-Nonadienamide,Food Bioactive
+1380,1375,Glucose 6-Phosphate,Food Bioactive
+1381,1376,Xanthohumol,Food Bioactive
+1382,1377,Alantolactone,Food Bioactive
+1383,1378,Alkanes,Food Bioactive
+1384,1379,Limonin,Food Bioactive
+1385,1380,Pectic Acid,Food Bioactive
+1386,1381,Zolpidem,Food Bioactive
+1387,1382,Juglone,Food Bioactive
+1388,1383,Procyanidin B2,Food Bioactive
+1389,1384,"2,3-Dihydroxybenzoic Acid",Food Bioactive
+1390,1385,3-Methyladenine,Food Bioactive
+1391,1386,"1-Chloro-2,4-Dinitrobenzene",Food Bioactive
+1392,1387,Glyceric Acid,Food Bioactive
+1393,1388,Dihydromyricetin,Food Bioactive
+1394,1389,Obacunone,Food Bioactive
+1395,1390,Lupeol,Food Bioactive
+1396,1391,Gambogic Acid,Food Bioactive
+1397,1392,Tomatidine,Food Bioactive
+1398,1393,Chalcone,Food Bioactive
+1399,1394,Formononetin,Food Bioactive
+1400,1395,Phytol,Food Bioactive
+1401,1396,Methyleugenol,Food Bioactive
+1402,1397,Potassium Citrate,Dietary Nutrient
+1403,1398,5-Methylcytosine,Food Bioactive
+1404,1399,Benzaldehyde,Food Bioactive
+1405,1400,Dimethyl Sulfone,Food Bioactive
+1406,1401,Trehalose 6-Phosphate,Food Bioactive
+1407,1402,N-Methylaniline,Food Bioactive
+1408,1403,13-Hydroxylupanine,Food Bioactive
+1409,1404,Menadione,Food Bioactive
+1410,1405,(+)-Myrtenol,Food Bioactive
+1411,1406,Alpha-Endosulfan,Food Bioactive
+1412,1407,Norathyriol,Food Bioactive
+1413,1408,Bromine,Food Bioactive
+1414,1409,Bilirubin Diglucuronide,Food Bioactive
+1415,1410,5-Hydroxytryptophol,Food Bioactive
+1416,1411,Oleuropein,Food Bioactive
+1417,1412,Erucin,Food Bioactive
+1418,1413,Loganin,Food Bioactive
+1419,1414,Butein,Food Bioactive
+1420,1415,Homoserine,Food Bioactive
+1421,1416,Maltotetraose,Food Bioactive
+1422,1417,Chicoric Acid,Food Bioactive
+1423,1418,Atractyloside,Food Bioactive
+1424,1419,Ginsenoside Rb1,Food Bioactive
+1425,1420,N-Dodecane,Food Bioactive
+1426,1421,"2,4-Dihydroxybenzoic Acid",Food Bioactive
+1427,1422,4-Hydroxy-2H-1-Benzopyran-2-One,Food Bioactive
+1428,1423,Ribitol,Food Bioactive
+1429,1424,Aminomalonic Acid,Food Bioactive
+1430,1425,Styrene,Food Bioactive
+1431,1426,Myricetin 3-Rhamnoside,Food Bioactive
+1432,1427,Triterpenoid,Compound_Group
+1433,1428,Isoliquiritigenin,Food Bioactive
+1434,1429,Dl-Dopa,Food Bioactive
+1435,1430,8-Hydroxyguanine,Food Bioactive
+1436,1431,1-Heptanol,Food Bioactive
+1437,1432,6-Deoxocastasterone,Food Bioactive
+1438,1433,Estrone Glucuronide,Food Bioactive
+1439,1434,Chloroform,Food Bioactive
+1440,1435,Osthol,Food Bioactive
+1441,1436,Ethanolamine,Food Bioactive
+1442,1437,Celastrol,Food Bioactive
+1443,1438,Deoxynivalenol,Food Bioactive
+1444,1439,Eupatorin,Food Bioactive
+1445,1440,Propranolol,Food Bioactive
+1446,1441,Hydroxysafflor Yellow A,Food Bioactive
+1447,1442,Borneol,Food Bioactive
+1448,1443,Laudanine,Food Bioactive
+1449,1444,3-Methyl-1-Butylamine,Food Bioactive
+1450,1445,"2-Amino-3-Methylimidazo[4,5-F]Quinoline",Food Bioactive
+1451,1446,"N2,N2-Dimethylguanosine",Food Bioactive
+1452,1447,1-Methyladenosine,Food Bioactive
+1453,1448,Thiabendazole,Food Bioactive
+1454,1449,Costunolide,Food Bioactive
+1455,1450,Cryptotanshinone,Food Bioactive
+1456,1451,Ginkgolide A,Food Bioactive
+1457,1452,1-Octanol,Food Bioactive
+1458,1453,Demethoxycurcumin,Food Bioactive
+1459,1454,Geranylacetone,Food Bioactive
+1460,1455,25-Hydroxycholesterol,Endogenous Metabolite
+1461,1456,(S)-Reticuline,Food Bioactive
+1462,1457,Muramic Acid,Food Bioactive
+1463,1458,Alpha-Terpineol,Food Bioactive
+1464,1459,Cirsiliol,Food Bioactive
+1465,1460,Liquiritigenin,Food Bioactive
+1466,1461,Canthaxanthin,Food Bioactive
+1467,1462,Sphingosine,Food Bioactive
+1468,1463,Calmodulin,Endogenous Metabolite
+1469,1464,Dcmp,Food Bioactive
+1470,1465,Arginine Hydrochloride,Dietary Amino Acid
+1471,1466,Hyperin,Food Bioactive
+1472,1467,Brassicasterol,Food Bioactive
+1473,1468,Ginsenoside Rc,Food Bioactive
+1474,1469,Hordenine,Food Bioactive
+1475,1470,Sclareol,Food Bioactive
+1476,1471,Didymin,Food Bioactive
+1477,1472,Poncirin,Food Bioactive
+1478,1473,Rhoifolin,Food Bioactive
+1479,1474,Udp,Food Bioactive
+1480,1475,Quinic Acid,Food Bioactive
+1481,1476,Trilobatin,Food Bioactive
+1482,1477,Chlorite,Food Bioactive
+1483,1478,Benzylamine,Food Bioactive
+1484,1479,Pelargonidin,Food Bioactive
+1485,1480,Ecdysone,Food Bioactive
+1486,1481,Glycerylphosphoinositol,Endogenous Metabolite
+1487,1482,Pentanal,Food Bioactive
+1488,1483,Gentiobiose,Food Bioactive
+1489,1484,Cyanidin 3-Glucoside,Food Bioactive
+1490,1485,3-Hydroxybenzoic Acid,Food Bioactive
+1491,1486,Ctp,Food Bioactive
+1492,1487,"1,3,7,9-Tetramethyluric Acid",Food Bioactive
+1493,1488,Adenine,Food Bioactive
+1494,1489,Pentacosanoic Acid,Food Bioactive
+1495,1490,Friedelin,Food Bioactive
+1496,1491,Menthone,Food Bioactive
+1497,1492,Indoxyl Sulfate,Endogenous Metabolite
+1498,1493,Hypochlorite,Food Bioactive
+1499,1494,Dicoumarol,Food Bioactive
+1500,1495,2-Butanol,Food Bioactive
+1501,1496,(E)-Zeatin,Food Bioactive
+1502,1497,Beta-Amyrin,Food Bioactive
+1503,1498,Ethyl Gallate,Food Bioactive
+1504,1499,N-Acetyldopamine,Dietary Amine
+1505,1500,Maleic Acid,Food Bioactive
+1506,1501,Salvianolic Acid B,Food Bioactive
+1507,1502,5-Hydroxydopamine,Dietary Amine
+1508,1503,Cuminaldehyde,Food Bioactive
+1509,1504,Aconitic Acid,Food Bioactive
+1510,1505,Cinchonidine,Food Bioactive
+1511,1506,Euphol,Food Bioactive
+1512,1507,Psoralidin,Food Bioactive
+1513,1508,Nerolidol,Food Bioactive
+1514,1509,Schisandrin B,Food Bioactive
+1515,1510,L-Saccharopine,Endogenous Metabolite
+1516,1511,Casuarinin,Food Bioactive
+1517,1512,Hypotaurine,Endogenous Metabolite
+1518,1513,5-Methyltetrahydrofolic Acid,Food Bioactive
+1519,1514,Ferrous Gluconate,Food Bioactive
+1520,1515,Obtusifoliol,Food Bioactive
+1521,1516,Tamarixetin,Food Bioactive
+1522,1517,"L-Galactono-1,4-Lactone",Food Bioactive
+1523,1518,Myo-Inositol 1-Phosphate,Endogenous Metabolite
+1524,1519,5-Hydroxymethyl-2-Furancarboxaldehyde,Food Bioactive
+1525,1520,Ginkgolide B,Food Bioactive
+1526,1521,3-Phospho-D-Glycerate,Endogenous Metabolite
+1527,1522,Rotundifolone,Food Bioactive
+1528,1523,Neochlorogenic Acid,Food Bioactive
+1529,1524,Cyclic-Amp,Food Bioactive
+1530,1525,Neoxanthin,Food Bioactive
+1531,1526,Pomolic Acid,Food Bioactive
+1532,1527,Phosphoribosyl Pyrophosphate,Endogenous Metabolite
+1533,1528,Butylated Hydroxyanisole,Food Bioactive
+1534,1529,Carnosol,Food Bioactive
+1535,1530,(E)-2-Hexen-1-Ol,Food Bioactive
+1536,1531,Oleocanthal,Food Bioactive
+1537,1532,S-Methyl-L-Methionine Chloride,Dietary Amino Acid
+1538,1533,Allopregnanolone,Endogenous Metabolite
+1539,1534,Selenocysteine,Food Bioactive
+1540,1535,Monosodium Glutamate,Dietary Nutrient
+1541,1536,Fenugreekine,Food Bioactive
+1542,1537,16Alpha-Hydroxyestrone,Endogenous Metabolite
+1543,1538,Tropine,Food Bioactive
+1544,1539,Stevioside,Food Bioactive
+1545,1540,1-Methoxy-4-(2-Propenyl)Benzene,Food Bioactive
+1546,1541,Fumonisin B1,Food Bioactive
+1547,1542,"3,7-Dimethyluric Acid",Food Bioactive
+1548,1543,7-Methylxanthine,Food Bioactive
+1549,1544,Menadiol,Food Bioactive
+1550,1545,"Inositol 1,3,4,5,6-Pentakisphosphate",Endogenous Metabolite
+1551,1546,Lupanine,Food Bioactive
+1552,1547,Geniposidic Acid,Food Bioactive
+1553,1548,Dynorphin A,Endogenous Metabolite
+1554,1549,Methylmalonyl-Coa,Endogenous Metabolite
+1555,1550,Phthalic Acid,Food Bioactive
+1556,1551,4-Methylumbelliferone Glucuronide,Food Bioactive
+1557,1552,Norharman,Food Bioactive
+1558,1553,Glucaric Acid,Food Bioactive
+1559,1554,Fenchone,Food Bioactive
+1560,1555,8-Acetoxypinoresinol,Food Bioactive
+1561,1556,4-Methylphenol,Food Bioactive
+1562,1557,Salicin,Food Bioactive
+1563,1558,1-Deoxy-D-Xylulose 5-Phosphate,Endogenous Metabolite
+1564,1559,Selenophosphate,Food Bioactive
+1565,1560,"3,4-Dimethyl-1,2-Cyclopentanedione",Food Bioactive
+1566,1561,Pentadecanoic Acid,Food Bioactive
+1567,1562,Cynaropicrin,Food Bioactive
+1568,1563,Xylopine,Food Bioactive
+1569,1564,Rhapontin,Food Bioactive
+1570,1565,8-Hydroxyguanosine,Endogenous Metabolite
+1571,1566,Longifolene,Food Bioactive
+1572,1567,Galactosamine,Food Bioactive
+1573,1568,Propanoate,Food Bioactive
+1574,1569,Licoisoflavone A,Food Bioactive
+1575,1570,Pregnenolone,Endogenous Metabolite
+1576,1571,Hyodeoxycholic Acid,Food Bioactive
+1577,1572,Genipin,Food Bioactive
+1578,1573,"P-Mentha-1,8-Dien-7-Ol",Food Bioactive
+1579,1574,Prostaglandin F2A,Food Bioactive
+1580,1575,Diosmetin,Food Bioactive
+1581,1576,6-Methylscutellarein,Food Bioactive
+1582,1577,Scyllitol,Food Bioactive
+1583,1578,Benzyl Benzoate,Food Bioactive
+1584,1579,Fmn,Food Bioactive
+1585,1580,Butyl Acetate,Food Bioactive
+1586,1581,7-Ketocholesterol,Food Bioactive
+1587,1582,Pentoses,Food Bioactive
+1588,1583,Quercitrin,Food Bioactive
+1589,1584,Capsidiol,Food Bioactive
+1590,1585,N1-Acetylspermidine,Food Bioactive
+1591,1586,11-Cis-Retinaldehyde,Food Bioactive
+1592,1587,11-Cis-Retinol,Dietary Nutrient
+1593,1588,Beta-Cryptoxanthin,Food Bioactive
+1594,1589,Acacetin,Food Bioactive
+1595,1590,Chiro-Inositol,Food Bioactive
+1596,1591,Methyl Alpha-D-Glucopyranoside,Food Bioactive
+1597,1592,Bergaptol,Food Bioactive
+1598,1593,"4-Hydroxy-3,5-Dimethoxybenzaldehyde",Food Bioactive
+1599,1594,Cucurbitacin B,Food Bioactive
+1600,1595,"1,4-Cineole",Food Bioactive
+1601,1596,"3,4-Dihydroxymandelate",Food Bioactive
+1602,1597,Thujopsene,Food Bioactive
+1603,1598,Dihydrocapsaicin,Food Bioactive
+1604,1599,Xanthurenic Acid,Food Bioactive
+1605,1600,Brassinolide,Food Bioactive
+1606,1601,Picolinic Acid,Food Bioactive
+1607,1602,Beta-Ionone,Food Bioactive
+1608,1603,Deoxycytidine,Food Bioactive
+1609,1604,Isovanillic Acid,Food Bioactive
+1610,1605,Lysolecithin,Food Bioactive
+1611,1606,Pisatin,Food Bioactive
+1612,1607,N-Propanol,Food Bioactive
+1613,1608,L-Homoarginine,Food Bioactive
+1614,1609,Coniferyl Aldehyde,Food Bioactive
+1615,1610,Stearidonic Acid,Food_Source
+1616,1611,L-Quebrachitol,Food Bioactive
+1617,1612,5-Hydroxyindole-3-Acetic Acid,Food Bioactive
+1618,1613,Norvaline,Food Bioactive
+1619,1614,Flazine Methyl Ether,Food Bioactive
+1620,1615,Furaneol,Food Bioactive
+1621,1616,Jaceosidin,Food Bioactive
+1622,1617,Dimethyl Sulfide,Food Bioactive
+1623,1618,Chitobiose,Food Bioactive
+1624,1619,Haematin,Food Bioactive
+1625,1620,4-Hydroxy-2-Nonenal,Food Bioactive
+1626,1621,Xanthosine,Food Bioactive
+1627,1622,Gibberellins,Food Bioactive
+1628,1623,Cyanidin 3-Rutinoside,Food Bioactive
+1629,1624,27-Hydroxycholesterol,Endogenous Metabolite
+1630,1625,Pallidol,Food Bioactive
+1631,1626,Pristane,Food Bioactive
+1632,1627,Deoxyribose,Food Bioactive
+1633,1628,Malonyl-Coa,Endogenous Metabolite
+1634,1629,Medicagenic Acid,Food Bioactive
+1635,1630,Isoalantolactone,Food Bioactive
+1636,1631,Sinensetin,Food Bioactive
+1637,1632,Sennoside A,Food Bioactive
+1638,1633,Angelicin,Food Bioactive
+1639,1634,Aminoadipic Acid,Food Bioactive
+1640,1635,Sodium Benzoate,Dietary Nutrient
+1641,1636,N-Acetyl-L-Glutamate,Dietary Amino Acid
+1642,1637,Strigol,Food Bioactive
+1643,1638,Antheraxanthin,Food Bioactive
+1644,1639,Alloxan,Food Bioactive
+1645,1640,Leukotriene D4,Food Bioactive
+1646,1641,Tellimagrandin Ii,Food Bioactive
+1647,1642,Herniarin,Food Bioactive
+1648,1643,"1,2,3,4-Tetrahydroisoquinoline",Food Bioactive
+1649,1644,Nootkatone,Food Bioactive
+1650,1645,(E)-Resveratrol 3-Glucoside,Food Bioactive
+1651,1646,Ethyl Oleate,Food Bioactive
+1652,1647,4-Hydroxybenzyl Alcohol,Food Bioactive
+1653,1648,Panaxytriol,Food Bioactive
+1654,1649,Physapubenolide,Food Bioactive
+1655,1650,Cucurbitacin I,Food Bioactive
+1656,1651,Nadp+,Food Bioactive
+1657,1652,"3,5,8-Megastigmatrien-7-One",Food Bioactive
+1658,1653,Isoquinoline,Food Bioactive
+1659,1654,Propanal,Food Bioactive
+1660,1655,Oleanonic Acid,Food Bioactive
+1661,1656,Phenylacetaldehyde,Food Bioactive
+1662,1657,"2,5-Dimethylpyrazine",Food Bioactive
+1663,1658,Fructose 1-Phosphate,Endogenous Metabolite
+1664,1659,Kaempferol 3-Galactoside,Food Bioactive
+1665,1660,Sodium Citrate,Dietary Nutrient
+1666,1661,Glyceraldehyde,Food Bioactive
+1667,1662,Selenocystine,Food Bioactive
+1668,1663,Sodium Carbonate,Dietary Nutrient
+1669,1664,Piperitone,Food Bioactive
+1670,1665,S-Nitrosoglutathione,Endogenous Metabolite
+1671,1666,2-Heptanone,Food Bioactive
+1672,1667,Tomatine,Food Bioactive
+1673,1668,Turanose,Food Bioactive
+1674,1669,Sorbitol 6-Phosphate,Endogenous Metabolite
+1675,1670,Auxin,Food Bioactive
+1676,1671,Oleacein,Food Bioactive
+1677,1672,Thiophene,Food Bioactive
+1678,1673,Schisantherin A,Food Bioactive
+1679,1674,Fructose 6-Phosphate,Endogenous Metabolite
+1680,1675,3-Phosphoglyceric Acid,Food Bioactive
+1681,1676,Glutaric Acid,Endogenous Metabolite
+1682,1677,Bromide,Food Bioactive
+1683,1678,Maltol,Food Bioactive
+1684,1679,Phytanic Acid,Food Bioactive
+1685,1680,Mannose 6-Phosphate,Endogenous Metabolite
+1686,1681,D-Alanyl-D-Alanine,Dietary Amino Acid
+1687,1682,Pterin,Endogenous Metabolite
+1688,1683,Anonaine,Food Bioactive
+1689,1684,Curvacin A,Food Bioactive
+1690,1685,Monotropein,Food Bioactive
+1691,1686,Ethyl Butyrate,Food Bioactive
+1692,1687,Dihydropteridine,Endogenous Metabolite
+1693,1688,Quercetagetin,Food Bioactive
+1694,1689,Dynorphin B,Endogenous Metabolite
+1695,1690,Gibberellin A3,Food Bioactive
+1696,1691,Propyl Gallate,Food Bioactive
+1697,1692,Lipoxin B4,Food Bioactive
+1698,1693,Sarsasapogenin,Food Bioactive
+1699,1694,Artemin,Food Bioactive
+1700,1695,2-Hydroxybenzaldehyde,Food Bioactive
+1701,1696,Prostaglandin H2,Food Bioactive
+1702,1697,Allyl Alcohol,Food Bioactive
+1703,1698,"Phosphatidylinositol-3,4,5-Trisphosphate",Endogenous Metabolite
+1704,1699,Phosphoribosyl-Atp,Food Bioactive
+1705,1700,Verbascose,Food Bioactive
+1706,1701,Lignans,Compound_Group
+1707,1702,(+)-Syringaresinol,Food Bioactive
+1708,1703,Coniferyl Alcohol,Food Bioactive
+1709,1704,D-Glucitol,Food Bioactive
+1710,1705,Tellimagrandin I,Food Bioactive
+1711,1706,D-Erythrose 4-Phosphate,Endogenous Metabolite
+1712,1707,Dyspropterin,Food Bioactive
+1713,1708,Cyanidin 3-Galactoside,Food Bioactive
+1714,1709,Vescalagin,Food Bioactive
+1715,1710,Sophorose,Food Bioactive
+1716,1711,Erythrose,Endogenous Metabolite
+1717,1712,Gitogenin,Food Bioactive
+1718,1713,Ginsenoside Rh1,Food Bioactive
+1719,1714,2-Phosphoglycerate,Endogenous Metabolite
+1720,1715,Dgtp,Food Bioactive
+1721,1716,Thymidine Glycol,Endogenous Metabolite
+1722,1717,Alpha-Chaconine,Food Bioactive
+1723,1718,O-Quinone,Endogenous Metabolite
+1724,1719,Saccharin Sodium,Dietary Nutrient
+1725,1720,Copper Sulfate,Food Bioactive
+1726,1721,Zinc Acetate,Dietary Nutrient
+1727,1722,Saccharin,Food Bioactive
+1728,1723,Dihydroxyacetone Phosphate,Endogenous Metabolite
+1729,1724,Morphinone,Food Bioactive
+1730,1725,Erucic Acid,Dietary Lipid
+1731,1726,Gadoleic Acid,Dietary Lipid
+1732,1727,Sn-Glycerol-3-Phosphate,Endogenous Metabolite
+1733,1728,Disulfides,Compound_Group
+1734,1729,Morpholine,Food Bioactive
+1735,1730,Withanolide A,Food Bioactive
+1736,1731,Biocytin,Food Bioactive
+1737,1732,Indole-3-Pyruvate,Food Bioactive
+1738,1733,Pyrrole,Food Bioactive
+1739,1734,S-Allylcysteine,Food Bioactive
+1740,1735,Sakuranetin,Food Bioactive
+1741,1736,12(S)-Leukotriene B4,Food Bioactive
+1742,1737,9-Cis-Retinoic Acid,Food Bioactive
+1743,1738,L-Thyronine,Food Bioactive
+1744,1739,4-Aminohippuric Acid,Food Bioactive
+1745,1740,Dihydroxyacetone,Food Bioactive
+1746,1741,Beta-Eudesmol,Food Bioactive
+1747,1742,Arabinogalactan,Compound_Group
+1748,1743,Fe3+,Food Bioactive
+1749,1744,"2,3-Pentanedione",Food Bioactive
+1750,1745,L-Stachydrine,Food Bioactive
+1751,1746,Gamma-Cehc,Food Bioactive
+1752,1747,Cdp-Ethanolamine,Endogenous Metabolite
+1753,1748,Pepsin,Food Bioactive
+1754,1749,Anthranilic Acid,Food Bioactive
+1755,1750,Fumitremorgin C,Food Bioactive
+1756,1751,Dump,Food Bioactive
+1757,1752,Dtmp,Food Bioactive
+1758,1753,Pheophorbide A,Food Bioactive
+1759,1754,5-Hete,Food Bioactive
+1760,1755,"4,5-Di-O-Caffeoylquinic Acid",Food Bioactive
+1761,1756,Ginsenoside Rb3,Food Bioactive
+1762,1757,Clerosterol,Food Bioactive
+1763,1758,3-Bromotyrosine,Food Bioactive
+1764,1759,4-Ethylphenol,Food Bioactive
+1765,1760,2-Hydroxybutyric Acid,Food Bioactive
+1766,1761,Propionylglycine,Food Bioactive
+1767,1762,1-Methylhistidine,Food Bioactive
+1768,1763,"N,N-Dimethylbenzylamine",Food Bioactive
+1769,1764,Neocnidilide,Food Bioactive
+1770,1765,Phenylacetylglycine,Food Bioactive
+1771,1766,Sennoside B,Food Bioactive
+1772,1767,2-Methoxyestradiol,Endogenous Metabolite
+1773,1768,"2,8-Dihydroxyadenine",Food Bioactive
+1774,1769,Androsterone Glucuronide,Endogenous Metabolite
+1775,1770,Procyanidin B1,Food Bioactive
+1776,1771,1-Dodecanol,Food Bioactive
+1777,1772,Coenzyme A,Food Bioactive
+1778,1773,Geosmin,Food Bioactive
+1779,1774,O-Coumaric Acid,Food Bioactive
+1780,1775,"2,4-Diaminobutyric Acid",Food Bioactive
+1781,1776,Triphosphoric Acid,Endogenous Metabolite
+1782,1777,Equol,Food Bioactive
+1783,1778,Isopentyl Alcohol,Food Bioactive
+1784,1779,Lactucin,Food Bioactive
+1785,1780,L-Sorbose,Food Bioactive
+1786,1781,Trans-Beta-Ocimene,Food Bioactive
+1787,1782,Norbixin,Food Bioactive
+1788,1783,(+)-Pinoresinol,Food Bioactive
+1789,1784,Arabinonic Acid,Food Bioactive
+1790,1785,Shikimate,Endogenous Metabolite
+1791,1786,Tetradecanedioic Acid,Food Bioactive
+1792,1787,Irilone,Food Bioactive
+1793,1788,"22,23-Dihydroergosterol",Food Bioactive
+1794,1789,Echinenone,Food Bioactive
+1795,1790,"3-Oxobutanoic Acid, 9Ci",Food Bioactive
+1796,1791,Isothiocyanates,Food Bioactive
+1797,1792,Glycitin,Food Bioactive
+1798,1793,13-Cis-Retinoic Acid,Food Bioactive
+1799,1794,Lacto-N-Neotetraose,Food Bioactive
+1800,1795,Beta-Thujaplicin,Food Bioactive
+1801,1796,Lumazine,Food Bioactive
+1802,1797,Ginkgetin,Food Bioactive
+1803,1798,4(10)-Thujene,Food Bioactive
+1804,1799,Retinyl Ester,Food Bioactive
+1805,1800,Ethyl Nicotinate,Food Bioactive
+1806,1801,Amylopectin,Food Bioactive
+1807,1802,Taxifolin 3-Rhamnoside,Food Bioactive
+1808,1803,Dihydroceramide,Food Bioactive
+1809,1804,2-Methoxy-4-Vinylphenol,Food Bioactive
+1810,1805,Hesperetin 7-Neohesperidoside,Food Bioactive
+1811,1806,8-Hydroxy-Deoxyguanosine,Endogenous Metabolite
+1812,1807,Desmosterol,Food Bioactive
+1813,1808,"3,5-Di-O-Caffeoylquinic Acid",Food Bioactive
+1814,1809,L-2-Aminobutanoic Acid,Food Bioactive
+1815,1810,Dttp,Food Bioactive
+1816,1811,Cyanate,Food Bioactive
+1817,1812,Inosine Triphosphate,Food Bioactive
+1818,1813,1-Propylamine,Food Bioactive
+1819,1814,Ginkgolide C,Food Bioactive
+1820,1815,2-Aminoisobutyric Acid,Food Bioactive
+1821,1816,Methylparaben,Food Bioactive
+1822,1817,Trans-Isoasarone,Food Bioactive
+1823,1818,Sepiapterin,Endogenous Metabolite
+1824,1819,1-Butylamine,Food Bioactive
+1825,1820,Oxaloacetate,Endogenous Metabolite
+1826,1821,4-Aminophenol,Food Bioactive
+1827,1822,"3,5-Dihydroxy-4-Methoxybenzoic Acid",Food Bioactive
+1828,1823,Thiamine Monophosphate,Dietary Nutrient
+1829,1824,Kinobeon A,Food Bioactive
+1830,1825,Butyrylcarnitine,Food Bioactive
+1831,1826,N2-Succinyl-L-Ornithine,Dietary Amino Acid
+1832,1827,Lariciresinol,Food Bioactive
+1833,1828,S-Methyl-L-Methionine,Dietary Amino Acid
+1834,1829,2-Methoxy-4-Methylphenol,Food Bioactive
+1835,1830,Pinostrobin,Food Bioactive
+1836,1831,Convallatoxin,Food Bioactive
+1837,1832,Myristate,Food Bioactive
+1838,1833,Plastoquinone,Food Bioactive
+1839,1834,Alpha-Carene,Food Bioactive
+1840,1835,Gardenin B,Food Bioactive
+1841,1836,Sporamin,Food Bioactive
+1842,1837,Maslinic Acid,Food Bioactive
+1843,1838,Cajanol,Food Bioactive
+1844,1839,Lipoamide,Food Bioactive
+1845,1840,Cob(I)Alamin,Food Bioactive
+1846,1841,N1-Acetylspermine,Food Bioactive
+1847,1842,1-Tetradecanol,Food Bioactive
+1848,1843,Betulonic Acid,Food Bioactive
+1849,1844,2-Pyrrolidinone,Food Bioactive
+1850,1845,3-Hydroxyglutaric Acid,Endogenous Metabolite
+1851,1846,Ginsenoside Rd,Food Bioactive
+1852,1847,4-Vinylsyringol,Food Bioactive
+1853,1848,Falcarindiol,Food Bioactive
+1854,1849,Quinolinate,Food Bioactive
+1855,1850,Diethylphosphate,Food Bioactive
+1856,1851,Matairesinol,Food Bioactive
+1857,1852,Homoeriodictyol,Food Bioactive
+1858,1853,Alliin,Food Bioactive
+1859,1854,Melibiose,Food Bioactive
+1860,1855,Sodium Acetate,Dietary Nutrient
+1861,1856,Asiaticoside,Food Bioactive
+1862,1857,Madecassoside,Food Bioactive
+1863,1858,Scutellarein,Food Bioactive
+1864,1859,Luteolin 7-Glucoside,Food Bioactive
+1865,1860,Scolymoside,Food Bioactive
+1866,1861,12(S)-Hpete,Food Bioactive
+1867,1862,M-Chlorohippuric Acid,Food Bioactive
+1868,1863,Solasodine,Food Bioactive
+1869,1864,Ginsenoside Rh2,Food Bioactive
+1870,1865,Cellulase,Food Bioactive
+1871,1866,"3H-1,2-Dithiole-3-Thione",Food Bioactive
+1872,1867,Dimethylarsinate,Food Bioactive
+1873,1868,2-Pentanone,Food Bioactive
+1874,1869,N-Acetyl-L-Ornithine,Dietary Amino Acid
+1875,1870,Tocophersolan,Food Bioactive
+1876,1871,Gamma-Glutamyl-Cysteine,Dietary Amino Acid
+1877,1872,Calcium Pantothenate,Dietary Nutrient
+1878,1873,Tectorigenin,Food Bioactive
+1879,1874,Hopeaphenol,Food Bioactive
+1880,1875,Potassium Iodide,Dietary Nutrient
+1881,1876,(S)-Coclaurine,Food Bioactive
+1882,1877,Curdione,Food Bioactive
+1883,1878,Tryptophol,Food Bioactive
+1884,1879,N-Butyl Acetate,Food Bioactive
+1885,1880,1-Deoxynojirimycin,Food Bioactive
+1886,1881,Adp-Ribose,Food Bioactive
+1887,1882,15-Kete,Food Bioactive
+1888,1883,Beta-Cyclocitral,Food Bioactive
+1889,1884,Perillaldehyde,Food Bioactive
+1890,1885,Glyoxal,Food Bioactive
+1891,1886,18-Hydroxycorticosterone,Endogenous Metabolite
+1892,1887,Angiotensin Iii,Endogenous Metabolite
+1893,1888,15-Hete,Food Bioactive
+1894,1889,Gamma-Cyclodextrin,Food Bioactive
+1895,1890,Cycloartenol,Food Bioactive
+1896,1891,Diethylamine,Food Bioactive
+1897,1892,1-Nonanol,Food Bioactive
+1898,1893,Pseudouridine,Food Bioactive

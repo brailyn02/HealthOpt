@@ -1,0 +1,14 @@
+EXTRA RUNTIME COMPOUNDS (not in manual baseline)
+============================================================
+
+Total: 7
+
+Format: [Dish] Compound (Source)
+
+[chakhchoukha] diallyl disulfide (Neither)
+[chakhchoukha] diallyl sulfide (Neither)
+[chakhchoukha] hydroxytyrosol (FooDB)
+[chakhchoukha] iron (FooDB)
+[chakhchoukha] s allylcysteine (FooDB)
+[chakhchoukha] thymol (Neither)
+[chakhchoukha] zinc (FooDB)

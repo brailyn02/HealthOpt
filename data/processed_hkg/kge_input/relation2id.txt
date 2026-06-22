@@ -1,0 +1,8 @@
+7
+activates	0
+binds	1
+contains	2
+induces	3
+inhibits	4
+modulates	5
+substrate_of	6

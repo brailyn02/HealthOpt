@@ -1,0 +1,492 @@
+food_id,canonical_name,aliases,dual_role,category
+0,(-)-Carvone,,,botanical
+1,Acetic Acid,,,botanical
+2,Acorn,,,botanical
+3,Acorus Gramineus,,,botanical
+4,Aegle Marmelos,,,botanical
+5,Silver,,,elemental
+6,Agave,,,botanical
+7,Ak,,,unresolved_abbreviation
+8,Alaska Pollock,,,botanical
+9,Ale,,,botanical
+10,Alga Gracilaria Caudata,,,botanical
+11,Amaranthus Tricolor,A. Tricolor; Red Spinach,,botanical
+12,Amfe,,,botanical
+13,Amlaki,,,botanical
+14,Anetheum Graveolens,,,botanical
+15,Angelica Dahurica,,,botanical
+16,Angelica Keiskei,,,botanical
+17,Anise Myrtle,,,botanical
+18,Anthocyanins,,,botanical
+19,Apios Americana,,,botanical
+20,Appd,,,botanical
+21,Apple,,,botanical
+22,Apple Condensed Tannin,,,botanical
+23,Apple Sauce,,,botanical
+24,Araceae,,,botanical
+25,Arctostaphylos Uva-Ursi,Arbutin; Bearberry Leaf; Uvae Ursi,,botanical
+26,Aronia Melanocarpa,,,botanical
+27,Ashwagandha,,,botanical
+28,Asparagus Officinalis,A. Officinalis,,botanical
+29,Auraptene,,,botanical
+30,Azadirachta Indica,A. Indica,,botanical
+31,Barium,,,elemental
+32,Bae,,,botanical
+33,Balanites Aegyptiaca,,,botanical
+34,Banana,,,botanical
+35,Bb,,,unresolved_abbreviation
+36,Bc,,,unresolved_abbreviation
+37,Beef Tallow,,,botanical
+38,Beer,,,botanical
+39,Beo,,,botanical
+40,Berberine,Barberry Crude Extract; Barberry Ethanolic Extract; Barberry Extract; Bbr; Berberine Chloride; Berberis Crude Extract; Berberis Vulgaris,yes,botanical
+41,Bergamot Essential Oil,,,botanical
+42,Bergamot Juice,,,botanical
+43,Bj,,,unresolved_abbreviation
+44,Blackcurrant,,,botanical
+45,Blueberry,,,botanical
+46,Blueberry Anthocyanins-Enriched Extract,,,botanical
+47,Bmle,,,botanical
+48,Boesenbergia Rotunda Rhizomes,,,botanical
+49,Brassica Sprout,,,botanical
+50,Broccoli,,,botanical
+51,Brown Algae,,,botanical
+52,Brussels Sprouts,,,botanical
+53,Bs,,,unresolved_abbreviation
+54,Buckwheat Protein Extract,,,botanical
+55,Budo-No-Megumi,,,botanical
+56,Bwpe,,,botanical
+57,C-Phycocyanin Complex,,,formulation
+58,C-Phycocyanin,,,botanical
+59,C. Chanroenicum,,,botanical
+60,C. Zeylaniucm,,,botanical
+61,Caffeic Acid,,,botanical
+62,Cajanus,,,botanical
+63,Calcitonin,,,botanical
+64,Canola,,,botanical
+65,Capsaicin,,,botanical
+66,Carrageenan,,,botanical
+67,Carrots,,,botanical
+68,Castor,,,botanical
+69,Ce,,,unresolved_abbreviation
+70,Celery,,,botanical
+71,Chamomile,Chamomile Essential Oi,,botanical
+72,Cheese,,,botanical
+73,Chelerythrine,,,botanical
+74,Chelidonine,,,botanical
+75,Chenopodium,,,botanical
+76,Cherries,Cherry,,botanical
+77,Chicken,,,botanical
+78,Chinese Parsley,,,botanical
+79,Chitosan,,,botanical
+80,Chuan Lian,,,botanical
+81,Cichorium Intybus,,,botanical
+82,Cinnamomum,,,botanical
+83,Cinnamomum Zeylanicum,,,botanical
+84,Cirsium,,,botanical
+85,Cirsium Chanroenicum,,,botanical
+86,Citrullus Vulgaris,,,botanical
+87,Citrus Juices,,,botanical
+88,Citrus Leaf Extract,,,botanical
+89,Citrus Reticulate,Citrus Unshiu; Mandarin Juice,,botanical
+90,Citrus Reticulate (Mandarin) Peel Methanolic Extract,,,botanical
+91,Cle,,,botanical
+92,Clementine Juice,,,botanical
+93,Cm,,,unresolved_abbreviation
+94,Cnidium,Cnidium Monnier (L.) Cuss; Fructus Cnidii,,botanical
+95,Cobalt,,,elemental
+96,Cocoa,Chocolate; Cocoa Powder; T. Cacao; Theobroma Cacao,,botanical
+97,Coconut,,,botanical
+98,Coconut Flower Sap,,,botanical
+99,Cocos Nucifera L,,,botanical
+100,Codliver,,,botanical
+101,Coenzyme Q10,Coq10,yes,botanical
+102,Coffee,,,botanical
+103,Cola,,,botanical
+104,Combretaceae,,,botanical
+105,Common Sage,,,botanical
+106,Common Valerian,,,botanical
+107,Compositae,,,botanical
+108,Cone Flower,,,botanical
+109,Cordyceps,,,botanical
+110,Coriandrum Sativum L. Seed Extract,,,botanical
+111,Corilagin,,,botanical
+112,Corn Oil,,,botanical
+113,Corni,,,botanical
+114,Cottonseed,,,botanical
+115,Cp,,,unresolved_abbreviation
+116,Cp1,,,unresolved_abbreviation
+117,Cranberry,Cranberries; Cranberry Juice; Vaccinium Macrocarpon,yes,botanical
+118,Crataegi,,,botanical
+119,Crataegus,,,botanical
+120,Csp,,,botanical
+121,Ct,,,unresolved_abbreviation
+122,Cucumis Melo,,,botanical
+123,Cucurbita Andreana,,,botanical
+124,Curcumin,Curcuma Longa; Curcuma Longa Linn; Curcumin I; Curcuminoid; Curcuminoids; Haridra; Turmeric; Turmeric Rhizome Powder Suspension,yes,botanical
+125,Cuscutae,,,botanical
+126,Cv,,,unresolved_abbreviation
+127,Cyanidin,,,botanical
+128,Cyperus Rotundus,,,botanical
+129,D. Edulis,,,botanical
+130,Proprietary Korean Herbal Formula,,,formulation
+131,Daidzein,,,botanical
+132,Daikon,,,botanical
+133,Dairy Product,,,botanical
+134,Dairy Product Fermented By Lactobacilli,,,botanical
+135,Damnacanthal,,,botanical
+136,Danggui,,,botanical
+137,Danshen,Fufang Danshen Dripping Pill; Salvia; Salvia Miltiorrhiza,,botanical
+138,Daucus Carota,,,botanical
+139,Dehydroepiandrosterone,Dhea,yes,botanical
+140,Delphinidin,,,botanical
+141,Dengzhan Shengmai Formula,,,formulation
+142,Dfl,,,botanical
+143,Dioscin,,,botanical
+144,Dioscorea,,,botanical
+145,Dioscorea Nipponica Makino,,,botanical
+146,Dioscoreae Rhizoma,,,botanical
+147,Dp,,,unresolved_abbreviation
+148,Echinacea,,yes,botanical
+149,ENNA Complex,,,formulation
+150,Equisetum Arvense L,,,botanical
+151,Eucalyptus Microcorys Extract,,,botanical
+152,Evodia Rutaecarpa,,,botanical
+153,Falcarinol,,,botanical
+154,Fava Bean,Broad Bean; Faba Bean; Fava Beans; Vicia Faba,,botanical
+155,Fennel,Fennel Oil; Foeniculum Vulgare; Foeniculum Vulgare (Fennel) Essential Oil; Oil Of Foeniculum Vulgare Mill,,botanical
+156,Fenugreek,T. Foenum-Graecum; T. Foenum-Graecum Aqueous Extract; Trigonella Foenum-Graecum,,botanical
+157,Feo,,,botanical
+158,Ff-D,,,unresolved_abbreviation
+159,Fish Flakes,,,botanical
+160,Fish Flakes Supplemented With The Diatom Thalassiosira Weissflogii,,,botanical
+161,Fish Oil,,,botanical
+162,Fo,,,unresolved_abbreviation
+163,Folic,,,botanical
+164,Folinic Acid,,,botanical
+165,Folinic Acids,,,botanical
+166,Fortified Oil,,,botanical
+167,Fortified Wine,,,botanical
+168,Fpo,,,botanical
+169,Fresh Palm Oil,,,botanical
+170,Ga,,,unresolved_abbreviation
+171,Galactomannan,,,botanical
+172,Gallic Acid,,,botanical
+173,Garcinia Kola,,,botanical
+174,Garcinol,,,botanical
+175,Garden Cress,,,botanical
+176,Garlic,A.Atroviolaceum Extract; Allium Atroviolaceum; Garlic Bulb; Garlic Preparations,yes,botanical
+177,Gegen,,,botanical
+178,Ginger-Green Tea Mixture,,,formulation
+179,Ginger,10-Gingerol; Ginger Rhizome; Zingiber; Zingiber Officinale; Zingiberaceae,yes,botanical
+180,Ginkgo Biloba,E-Cs; Egb761; G. Biloba Extract; Gbe; Ginkgo; Ginkgo Biloba Extract; Ginkgo Biloba Extracts; Ginkgo Biloba Leaf Extract; Ginko,yes,botanical
+181,Ginseng,American Ginseng; Korean Red Ginseng; Korean Red Ginseng Total Extract; Krge; Panax; Panax Ginseng; Panax Ginseng C.A. Meyer; Panax Quinquefolius; Red Ginseng; Rg,yes,botanical
+182,Ginsenoside Rg1,,,botanical
+183,Ginsenoside Rg2,,,botanical
+184,Ginsenosides,,,botanical
+185,Gj,,,unresolved_abbreviation
+186,Gkb,,,botanical
+187,Gr,,,unresolved_abbreviation
+188,Grape Seed,Grape Juice; Grape Seed Proanthocyanidin Extract; Grapes; Gspe; Vitis Vinifera; Vitis Vinifera Leaves Polyphenolic,,botanical
+189,Grapefruit,Gfj; Grape Fruit; Grapefruit Juice; Pomelo Extract; Sweetie Juice,,botanical
+190,Green Tea,Black Tea; Camellia Sinensis; Green Tea Extract; Gte; Tea,yes,botanical
+191,Groundnut,,,botanical
+192,Groundnut Oils,,,botanical
+193,Guineense Swartz,,,botanical
+194,Guttiferae,,,botanical
+195,Haela,,,botanical
+196,Haepd,,,botanical
+197,Harpagophytum Procumbens Extract,,,botanical
+198,Hecl,,,botanical
+199,"Herbal Mixtures Of Liriope Platyphylla, Glycyrrhiza Uralensis, And Cinnamomum Cassia",,,multi-ingredient
+200,Hibiscus Rosa Sinensis,,,botanical
+201,Hibiscus Sabdariffa,H. Sabdariffa; Roselle,,botanical
+202,Hippophae Rhamnoides,,,botanical
+203,Honey,,,botanical
+204,Horse Chestnut,,,botanical
+205,Harpagophytum Procumbens Extract,,,formulation
+206,Hypericum Extract Formulation,,,formulation
+207,Hydroalcoholic Fruit Extract Of P. Dulce,,,botanical
+208,Hydromethanolic Extract Of Citrullus Lanatus,,,botanical
+209,Hypericum Perforatum,H. Perforatum,,botanical
+210,Indian Gooseberry,,,botanical
+211,Kidney Beans,,,botanical
+212,Kiwi,Kiwifruit,,botanical
+213,Kudzu,,,botanical
+214,L. Usitatissimum,,,botanical
+215,Laminaria Hyperborea,,,botanical
+216,Laurus Nobilis L,,,botanical
+217,Lavandula Burnetii,,,botanical
+218,Lavender,,,botanical
+219,Le,,,unresolved_abbreviation
+220,Lecithin,,,botanical
+221,Lemon,,,botanical
+222,Lemon Myrtle,,,botanical
+223,Lepidium Sativum,,,botanical
+224,Lgc,,,botanical
+225,Licorice,Aqueous Licorice Extract; G. Glabra; G. Uralensis; Glycerrhitinic Acid; Glycyrrhetinic Acid; Glycyrrhiza; Glycyrrhiza Glabra Fabaceae; Glycyrrhizic Acid; Glycyrrhizin; Liquorice; Methanolic Extract Of G. Glabra; Methanolic Extract Of Glycyrrhiza Glabra,,botanical
+226,Lime,,,botanical
+227,Linalool,,,botanical
+228,Linseed,,,botanical
+229,Lisosan G Complex,,,formulation
+230,Lml,,,botanical
+231,Luffa,,,botanical
+232,Lutein,,yes,botanical
+233,Lycii,,,botanical
+234,M. Parviflora,,,botanical
+235,Macrotyloma Uniflorum,,,botanical
+236,Malus,,,botanical
+237,Malva Parviflora,,,botanical
+238,Malva Sylvestris,,,botanical
+239,Malvidin,,,botanical
+240,Malβg,,,botanical
+241,Manganese,,,botanical
+242,Mangifera Indica,,,botanical
+243,Mangosteen,G.Mangostana; Gamma-Mangostin; Garcinia Mangostana,,botanical
+244,Marula,,,botanical
+245,Melon,,,botanical
+246,Mentha Piperita,M. Spicata; Mentha; Mentha Spicata,,botanical
+247,Methanolic Extract Of Sonchus Asper,,,botanical
+248,Mi,,,unresolved_abbreviation
+249,Milk,,,botanical
+250,Mk,,,unresolved_abbreviation
+251,Mmc,,,unresolved_abbreviation
+252,Manganese,,,elemental
+253,Mo,,,unresolved_abbreviation
+254,Momordica Charantia,Bitter Gourd; Bitter Melon Leaf Extract; M. Charantia Extract; Mc; Methanolic Extract Of Momordica Charantia L,,botanical
+255,Morinda Citrifolia,Morinda Citrifolia Linn.; Noni,,botanical
+256,Moringa Oleifera,,,botanical
+257,Morus,,,botanical
+258,Morus Alba L-H2O,,,botanical
+259,Mpme,,,botanical
+260,Mps,,,unresolved_abbreviation
+261,Muscadine Grapes,,,botanical
+262,Mustard,,,botanical
+263,Myo-Inositol,,,botanical
+264,N-3 Pufa,,,botanical
+265,N-Acetylcysteine,,,botanical
+266,Naoxintong Formula,,,formulation
+267,Neferine,,,botanical
+268,Nelumbo Nucifera Gaertn,,,botanical
+269,Nelumbonucifera,,,botanical
+270,Nepitrin,,,botanical
+271,Niacin,,yes,botanical
+272,Nif₁,,,botanical
+273,Nigella Sativa,Black Seed; N. Sativa Oil; Nigella; Nigella Sativa Oil; Ns; Nso; Thymoquinone,,botanical
+274,Nisha,,,botanical
+275,Nisha Amalaki,,,botanical
+276,Non-Alcoholic Beverage Made Of Red Wine Vinegar And Grape Juice,,,botanical
+277,Nura,,,botanical
+278,O. Basilicum,,,botanical
+279,Oat,,,botanical
+280,Ocimum Basilicum,,,botanical
+281,Oise,,,botanical
+282,Oj,,,unresolved_abbreviation
+283,Olerciamide A,,,botanical
+284,Olive Oil,,,botanical
+285,Onion,,,botanical
+286,Ops,,,botanical
+287,Orange Juice,,,botanical
+288,Origanum Majorana,,,botanical
+289,Oroxylum Indicum Seed Extracts,,,botanical
+290,Oxythiamine,,,botanical
+291,Oyster,,,botanical
+292,Oyster (Ostrea Plicatula Gmelin) Polysaccharides,,,botanical
+293,P. Dulce,,,botanical
+294,P. Guineense,,,botanical
+295,P. Hydropiper,,,botanical
+296,P. Pulmonarius,,,botanical
+297,P. Pulmonarius Glucans,,,botanical
+298,P. Vulgaris,,,botanical
+299,Pa,,,unresolved_abbreviation
+300,Palm Oil,,,botanical
+301,Panax Notoginseng,Notoginsenoside; Panax Notoginseng Ledeb; Panax Notoginseng Saponins; Pns; San Chi; Xuesaitong,,botanical
+302,Paraquat,,,botanical
+303,Parkia Speciosa,,,botanical
+304,Parsley,,,botanical
+305,Passiflora Incarnata,,,botanical
+306,Pcpa,,,botanical
+307,Pectolinarigenin,,,botanical
+308,Peonidin,,,botanical
+309,Perilla,,,botanical
+310,Perilla Frutescens Britton,,,botanical
+311,Pg,,,unresolved_abbreviation
+312,Ph.Aq,,,botanical
+313,Ph.Chf,,,botanical
+314,Ph.Cr,,,botanical
+315,Ph.Etac,,,botanical
+316,Ph.Hex,,,botanical
+317,Ph.Sp,,,botanical
+318,Phaseolus Vulgaris,,,botanical
+319,Phenylalanine Methyl Ester Hydrochloride,,,botanical
+320,Phoenix Dactylifera,,,botanical
+321,Phyllanthaceae,,,botanical
+322,Phyllanthus Acidus,,,botanical
+323,Phyllanthus Emblica Linn,,,botanical
+324,Phyllanthus Emblica-Etoh,,,botanical
+325,Physalis,,,botanical
+326,Physalis Peruviana,,,botanical
+327,Phytate,,,botanical
+328,Pi,,,unresolved_abbreviation
+329,Pinitol,,,botanical
+330,Pinus Halepensis,,,botanical
+331,Pinus Halepensis Essential Oil,,,botanical
+332,Piperine,Piper Longum; Piper Longum L.,yes,botanical
+333,Pistacia Lentiscus Oil,,,botanical
+334,Pithecellobium Dulce,,,botanical
+335,Pleurotus Ostreatus,,,botanical
+336,Pleurotus Pulmonarius,,,botanical
+337,Plme,,,botanical
+338,Plo,,,unresolved_abbreviation
+339,Pno,,,botanical
+340,Polygonum Hydropiper,,,botanical
+341,Polygonum Viviparum,,,botanical
+342,Polyherbal Premix,,,multi-ingredient
+343,Polysaccharides Extracted From The Egyptian Mango Mangifera Indica,,,botanical
+344,Pomegranate,P. Granatum; Pomegranate Juice; Pomegranate Seeds Oil; Punica Granatum,,botanical
+345,Ponciri Fructus,,,botanical
+346,Poncirus Trifoliata,,,botanical
+347,Pop,,,botanical
+348,Portulaca Oleracea,P. Oleracea; Portulaca Oleracea L.,,botanical
+349,Pq,,,unresolved_abbreviation
+350,Propolis,,,botanical
+351,Protopanaxadiol (Pd) Ginsenosides,,,botanical
+352,Protopanaxatriol (Pt) Ginsenosides,,,botanical
+353,Psidium Guajava,,,botanical
+354,Pso,,,botanical
+355,Psp,,,botanical
+356,Pueraria Lobata,,,botanical
+357,Pv,,,unresolved_abbreviation
+358,Qps,,,unresolved_abbreviation
+359,Quercetin,Quercitin,yes,botanical
+360,Quercus,,,botanical
+361,R. Hastatus,,,botanical
+362,Rainbow Trout,,,botanical
+363,Raphia Hookeri,,,botanical
+364,Raspberry,,,botanical
+365,Red Wine,,,botanical
+366,Red Wine Vinegar And Grape Juice,,,botanical
+367,Repeatedly Heated Palm,,,botanical
+368,Repeatedly-Heated Vegetable,,,botanical
+369,Resveratrol,"3,4',5-Trihydroxystilbene; Isorhapontigenin; Res; Resv; Rsv; Rv; Rvl",yes,botanical
+370,Rg1,,,unresolved_abbreviation
+371,Rg3,,,unresolved_abbreviation
+372,Rgap,,,botanical
+373,Rhizoma,,,botanical
+374,Rhodiola Rosea,Rhodiola,,botanical
+375,Rhpo,,,botanical
+376,Rhvo,,,botanical
+377,Riboflavin,,yes,botanical
+378,Rosa Damascena,Rosa Damascena Extract,,botanical
+379,Rosaceae,,,botanical
+380,Rosavin,,,botanical
+381,Rosemary,R. Officinalis; Rosemary Tea; Rosmarinus Officinalis; Rosmarinus Officinalis L.,,botanical
+382,Rubi,,,botanical
+383,Rubus,,,botanical
+384,Rubus Coreanus,,,botanical
+385,Rutabaga,Brassica Napus L. Var. Napobrassica; Rutabaga Sprout; Rutabaga Sprouts,,botanical
+386,S. Aqueum,,,botanical
+387,S. Aromaticum,,,botanical
+388,S. Indicum,,,botanical
+389,S. Limbata,,,botanical
+390,S.Limbata,,,botanical
+391,S.Montana Extract,,,botanical
+392,Sa1,,,unresolved_abbreviation
+393,Saffron,Crocin; Crocus Sativus,yes,botanical
+394,Sage,,,botanical
+395,Salvia Przewalskii,,,botanical
+396,Sambucus Williamsii Hance,,,botanical
+397,Same,,,botanical
+398,Sanguinarine,,,botanical
+399,Sardine,,,botanical
+400,Satureja Montana Extract,,,botanical
+401,Sauchinone,,,botanical
+402,Sbt,,,unresolved_abbreviation
+403,Sce,,,botanical
+404,Scg,,,botanical
+405,Schisandra Chinensis,Schisandra,,botanical
+406,Sclerocarya Birrea,,,botanical
+407,Scuppernongs,,,botanical
+408,Scutellarin,,,botanical
+409,Seaweed,,,botanical
+410,Selenium,,yes,botanical
+411,Semi-Skimmed Milk,,,botanical
+412,Sesame,,,botanical
+413,Seseli Praecox,,,botanical
+414,Sheabutter,,,botanical
+415,Shexiang Baoxin Formula,,,formulation
+416,Shiitake,,,botanical
+417,Silymarin,Isosilybin; Milk Thistle; Silybin; Silybum Marianum; Silychristin; Silydianin; Silymarine,yes,botanical
+418,Sinapis Alba,,,botanical
+419,Sipe,,,botanical
+420,Sj,,,unresolved_abbreviation
+421,Smi,,,botanical
+422,Sodium Caseinate,,,botanical
+423,Soft Plain Cheese,,,botanical
+424,Sonchus Asper,,,botanical
+425,Soybean,Soy Lecithin; Soyabeans; Soybean Extract,,botanical
+426,Sparassis Crispa,,,botanical
+427,Spinacia Oleracea,,,botanical
+428,Spirafolide,,,botanical
+429,Spirodela Polyrhiza,,,botanical
+430,Spirulina,Polysaccharide Of Spirulina Platensis; Spirulina Platensis,,botanical
+431,Squash,,,botanical
+432,St. John's Wort,Hypericum Perforatum Extract; Sjw,yes,botanical
+433,Sucrose,,,botanical
+434,Sucrose Fatty Acid Ester,,,botanical
+435,Swh,,,botanical
+436,Syzygium Aqueum,,,botanical
+437,Syzygium Aromaticum,,,botanical
+438,Syzygium Cumini Extract,,,botanical
+439,Taraxacum Platycarpum,,,botanical
+440,Tartary Buckwheat Sprouts,,,botanical
+441,Tasmannia Pepper Leaf,,,botanical
+442,Te,,,unresolved_abbreviation
+443,Terminalia Belerica,T. Belerica,,botanical
+444,Tf,,,unresolved_abbreviation
+445,Tf(Ic*As)*483/13,,,botanical
+446,Thiamine,,yes,botanical
+447,Thiamine Pyrophosphate,,,botanical
+448,Thyme,Thyme (Thymus Vulgaris) Leaf Aqueous Extract; Thymus Vulgaris,,botanical
+449,Tormentillae,,,botanical
+450,Tremella Fuciformis,,,botanical
+451,Tribulus Terrestris,,,botanical
+452,Trifolium Pratense,,,botanical
+453,Trigonelline,,,botanical
+454,Tristemma Hirtum,,,botanical
+455,Triticum Sativum,,,botanical
+456,Trolox,,,botanical
+457,U. Dioica,,,botanical
+458,Uapaca Guineensis,,,botanical
+459,Umbelliferae,,,botanical
+460,Urtica,,,botanical
+461,Urtica Dioica Extract,,,botanical
+462,Vaccinium Bracteatum Thunb. Fruit,,,botanical
+463,Valerian,,yes,botanical
+464,Vbfw,,,botanical
+465,Vco,,,botanical
+466,Vegetable Juice,,,botanical
+467,Vegetol Red Grapevin,,,botanical
+468,Virgin Coconut Oil,,,botanical
+469,Vitamin B,,,botanical
+470,Vitamin B6,Vit. B6; Vit.B6,,botanical
+471,Vitamin C,Ascorbic Acid; Vit.C,yes,botanical
+472,Vitamin D,,yes,botanical
+473,Vitamin D3,,yes,botanical
+474,Vitamin E,,yes,botanical
+475,Vitamin K,Vitamin K1; Vitamin K3; Vitamins K2,,botanical
+476,Vlp,,,botanical
+477,Wb,,,unresolved_abbreviation
+478,Wg,,,unresolved_abbreviation
+479,Wheat,,,botanical
+480,Whey Protein,,,botanical
+481,Whey Protein Isolate,,,botanical
+482,Wine,,,botanical
+483,Wpi,,,botanical
+484,Crataegi Standardized Extract,,,formulation
+485,Yogurt Bacteria,,,botanical
+486,Zhi-Xiong,,,botanical
+487,Zinc,,yes,botanical
+488,Zinc Protoporphyrin-Ix,,,botanical
+489,Zinc Sulfate,,,botanical
+490,Zxc,,,botanical

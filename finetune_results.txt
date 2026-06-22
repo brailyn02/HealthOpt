@@ -1,0 +1,44 @@
+============================================================
+  DFinder (LightGCN + DNN) — unified-DFI Dataset
+  Fine-Tune Results — 200 Epochs (North African Food-Drug Pairs)
+============================================================
+
+Dataset
+-------
+  Training pairs  : 45,578
+  Test pairs      : 12,513
+  Total pairs     : 58,091
+  Drugs           : 1,894
+  Foods           : 5,000
+  New NA edges    : 1,183
+
+Fine-Tune Config
+----------------
+  Architecture    : LightGCN (3 layers) + DNN (2048→1024→512→256→64)
+  Embedding dim   : 64
+  LR              : 0.0001  (pretrain LR was 0.001)
+  Decay           : 1e-4
+  BPR batch size  : 512
+  Epochs          : 200
+
+Evaluation Metrics (Test Set @ Epoch 200)
+------------------------------------------
+  AUC  (group-weighted)   : 0.9012
+  AUPR (group-weighted)   : 0.2338
+  Recall@20               : 0.4005
+  NDCG@20                 : 0.2996
+  Precision@20            : 0.0757
+
+Baseline (pre-fine-tune @ Epoch 0)
+-----------------------------------
+  AUC  (group-weighted)   : 0.8972
+  AUPR (group-weighted)   : 0.2205
+  Recall@20               : 0.3892
+  NDCG@20                 : 0.2860
+  Precision@20            : 0.0734
+
+Checkpoint
+----------
+  File : DFinder-main/code/checkpoints/lgn-unified-DFI-3-64.pth.tar
+  Pre-train backup : lgn-unified-DFI-3-64.pretrain.pth.tar
+============================================================

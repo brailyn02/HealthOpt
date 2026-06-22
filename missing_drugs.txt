@@ -1,0 +1,58 @@
+drugs in d:\\23AIBox-DFinder\\drugs_cleaned.csv: 191
+
+drugs in d:\\23AIBox-DFinder\\drugs_cleaned_with_categories.csv: 1422
+
+missing from d:\\23AIBox-DFinder\\drugs_cleaned_with_categories.csv: 52
+
+1 2 dimethyl hydrazine
+1 25 dihydroxyvitamin d
+2 2 azinobis 3 ethylbenzthiazoline 6 sulfonic acid
+2 2 diphenyl 1 picrylhydrazyl
+2 amino 1 methyl 6 phenylimidazo4 5 bpyridine
+7 12 dimethylbenz anthracene
+7 12 dimethylbenzaanthracene
+actinomycin d
+amoxicillin clavulanic acid
+amphotericin b
+amrinone
+arbekacin
+artemisinin
+aspirin
+atenolol
+bacitracin
+bleomycin
+caffeine
+calcitriol
+cefmetazole
+cefoxitin
+cyclosporine a
+daunorubicin
+deferoxamine
+diazoxide
+ethinyl estradiol
+folic acid
+galanthamine
+gemcitabine
+gentamicin
+glibenclamide
+kanamycin
+loperamide
+meropenem
+mitomycin c
+oxacillin
+oxaliplatin
+papaverine
+paracetamol
+pentobarbital
+phenacetin
+prulifloxacin
+pyridoxine
+rifampicin
+s 3 5 dihydroxyphenylglycine
+sibutramine
+silymarin
+sodium nitroprusside
+streptomycin
+streptozotocin
+testosterone
+trimethoprim

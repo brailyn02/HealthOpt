@@ -1,0 +1,1574 @@
+head	relation	tail
+Ursodeoxycholic acid	activates	NR1H4
+Leflunomide	activates	AHR
+Niacin	activates	HCAR3
+Salmon calcitonin	activates	CALCR
+Ribavirin	activates	ADK
+Tramadol	activates	TRPV1
+Rilpivirine	activates	NR1I2
+Phenylpropanolamine	activates	ADRB2
+Almotriptan	activates	HTR1D
+Levothyroxine	activates	THRA
+Captopril	activates	BDKRB1
+Ropinirole	activates	DRD3
+Defibrotide	activates	ADORA2A
+Acitretin	activates	RARB
+Telmisartan	activates	PPARG
+Dexamethasone	activates	NR1I2
+Lofexidine	activates	HTR1D
+Rizatriptan	activates	HTR1E
+Aripiprazole	activates	DRD4
+Elafibranor	activates	PPARA
+Dextroamphetamine	activates	TAAR1
+Racepinephrine	activates	ADRA2A
+Oxazepam	activates	TSPO
+Acitretin	activates	RXRG
+Mitapivat	activates	PKLR
+Palovarotene	activates	RARG
+Acitretin	activates	RXRB
+Zinc sulfate, unspecified form	activates	F11
+Drospirenone	activates	PGR
+Sulfasalazine	activates	REL
+Ergotamine	activates	DRD2
+Elafibranor	activates	PPARD
+Levorphanol	activates	OPRM1
+Diroximel fumarate	activates	CHRNA10
+Lamotrigine	activates	DRD2
+Amantadine	activates	DRD2
+Butorphanol	activates	OPRD1
+Misoprostol	activates	PTGER4
+Bethanechol	activates	CHRM5
+Amphetamine	activates	TAAR1
+Fenoprofen	activates	PPARA
+Droxidopa	activates	ADRA1B
+Protein C	activates	F8
+Peginterferon alfa-2b	activates	IFNAR1
+Tenecteplase	activates	PLG
+Hydrocodone	activates	OPRD1
+Erythrityl tetranitrate	activates	NPR2
+Insulin human	activates	PCSK2
+Oxtriphylline	activates	HDAC2
+Naratriptan	activates	HTR1F
+Acebutolol	activates	ADRB2
+Cabergoline	activates	DRD3
+Alprazolam	activates	TSPO
+Pentoxyverine	activates	SIGMAR1
+Ethinylestradiol	activates	ESR1
+Carisoprodol	activates	GABRA1
+Clonidine	activates	ADRA1A
+Heparin	activates	FGFR2
+Dulaglutide	activates	GLP1R
+Vilazodone	activates	HTR1A
+Varenicline	activates	CHRNA4
+Macimorelin	activates	GHSR
+Pentazocine	activates	OPRK1
+Opium	activates	OPRM1
+Mirabegron	activates	ADRB1
+Pramlintide	activates	CALCR
+Apomorphine	activates	DRD5
+Acetylsalicylic acid	activates	PRKAA1
+Tamoxifen	activates	ESR1
+Rifampin	activates	NR1I2
+Sufentanil	activates	OPRM1
+Apomorphine	activates	HTR1D
+Estradiol acetate	activates	ESR2
+Pergolide	activates	DRD1
+Danazol	activates	AR
+Ursodeoxycholic acid	activates	BLVRA
+Nicotine	activates	CHRNA9
+Racepinephrine	activates	ADRA2C
+Aripiprazole	activates	DRD3
+Heparin	activates	FGFR1
+Cannabidiol	activates	TRPV4
+Bromocriptine	activates	DRD1
+Pramlintide	activates	RAMP1
+Fenfluramine	activates	HTR1D
+Gliclazide	binds	VEGFA
+Zinc	binds	HDAC8
+Zinc acetate	binds	S100A9
+Zinc acetate	binds	FGA
+Donepezil	binds	GRIN1
+Fludiazepam	binds	GABRA2
+Sertraline	binds	PGRMC1
+Iron	binds	NEIL2
+Zinc	binds	DCD
+Secobarbital	binds	GABRA6
+Fludiazepam	binds	GABRR3
+Nadolol	binds	ORM1
+Amobarbital	binds	GABRA3
+Temozolomide	binds	ORM1
+Niacin	binds	SLC5A8
+Vitamin D	binds	VDR
+Belumosudil	binds	ORM1
+Lithium carbonate	binds	IMPA1
+Sulfasalazine	binds	ALB
+Zinc acetate	binds	SERPINA4
+Deutivacaftor	binds	CFTR
+Levamlodipine	binds	ALB
+Zinc	binds	JCHAIN
+Vismodegib	binds	ORM1
+Spironolactone	binds	ORM1
+Zinc acetate	binds	SEMG1
+Estradiol valerate	binds	ALB
+Ketoprofen	binds	ALB
+Zinc acetate	binds	PZP
+Ancrod	binds	FGA
+Estradiol valerate	binds	SLCO1C1
+Zinc	binds	PZP
+Loxapine	binds	HRH2
+Sulopenem etzadroxil	binds	mrcA
+Amiodarone	binds	ALB
+Dextrothyroxine	binds	SLCO4C1
+Sertraline	binds	SLC6A4
+Tretinoin	binds	RBP4
+Lamivudine	binds	ALB
+Nitrofurantoin	binds	ABCC2
+Mecasermin	binds	IGFBP6
+Tacrine	binds	CES1
+Zinc acetate	binds	BRCC3
+Paroxetine	binds	DRD2
+Calcium citrate	binds	CALB2
+Gilteritinib	binds	ALB
+Zinc acetate	binds	S100A2
+Triazolam	binds	GABRA1
+Zinc acetate	binds	DSP
+Zinc acetate	binds	CFI
+Zinc acetate	binds	APOA2
+Nateglinide	binds	ORM1
+Sirolimus	binds	ORM1
+Cisplatin	binds	TF
+Rofecoxib	binds	ELN
+Crizotinib	binds	ALB
+Clozapine	binds	CALY
+Calcium citrate	binds	SPARC
+Fludiazepam	binds	GABRA5
+Flavin mononucleotide	binds	ecdB
+Valaciclovir	binds	SLC6A14
+Anistreplase	binds	FGA
+Erdafitinib	binds	ORM1
+Fondaparinux	binds	SERPINC1
+Migalastat	binds	GLA
+Rifabutin	binds	HSP90AA1
+Zinc	binds	ITIH3
+Auranofin	binds	ALB
+Ethionamide	binds	katG
+Zinc acetate	binds	SERPIND1
+Metyrapone	binds	camC
+Zinc sulfate, unspecified form	binds	APOBEC1
+Futibatinib	binds	ALB
+Zinc acetate	binds	ALDOA
+Mitotane	binds	FDX1
+Omadacycline	binds	ALB
+Insulin human	binds	CCN3
+Rosuvastatin	binds	SLC7A11
+Ampicillin	binds	ALB
+Flavin adenine dinucleotide	binds	lpd
+Amineptine	binds	SLC6A4
+Vadadustat	binds	CYP3A4
+Ferrous fumarate	binds	POLB
+Meloxicam	binds	ALB
+Sulfinpyrazone	binds	FABP2
+Zinc	binds	KRT6A
+Isoniazid	binds	katG
+Ponesimod	binds	S1PR1
+Flavin adenine dinucleotide	binds	GR
+Flavin mononucleotide	binds	gltS
+Zinc acetate	binds	HBB
+Simvastatin	binds	SLCO1B3
+Zinc sulfate, unspecified form	binds	AHSG
+Zinc acetate	binds	ITIH1
+Ascorbic acid	binds	ALB
+Revumenib	binds	ALB
+Magnesium	binds	SLC41A3
+Clonazepam	binds	ALB
+Zinc	binds	IGHA1
+Ondansetron	binds	HTR1B
+Mepyramine	binds	SLC22A5
+Zinc sulfate, unspecified form	binds	UTRN
+Zinc sulfate, unspecified form	binds	S100A8
+Zinc acetate	binds	ESR1
+Flavin adenine dinucleotide	binds	dld
+Zinc	binds	BRCC3
+Cholic Acid	binds	MT-CO1
+Tivozanib	binds	ALB
+Flavin adenine dinucleotide	binds	abfD
+Ascorbic acid	binds	P4HA1
+Conjugated estrogens	binds	SHBG
+Cabazitaxel	binds	LDLR
+Sodium phosphate, monobasic, unspecified form	binds	SLC34A1
+Insulin detemir	binds	ALB
+Insulin icodec	binds	ALB
+Zinc acetate	binds	KRT2
+Oxybutynin	binds	ORM1
+Zinc acetate	binds	TF
+Zinc acetate	binds	DAND5
+Nelfinavir	binds	ORM1
+Desipramine	binds	HTR1A
+Dalteparin	binds	SERPINC1
+Fentanyl	binds	ALB
+Darolutamide	binds	UGT1A9
+Amobarbital	binds	GABRA4
+Chlorpromazine	binds	HTR2A
+Dolutegravir	binds	ORM1
+Flavin mononucleotide	binds	phzG
+Ripretinib	binds	CYP2E1
+Pseudoephedrine	binds	ALB
+Omega-3-carboxylic acids	binds	HSD17B10
+Ascorbic acid	binds	DBH
+Reteplase	binds	FGA
+Cyproheptadine	binds	ALB
+Tenofovir	binds	ALB
+Zinc sulfate, unspecified form	binds	IL3
+Sodium phosphate, monobasic, unspecified form	binds	SLC34A2
+Solifenacin	binds	ORM1
+Estradiol cypionate	binds	MT-ATP6
+Doxorubicin	binds	ALB
+Drotrecogin alfa	binds	PROCR
+Risdiplam	binds	ALB
+Dutasteride	binds	ALB
+Butalbital	binds	GABRA4
+Amoxapine	binds	ORM1
+Flavin mononucleotide	binds	fni
+Flavin adenine dinucleotide	binds	ERO1B
+Ferrous fumarate	binds	FTH1
+Biotin	binds	ACACB
+Interferon gamma-1b	binds	IFNGR2
+Cabazitaxel	binds	ALB
+Mirabegron	binds	ALB
+Dextromethorphan	binds	PGRMC1
+Amobarbital	binds	GABRA2
+Tretinoin	binds	OBP2A
+Valganciclovir	binds	SLC15A2
+Ketoprofen	binds	CXCR1
+Citalopram	binds	HRH1
+Tretinoin	binds	ALB
+Thiopental	binds	GABRA2
+Flavin adenine dinucleotide	binds	gor
+Glasdegib	binds	ORM1
+Brigatinib	binds	SLC22A1
+Zinc acetate	binds	PON1
+Zinc acetate	binds	APOBR
+Docetaxel	binds	NR1I2
+Lorlatinib	binds	FER
+Zinc sulfate, unspecified form	binds	APLP1
+Biotin	binds	PCCA
+Methionine	binds	BHMT2
+Cabergoline	binds	ADRA1D
+Finerenone	binds	ALB
+Aripiprazole	binds	CHRM1
+Zileuton	binds	ALB
+Amiodarone	binds	THRA
+Zinc sulfate, unspecified form	binds	ITIH4
+Antithrombin III human	binds	SERPINC1
+Ferrous ascorbate	binds	HBA1
+Meperidine	binds	CHRM1
+Amitriptyline	induces	HTR1A
+Clozapine	induces	CYP1A1
+Phenobarbital	induces	CYP3A4
+Isoniazid	induces	CYP2E1
+Clofibrate	induces	CYP2E1
+Estradiol cypionate	induces	CYP3A4
+Rifapentine	induces	CYP2C8
+Pemetrexed	induces	SLC29A1
+Carbamazepine	induces	CYP2C19
+Reserpine	induces	ABCB1
+Lorlatinib	induces	CYP2B6
+Sotorasib	induces	CYP2C9
+Sparsentan	induces	CYP2C9
+Cladribine	induces	PNP
+Idelalisib	induces	CYP3A4
+Modafinil	induces	CYP2D6
+Mycophenolate mofetil	induces	IMPDH1
+Cannabidiol	induces	CYP1A2
+Letermovir	induces	CYP2C9
+Teriflunomide	induces	CYP1A2
+Diamorphine	induces	SERPINA7
+Insulin pork	induces	CYP1A2
+Orlistat	induces	CYP3A4
+Prednisolone phosphate	induces	CYP1B1
+Iloprost	induces	PDE4D
+Vadadustat	induces	CYP2B6
+Secobarbital	induces	CYP2C9
+Carbamazepine	induces	ABCB1
+Midostaurin	induces	CYP3A4
+Vitamin E	induces	SOD1
+Omeprazole	induces	CYP1A1
+Dicloxacillin	induces	CYP3A4
+Niraparib	induces	CYP1A2
+Propylthiouracil	induces	CYP1A1
+Glimepiride	induces	ABCC8
+Cyclophosphamide	induces	CYP3A4
+Methadone	induces	CYP3A4
+Colchicine	induces	CYP2E1
+Lumacaftor	induces	CYP2B6
+Lumacaftor	induces	CYP2C19
+Rifabutin	induces	CYP2B6
+Rifampin	induces	ABCC3
+Sulfinpyrazone	induces	CYP2B6
+Vitamin E	induces	GSTA2
+Vitamin E	induces	NQO1
+Prednisone	induces	CYP3A4
+Darunavir	induces	ABCB1
+Carboplatin	induces	XDH
+Nicardipine	induces	CYP2B6
+Ginkgo biloba	induces	CYP3A4
+Methylprednisolone	induces	CYP2C9
+Primidone	induces	CYP2C9
+Glycerol phenylbutyrate	induces	CYP3A4
+Secobarbital	induces	CYP2C8
+Doxylamine	induces	CYP2B
+Cenobamate	induces	CYP3A4
+Testosterone undecanoate	induces	SLC22A2
+Rifapentine	induces	CYP2C9
+Simvastatin	induces	CYP2B6
+Cortisone acetate	induces	ABCB1
+Synthetic Conjugated Estrogens, A	induces	SERPINA7
+Testosterone undecanoate	induces	SLC22A8
+Zinc sulfate, unspecified form	induces	HBB
+Mitapivat	induces	CYP2C8
+Minoxidil	induces	KCNJ1
+Nelfinavir	induces	ABCB1
+Metyrapone	induces	ABCC3
+Carbamazepine	induces	UGT1A1
+Olutasidenib	induces	CYP2B6
+Sunvozertinib	induces	CYP2C8
+Y-39983	inhibits	Rho-associated protein kinase
+Praziquantel	inhibits	HPGDS
+Quercetin	inhibits	Solute carrier organic anion transporter family member 1B3
+Fostamatinib	inhibits	ERBB4
+Methocarbamol	inhibits	CA1
+Bilastine	inhibits	ABCB5
+Cimetidine	inhibits	SLC22A4
+α-tocopherol	inhibits	Solute carrier organic anion transporter family member 1B1
+Celecoxib	inhibits	NEU1
+Mecamylamine	inhibits	CHRNA4
+Mifepristone	inhibits	CYP2D6
+Ketoconazole	inhibits	ERG11
+Probenecid	inhibits	SLC22A1
+Etoposide	inhibits	ABCC10
+Rifamycin	inhibits	CYP1A2
+Farnesol	inhibits	Solute carrier organic anion transporter family member 1B3
+Poly(divinylbenzene-co-trimethyl(vinylbenzyl)ammonium chloride)	inhibits	Solute carrier organic anion transporter family member 1B1
+Baicalein	inhibits	Solute carrier organic anion transporter family member 1B3
+Isopimpinellin	inhibits	Cytochrome P450 3A4
+Fostamatinib	inhibits	CLASP1
+Cefuroxime	inhibits	SLC15A1
+Rabeprazole	inhibits	ABCG2
+Phellopterin	inhibits	Cytochrome P450 1A1
+Givinostat	inhibits	CYP3A4
+(2S)-pinocembrin	inhibits	Cytochrome P450 1B1
+Fisetin	inhibits	Solute carrier organic anion transporter family member 1B3
+4-Phenylbutanoic acid	inhibits	Solute carrier organic anion transporter family member 1B1
+Telotristat ethyl	inhibits	ABCB1
+Theophylline	inhibits	PDE3A
+Sulindac	inhibits	AKR1B1
+Ribociclib	inhibits	CYP3A4
+Fostamatinib	inhibits	PKN1
+AST-487	inhibits	Receptor-type tyrosine-protein kinase FLT3
+Delavirdine	inhibits	CYP3A5
+Avapritinib	inhibits	SLC47A1
+Bosutinib	inhibits	ABL1
+Donepezil	inhibits	NOS1
+Larotrectinib	inhibits	NTRK1
+Avocadyne 1-acetate	inhibits	Solute carrier organic anion transporter family member 1B3
+Galangin	inhibits	Cytochrome P450 2C9
+4-Aminohippuric acid	inhibits	Solute carrier organic anion transporter family member 1B1
+Isoliquiritigenin	inhibits	Cytochrome P450 2C9
+ITACITINIB	inhibits	Tyrosine-protein kinase JAK1
+Phentermine	inhibits	SLC6A3
+Bacitracin	inhibits	Solute carrier organic anion transporter family member 1B3
+Diclofenac	inhibits	CYP2E1
+TOLEBRUTINIB	inhibits	Tyrosine-protein kinase BTK
+Zanubrutinib	inhibits	FGR
+Cefradine	inhibits	SLC15A2
+Pirtobrutinib	inhibits	ABCB1
+R-1487 HYDROCHLORIDE	inhibits	Mitogen-activated protein kinase 14
+Clobazam	inhibits	CYP2C9
+Quizartinib	inhibits	ABCB1
+Didanosine	inhibits	pol
+Lamotrigine	inhibits	GRIA1
+Methoxsalen	inhibits	CYP1A1
+TANZISERTIB	inhibits	Mitogen-activated protein kinase 9
+Ranolazine	inhibits	ADRB1
+Tetracycline	inhibits	CYP3A4
+Carvedilol	inhibits	ADRA2A
+Edetic acid	inhibits	ADA
+L-Tryptophan	inhibits	Cytochrome P450 3A4
+Vimseltinib	inhibits	CSF1R
+Nicardipine	inhibits	CACNG1
+ENMD-981693	inhibits	Receptor-type tyrosine-protein kinase FLT3
+Captopril	inhibits	MMP9
+PAMAPIMOD	inhibits	Mitogen-activated protein kinase 14
+Dordaviprone	inhibits	SLCO1B1
+Ziprasidone	inhibits	HTR1D
+CEP-1347	inhibits	Mitogen-activated protein kinase kinase kinase 9
+Verapamil	inhibits	SLC22A5
+Fostemsavir	inhibits	ABCG2
+Pantoprazole	inhibits	Solute carrier organic anion transporter family member 1B1
+Atrasentan	inhibits	EDNRB
+Cirsiliol	inhibits	Cytochrome P450 1B1
+Candesartan cilexetil	inhibits	CYP2C8
+Imatinib	inhibits	PDGFRA
+Estradiol	inhibits	Solute carrier organic anion transporter family member 1B3
+Asunaprevir	inhibits	CYP2D6
+Isavuconazole	inhibits	CYP3A4
+Olanzapine	inhibits	CYP2D6
+1,3-Benzenediol	inhibits	Solute carrier organic anion transporter family member 1B1
+Apremilast	inhibits	CDK4
+Conjugated estrogens	inhibits	ABCC4
+Di-2-propenyl-sulfane	inhibits	Solute carrier organic anion transporter family member 1B3
+Levomilnacipran	inhibits	SLC6A4
+Vincristine	inhibits	SLC22A3
+Norgestimate	inhibits	ABCB1
+Naloxegol	inhibits	CYP2D6
+Infigratinib	inhibits	ABCB1
+AEE-788	inhibits	Receptor tyrosine-protein kinase erbB-2
+Imatinib	inhibits	DDR1
+Thioridazine	inhibits	ADRA1A
+Choline chloride	inhibits	Solute carrier organic anion transporter family member 1B3
+Buspirone	inhibits	DRD3
+Fedratinib	inhibits	ABCB1
+Ribavirin	inhibits	IMPDH2
+Memantine	inhibits	HTR3A
+Bicalutamide	inhibits	CYP2C9
+Otamixaban	inhibits	F10
+Acalabrutinib	inhibits	CYP3A5
+C-1311	inhibits	Receptor-type tyrosine-protein kinase FLT3
+[8]-Shogaol	inhibits	Cytochrome P450 2B6
+Dabrafenib	inhibits	SIK1
+Midazolam	inhibits	SLC1A2
+Nadolol	inhibits	ADRB1
+Progesterone	inhibits	CYP17A1
+Oxaprozin	inhibits	PTGS2
+Clomifene	inhibits	ESR1
+D-Glutamine	inhibits	Cytochrome P450 3A4
+Brincidofovir	inhibits	POLN
+Daphnetin	inhibits	Solute carrier organic anion transporter family member 1B1
+TRAMETINIB	inhibits	Dual specificity mitogen-activated protein kinase kinase; MEK1/2
+Teriflunomide	inhibits	ABCG2
+Fostamatinib	inhibits	ZAP70
+Cobicistat	inhibits	SLCO1B3
+Sulfasalazine	inhibits	PLA2G1B
+Trifluridine	inhibits	TYMS
+Fostamatinib	inhibits	RAF1
+Pyrrol-2-methylketone	inhibits	Solute carrier organic anion transporter family member 1B3
+Baricitinib	inhibits	SLCO1B3
+Ponatinib	inhibits	LYN
+Finasteride	inhibits	SRD5A3
+Fostamatinib	inhibits	STK16
+coumarin	inhibits	Solute carrier organic anion transporter family member 1B1
+Avapritinib	inhibits	ABCB1
+Imipramine	inhibits	KCND2
+Enasidenib	inhibits	SLCO1B3
+Lapatinib	inhibits	TAP1
+NETARSUDIL DIMESYLATE	inhibits	Rho-associated protein kinase
+Levetiracetam	inhibits	CACNA1B
+Methadone	inhibits	CHRNA3
+Dalfampridine	inhibits	KCNC1
+Pirfenidone	inhibits	CYP2C9
+Simeprevir	inhibits	CYP3A4
+Remibrutinib	inhibits	ABCB11
+Lignans	inhibits	Cytochrome P450 2C9
+Fostamatinib	inhibits	PLK3
+Fomepizole	inhibits	ADH1B
+4-Aminobenzoic acid	inhibits	Solute carrier organic anion transporter family member 1B3
+Estradiol acetate	inhibits	SLC22A11
+Digoxin	inhibits	ATP1B1
+Chlorpromazine	inhibits	CYP2D6
+coumarin	inhibits	Solute carrier organic anion transporter family member 1B3
+Cimetidine	inhibits	HRH2
+L-DOPA	inhibits	Solute carrier organic anion transporter family member 1B3
+Fostamatinib	inhibits	PRKD1
+Bortezomib	inhibits	CYP1A2
+Ketoconazole	inhibits	CYP2C9
+Spironolactone	inhibits	CYP2C8
+Aprocitentan	inhibits	ABCB11
+Sunvozertinib	inhibits	ABCG2
+Neratinib	inhibits	ERBB2
+FF-10101	inhibits	Receptor-type tyrosine-protein kinase FLT3
+Valproic acid	inhibits	UGT1A1
+Trifluoperazine	inhibits	S100A4
+Amoxapine	inhibits	HTR6
+Verapamil	inhibits	CYP2C8
+Phenazopyridine	inhibits	SCN1A
+Mefenamic acid	inhibits	UGT1A9
+Cholic Acid	inhibits	ABCC3
+Dabrafenib	inhibits	SLCO1B3
+GILTERITINIB FUMARATE	inhibits	Receptor-type tyrosine-protein kinase FLT3
+Naproxen	inhibits	Solute carrier organic anion transporter family member 1B1
+Mitotane	inhibits	ABCB1
+Pseudoephedrine	inhibits	SLC6A4
+Vincristine	inhibits	ABCC10
+Chlorprothixene	inhibits	CHRM1
+Kaempferol	inhibits	Cytochrome P450 2C9
+Zuclopenthixol	inhibits	ADRA1A
+N-Acetyl-L-phenylalanine	inhibits	Solute carrier organic anion transporter family member 1B3
+Grepafloxacin	inhibits	CYP1A2
+1-(3,4-Dimethoxyphenyl)-4-decen-3-one	inhibits	Cytochrome P450 2C8
+Pexidartinib	inhibits	KIT
+Megestrol acetate	inhibits	ABCB1
+Acepromazine	inhibits	ADRA1B
+Ziconotide	inhibits	CACNA1B
+Ticagrelor	inhibits	ABCB1
+Cyclosporine	inhibits	SLCO1B1
+Migalastat	inhibits	SLC5A1
+Fostamatinib	inhibits	MKNK1
+Angelicin	inhibits	Cytochrome P450 1A1
+Promazine	inhibits	CHRM1
+TANDUTINIB	inhibits	Receptor-type tyrosine-protein kinase FLT3
+Rhamnetin	inhibits	Solute carrier organic anion transporter family member 1B1
+Haloperidol	inhibits	ADRA2B
+Lindane	inhibits	GLRA3
+Zanubrutinib	inhibits	BLK
+Osilodrostat	inhibits	UGT1A1
+Cyproterone acetate	inhibits	CYP19A1
+Cyclosporine	inhibits	ABCC10
+Kynurenine	inhibits	Solute carrier organic anion transporter family member 1B3
+Moxifloxacin	inhibits	TOP2A
+Rucaparib	inhibits	SLC47A2
+(S)-Laudanosine	inhibits	Solute carrier organic anion transporter family member 1B3
+Repotrectinib	inhibits	CYP3A4
+Verapamil	inhibits	Cytochrome P450 3A4
+Procainamide	inhibits	SLC22A3
+[6]-Paradol	inhibits	Cytochrome P450 2C9
+Ergoloid mesylate	inhibits	ADRB1
+D-Glycero-D-manno-heptitol	inhibits	Solute carrier organic anion transporter family member 1B1
+Methscopolamine bromide	inhibits	CHRM3
+Chlorpromazine	inhibits	CHRM3
+Flurbiprofen	inhibits	PTGS2
+Fostamatinib	inhibits	SLK
+SR-13668	inhibits	RAC-alpha serine/threonine-protein kinase
+Cycloserine	inhibits	GRIN1
+Cimetidine	inhibits	CYP2C19
+Epicatechin 3-gallate	inhibits	Solute carrier organic anion transporter family member 1B3
+Clozapine	inhibits	DRD3
+Posaconazole	inhibits	ERG11
+GOLIDOCITINIB	inhibits	Tyrosine-protein kinase JAK1
+Dronedarone	inhibits	ADRA1A
+Zonisamide	inhibits	CA13
+Atovaquone	inhibits	ABCB1
+Mevastatin	inhibits	HMGCR
+Haloperidol	inhibits	ADRA1A
+Zinc sulfate, unspecified form	inhibits	APOL1
+Guanfacine	inhibits	SLC47A1
+Felodipine	inhibits	CACNA1D
+Amiloride	inhibits	AOC1
+Benzatropine	inhibits	SLC6A2
+Quetiapine	inhibits	ADRA2C
+Viloxazine	inhibits	CHRM1
+Pralsetinib	inhibits	RET
+Infigratinib	inhibits	SLCO1B1
+Glycopyrronium	inhibits	CHRM5
+Ziprasidone	inhibits	HTR1E
+Capecitabine	inhibits	CYP2C9
+Taletrectinib	inhibits	NTRK2
+Amantadine	inhibits	CHRNA7
+Atovaquone	inhibits	MT-CYB
+Fostamatinib	inhibits	CILK1
+Nevirapine	inhibits	CYP2D6
+2,4-Dichlorophenoxyacetic acid	inhibits	Solute carrier organic anion transporter family member 1B3
+Ferulic acid	inhibits	Solute carrier organic anion transporter family member 1B3
+Pindolol	inhibits	CYP2D6
+Phellopterin	inhibits	Cytochrome P450 1B1
+Hydroxychloroquine	inhibits	CYP2D6
+Fostamatinib	inhibits	RIOK1
+Gossypol	inhibits	Solute carrier organic anion transporter family member 1B1
+DALCETRAPIB	inhibits	Cholesteryl ester transfer protein
+Ponatinib	inhibits	LCK
+Ampicillin	inhibits	SLC22A5
+Tolbutamide	inhibits	CYP2C8
+Ketoconazole	inhibits	UGT2B7
+TESEVATINIB	inhibits	Receptor tyrosine-protein kinase erbB-2
+Ranolazine	inhibits	KCNJ12
+OSI-027	inhibits	Serine/threonine-protein kinase mTOR
+Abemaciclib	inhibits	CDK4
+Nimodipine	inhibits	CACNA1D
+Amlodipine	inhibits	CYP2C19
+Valproic acid	inhibits	OGDH
+Dipyridamole	inhibits	ADA
+Amlodipine	inhibits	CA1
+Lansoprazole	inhibits	CYP2C19
+Entrectinib	inhibits	ROS1
+Tetrabenazine	inhibits	DRD2
+Phenylbutazone	inhibits	PTGS2
+Tinzaparin	inhibits	ITGA4
+Lenvatinib	inhibits	KDR
+Tiotropium	inhibits	CHRM3
+Choline chloride	inhibits	Solute carrier organic anion transporter family member 1B1
+Fostamatinib	inhibits	CDK15
+Trazodone	inhibits	SLC6A4
+Pirtobrutinib	inhibits	CYP2C19
+Bendroflumethiazide	inhibits	CA1
+Aprocitentan	inhibits	CYP3A4
+Thioproperazine	inhibits	ADRA1A
+Xanthotoxin	inhibits	Solute carrier organic anion transporter family member 1B1
+Nitrendipine	inhibits	CACNA1S
+Pemetrexed	inhibits	DHFR
+Brigatinib	inhibits	ABCG2
+Zinc sulfate, unspecified form	inhibits	CPE
+Cladribine	inhibits	POLE4
+Fostamatinib	inhibits	CAMK1D
+loganate	inhibits	Solute carrier organic anion transporter family member 1B3
+Ziconotide	inhibits	CACNA1A
+Alpelisib	inhibits	PIK3R1
+Chlorpromazine	inhibits	DRD4
+beta-Caryophyllene alcohol	inhibits	Solute carrier organic anion transporter family member 1B1
+Lorlatinib	inhibits	NTRK2
+Quinidine	inhibits	CYP2C9
+Kaempferol	inhibits	Cytochrome P450 3A4
+Letermovir	inhibits	ABCC2
+Mycophenolic acid	inhibits	IMPDH2
+Acetaminophen	inhibits	NAT2
+Zoliflodacin	inhibits	SLCO1B1
+Diphenhydramine	inhibits	CHRM2
+Crizotinib	inhibits	ALK
+Phenytoin	inhibits	UGT1A6
+Tezacaftor	inhibits	SLCO1B1
+Celiprolol	inhibits	ADRA2C
+Cannabidiol	inhibits	CYP1B1
+Amisulpride	inhibits	HTR7
+Quercetin	inhibits	Cytochrome P450 1A2
+Clemastine	inhibits	CYP2D6
+Yohimbine	inhibits	DRD3
+Brompheniramine	inhibits	CHRM4
+Carvedilol	inhibits	KCNJ4
+OCIFISERTIB	inhibits	Serine/threonine-protein kinase PLK4
+Nefazodone	inhibits	ADRA1A
+Cariprazine	inhibits	CYP2E1
+Netupitant	inhibits	TACR1
+Avatrombopag	inhibits	ABCG2
+Rolapitant	inhibits	ABCG2
+Mavorixafor	inhibits	CYP2C8
+Digitoxin	inhibits	CYP11A1
+Selinexor	inhibits	XPO1
+Lonafarnib	inhibits	CYP3A4
+Voclosporin	inhibits	CYP3A4
+trans-2-Methoxycinnamic acid	inhibits	Solute carrier organic anion transporter family member 1B3
+Methotrimeprazine	inhibits	CHRM2
+Amlodipine	inhibits	CACNA1C
+Flavin adenine dinucleotide	inhibits	NQO2
+Cladribine	inhibits	POLE3
+Empagliflozin	inhibits	SLC5A2
+LB-100	inhibits	Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform
+CENISERTIB	inhibits	Serine/threonine-protein kinase Aurora
+Amiodarone	inhibits	KCNH2
+Atomoxetine	inhibits	SLC6A4
+Promethazine	inhibits	ADRA1A
+Ursodeoxycholic acid	inhibits	SLC10A2
+Isavuconazole	inhibits	CYP2C9
+Azelastine	inhibits	CYP2E1
+Trofinetide	inhibits	UGT1A9
+Pralsetinib	inhibits	SLC47A1
+Suvorexant	inhibits	HCRTR1
+Sotalol	inhibits	ADRB2
+L-Glutamine	inhibits	SLC16A10
+Desvenlafaxine	inhibits	SLC6A2
+Trimetazidine	inhibits	ACAA2
+Baloxavir marboxil	inhibits	PA
+Omeprazole	inhibits	ABCG2
+Dasatinib	inhibits	EPHA2
+Ritonavir	inhibits	SLCO1A2
+5,7-Dimethoxycoumarin	inhibits	Solute carrier organic anion transporter family member 1B1
+Fluvastatin	inhibits	HDAC2
+Acarbose	inhibits	MGAM
+Vinblastine	inhibits	ABCB11
+Flupentixol	inhibits	ABCB1
+Isosorbide dinitrate	inhibits	CYP2E1
+Sunvozertinib	inhibits	SLCO1B1
+Fruquintinib	inhibits	FLT1
+Myricetin 3-digalactoside	inhibits	Cytochrome P450 2C9
+Doxepin	inhibits	HTR2A
+Curcumin	inhibits	Solute carrier organic anion transporter family member 1B3
+Captopril	inhibits	ABCB1
+Cladribine	inhibits	POLE
+Disulfiram	inhibits	ALDH3A2
+Rimegepant	inhibits	SLCO1B3
+Lasmiditan	inhibits	SLC47A2
+Isavuconazonium	inhibits	CYP2D6
+Melatonin	inhibits	EPX
+Orphenadrine	inhibits	CYP2B6
+Dasatinib	inhibits	KIT
+Verapamil	inhibits	ABCB1
+DEURUXOLITINIB PHOSPHATE	inhibits	Non-receptor tyrosine-protein kinase TYK2
+Eluxadoline	inhibits	SLCO1B1
+Levofloxacin	inhibits	SLC22A4
+Temsirolimus	inhibits	CYP3A5
+Sotagliflozin	inhibits	SLC5A2
+Sunitinib	inhibits	MET
+Sunitinib	inhibits	ABCC2
+1,3-Benzenediol	inhibits	Cytochrome P450 3A4
+Digoxin	inhibits	ABCB1
+Dalfampridine	inhibits	KCNB2
+Thiotepa	inhibits	BCHE
+Sulfasalazine	inhibits	SLCO2B1
+Brincidofovir	inhibits	ABCB11
+Fostamatinib	inhibits	CLK1
+Sorafenib	inhibits	PDGFRB
+Sulfasalazine	inhibits	SLC7A11
+Enasidenib	inhibits	CYP2B6
+Letermovir	inhibits	SLCO1B1
+Ketoconazole	inhibits	Cytochrome P450 3A4
+Phenobarbital	inhibits	GRIN1
+Nicardipine	inhibits	ADRA1D
+Cisplatin	inhibits	nat
+Eptifibatide	inhibits	CACNA2D1
+Quetiapine	inhibits	HTR2A
+Pantoprazole	inhibits	ABCB1
+shikimate	inhibits	Solute carrier organic anion transporter family member 1B3
+Nicardipine	inhibits	CACNA1H
+Telmisartan	inhibits	ABCG2
+RALIMETINIB	inhibits	Mitogen-activated protein kinase 14
+Imipramine	inhibits	HRH1
+Minocycline	inhibits	VEGFA
+Nafcillin	inhibits	pbp3
+Cefamandole	inhibits	SLC22A8
+RWJ-67657	inhibits	Mitogen-activated protein kinase 14
+PAZOPANIB HYDROCHLORIDE	inhibits	Tyrosine-protein kinase Lck
+Clopidogrel	inhibits	P2RY12
+Nortriptyline	inhibits	ADRA1A
+Sulpiride	inhibits	BCHE
+Tofacitinib	inhibits	JAK1
+Methylnaltrexone	inhibits	OPRK1
+Progesterone	inhibits	SLC10A1
+Losartan	inhibits	ABCB1
+Aripiprazole	inhibits	HTR3A
+Romidepsin	inhibits	HDAC4
+Probenecid	inhibits	SLC16A1
+Cholic Acid	inhibits	SLCO1B1
+Pirenzepine	inhibits	CHRM1
+5alpha-Cholestanone	inhibits	Solute carrier organic anion transporter family member 1B1
+Omeprazole, BAN, INN, JAN, USA	inhibits	Cytochrome P450 2C19
+CTS-1027	inhibits	Matrix metalloproteinase-9
+TIRBANIBULIN	inhibits	Proto-oncogene tyrosine-protein kinase Src
+Fostamatinib	inhibits	RIOK2
+Chlorpromazine	inhibits	HRH1
+Darunavir	inhibits	pol
+Ziprasidone	inhibits	DRD2
+Cephalexin	inhibits	penA
+Progesterone	inhibits	SLC22A1
+Fluphenazine	inhibits	HTR2A
+Voriconazole	inhibits	CYP3A5
+Pizotifen	inhibits	HRH1
+Zoliflodacin	inhibits	ABCG2
+Fostamatinib	inhibits	ALOX5
+Acetyl-L-carnitine	inhibits	Solute carrier organic anion transporter family member 1B1
+Azelaic acid	inhibits	SRD5A1
+Fostamatinib	inhibits	GAK
+Pelanin	inhibits	Solute carrier organic anion transporter family member 1B1
+Ciprofloxacin	inhibits	SLC47A1
+Citicoline	inhibits	Solute carrier organic anion transporter family member 1B3
+Naldemedine	inhibits	OPRD1
+Luteolin 7-(2''-glucuronylglucuronide) 4'-glucuronide	inhibits	Cytochrome P450 3A4
+7,4'-Dihydroxyflavone	inhibits	Cytochrome P450 3A4
+Deuruxolitinib	inhibits	JAK2
+REGORAFENIB	inhibits	Serine/threonine-protein kinase B-raf
+Elexacaftor	inhibits	SLCO1B3
+Phenylalanyltyrosine	inhibits	Solute carrier organic anion transporter family member 1B1
+Gabapentin	inhibits	GABBR1
+Promazine	inhibits	CYP1A2
+Estradiol cypionate	inhibits	SLCO1A2
+Idelalisib	inhibits	SLCO1B1
+(±)-Menthone	inhibits	Solute carrier organic anion transporter family member 1B3
+Demethoxycurcumin	inhibits	ATP-dependent translocase ABCB1
+Pimpinellidine	inhibits	Solute carrier organic anion transporter family member 1B1
+Nicotine	inhibits	CYP2E1
+N-Acetyl-L-aspartic acid	inhibits	Solute carrier organic anion transporter family member 1B1
+Infigratinib	inhibits	SLCO1B3
+Dasatinib	inhibits	BCR
+Cimetidine	inhibits	SLC22A6
+Tafamidis	inhibits	SLC22A6
+Biochanin A	inhibits	Cytochrome P450 1B1
+Nifedipine	inhibits	SLCO1B1
+Sevabertinib	inhibits	EGFR
+Rilzabrutinib	inhibits	BTK
+Pazopanib	inhibits	PDGFRA
+Avocadene 1-acetate	inhibits	Solute carrier organic anion transporter family member 1B1
+Crizotinib	inhibits	MST1R
+Asenapine	inhibits	ADRA2C
+Bacitracin	inhibits	Solute carrier organic anion transporter family member 1B1
+Tacrolimus	inhibits	FKBP1A
+Defactinib	inhibits	SLCO1B3
+Dipyridamole	inhibits	PDE4A
+Amiloride	inhibits	SCNN1D
+Encorafenib	inhibits	SLC22A6
+Ellagic acid	inhibits	Solute carrier organic anion transporter family member 1B3
+Butylparaben	inhibits	Cytochrome P450 2C19
+Tezacaftor	inhibits	CYP3A4
+Risperidone	inhibits	HTR1D
+Sulfinpyrazone	inhibits	SLC22A12
+Liothyronine	inhibits	PCNA
+Pipotiazine	inhibits	HTR2A
+Daridorexant	inhibits	HCRTR2
+Bempedoic acid	inhibits	SLCO1B1
+Ezetimibe	inhibits	CYP3A4
+African-2(6)-ene	inhibits	Solute carrier organic anion transporter family member 1B1
+Bumetanide	inhibits	SLC12A5
+Selpercatinib	inhibits	SLC47A1
+Simeprevir	inhibits	ABCG2
+Dronabinol	inhibits	CES1
+Xanthotoxol geranyl ether	inhibits	Cytochrome P450 3A4
+(±)-3',7-Dihydroxy-2',4'-dimethoxyisoflavan	inhibits	Solute carrier organic anion transporter family member 1B3
+Sepiapterin	inhibits	Cytochrome P450 3A4
+Granisetron	inhibits	HTR3A
+Anastrozole	inhibits	CYP2C9
+Nateglinide	inhibits	SLC15A1
+Estrone	inhibits	SLCO1B1
+Phenytoin	inhibits	SCN5A
+Deutivacaftor	inhibits	CYP2C8
+Olanzapine	inhibits	CHRM2
+Rosiglitazone	inhibits	ACSL4
+Quinine	inhibits	KCNN4
+Fostamatinib	inhibits	IRAK1
+Prazosin	inhibits	SLC22A1
+trans-resveratrol	inhibits	Cytochrome P450 2C9
+Coumarin	inhibits	CA1
+Chrysoeriol 7-triglucuronide	inhibits	Cytochrome P450 1A1
+TOVORAFENIB	inhibits	RAF serine/threonine protein kinase
+Risdiplam	inhibits	SLC47A1
+Orphenadrine	inhibits	GRIN1
+Tetracycline	inhibits	rpsG
+Medroxyprogesterone acetate	inhibits	HSD3B2
+Efavirenz	inhibits	CYP1A2
+Cholic Acid	inhibits	CES1
+Captopril	inhibits	SLC22A6
+Fostamatinib	inhibits	TTK
+Quinidine	inhibits	CYP2C8
+5,7-Dimethoxycoumarin	inhibits	Solute carrier organic anion transporter family member 1B3
+Topiramate	inhibits	CACNA1C
+Quetiapine	inhibits	DRD1
+Sevabertinib	inhibits	SLC47A2
+Clofazimine	inhibits	CYP2D6
+Olanzapine	inhibits	CHRM4
+Oseltamivir	inhibits	NEU2
+Romidepsin	inhibits	ABCB11
+Rifabutin	inhibits	rpoC
+Nitrendipine	inhibits	CACNA1H
+Rhodinyl acetate	inhibits	Solute carrier organic anion transporter family member 1B1
+Escitalopram	inhibits	HTR1A
+Chloroquine	inhibits	CYP2D6
+COBIMETINIB	inhibits	Dual specificity mitogen-activated protein kinase kinase 2
+Methsuximide	inhibits	CYP2C19
+Oxcarbazepine	inhibits	SCN1A
+Remibrutinib	inhibits	SLC22A6
+Ubrogepant	inhibits	MAOA
+Ofloxacin	inhibits	SLC22A5
+Spiramycin	inhibits	rplC
+Fostamatinib	inhibits	ABCG2
+SAPANISERTIB	inhibits	Serine/threonine-protein kinase mTOR
+Grazoprevir	inhibits	gag-pol
+Trimipramine	inhibits	SLC6A3
+Pretomanid	inhibits	SLC22A8
+Abemaciclib	inhibits	CYP2C8
+Tadalafil	inhibits	PDE5A
+(S)-Isocorydine	inhibits	Solute carrier organic anion transporter family member 1B1
+Repotrectinib	inhibits	NTRK1
+Dihydroergotamine	inhibits	ABCB1
+Dihydrojasmonic acid	inhibits	Solute carrier organic anion transporter family member 1B1
+Imipramine	inhibits	CHRM2
+Lignans	inhibits	Cytochrome P450 2C19
+Diazinon	inhibits	Cytochrome P450 3A4
+Etretinate	inhibits	CYP19A1
+Pitolisant	inhibits	HRH3
+Ripretinib	inhibits	PDGFRA
+Mefenamic acid	inhibits	CYP2C8
+Cobimetinib	inhibits	ABCG2
+Capmatinib	inhibits	MET
+Cefamandole	inhibits	SLC22A6
+Bendroflumethiazide	inhibits	CA2
+Pizotifen	inhibits	ADRA2C
+Lansoprazole	inhibits	Cytochrome P450 2C8
+Acetylsalicylic acid	inhibits	NFKBIA
+Regorafenib	inhibits	DDR2
+Lanosterol	inhibits	Solute carrier organic anion transporter family member 1B1
+Omeprazole	inhibits	CYP2C19
+Dasatinib	inhibits	FGR
+Isokobusone	inhibits	Solute carrier organic anion transporter family member 1B3
+Amitriptyline	inhibits	KCNQ2
+Hydroflumethiazide	inhibits	SLC22A8
+Cenobamate	inhibits	CYP2B6
+Pseudoephedrine	inhibits	Cytochrome P450 2C9
+Ipriflavone	inhibits	Solute carrier organic anion transporter family member 1B1
+Ginkgo biloba	inhibits	CYP3A4
+Sorafenib	inhibits	CYP2C9
+Cerivastatin	inhibits	CYP3A4
+Pelanin	inhibits	Solute carrier organic anion transporter family member 1B3
+Vincristine	inhibits	TUBA4A
+Indinavir	inhibits	SLCO1B1
+Selpercatinib	inhibits	CYP3A4
+Apigenin 7-O-beta-D-rutinoside	inhibits	Solute carrier organic anion transporter family member 1B1
+Nicotine	inhibits	MAOB
+Amphetamine	inhibits	MAOB
+Hesperidin	inhibits	Solute carrier organic anion transporter family member 1B1
+Nilotinib	inhibits	CYP2D6
+Neotigonenin	inhibits	Solute carrier organic anion transporter family member 1B1
+Miglitol	inhibits	AMY2A
+Zuclopenthixol	inhibits	HTR2A
+Bempedoic acid	inhibits	ABCC3
+Palovarotene	inhibits	ABCG2
+Rilpivirine	inhibits	CYP2C19
+Fostamatinib	inhibits	PAK3
+Cefoperazone	inhibits	mrcA
+Bupropion	inhibits	ORM1
+4'-Methoxychalcone	inhibits	Cytochrome P450 1B1
+5,7-Dihydroxyisoflavone	inhibits	Solute carrier organic anion transporter family member 1B1
+Dextromethorphan	inhibits	SLC6A2
+Fostamatinib	inhibits	DCLK3
+Dicyclomine	inhibits	CHRM1
+Abiraterone	inhibits	CYP2D6
+Imipramine	inhibits	KCNH2
+Cariprazine	inhibits	ABCB1
+Triclabendazole	inhibits	CYP1A2
+Fostamatinib	inhibits	KDR
+Dexlansoprazole	inhibits	ATP4B
+Amineptine	inhibits	SLC6A3
+Fostamatinib	inhibits	FGR
+Fostamatinib	inhibits	SBK1
+Ketotifen	inhibits	HRH1
+Dolutegravir	inhibits	SLC22A2
+Lindane	inhibits	GLRA1
+Amiloride	inhibits	ASIC1
+Trovafloxacin	inhibits	parC
+Maralixibat	inhibits	SLCO2B1
+Dexlansoprazole	inhibits	ATP4A
+AT-13148	inhibits	Rho-associated protein kinase
+Celecoxib	inhibits	CA3
+Fostamatinib	inhibits	AURKC
+Famotidine	inhibits	CYP1A2
+Cilazapril	inhibits	ABCB1
+MOMELOTINIB	inhibits	Tyrosine-protein kinase JAK1
+Belzutifan	inhibits	EPAS1
+Doxepin	inhibits	HTR2C
+Amitriptyline	inhibits	Htr2c
+Zoliflodacin	inhibits	SLC22A8
+Triclabendazole	inhibits	CYP2B6
+Estradiol	inhibits	Cytochrome P450 1B1
+RUPITASERTIB	inhibits	RAC-alpha serine/threonine-protein kinase
+Bisoprolol	inhibits	ADRB1
+Galangin	inhibits	Cytochrome P450 1B1
+Theophylline	inhibits	PARP1
+Felodipine	inhibits	CACNB2
+Nevirapine	inhibits	SLC22A1
+Brensocatib	inhibits	SLC47A2
+Luteolin 7-rhamnosylglucoside	inhibits	Cytochrome P450 3A4
+Estradiol valerate	inhibits	ABCC10
+CC-401	inhibits	Mitogen-activated protein kinase 10
+ENTRECTINIB	inhibits	Proto-oncogene tyrosine-protein kinase ROS
+(±)-3',7-Dihydroxy-2',4'-dimethoxyisoflavan	inhibits	Solute carrier organic anion transporter family member 1B1
+Lopinavir	inhibits	pol
+PONATINIB HYDROCHLORIDE	inhibits	Bcr/Abl fusion protein
+Upadacitinib	inhibits	ABCG2
+Cephalexin	inhibits	pbp1b
+FILANESIB	inhibits	Kinesin-like protein KIF11
+Alosetron	inhibits	HTR3B
+Isoniazid	inhibits	CYP1A2
+Amprenavir	inhibits	ABCC1
+Sulfadimidine	inhibits	Solute carrier organic anion transporter family member 1B3
+Hesperetin	inhibits	Cytochrome P450 1A1
+Hydralazine	inhibits	P4HA1
+Fostamatinib	inhibits	MAP3K6
+3-(Dimethylaminomethyl)indole	inhibits	Cytochrome P450 3A4
+PH-797804	inhibits	Mitogen-activated protein kinase 14
+L-Tryptophan	inhibits	Solute carrier organic anion transporter family member 1B3
+Methsuximide	inhibits	CACNA1G
+Sparsentan	inhibits	SLCO1B3
+Osilodrostat	inhibits	SLC47A1
+6-Hydroxyluteolin 6,7,3',4'-tetramethyl ether	inhibits	Cytochrome P450 1B1
+Paeoniflorin	inhibits	Solute carrier organic anion transporter family member 1B1
+Etodolac	inhibits	PTGS2
+Tolnaftate	inhibits	Solute carrier organic anion transporter family member 1B1
+Hydroflumethiazide	inhibits	CA7
+Quinine	inhibits	ATP-dependent translocase ABCB1
+Nortriptyline	inhibits	CHRM1
+Paltusotine	inhibits	ABCB1
+Celastrol	inhibits	ATP-dependent translocase ABCB1
+Maribavir	inhibits	ABCB1
+Capivasertib	inhibits	SLC22A8
+Silodosin	inhibits	ADRA1B
+Verapamil	inhibits	CACNA1B
+Simeprevir	inhibits	ABCB11
+Haloperidol	inhibits	DRD1
+Indinavir	inhibits	CYP3A4
+Nonate	inhibits	Solute carrier organic anion transporter family member 1B1
+Pseudoephedrine	inhibits	TNF
+Methotrimeprazine	inhibits	DRD5
+Paroxetine	inhibits	CYP2D6
+Verapamil	inhibits	CYP2D6
+Trimethobenzamide	inhibits	DRD2
+ELSUBRUTINIB	inhibits	Tyrosine-protein kinase BTK
+Escitalopram	inhibits	SLC6A2
+Tepotinib	inhibits	ABCG2
+Fostamatinib	inhibits	pknB
+Afatinib	inhibits	EGFR
+Cabotegravir	inhibits	gag-pol
+Hydrochlorothiazide	inhibits	SLC22A6
+Isochlorogenic acid	inhibits	Solute carrier organic anion transporter family member 1B3
+Progesterone	inhibits	ABCB1
+Nilotinib	inhibits	PDGFRA
+Gallic acid	inhibits	Solute carrier organic anion transporter family member 1B1
+Clozapine	inhibits	HTR3A
+Dronabinol	inhibits	CYP1A1
+Mesalazine	inhibits	PTGS1
+Vinorelbine	inhibits	TUBB
+Quizartinib	inhibits	ABCG2
+Fomepizole	inhibits	ADH1A
+Scutellarein	inhibits	Cytochrome P450 1A1
+Cyclobenzaprine	inhibits	HTR6
+Quinine	inhibits	CYP1A1
+Lansoprazole	inhibits	Cytochrome P450 2D6
+Isocarboxazid	inhibits	MAOA
+Vemurafenib	inhibits	CYP2C9
+Talazoparib	inhibits	PARP1
+Nelfinavir	inhibits	gag-pol
+Simvastatin	inhibits	HMGCR
+Methadone	inhibits	HTR3A
+Efavirenz	inhibits	CYP3A4
+Cefdinir	inhibits	SLC15A1
+Probenecid	inhibits	SLC22A10
+Hyoscyamine	inhibits	CHRM5
+Fostemsavir	inhibits	env
+Telaprevir	inhibits	SLCO2B1
+Lasmiditan	inhibits	CYP2D6
+Minocycline	inhibits	MMP9
+Memantine	inhibits	CYP2B6
+Pargyline	inhibits	MAOB
+Aficamten	inhibits	MYBPC3
+Tofacitinib	inhibits	JAK3
+Nintedanib	inhibits	FLT1
+Benzyl benzoate	inhibits	Solute carrier organic anion transporter family member 1B3
+Ethoxyquin	inhibits	Solute carrier organic anion transporter family member 1B1
+Opicapone	inhibits	CYP1A2
+Amoxapine	inhibits	DRD3
+Prednisolone phosphate	inhibits	SLCO1A2
+Nadroparin	inhibits	MYC
+Phloretin	inhibits	Cytochrome P450 2C9
+Paliperidone	inhibits	HRH1
+Leucylalanine	inhibits	Solute carrier organic anion transporter family member 1B1
+Lorlatinib	inhibits	TNK2
+Chlorpromazine	inhibits	ABCB11
+Gefitinib	inhibits	ABCG2
+Etidronic acid	inhibits	ATP6V1A
+ACALABRUTINIB	inhibits	Tyrosine-protein kinase BTK
+Gilteritinib	inhibits	ABCG2
+Tipranavir	inhibits	pol
+Zonisamide	inhibits	CACNA1H
+trans-Neochlorogenic acid	inhibits	Solute carrier organic anion transporter family member 1B3
+Bromocriptine	inhibits	DRD4
+Entrectinib	inhibits	JAK2
+Amiodarone	inhibits	CYP2C9
+Enalapril	inhibits	SLC22A8
+Erdafitinib	inhibits	FGFR3
+Amiloride	inhibits	SCNN1A
+Dasatinib	inhibits	SRC
+Sevabertinib	inhibits	CYP1A1
+Naphthalen-1-ol	inhibits	Cytochrome P450 1A2
+Xanthyletin	inhibits	Solute carrier organic anion transporter family member 1B3
+1-(3,4-Dimethoxyphenyl)-4-decen-3-one	inhibits	Cytochrome P450 3A4
+Taletrectinib	inhibits	CYP2C8
+Rosiglitazone	inhibits	Solute carrier organic anion transporter family member 1B1
+Amobarbital	inhibits	CHRNA4
+DILMAPIMOD	inhibits	Mitogen-activated protein kinase 14
+Tamsulosin	inhibits	ADRA1D
+IMPLITAPIDE	inhibits	Microsomal triglyceride transfer protein
+Imipramine	inhibits	SLC22A4
+Spinacetin 3-O-glucosyl-(1->6)-[apiosyl(1->2)]-glucoside	inhibits	Solute carrier organic anion transporter family member 1B3
+Auranofin	inhibits	IKBKB
+Omega-3-carboxylic acids	inhibits	DGAT2
+Bezafibrate	inhibits	SLCO1B1
+Vandetanib	inhibits	PTK6
+Apigenin	inhibits	Cytochrome P450 1A2
+Asciminib	inhibits	UGT1A1
+Aprepitant	inhibits	TACR1
+LOSMAPIMOD	inhibits	Mitogen-activated protein kinase 14
+Ponatinib	inhibits	FGFR4
+Tricetin	inhibits	Solute carrier organic anion transporter family member 1B1
+5beta-Cholestane	inhibits	Solute carrier organic anion transporter family member 1B1
+Brexpiprazole	inhibits	HRH1
+Isoniazid	inhibits	Solute carrier organic anion transporter family member 1B1
+Orcein	inhibits	Cytochrome P450 2D6
+Terfenadine	inhibits	KCNH2
+Zonisamide	inhibits	CA6
+16-F1-phytoprostane	inhibits	Solute carrier organic anion transporter family member 1B1
+Paliperidone	inhibits	HTR2A
+Rupatadine	inhibits	HRH1
+Pachyrrhizin	inhibits	Cytochrome P450 3A4
+Ginkgo biloba	inhibits	MAOA
+Rupatadine	inhibits	PTAFR
+Tolcapone	inhibits	CYP2C9
+Teriflunomide	inhibits	CYP2C8
+Bictegravir	inhibits	POU2F2
+Elexacaftor	inhibits	SLCO1B1
+Propiverine	inhibits	CHRM5
+Dextromethorphan	inhibits	SLC6A4
+Fostamatinib	inhibits	JAK1
+Dexamethasone	inhibits	ABCB1
+PF-00477736	inhibits	Serine/threonine-protein kinase Chk1
+Aripiprazole	inhibits	ADRA1A
+BOSUTINIB	inhibits	Proto-oncogene tyrosine-protein kinase Src
+Oxoglaucine	inhibits	Cytochrome P450 3A4
+Lapatinib	inhibits	EGFR
+Carvedilol	inhibits	ADRB2
+Glyburide	inhibits	SLC22A6
+Ezetimibe	inhibits	NPC1L1
+Duloxetine	inhibits	CYP2D6
+Rhamnetin	inhibits	Solute carrier organic anion transporter family member 1B3
+Phlorizin	inhibits	Solute carrier organic anion transporter family member 1B1
+Pomalidomide	inhibits	CRBN
+Aripiprazole	inhibits	HTR2A
+Chlorprothixene	inhibits	HTR2A
+Cilazapril	inhibits	ACE
+Fostamatinib	inhibits	EPHA4
+Oxprenolol	inhibits	CYP2D6
+Enasidenib	inhibits	SLC22A2
+Axitinib	inhibits	FLT1
+Leucyl-Alanine	inhibits	Solute carrier organic anion transporter family member 1B3
+Psoralen	inhibits	Cytochrome P450 2C9
+Torasemide	inhibits	CYP2C9
+Folic acid	inhibits	Solute carrier organic anion transporter family member 1B1
+Enasidenib	inhibits	IDH3G
+Molindone	inhibits	DRD2
+Ritlecitinib	inhibits	JAK3
+Lovastatin	inhibits	ITGAL
+Fostamatinib	inhibits	HIPK2
+Indomethacin	inhibits	SLCO1B1
+(E)-Aconitic acid	inhibits	Solute carrier organic anion transporter family member 1B1
+Clofazimine	modulates	PPARG
+Ascorbic acid	modulates	SLC23A1
+Temazepam	modulates	GABRA1
+Estazolam	modulates	GABRA1
+Clobazam	modulates	GABRG3
+Methoxyflurane	modulates	GABRA1
+Clorazepic acid	modulates	TSPO
+Levofloxacin	modulates	gyrB
+Ginkgo biloba	modulates	GABRA1
+Chlordiazepoxide	modulates	GABRA1
+Tezacaftor	modulates	CFTR
+Carisoprodol	modulates	GABRA3
+Zinc sulfate, unspecified form	modulates	C1R
+Carisoprodol	modulates	GABRA5
+Avutometinib	modulates	MAP1B
+Nirogacestat	modulates	APH1B
+Alprazolam	modulates	GABRA1
+Estradiol cypionate	modulates	NCOA2
+Triazolam	modulates	GABRA1
+Carglumic acid	modulates	CPS1
+Pantoprazole	modulates	ATP4B
+Halofantrine	modulates	CALM3
+Aripiprazole	modulates	SLC6A4
+Sulindac	modulates	PPARD
+Etravirine	modulates	gag-pol
+Trifluoperazine	modulates	TNNC1
+Clorazepic acid	modulates	GABRA1
+Eletriptan	substrate_of	CYP2D6
+Naloxone	substrate_of	CYP3A4
+Ranolazine	substrate_of	CYP3A4
+Pazopanib	substrate_of	ABCG2
+Cenobamate	substrate_of	UGT2B7
+Bexarotene	substrate_of	CYP3A4
+Amisulpride	substrate_of	ABCG2
+Levothyroxine	substrate_of	SERPINA7
+Ritonavir	substrate_of	ORM1
+Infigratinib	substrate_of	ABCB1
+Lonafarnib	substrate_of	CYP2C8
+Zopiclone	substrate_of	CYP2C8
+Cefixime	substrate_of	SLC22A7
+Zileuton	substrate_of	UGT1A9
+Ripretinib	substrate_of	CYP3A4
+Erythromycin	substrate_of	ABCC2
+Hydrochlorothiazide	substrate_of	SLC22A6
+Cyclobenzaprine	substrate_of	CYP3A4
+Tolterodine	substrate_of	CYP3A4
+Doxorubicin	substrate_of	CBR1
+Paroxetine	substrate_of	CYP2C19
+Calcium citrate	substrate_of	RYR1
+Fluorodopa (18F)	substrate_of	DDC
+Nortriptyline	substrate_of	CYP2C19
+Losartan	substrate_of	UGT1A1
+Tenapanor	substrate_of	CYP3A4
+Acyclovir	substrate_of	SLC22A6
+Ticlopidine	substrate_of	CYP2C19
+Vamorolone	substrate_of	CYP2C8
+Carboplatin	substrate_of	SLC31A1
+Ketazolam	substrate_of	ABCB1
+Neratinib	substrate_of	FMO3
+Sotagliflozin	substrate_of	UGT1A9
+Indinavir	substrate_of	ABCB1
+Bupropion	substrate_of	CYP2E1
+Ibuprofen	substrate_of	UGT1A3
+Venetoclax	substrate_of	ABCB1
+Thalidomide	substrate_of	PTGS2
+Zinc sulfate, unspecified form	substrate_of	SLC39A12
+Clopidogrel	substrate_of	CYP2C9
+Ponatinib	substrate_of	ABCB1
+Delafloxacin	substrate_of	UGT2B15
+Pemigatinib	substrate_of	CYP3A4
+Ezetimibe	substrate_of	ABCG2
+Rupatadine	substrate_of	CYP3A4
+Estradiol acetate	substrate_of	CYP1A1
+Megestrol acetate	substrate_of	CYP3A4
+Chloroquine	substrate_of	ABCB1
+Macitentan	substrate_of	CYP2C8
+Vinblastine	substrate_of	ABCC1
+Elacestrant	substrate_of	CYP2C9
+Clopidogrel	substrate_of	CYP2C19
+Efavirenz	substrate_of	ABCB11
+Pitavastatin	substrate_of	ABCG2
+Doxepin	substrate_of	CYP2D6
+Elagolix	substrate_of	CYP3A4
+Praziquantel	substrate_of	CYP1A2
+Nifedipine	substrate_of	CYP2A6
+Aprocitentan	substrate_of	ABCB1
+Semaglutide	substrate_of	ALB
+Lusutrombopag	substrate_of	ABCB1
+Seladelpar	substrate_of	SLC22A8
+Mavorixafor	substrate_of	CYP2C19
+Mycophenolic acid	substrate_of	CYP2C8
+Docetaxel	substrate_of	CYP3A5
+Cisplatin	substrate_of	SLC31A2
+Procainamide	substrate_of	CYP2D6
+Risdiplam	substrate_of	ABCB1
+Fludeoxyglucose (18F)	substrate_of	SLC2A8
+Dapsone	substrate_of	PTGS2
+Tamoxifen	substrate_of	SULT2A1
+Lonafarnib	substrate_of	CYP3A5
+Taletrectinib	substrate_of	CYP2C9
+Roflumilast	substrate_of	CYP3A4
+Elbasvir	substrate_of	CYP3A43
+Enasidenib	substrate_of	CYP2C8
+Erythromycin	substrate_of	SLCO1B1
+Sofosbuvir	substrate_of	HINT1
+Docetaxel	substrate_of	ABCB1
+Fexofenadine	substrate_of	SLCO2B1
+Codeine	substrate_of	CYP2D6
+Nifedipine	substrate_of	CYP3A5
+Fludrocortisone	substrate_of	HSD11B1
+Promethazine	substrate_of	CYP2D6
+Gefitinib	substrate_of	ABCG2
+Synthetic Conjugated Estrogens, A	substrate_of	CYP3A4
+Methoxyflurane	substrate_of	CYP2E1
+Cimetidine	substrate_of	SLC22A7
+Vincristine	substrate_of	RALBP1
+Tenofovir alafenamide	substrate_of	ABCB1
+Estrone	substrate_of	CYP2E1
+Cephalexin	substrate_of	SLC47A1
+Edaravone	substrate_of	UGT2B7
+Nadolol	substrate_of	POU2F2
+Secnidazole	substrate_of	CYP3A5
+Erdafitinib	substrate_of	PDGFRA
+Acetaminophen	substrate_of	CYP3A4
+Tretinoin	substrate_of	CYP2A6
+Astemizole	substrate_of	CYP3A5
+Estazolam	substrate_of	CYP3A4
+Nabumetone	substrate_of	AKR1C2
+Ubrogepant	substrate_of	SLCO1B3
+Sufentanil	substrate_of	CYP3A4
+Zaleplon	substrate_of	CYP3A5
+Ibrutinib	substrate_of	CYP2D6
+Cephalexin	substrate_of	SLC15A1
+Liotrix	substrate_of	SLCO4C1
+Resmetirom	substrate_of	SLCO1B3
+Donepezil	substrate_of	ABCG2
+Daprodustat	substrate_of	CYP3A4
+Valproic acid	substrate_of	CYP2B6
+Vandetanib	substrate_of	CYP3A4
+Dihydrocodeine	substrate_of	CYP2D6
+Zinc sulfate, unspecified form	substrate_of	SLC39A3
+Doxorubicin	substrate_of	AKR1C3
+Clobazam	substrate_of	CYP1A2
+Lamivudine	substrate_of	ABCG2
+Fexinidazole	substrate_of	CYP3A5
+Etoposide	substrate_of	ABCC10
+Atrasentan	substrate_of	UGT1A1
+Valsartan	substrate_of	CYP2C9
+Isavuconazonium	substrate_of	CYP3A5
+Methotrimeprazine	substrate_of	CYP2D6
+Axitinib	substrate_of	UGT1A1
+Oxytetracycline	substrate_of	SLC22A8
+Iodine	substrate_of	SLC5A5
+Nortriptyline	substrate_of	CYP1A2
+Tepotinib	substrate_of	CYP3A4
+Dabrafenib	substrate_of	SLCO1A2
+Indomethacin	substrate_of	SLC22A7
+Dextromethorphan	substrate_of	UGT2B17
+Posaconazole	substrate_of	ABCB1
+Ziftomenib	substrate_of	ABCG2
+Dexamethasone	substrate_of	SLC22A8
+Fostemsavir	substrate_of	UGT1A1
+Gepirone	substrate_of	CYP3A4
+Futibatinib	substrate_of	ABCB1
+Selinexor	substrate_of	CYP3A4
+Trimethadione	substrate_of	CYP2E1
+Clobazam	substrate_of	CYP2C19
+Mercaptopurine	substrate_of	ABCC5
+Fosinopril	substrate_of	SLC15A2
+Tenofovir alafenamide	substrate_of	SLC22A6
+Temazepam	substrate_of	CYP2B6
+Trabectedin	substrate_of	CYP3A4
+Zoliflodacin	substrate_of	SLCO1B1
+Zidovudine	substrate_of	UGT2B7
+Fenofibrate	substrate_of	AKR1B1
+Rilzabrutinib	substrate_of	CYP3A4
+Istradefylline	substrate_of	CYP2D6
+Allopurinol	substrate_of	ABCG2
+Naldemedine	substrate_of	ABCB5
+Paltusotine	substrate_of	UGT1A9
+Selegiline	substrate_of	CYP2C9
+Acenocoumarol	substrate_of	ABCB1
+Cobicistat	substrate_of	CYP3A4
+Asciminib	substrate_of	UGT2B17
+Cimetidine	substrate_of	ABCB1
+Phenylbutazone	substrate_of	CYP2C9
+Atorvastatin	substrate_of	ABCB1
+Belzutifan	substrate_of	ABCB1
+Ezetimibe	substrate_of	ABCB1
+Amprenavir	substrate_of	CYP3A4
+Dapagliflozin	substrate_of	CYP1A2
+Etravirine	substrate_of	CYP2C19
+Dabrafenib	substrate_of	CYP2C19
+Cyclobenzaprine	substrate_of	ALB
+Tinidazole	substrate_of	ABCB11
+Methoxyflurane	substrate_of	CYP2B6
+Lovastatin	substrate_of	CYP2C19
+Methotrexate	substrate_of	ABCC4
+Lorlatinib	substrate_of	UGT1A3
+Acyclovir	substrate_of	SUCLA2
+Palbociclib	substrate_of	ABCB1
+Methylprednisolone	substrate_of	AKR1C1
+Betaxolol	substrate_of	CYP1A2
+Istradefylline	substrate_of	CYP2C8
+Fludrocortisone	substrate_of	ALB
+Mavorixafor	substrate_of	CYP3A4
+Canagliflozin	substrate_of	ORM1
+Selegiline	substrate_of	CYP2D6
+Dordaviprone	substrate_of	CYP2B6
+Vamorolone	substrate_of	UGT2B7
+Cobimetinib	substrate_of	ABCB1
+Cilostazol	substrate_of	CYP2D6
+Trifluridine	substrate_of	SLC22A6
+Efavirenz	substrate_of	CYP2B6
+Conjugated estrogens	substrate_of	SLCO1B3
+Mycophenolate mofetil	substrate_of	UGT1A8
+Enasidenib	substrate_of	CYP2D6
+Cabazitaxel	substrate_of	ABCB1
+Lamivudine	substrate_of	ABCB1
+Nevirapine	substrate_of	CYP2B6
+Flutamide	substrate_of	ABCC1
+Bilastine	substrate_of	ABCB5
+Flunarizine	substrate_of	CYP1A1
+Bumetanide	substrate_of	SLC22A6
+Morphine	substrate_of	CYP2C8
+Erdafitinib	substrate_of	RET
+Reserpine	substrate_of	ABCB1
+Tenofovir disoproxil	substrate_of	ABCC4
+Cannabidiol	substrate_of	UGT1A7
+Cimetidine	substrate_of	SLC22A6
+Imatinib	substrate_of	CYP2C8
+Methotrexate	substrate_of	SLCO3A1
+Prasugrel	substrate_of	CYP2C19
+Dapsone	substrate_of	CYP2E1
+Acetylsalicylic acid	substrate_of	NAT2
+Felodipine	substrate_of	ABCB11
+Chlorhexidine	substrate_of	ALB
+Dacarbazine	substrate_of	CYP1A2
+Mobocertinib	substrate_of	ABCB1
+Teniposide	substrate_of	CYP2C19
+Prasugrel	substrate_of	CYP2C9
+Ixazomib	substrate_of	CYP1A2
+Sofosbuvir	substrate_of	CTSA
+Alosetron	substrate_of	CYP2C9
+Nebivolol	substrate_of	CYP2C19
+Quinapril	substrate_of	SLC15A1
+Quinine	substrate_of	CYP3A7
+Meclofenamic acid	substrate_of	SERPINA7
+Norgestimate	substrate_of	CYP2B6
+Asunaprevir	substrate_of	CYP2B6
+Rilpivirine	substrate_of	CYP2C19
+Azathioprine	substrate_of	IMPDH1
+Dabigatran etexilate	substrate_of	UGT2B15
+Clomipramine	substrate_of	CYP2D6
+Atrasentan	substrate_of	SLCO1B3
+Tiotropium	substrate_of	SLC22A5
+Asciminib	substrate_of	ABCB1
+Vortioxetine	substrate_of	CYP2C8
+Betahistine	substrate_of	MAOA
+Rosiglitazone	substrate_of	ALB
+Amifampridine	substrate_of	NAT2
+Cannabidiol	substrate_of	CYP2B6
+Adefovir dipivoxil	substrate_of	AK4
+Progesterone	substrate_of	CYP2D6
+Ritlecitinib	substrate_of	MGST1
+Amitriptyline	substrate_of	CYP2C19
+Ciprofloxacin	substrate_of	SLC47A1
+Abacavir	substrate_of	UGT1A1
+Zinc sulfate, unspecified form	substrate_of	SLC30A3
+Quinidine	substrate_of	CYP3A7
+Ceftibuten	substrate_of	SLC22A8
+Zoliflodacin	substrate_of	ABCB1
+Testosterone undecanoate	substrate_of	CYP2A13
+Lonafarnib	substrate_of	CYP1A2
+Imatinib	substrate_of	SLC22A5
+Pimozide	substrate_of	CYP1A2
+Thymidine	substrate_of	ABCG2
+Zoliflodacin	substrate_of	CYP3A4
+Fluvoxamine	substrate_of	ABCB11
+Methadone	substrate_of	CYP2C8
+Amisulpride	substrate_of	ABCB1
+Ferrous sulfate anhydrous	substrate_of	HAMP
+Hydroflumethiazide	substrate_of	SLC22A6
+Dabrafenib	substrate_of	CYP2C8
+Montelukast	substrate_of	CYP3A4
+Etoposide	substrate_of	ABCC1
+Tenapanor	substrate_of	CYP3A5
+Pregabalin	substrate_of	SLC7A5
+Lumateperone	substrate_of	AKR1C4
+Voriconazole	substrate_of	CYP3A5
+Conjugated estrogens	substrate_of	SLC22A8
+Fexinidazole	substrate_of	CYP2B6
+Treprostinil	substrate_of	CYP2C8
+Ferrous sulfate anhydrous	substrate_of	TF
+Perphenazine	substrate_of	CYP2D6
+Captopril	substrate_of	SLC22A6
+Ethyl biscoumacetate	substrate_of	CYP3A4
+Oxytetracycline	substrate_of	SLC22A7
+Glyburide	substrate_of	CYP2C9
+Cannabidiol	substrate_of	UGT1A9
+Fesoterodine	substrate_of	CYP2D6
+Abrocitinib	substrate_of	CYP2C19
+Phenprocoumon	substrate_of	CYP3A4
+Antipyrine	substrate_of	CYP2C8
+Pemigatinib	substrate_of	ABCG2
+Carvedilol	substrate_of	UGT2B7
+Migalastat	substrate_of	SLC5A1
+Deutetrabenazine	substrate_of	CBR1
+Fludeoxyglucose (18F)	substrate_of	SLC2A4
+Tamoxifen	substrate_of	FMO1
+Sodium citrate	substrate_of	SLC13A2
+Isradipine	substrate_of	ABCB11
+Dasatinib	substrate_of	CYP1B1
+Imlunestrant	substrate_of	UGT1A3
+Ritlecitinib	substrate_of	GSTZ1
+Dutasteride	substrate_of	CYP3A5
+Gemfibrozil	substrate_of	UGT1A1
+Olmesartan	substrate_of	ABCC2
+Mirdametinib	substrate_of	UGT1A6
+Sitaxentan	substrate_of	CYP2C9
+Doxecitine	substrate_of	DCK
+Erlotinib	substrate_of	CYP1A2
+Fedratinib	substrate_of	CYP2C19
+Copanlisib	substrate_of	ALB
+Conjugated estrogens	substrate_of	SLCO1A2
+Phenprocoumon	substrate_of	CYP2C9
+Losartan	substrate_of	ALB
+Penicillamine	substrate_of	SLCO1B1
+Tretinoin	substrate_of	CYP2C18
+Ritonavir	substrate_of	ABCC2
+Ritlecitinib	substrate_of	GSTP1
+Amphetamine	substrate_of	SLC22A3
+Deuruxolitinib	substrate_of	CYP3A4
+Asciminib	substrate_of	ABCG2
+Vincristine	substrate_of	ABCB11
+Dipyridamole	substrate_of	ABCB11
+Saquinavir	substrate_of	ABCC2
+Insulin degludec	substrate_of	IDE
+Desvenlafaxine	substrate_of	UGT2B15
+Hydroxychloroquine	substrate_of	CYP2D6
+Zopiclone	substrate_of	PTGS1
+Olaparib	substrate_of	CYP3A4
+Miltefosine	substrate_of	PLD1
+Methyldopa	substrate_of	DDC
+Opicapone	substrate_of	SLCO2B1
+Paltusotine	substrate_of	CYP3A4
+Niraparib	substrate_of	ABCB1
+Methotrexate	substrate_of	FPGS
+Resmetirom	substrate_of	SLCO1B1
+Paliperidone	substrate_of	CYP2D6
+Estetrol	substrate_of	CYP3A4
+Diclofenac	substrate_of	CYP2C19
+Nizatidine	substrate_of	ABCB1
+Elafibranor	substrate_of	PTGR1
+Nabumetone	substrate_of	CYP1A2
+Tamsulosin	substrate_of	CYP3A4
+Losartan	substrate_of	CYP3A4
+Rivaroxaban	substrate_of	ABCG2
+Doxepin	substrate_of	CYP1A2
+Ritonavir	substrate_of	ABCB1
+Ketotifen	substrate_of	UGT1A4
+Gefitinib	substrate_of	CYP1A1
+Ibrexafungerp	substrate_of	ABCB1
+Zinc	substrate_of	CA1
+Glasdegib	substrate_of	CYP2C8
+Acyclovir	substrate_of	PKLR
+Enasidenib	substrate_of	CYP3A4
+Fenofibrate	substrate_of	AKR1C2
+Morphine	substrate_of	ABCB1
+Doxorubicin	substrate_of	NQO1
+Erlotinib	substrate_of	CYP2D6
+Azathioprine	substrate_of	GMPS
+Chloramphenicol	substrate_of	cat3
+Quinapril	substrate_of	SLC15A2
+Sulpiride	substrate_of	SLC22A1
+Torasemide	substrate_of	ALB
+Levomilnacipran	substrate_of	CYP3A4
+Mesalazine	substrate_of	NAT1
+Roxadustat	substrate_of	UGT1A9
+Perindopril	substrate_of	SLC15A2
+Chlorpheniramine	substrate_of	CYP2D6
+Samidorphan	substrate_of	CYP3A4
+Thiotepa	substrate_of	CYP3A4
+Olaparib	substrate_of	ABCB1
+Pipotiazine	substrate_of	CYP3A4
+Buspirone	substrate_of	CYP3A4
+Adenosine	substrate_of	SLC29A2
+Mycophenolic acid	substrate_of	UGT1A10
+Eluxadoline	substrate_of	ABCC2
+Phenytoin	substrate_of	ABCB1
+Glyburide	substrate_of	CYP3A4
+Medroxyprogesterone acetate	substrate_of	Cyp3a1
+Omeprazole	substrate_of	CYP2C18
+Terbinafine	substrate_of	CYP3A4
+Haloperidol	substrate_of	CYP3A7
+Mycophenolic acid	substrate_of	CYP3A4
+Risperidone	substrate_of	ABCB1
+Azilsartan medoxomil	substrate_of	CYP2B6
+Mycophenolic acid	substrate_of	UGT1A6
+Lonafarnib	substrate_of	CYP3A4
+L-Glutamine	substrate_of	SLC7A5
+Oxcarbazepine	substrate_of	AKR1C4
+Zuranolone	substrate_of	CYP3A4
+Methotrexate	substrate_of	MTHFR
+Ropinirole	substrate_of	CYP1A2
+Etravirine	substrate_of	CYP2C9
+Fluindione	substrate_of	CYP2C9
+Calcium citrate	substrate_of	CACNA1A
+Enasidenib	substrate_of	CYP2C19
+Lamivudine	substrate_of	PCYT1A
+Flurbiprofen	substrate_of	UGT1A3
+Ferric maltol	substrate_of	SLC11A2
+Norethisterone	substrate_of	SHBG
+Cefaclor	substrate_of	SLC22A8
+Tamoxifen	substrate_of	ABCA1
+Belumosudil	substrate_of	CYP3A4
+Zinc sulfate, unspecified form	substrate_of	SLC30A4
+Fluoxetine	substrate_of	ORM1
+Voriconazole	substrate_of	PTGS1
+Nitrofurantoin	substrate_of	ABCB11
+Pemigatinib	substrate_of	ABCB1
+Infigratinib	substrate_of	FMO3
+Lapatinib	substrate_of	CYP3A4
+Eletriptan	substrate_of	CYP2C19
+Zinc sulfate, unspecified form	substrate_of	SLC39A10
+Ubidecarenone	substrate_of	VLDLR
+Glycopyrronium	substrate_of	CYP1A2
+Phenytoin	substrate_of	CYP3A5
+Lonafarnib	substrate_of	CYP2C19
+Pretomanid	substrate_of	ddn
+Vanzacaftor	substrate_of	CYP3A4
+Idelalisib	substrate_of	CYP3A7
+Budesonide	substrate_of	ANXA1
+Estradiol valerate	substrate_of	CYP3A5
+Nicotine	substrate_of	CYP2A13
+Ranolazine	substrate_of	ABCB11
+Dihydrocodeine	substrate_of	CYP3A4
+Tasimelteon	substrate_of	CYP1A2
+Carboplatin	substrate_of	MPO
+Carisoprodol	substrate_of	CYP2C19
+Linzagolix	substrate_of	SLC22A8

@@ -1,0 +1,57 @@
+dish,matched_cache_foods,has_wrapper,manual_n,llm_n,overlap_n,manual_only_n,llm_only_n,manual_foodb_n,llm_foodb_n
+Adas,,False,4,0,0,4,0,3,0
+Atay,,False,4,0,0,4,0,2,0
+Baghrir,,False,4,0,0,4,0,1,0
+Baklawa,,False,5,0,0,5,0,0,0
+Batata Red Sauce,,False,4,0,0,4,0,0,0
+Batata bel-Jelbana,,False,4,0,0,4,0,1,0
+Berkoukes,,False,4,0,0,4,0,3,0
+Bourak Jazairi,,False,7,0,0,7,0,3,0
+Bouzlouf/Chtitha,,False,4,0,0,4,0,2,0
+Bradj,,False,6,0,0,6,0,4,0
+Brik,,False,5,0,0,5,0,2,0
+Chakchouka,,False,5,0,0,5,0,5,0
+Chakhchoukha,chakhchoukha,True,6,15,2,4,13,5,12
+Chorba Bidha,,False,5,0,0,5,0,2,0
+Chorba Frik / Jari,,False,4,0,0,4,0,0,0
+Chou-fleur,,False,4,0,0,4,0,1,0
+Couscous,couscous,True,2,0,0,2,0,2,0
+Dchicha with Klila,,False,4,0,0,4,0,2,0
+Djelbana b'Garnon,,False,4,0,0,4,0,0,0
+Dolma,,False,6,0,0,6,0,4,0
+Doubara (Biskria),,False,5,0,0,5,0,4,0
+Douwara / Bakbouka,,False,5,0,0,5,0,3,0
+Dziriyet,,False,4,0,0,4,0,1,0
+Fritte Omelette,,False,3,0,0,3,0,0,0
+Ftir,ftir,True,4,0,0,4,0,2,0
+Garantita/Karentica,,False,6,0,0,6,0,3,0
+Griwech,,False,5,0,0,5,0,1,0
+Guedid / Kadid,,False,4,0,0,4,0,2,0
+Harira,,False,4,0,0,4,0,2,0
+Hmiss,,False,5,0,0,5,0,4,0
+Hommos,,False,6,0,0,6,0,2,0
+Kaak Nakach,,False,4,0,0,4,0,1,0
+La Soupe (Veg+RedLentil),,False,4,0,0,4,0,0,0
+Lahm Lhalou,,False,5,0,0,5,0,3,0
+Loubia,,False,6,0,0,6,0,2,0
+Makroud el-Koucha,,False,5,0,0,5,0,2,0
+Matlouh,,False,5,0,0,5,0,3,0
+Mbessas,,False,4,0,0,4,0,0,0
+Mederbel,,False,5,0,0,5,0,2,0
+Merguez,,False,4,0,0,4,0,2,0
+Mesfouf,,False,4,0,0,4,0,2,0
+Mhadjeb (A=Spicy/B=Plain),,False,5,0,0,5,0,3,0
+Mhancha,,False,4,0,0,4,0,0,0
+Mthawem / Methoum,,False,4,0,0,4,0,2,0
+Osban / Osbane,,False,6,0,0,6,0,4,0
+Qtayef,,False,4,0,0,4,0,0,0
+Rechta,,False,5,0,0,5,0,5,0
+Shbah el-Safra,,False,6,0,0,6,0,0,0
+Tajine Zeitoun,,False,4,0,0,4,0,4,0
+Tamina,,False,4,0,0,4,0,0,0
+Taminat l-Ghars,,False,4,0,0,4,0,1,0
+Tcharak (A=Aryan/B=Meskar),,False,5,0,0,5,0,0,0
+Tilitili / Tlitli,,False,4,0,0,4,0,4,0
+Trida (W: White Sauce,,False,4,0,0,4,0,2,0
+Zfiti / Zviti,,False,4,0,0,4,0,4,0
+Zlabia,,False,4,0,0,4,0,1,0

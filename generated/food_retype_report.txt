@@ -1,0 +1,270 @@
+=== Food Type Reclassification Report ===
+
+--- Type counts BEFORE ---
+  Dietary Amino Acid                          35
+  Dietary Lipid                                8
+  Dietary Nutrient                            73
+  Endogenous Metabolite                      101
+  Food / Whole-Food Preparation               83
+  Food Bioactive                            1599
+
+--- Type counts AFTER ---
+  Compound_Group                              67
+  Dietary Amino Acid                          35
+  Dietary Lipid                                8
+  Dietary Nutrient                            73
+  Endogenous Metabolite                      101
+  Food Bioactive                            1440
+  Food_Source                                175
+
+--- Changed entries (242 total) ---
+
+  [Food / Whole-Food Preparation  →  Compound_Group]  (27)
+       19  Licorice Extract
+       69  Blueberry Anthocyanins-Enriched Extract
+       75  Buckwheat Protein Extract
+      100  Citrus Leaf Extract
+      116  Coriandrum Sativum L. Seed Extract
+      131  Proprietary Korean Herbal Formula
+      147  Eucalyptus Microcorys Extract
+      169  Ginger-Green Tea Mixture
+      176  Harpagophytum Procumbens Extract
+      183  Hypericum Extract Formulation
+      216  Bitter Melon Leaf Extract
+      275  Polysaccharides Extracted From The Egyptian Mango Mangifera Indica
+      310  S.Montana Extract
+      317  Satureja Montana Extract
+      348  Syzygium Cumini Extract
+      369  Urtica Dioica Extract
+      383  Crataegi Standardized Extract
+      396  Ginkgo Biloba Leaf Extract
+      417  Soybean Extract
+      418  Green Tea Extract
+      421  Pomelo Extract
+      423  Rosa Damascena Extract
+      438  Grape Seed Proanthocyanidin Extract
+      444  Thyme (Thymus Vulgaris) Leaf Aqueous Extract
+      449  A.Atroviolaceum Extract
+      452  Korean Red Ginseng Total Extract
+      455  T. Foenum-Graecum Aqueous Extract
+
+  [Food / Whole-Food Preparation  →  Food_Source]  (56)
+        0  Bilberry
+       16  Grapefruit
+       17  Green Tea
+       21  Milk
+       22  Orange Juice
+       37  Bael Fruit
+       54  Bearberry
+       55  Black Chokeberry
+       66  Bergamot Juice
+       68  Blueberry
+       70  Fingerroot
+       71  Brassica Sprout
+       73  Brown Algae
+       74  Brussels Sprouts
+       99  Citrus Juices
+      102  Clementine Juice
+      118  Corn Oil
+      120  Cottonseed
+      156  Fish Oil
+      160  Fortified Oil
+      162  Fresh Palm Oil
+      172  Grape Seed
+      173  Groundnut Oils
+      177  Herbal Mixtures Of Liriope Platyphylla, Glycyrrhiza Uralensis, And Cinnamomum Cassia
+      184  Indian Gooseberry
+      199  Linseed
+      231  Non-Alcoholic Beverage Made Of Red Wine Vinegar And Grape Juice
+      236  Olive Oil
+      239  Oroxylum Indicum Seed Extracts
+      248  Palm Oil
+      269  Pistacia Lentiscus Oil
+      288  Raspberry
+      290  Red Wine Vinegar And Grape Juice
+      325  Semi-Skimmed Milk
+      350  Tartary Buckwheat Sprouts
+      351  Tasmannia Pepper Leaf
+      370  Vaccinium Bracteatum Thunb. Fruit
+      373  Vegetable Juice
+      375  Virgin Coconut Oil
+      413  Pomegranate Juice
+      414  Nigella Sativa Oil
+      422  Cranberry Juice
+      424  Fruit Juices
+      427  Mandarin Juice
+      440  Black Tea
+      451  Grape Juice
+      457  Tea
+      458  Milk Thistle
+      463  Soybean Oil
+      468  Kiwifruit
+      471  Pomegranate Seeds Oil
+      472  Anticoagulant Herbs
+      485  Fruit Juice
+      581  Stearic Acid
+     1131  Cysteamine
+     1615  Stearidonic Acid
+
+  [Food Bioactive  →  Compound_Group]  (40)
+        9  Fat
+       10  Fiber
+       24  Protein
+       48  Anthocyanins
+       51  Apple Condensed Tannin
+       77  C-Phycocyanin
+       84  Carrageenan
+       94  Chitosan
+      126  Curcuminoids
+      141  Dengzhan Shengmai Formula
+      163  Galactomannan
+      171  Protopanaxatriol (Pt) Ginsenosides
+      224  Naoxintong Formula
+      241  Oyster (Ostrea Plicatula Gmelin) Polysaccharides
+      246  P. Pulmonarius Glucans
+      329  Shexiang Baoxin Formula
+      379  Whey Protein
+      380  Whey Protein Isolate
+      407  Panax Notoginseng Saponins
+      411  Cocoa Powder
+      425  Turmeric Rhizome Powder Suspension
+      608  Lignin
+      729  Isoflavones
+      731  Salicylates
+      734  Glycosides
+      740  Ketones
+      744  Sugars
+      754  Flavonoids
+      783  Sterols
+      803  Pectin
+     1045  8-Hydroxy-2-Methoxy-6-Methyl-1,4-Naphthoquinone
+     1051  Saponins
+     1100  Proanthocyanidins
+     1102  Hexane
+     1107  Glycolipids
+     1208  Chinese Tannin
+     1432  Triterpenoid
+     1706  Lignans
+     1733  Disulfides
+     1747  Arabinogalactan
+
+  [Food Bioactive  →  Food_Source]  (119)
+        3  Chamomile
+        4  Cheese
+        5  Coffee
+        6  Dairy
+        7  Danshen Compound
+        8  Echinacea
+       12  Garlic Bulb
+       13  Ginger
+       14  Ginkgo Biloba
+       15  Ginseng
+       25  Salt
+       35  Acorn
+       36  Shi Chang Pu
+       38  Agave
+       39  Alaska Pollock
+       40  Ale
+       41  Gracilaria Seaweed
+       42  Amaranth
+       43  Amlaki
+       44  Dill
+       45  Angelica Dahurica
+       46  Angelica Keiskei
+       47  Anise Myrtle
+       49  Groundnut
+       50  Apple
+       52  Apple Sauce
+       53  Araceae
+       56  Ashwagandha
+       57  Asparagus
+       59  Neem
+       60  Desert Date
+       61  Banana
+       62  Beef Tallow
+       63  Beer
+       65  Bergamot
+       67  Blackcurrant
+       72  Broccoli
+       76  Budo-No-Megumi
+       79  Cinnamon
+       81  Pigeonpea
+       82  Canola
+       85  Carrots
+       86  Castor
+       87  Celery
+       91  Cherries
+       92  Chicken
+       93  Chinese Parsley
+       95  Chuan Lian
+       96  Chicory
+       98  Watermelon
+      101  Citrus Reticulate
+      103  Cnidium
+      104  Cocoa
+      105  Coconut
+      107  Codliver
+      108  Coenzyme Q10
+      109  Cola
+      110  Combretaceae
+      113  Compositae
+      115  Cordyceps
+      121  Cranberries
+      127  Cuscutae
+      133  Daikon
+      134  Dairy Product
+      135  Dairy Product Fermented By Lactobacilli
+      137  Danggui
+      143  Dioscorea
+      146  Equisetum Arvense L
+      150  Fava Bean
+      152  Fenugreek
+      154  Fish Flakes
+      161  Fortified Wine
+      165  Garcinia Kola
+      167  Garden Cress
+      178  Hibiscus Rosa Sinensis
+      179  Hibiscus Sabdariffa
+      180  Hippophae Rhamnoides
+      181  Honey
+      182  Horse Chestnut
+      185  Kidney Beans
+      186  Kiwi
+      187  Kudzu
+      189  Laminaria Hyperborea
+      192  Lavender
+      194  Lemon
+      195  Lemon Myrtle
+      197  Lime
+      214  Melon
+      233  Oat
+      237  Onion
+      240  Oyster
+      251  Parsley
+      276  Pomegranate
+      289  Red Wine
+      312  Sage
+      316  Sardine
+      326  Sesame
+      330  Shiitake
+      341  Spirulina
+      342  Squash
+      343  St. John'S Wort
+      356  Thyme
+      371  Valerian
+      378  Wheat
+      381  Wine
+      406  Cherry
+      409  Chocolate
+      412  Fennel
+      429  Orange
+      446  Whole-Grain
+      447  Refined-Grain
+      448  Corn
+      465  Clementine
+      473  Garlic
+      477  Kale
+      478  Spinach
+      492  Avocado
+      502  Yogurt
+      836  Starch

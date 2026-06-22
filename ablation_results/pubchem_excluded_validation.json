@@ -1,0 +1,978 @@
+[
+  {
+    "dish": "chakhchoukha",
+    "original": "Purines",
+    "normalized": "purines",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "guedid / kadid",
+    "original": "Tyramine",
+    "normalized": "tyramine",
+    "pubchem_found": true,
+    "pubchem_cid": 5610,
+    "pubchem_iupac": "4-(2-aminoethyl)phenol"
+  },
+  {
+    "dish": "guedid / kadid",
+    "original": "AGEs",
+    "normalized": "ages",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "osban / osbane",
+    "original": "Triglycerides",
+    "normalized": "triglycerides",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "osban / osbane",
+    "original": "Purines",
+    "normalized": "purines",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "lahm lhalou",
+    "original": "Sucrose / Glucose",
+    "normalized": "sucrose glucose",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "lahm lhalou",
+    "original": "Butyric Acid",
+    "normalized": "butyric acid",
+    "pubchem_found": true,
+    "pubchem_cid": 264,
+    "pubchem_iupac": "butanoic acid"
+  },
+  {
+    "dish": "chorba frik / jari",
+    "original": "Magnesium",
+    "normalized": "magnesium",
+    "pubchem_found": true,
+    "pubchem_cid": 5462224,
+    "pubchem_iupac": "magnesium"
+  },
+  {
+    "dish": "chorba frik / jari",
+    "original": "Smoked / Roasted PAHs",
+    "normalized": "smoked roasted pahs",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "chorba frik / jari",
+    "original": "Soluble Fiber",
+    "normalized": "soluble fiber",
+    "pubchem_found": true,
+    "pubchem_cid": 51063134,
+    "pubchem_iupac": "(5R)-2,3,4-trimethoxy-6-(methoxymethyl)-5-[(2S)-3,4,5-trimethoxy-6-(methoxymethyl)oxan-2-yl]oxyoxane"
+  },
+  {
+    "dish": "chorba frik / jari",
+    "original": "RosmarinicAcid",
+    "normalized": "rosmarinicacid",
+    "pubchem_found": true,
+    "pubchem_cid": 5281792,
+    "pubchem_iupac": "(2R)-3-(3,4-dihydroxyphenyl)-2-[(E)-3-(3,4-dihydroxyphenyl)prop-2-enoyl]oxypropanoic acid"
+  },
+  {
+    "dish": "atay",
+    "original": "Tannins",
+    "normalized": "tannins",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "atay",
+    "original": "Sucrose / Glucose",
+    "normalized": "sucrose glucose",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "dolma",
+    "original": "Cucurbitacin",
+    "normalized": "cucurbitacin",
+    "pubchem_found": true,
+    "pubchem_cid": 5281323,
+    "pubchem_iupac": "[(E,6R)-6-hydroxy-2-methyl-5-oxo-6-[(2R,3S,8S,9R,10R,13R,14S,16R,17R)-2,3,16-trihydroxy-4,4,9,13,14-pentamethyl-11-oxo-1,2,3,7,8,10,12,15,16,17-decahydrocyclopenta[a]phenanthren-17-yl]hept-3-en-2-yl] acetate"
+  },
+  {
+    "dish": "dolma",
+    "original": "Vitamin K",
+    "normalized": "vitamin k",
+    "pubchem_found": true,
+    "pubchem_cid": 5280483,
+    "pubchem_iupac": "2-methyl-3-[(E)-3,7,11,15-tetramethylhexadec-2-enyl]naphthalene-1,4-dione"
+  },
+  {
+    "dish": "trida (w: white sauce",
+    "original": "W: Amylopectin",
+    "normalized": "w amylopectin",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "trida (w: white sauce",
+    "original": "Butyric Acid",
+    "normalized": "butyric acid",
+    "pubchem_found": true,
+    "pubchem_cid": 264,
+    "pubchem_iupac": "butanoic acid"
+  },
+  {
+    "dish": "mesfouf",
+    "original": "Sucrose/Fructose",
+    "normalized": "sucrose fructose",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "mesfouf",
+    "original": "Butyric Acid",
+    "normalized": "butyric acid",
+    "pubchem_found": true,
+    "pubchem_cid": 264,
+    "pubchem_iupac": "butanoic acid"
+  },
+  {
+    "dish": "berkoukes",
+    "original": "Amylose/Amylopectin",
+    "normalized": "amylose amylopectin",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "mthawem / methoum",
+    "original": "Purines",
+    "normalized": "purines",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "mthawem / methoum",
+    "original": "Saturated Lipids",
+    "normalized": "saturated lipids",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "bouzlouf/chtitha",
+    "original": "S: Allicin",
+    "normalized": "s allicin",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "bouzlouf/chtitha",
+    "original": "Purines",
+    "normalized": "purines",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "doubara (biskria)",
+    "original": "Purines",
+    "normalized": "purines",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "garantita/karentica",
+    "original": "Purines",
+    "normalized": "purines",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "garantita/karentica",
+    "original": "Non-Heme Fe",
+    "normalized": "non heme fe",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "garantita/karentica",
+    "original": "Plant Protein",
+    "normalized": "plant protein",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "merguez",
+    "original": "Heme Iron",
+    "normalized": "heme iron",
+    "pubchem_found": true,
+    "pubchem_cid": 26945,
+    "pubchem_iupac": "3-[18-(2-carboxyethyl)-8,13-bis(ethenyl)-3,7,12,17-tetramethylporphyrin-21,24-diid-2-yl]propanoic acid;iron(2+)"
+  },
+  {
+    "dish": "merguez",
+    "original": "Sat.Fats",
+    "normalized": "sat fats",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "mederbel",
+    "original": "LipidSponge",
+    "normalized": "lipidsponge",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "mederbel",
+    "original": "Purines",
+    "normalized": "purines",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "mederbel",
+    "original": "Acetic Acid",
+    "normalized": "acetic acid",
+    "pubchem_found": true,
+    "pubchem_cid": 176,
+    "pubchem_iupac": "acetic acid"
+  },
+  {
+    "dish": "harira",
+    "original": "Purines",
+    "normalized": "purines",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "adas",
+    "original": "Non-Heme Iron",
+    "normalized": "non heme iron",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "chorba bidha",
+    "original": "Citric Acid",
+    "normalized": "citric acid",
+    "pubchem_found": true,
+    "pubchem_cid": 311,
+    "pubchem_iupac": "2-hydroxypropane-1,2,3-tricarboxylic acid"
+  },
+  {
+    "dish": "chorba bidha",
+    "original": "Purines",
+    "normalized": "purines",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "bourak jazairi",
+    "original": "Saturated Fats",
+    "normalized": "saturated fats",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "bourak jazairi",
+    "original": "Purines",
+    "normalized": "purines",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "bourak jazairi",
+    "original": "Large Neutral Amino Acids",
+    "normalized": "large neutral amino acids",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "bourak jazairi",
+    "original": "Omega3",
+    "normalized": "omega3",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "baklawa",
+    "original": "GelatinisedStarch",
+    "normalized": "gelatinisedstarch",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "baklawa",
+    "original": "LaminatedGluten",
+    "normalized": "laminatedgluten",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "baklawa",
+    "original": "Saturated Fats",
+    "normalized": "saturated fats",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "baklawa",
+    "original": "LArginine",
+    "normalized": "larginine",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "baklawa",
+    "original": "Omega3",
+    "normalized": "omega3",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "baklawa",
+    "original": "Honey",
+    "normalized": "honey",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "makroud el-koucha",
+    "original": "Butyric Acid / SCFAs",
+    "normalized": "butyric acid scfas",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "tcharak (a=aryan/b=meskar)",
+    "original": "Shortcrust-FriableMatrix",
+    "normalized": "shortcrust friablematrix",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "tcharak (a=aryan/b=meskar)",
+    "original": "LArginine",
+    "normalized": "larginine",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "tcharak (a=aryan/b=meskar)",
+    "original": "Protein",
+    "normalized": "protein",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "tamina",
+    "original": "Pyrodextrins",
+    "normalized": "pyrodextrins",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "tamina",
+    "original": "Butter Emulsion",
+    "normalized": "butter emulsion",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "tamina",
+    "original": "Sucrose / Icing Sugar",
+    "normalized": "sucrose icing sugar",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "douwara / bakbouka",
+    "original": "Purines",
+    "normalized": "purines",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "douwara / bakbouka",
+    "original": "Gingerol",
+    "normalized": "gingerol",
+    "pubchem_found": true,
+    "pubchem_cid": 442793,
+    "pubchem_iupac": "(5S)-5-hydroxy-1-(4-hydroxy-3-methoxyphenyl)decan-3-one"
+  },
+  {
+    "dish": "hommos",
+    "original": "Sodium Bicarbonate",
+    "normalized": "sodium bicarbonate",
+    "pubchem_found": true,
+    "pubchem_cid": 516892,
+    "pubchem_iupac": "sodium hydrogen carbonate"
+  },
+  {
+    "dish": "hommos",
+    "original": "Purines",
+    "normalized": "purines",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "hommos",
+    "original": "Olive Oil",
+    "normalized": "olive oil",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "hommos",
+    "original": "NonHemeIron",
+    "normalized": "nonhemeiron",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "loubia",
+    "original": "Phaseolamin",
+    "normalized": "phaseolamin",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "loubia",
+    "original": "Purines",
+    "normalized": "purines",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "dchicha with klila",
+    "original": "Tyramine",
+    "normalized": "tyramine",
+    "pubchem_found": true,
+    "pubchem_cid": 5610,
+    "pubchem_iupac": "4-(2-aminoethyl)phenol"
+  },
+  {
+    "dish": "dchicha with klila",
+    "original": "Saturated Fats",
+    "normalized": "saturated fats",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "brik",
+    "original": "Saturated Fats",
+    "normalized": "saturated fats",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "brik",
+    "original": "Lecithin",
+    "normalized": "lecithin",
+    "pubchem_found": true,
+    "pubchem_cid": 16213884,
+    "pubchem_iupac": "[(2R)-3-hexadecanoyloxy-2-[(9E,12E)-octadeca-9,12-dienoyl]oxypropyl] 2-(trimethylazaniumyl)ethyl phosphate"
+  },
+  {
+    "dish": "brik",
+    "original": "Purines",
+    "normalized": "purines",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "mhadjeb (a=spicy/b=plain)",
+    "original": "Triglycerides",
+    "normalized": "triglycerides",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "baghrir",
+    "original": "CO2",
+    "normalized": "co2",
+    "pubchem_found": true,
+    "pubchem_cid": 280,
+    "pubchem_iupac": "carbon dioxide"
+  },
+  {
+    "dish": "baghrir",
+    "original": "Sucrose / Glucose",
+    "normalized": "sucrose glucose",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "baghrir",
+    "original": "Butyric Acid / SCFAs",
+    "normalized": "butyric acid scfas",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "matlouh",
+    "original": "CO2",
+    "normalized": "co2",
+    "pubchem_found": true,
+    "pubchem_cid": 280,
+    "pubchem_iupac": "carbon dioxide"
+  },
+  {
+    "dish": "matlouh",
+    "original": "HydrationMatrix",
+    "normalized": "hydrationmatrix",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "mbessas",
+    "original": "Lipid",
+    "normalized": "lipid",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "mbessas",
+    "original": "DenseMatrix",
+    "normalized": "densematrix",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "mbessas",
+    "original": "Maillard / AGEs",
+    "normalized": "maillard ages",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "ftir",
+    "original": "Triglycerides",
+    "normalized": "triglycerides",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "ftir",
+    "original": "ZeroFermentation",
+    "normalized": "zerofermentation",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "bradj",
+    "original": "Omega3",
+    "normalized": "omega3",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "shbah el-safra",
+    "original": "L-Arginine",
+    "normalized": "l arginine",
+    "pubchem_found": true,
+    "pubchem_cid": 6322,
+    "pubchem_iupac": "(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid"
+  },
+  {
+    "dish": "shbah el-safra",
+    "original": "Vitamin E",
+    "normalized": "vitamin e",
+    "pubchem_found": true,
+    "pubchem_cid": 14985,
+    "pubchem_iupac": "(2R)-2,5,7,8-tetramethyl-2-[(4R,8R)-4,8,12-trimethyltridecyl]-3,4-dihydrochromen-6-ol"
+  },
+  {
+    "dish": "shbah el-safra",
+    "original": "Sucrose / Glucose",
+    "normalized": "sucrose glucose",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "shbah el-safra",
+    "original": "Sorbitol",
+    "normalized": "sorbitol",
+    "pubchem_found": true,
+    "pubchem_cid": 5780,
+    "pubchem_iupac": "(2R,3R,4R,5S)-hexane-1,2,3,4,5,6-hexol"
+  },
+  {
+    "dish": "dziriyet",
+    "original": "PACs",
+    "normalized": "pacs",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "dziriyet",
+    "original": "Fructose",
+    "normalized": "fructose",
+    "pubchem_found": true,
+    "pubchem_cid": 2723872,
+    "pubchem_iupac": "(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol"
+  },
+  {
+    "dish": "kaak nakach",
+    "original": "LipidCoatedStarch",
+    "normalized": "lipidcoatedstarch",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "kaak nakach",
+    "original": "Insoluble Fiber",
+    "normalized": "insoluble fiber",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "kaak nakach",
+    "original": "Sodium Bicarbonate",
+    "normalized": "sodium bicarbonate",
+    "pubchem_found": true,
+    "pubchem_cid": 516892,
+    "pubchem_iupac": "sodium hydrogen carbonate"
+  },
+  {
+    "dish": "kaak nakach",
+    "original": "CO₂",
+    "normalized": "co",
+    "pubchem_found": true,
+    "pubchem_cid": 104730,
+    "pubchem_iupac": "cobalt"
+  },
+  {
+    "dish": "taminat l-ghars",
+    "original": "Pyrodextrins",
+    "normalized": "pyrodextrins",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "taminat l-ghars",
+    "original": "InsolFiber",
+    "normalized": "insolfiber",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "taminat l-ghars",
+    "original": "Butter",
+    "normalized": "butter",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "taminat l-ghars",
+    "original": "Grain Starch",
+    "normalized": "grain starch",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "taminat l-ghars",
+    "original": "Honey",
+    "normalized": "honey",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "qtayef",
+    "original": "Sha'ra-Strands",
+    "normalized": "sha ra strands",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "qtayef",
+    "original": "WalnutALA",
+    "normalized": "walnutala",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "qtayef",
+    "original": "Ellagitannins",
+    "normalized": "ellagitannins",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "qtayef",
+    "original": "FructoseGlucose",
+    "normalized": "fructoseglucose",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "griwech",
+    "original": "BraidedLattice",
+    "normalized": "braidedlattice",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "griwech",
+    "original": "3mm",
+    "normalized": "3mm",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "griwech",
+    "original": "Maillard",
+    "normalized": "maillard",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "griwech",
+    "original": "Honey Synergy",
+    "normalized": "honey synergy",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "mhancha",
+    "original": "L-Arginine",
+    "normalized": "l arginine",
+    "pubchem_found": true,
+    "pubchem_cid": 6322,
+    "pubchem_iupac": "(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid"
+  },
+  {
+    "dish": "mhancha",
+    "original": "Niacin",
+    "normalized": "niacin",
+    "pubchem_found": true,
+    "pubchem_cid": 938,
+    "pubchem_iupac": "pyridine-3-carboxylic acid"
+  },
+  {
+    "dish": "mhancha",
+    "original": "Oxidised Lipids",
+    "normalized": "oxidised lipids",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "chou-fleur",
+    "original": "I3C",
+    "normalized": "i3c",
+    "pubchem_found": true,
+    "pubchem_cid": 3712,
+    "pubchem_iupac": "1H-indol-3-ylmethanol"
+  },
+  {
+    "dish": "batata red sauce",
+    "original": "Gelatinised Starch",
+    "normalized": "gelatinised starch",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "batata bel-jelbana",
+    "original": "EssAA",
+    "normalized": "essaa",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "la soupe (veg+redlentil)",
+    "original": "Soluble Fiber",
+    "normalized": "soluble fiber",
+    "pubchem_found": true,
+    "pubchem_cid": 51063134,
+    "pubchem_iupac": "(5R)-2,3,4-trimethoxy-6-(methoxymethyl)-5-[(2S)-3,4,5-trimethoxy-6-(methoxymethyl)oxan-2-yl]oxyoxane"
+  },
+  {
+    "dish": "la soupe (veg+redlentil)",
+    "original": "Folate",
+    "normalized": "folate",
+    "pubchem_found": true,
+    "pubchem_cid": 135405876,
+    "pubchem_iupac": "(2R)-2-[[4-[(2-amino-4-oxo-3H-pteridin-6-yl)methylamino]benzoyl]amino]pentanedioic acid"
+  },
+  {
+    "dish": "la soupe (veg+redlentil)",
+    "original": "Minerals",
+    "normalized": "minerals",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "la soupe (veg+redlentil)",
+    "original": "Gingerol",
+    "normalized": "gingerol",
+    "pubchem_found": true,
+    "pubchem_cid": 442793,
+    "pubchem_iupac": "(5S)-5-hydroxy-1-(4-hydroxy-3-methoxyphenyl)decan-3-one"
+  },
+  {
+    "dish": "la soupe (veg+redlentil)",
+    "original": "Allicin-LateAdd",
+    "normalized": "allicin lateadd",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "djelbana b'garnon",
+    "original": "Cynarin",
+    "normalized": "cynarin",
+    "pubchem_found": true,
+    "pubchem_cid": 5281769,
+    "pubchem_iupac": "(1R,3R,4S,5R)-1,3-bis[[(E)-3-(3,4-dihydroxyphenyl)prop-2-enoyl]oxy]-4,5-dihydroxycyclohexane-1-carboxylic acid"
+  },
+  {
+    "dish": "djelbana b'garnon",
+    "original": "Silymarin",
+    "normalized": "silymarin",
+    "pubchem_found": true,
+    "pubchem_cid": 5213,
+    "pubchem_iupac": "3,5,7-trihydroxy-2-[3-(4-hydroxy-3-methoxyphenyl)-2-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-6-yl]-2,3-dihydrochromen-4-one"
+  },
+  {
+    "dish": "djelbana b'garnon",
+    "original": "Inositol",
+    "normalized": "inositol",
+    "pubchem_found": true,
+    "pubchem_cid": 892,
+    "pubchem_iupac": "cyclohexane-1,2,3,4,5,6-hexol"
+  },
+  {
+    "dish": "djelbana b'garnon",
+    "original": "SolFiber",
+    "normalized": "solfiber",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "djelbana b'garnon",
+    "original": "GelatinisedFlour",
+    "normalized": "gelatinisedflour",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "fritte omelette",
+    "original": "AcrylamideMaillard",
+    "normalized": "acrylamidemaillard",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "fritte omelette",
+    "original": "StarchLipid",
+    "normalized": "starchlipid",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "fritte omelette",
+    "original": "OxidisedLipids",
+    "normalized": "oxidisedlipids",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  },
+  {
+    "dish": "fritte omelette",
+    "original": "CCK",
+    "normalized": "cck",
+    "pubchem_found": false,
+    "pubchem_cid": null,
+    "pubchem_iupac": null
+  }
+]

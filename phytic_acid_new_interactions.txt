@@ -1,0 +1,231 @@
+================================================================================
+  PHYTIC ACID (IP6) — NEW INTERACTIONS TO ADD TO GCN TRAINING DATA
+  For fine-tuning: food node 762 (Phytic Acid) in unified-DFI
+  Source: Drugs.com, PubMed, in vitro studies
+================================================================================
+
+FOOD NODE:
+  Name       : Phytic Acid (IP6 / Inositol Hexaphosphate)
+  unified-DFI food_id : 762
+  Type       : Food Bioactive
+  SMILES     : C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O)OP(=O)(O)O
+
+================================================================================
+  INTERACTION 1 — Iron (Fe²⁺)
+================================================================================
+  Target             : Iron Supplements / Non-Heme Iron absorption
+  unified-DFI drug ? : Iron = food_id 18 (Iron, Dietary Nutrient)
+                       Iron Supplements = food_id 474 (Iron Supplements)
+  Mechanism          : Phytic acid is the most potent inhibitor of non-heme iron
+                       absorption. Forms insoluble iron-phytate complexes in the
+                       GI tract. Even a single high-phytate meal can reduce iron
+                       absorption by 50–90%.
+  Clinical Risk      : Iron-deficiency anemia in patients relying on plant-based
+                       iron sources; failure of oral iron supplementation therapy.
+  Edge Type          : ABSORPTION BLOCK (pre-systemic chelation)
+  Confidence        : HIGH
+  Reference          : Hallberg et al., Am J Clin Nutr 1989; PMID: 2492779
+
+================================================================================
+  INTERACTION 2 — Zinc (Zn²⁺)
+================================================================================
+  Target             : Zinc Supplements
+  Drug examples      : Zinc sulfate, Zinc gluconate, Zinc acetate (OTC supplements)
+  unified-DFI drug ? : Search drug_id_map for "zinc"
+  Mechanism          : Phytic acid forms insoluble Zn-phytate complexes in the
+                       intestinal lumen. IP6 has strong affinity for Zn²⁺
+                       (even stronger than Fe²⁺). Significantly reduces zinc
+                       bioavailability.
+  Clinical Risk      : Zinc deficiency; failure of zinc supplementation; reduced
+                       wound healing and immune function in hospital patients.
+  Edge Type          : ABSORPTION BLOCK
+  Confidence        : HIGH
+  Reference          : Sandstrom B, Eur J Clin Nutr 1997; PMID: 9250911
+
+================================================================================
+  INTERACTION 3 — Calcium (Ca²⁺)
+================================================================================
+  Target             : Calcium Supplements / Calcium-containing medications
+  Drug examples      : Calcium carbonate (Tums), Calcium citrate, Calcium-based
+                       antacids, Bisphosphonates (co-administered with calcium)
+  unified-DFI drug ? : Search drug_id_map for "calcium"
+  Mechanism          : Forms insoluble calcium-phytate salt. Drugs.com specifically
+                       recommends spacing calcium administration at LEAST 2 hours
+                       apart from high-phytate foods (bran, whole grains, legumes).
+  Clinical Risk      : Osteoporosis in long-term phytate-rich diets; reduced
+                       calcium bioavailability for bone density maintenance.
+  Edge Type          : ABSORPTION BLOCK
+  Spacing Required  : ≥ 2 hours separation (Drugs.com recommendation)
+  Confidence        : HIGH
+  Reference          : Drugs.com interaction checker; Lopez et al., Nutrients 2016
+
+================================================================================
+  INTERACTION 4 — Magnesium (Mg²⁺)
+================================================================================
+  Target             : Magnesium Supplements
+  Drug examples      : Magnesium oxide, Magnesium citrate, Mg-based antacids
+  unified-DFI drug ? : Search drug_id_map for "magnesium"
+  Mechanism          : Similar chelating mechanism to iron and zinc. IP6 forms
+                       insoluble Mg-phytate complexes in the gut. Magnesium
+                       deficiency is already common in Western diets.
+  Clinical Risk      : Hypomagnesemia; reduced effect of magnesium supplements;
+                       worsened muscle cramps, cardiac arrhythmia risk in
+                       susceptible patients.
+  Edge Type          : ABSORPTION BLOCK
+  Confidence        : MEDIUM-HIGH
+  Reference          : Bohn L et al., J Zhejiang Univ Sci B 2008; PMID: 18576000
+
+================================================================================
+  INTERACTION 5 — Vitamin D
+================================================================================
+  Target             : Vitamin D (Cholecalciferol, D3 / Ergocalciferol, D2)
+  Drug examples      : Vitamin D3 supplements, Calcitriol (active form, Rx)
+  unified-DFI drug ? : Search drug_id_map for "vitamin D / calcitriol / cholecalciferol"
+  Mechanism          : Phytate has been described as a functional antagonist to
+                       Vitamin D. NOT a direct chemical chelation (Vitamin D is
+                       fat-soluble, not a metallic cation). Mechanism: phytate-
+                       induced mineral deficiencies (Ca²⁺, Mg²⁺) impair Vitamin D
+                       signaling pathways (vitamin D receptor requires Mg²⁺ as
+                       cofactor; calcium metabolism is the primary Vitamin D
+                       downstream effect). Indirect antagonism.
+  Clinical Risk      : Rickets in children on phytate-heavy diets; impaired bone
+                       mineralization despite adequate Vitamin D supplementation.
+  Edge Type          : INDIRECT ANTAGONISM (not direct chelation — different
+                       edge type from Fe/Zn/Ca interactions)
+  Confidence        : MEDIUM
+  Reference          : Batchelor & Compston, Lancet 1983; PMID: 6130807
+
+================================================================================
+  INTERACTION 6 — Catechin (EGCG / Green Tea Antioxidant)
+================================================================================
+  Target             : Catechin / EGCG (Epigallocatechin gallate)
+  Drug examples      : Green tea extract supplements; EGCG capsules
+  unified-DFI food ? : Search food_id_map for "catechin / EGCG"
+                       Note: this is a food–food interaction (both are bioactives)
+                       — DFI bipartite graph does not natively support this;
+                       annotate as a food-node modulating edge
+  Mechanism          : Both phytic acid and catechin individually have
+                       hepatoprotective effects. When combined, the two compounds
+                       form a complex that ABOLISHES the hepatoprotective benefit
+                       of either compound alone. Specific contraindication noted
+                       in research context.
+  Clinical Risk      : Loss of expected antioxidant/hepatoprotective benefit;
+                       relevant for patients using EGCG supplements concurrently
+                       with a phytate-rich diet.
+  Edge Type          : FOOD–FOOD ANTAGONISM (non-standard edge; note for GCN)
+  Confidence        : MEDIUM (research-level, not clinical guideline)
+  Reference          : Graf & Eaton, Cancer Lett 1993; PMID: 8221596
+
+================================================================================
+  INTERACTION 7 — CYP1A Enzymes (Liver Metabolism)
+================================================================================
+  Target             : CYP1A substrates (CYP1A1 / CYP1A2)
+  Drug examples      : Theophylline (asthma), Clozapine (antipsychotic),
+                       Olanzapine (antipsychotic), Caffeine, Haloperidol,
+                       Erlotinib (cancer), Tacrine (Alzheimer's)
+  unified-DFI drug ? : Search drug_id_map for "theophylline / clozapine / olanzapine"
+  Mechanism          : Recent studies show phytic acid can modulate CYP1A enzyme
+                       activity and mRNA expression in the liver. Exact direction
+                       (induction or inhibition) and degree are not fully
+                       characterized. Low clinical significance at culinary doses.
+  Clinical Risk      : LOW — potential minor changes in clearance of CYP1A
+                       substrates. Flag for patients on narrow-therapeutic-index
+                       CYP1A drugs (Theophylline, Clozapine).
+  Edge Type          : ENZYME MODULATION (CYP1A)
+  Confidence        : LOW-MEDIUM (in vivo data limited; in vitro signal only)
+  Reference          : Vucenik & Shamsuddin, J Nutr 2003; PMID: 14519816
+
+================================================================================
+  INTERACTION 8 — Levothyroxine (Thyroid Medication)
+================================================================================
+  Target             : Levothyroxine (Synthroid, Euthyrox)
+  unified-DFI drug ID: 722 (confirmed in drug_id_map.csv)
+  Mechanism          : Phytic acid chelates the metallic ions (Fe³⁺, Ca²⁺) that
+                       in turn chelate Levothyroxine. ALSO: phytic acid may
+                       directly form a complex with the Levothyroxine molecule
+                       via its iodine-containing aromatic ring. Net effect:
+                       reduced Levothyroxine absorption → hypothyroid symptoms
+                       despite correct dosing.
+  Clinical Risk      : HIGH — Levothyroxine has a narrow therapeutic index;
+                       even small reductions in absorption cause measurable TSH
+                       changes within weeks.
+  Edge Type          : ABSORPTION BLOCK (add new edge: food 762 → drug 722)
+  Current GCN status : ❌ NOT in train.txt — must be added
+  Confidence        : HIGH
+  Reference          : Singh N et al., Thyroid 2000; PMID: 11014320
+                       Liwanpo & Hershman, Thyroid 2009; PMID: 19014315
+
+================================================================================
+  INTERACTION 9 — HIV-1 Antivirals (Capsid Maturation)
+================================================================================
+  Target             : HIV capsid assembly inhibitors / antiretroviral agents
+  Drug examples      : Lenacapavir (Sunlenca) — capsid inhibitor
+                       Potentially: Darunavir, Lopinavir (protease inhibitors)
+  unified-DFI drug ? : Search drug_id_map for "lenacapavir / darunavir"
+  Mechanism          : Intracellular IP6 (phytic acid) acts as a COFACTOR for
+                       HIV-1 capsid assembly and maturation. IP6 binds inside
+                       the HIV capsid pore, stabilizing the mature core.
+                       Implication: dietary phytic acid absorbed into cells may
+                       PROMOTE HIV capsid formation, potentially OPPOSING the
+                       mechanism of capsid inhibitors like Lenacapavir.
+  Clinical Risk      : RESEARCH-LEVEL ONLY — NOT clinically validated. The
+                       concentrations of phytic acid reaching intracellular
+                       compartments in vivo are uncertain. Flag for future
+                       research, not current clinical guidance.
+  Edge Type          : MECHANISTIC OPPOSITION (research-level; low clinical weight)
+  Confidence        : LOW (in vitro only)
+  Reference          : Dick RA et al., Nature 2018; PMID: 29769721
+                       Mallery DL et al., eLife 2018; PMID: 30177288
+
+================================================================================
+  SUMMARY TABLE — NEW EDGES TO ADD TO TRAIN.TXT
+================================================================================
+
+  Food node 762 (Phytic Acid) → new drug edges needed:
+
+  Priority | Drug Target          | Drug ID (unified) | Edge Type        | Confidence
+  ---------|----------------------|-------------------|------------------|------------
+  HIGH     | Iron Supplements     | 474               | ABSORPTION BLOCK | HIGH
+  HIGH     | Levothyroxine        | 722               | ABSORPTION BLOCK | HIGH
+  HIGH     | Zinc Supplements     | search "zinc"     | ABSORPTION BLOCK | HIGH
+  HIGH     | Calcium Carbonate    | search "calcium"  | ABSORPTION BLOCK | HIGH
+  MED-HIGH | Magnesium Oxide      | search "magnesium"| ABSORPTION BLOCK | MED-HIGH
+  MEDIUM   | Vitamin D3           | search "cholecalc"| INDIRECT ANTAG.  | MEDIUM
+  MEDIUM   | Theophylline         | search "theophyll"| CYP1A MODULATION | LOW-MED
+  MEDIUM   | Clozapine            | search "clozapine"| CYP1A MODULATION | LOW-MED
+  LOW      | Lenacapavir          | search "lenacap"  | MECH. OPPOSITION | LOW (in vitro)
+
+  FOOD–FOOD edge (non-standard, note only):
+    food 762 (Phytic Acid) × food ??? (Catechin/EGCG) → ABOLISH hepatoprotection
+
+================================================================================
+  NOTES FOR FINE-TUNING
+================================================================================
+
+  1. FORMAT for train.txt lines:
+     <food_id> <drug_id1> <drug_id2> ...
+     e.g., to add Phytic Acid → Levothyroxine:
+     Find the line starting with "762" and append " 722" to it.
+     Current line: 762 20
+     New line    : 762 20 722 <zinc_id> <calcium_id> <magnesium_id>
+
+  2. EDGE WEIGHTS:
+     All currently unweighted in the adjacency matrix (binary 0/1).
+     If weighted edges are implemented in future training, suggest:
+       - Iron chelation     : weight 0.95 (very strong)
+       - Zinc chelation     : weight 0.90
+       - Calcium chelation  : weight 0.85
+       - Levothyroxine      : weight 0.80
+       - Magnesium          : weight 0.70
+       - Vitamin D (indirect): weight 0.40
+       - CYP1A modulation   : weight 0.20
+       - HIV capsid (in vitro): weight 0.05
+
+  3. SMILES for new nodes (if not in feature_extra):
+     Zinc (ionic, supplement form):   [Zn+2]
+     Calcium (ionic):                 [Ca+2]
+     Magnesium (ionic):               [Mg+2]
+     Vitamin D3 (Cholecalciferol):    C[C@@H](CCCC(C)(C)O)[C@H]1CC[C@@H]2[C@@]1(CCCC2=CC=C3C[C@@H](O)CCC3=C)C
+     Catechin (EGCG):                 Oc1cc(O)c2c(c1)O[C@@H](c1cc(O)c(O)c(O)c1)[C@H](O)C2
+
+================================================================================

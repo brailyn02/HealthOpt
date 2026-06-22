@@ -1,0 +1,5 @@
+config,recall_n,recall_pct,actionable_n,actionable_pct,HIGH,MEDIUM,LOW,INSUFFICIENT
+Config 1: Layer 3 only (LGN),889,100.0,805,90.6,710,95,84,0
+Config 2: Layers 2+3 (LGN + KGE),889,100.0,805,90.6,706,99,84,0
+Config 3: Layers 1+2+3 (full probabilistic),889,100.0,805,90.6,706,99,84,0
+Config 4: Full system (all layers),889,100.0,809,91.0,716,93,80,0
