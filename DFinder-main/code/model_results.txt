@@ -1,0 +1,44 @@
+============================================================
+  DFinder (LightGCN + DNN) — unified-DFI Dataset
+  Evaluation Results — 500 Epochs
+============================================================
+
+Dataset
+-------
+  Training pairs  : 44,395
+  Test pairs      : 12,513
+  Total pairs     : 56,908
+  Drugs           : 5,000
+  Foods           : 1,894
+  Sparsity        : 0.006009
+
+Feature Coverage
+----------------
+  Drug features   : 3,820 / 5,000  (76.4%)  — Morgan FP (radius=2, 2048-bit)
+  Food features   : 1,519 / 1,894  (80.2%)  — Morgan FP (PubChem + FooDB)
+
+Model Config
+------------
+  Architecture    : LightGCN (3 layers) + DNN (2048→1024→512→256→64)
+  Embedding dim   : 64
+  Final embed dim : 128 (GCN 64 + DNN 64)
+  LR              : 0.001
+  Decay           : 1e-4
+  BPR batch size  : 512
+  Loss (final)    : ~0.010
+
+Evaluation Metrics (Test Set)
+------------------------------
+  AUC  (group-weighted)   : 0.9035
+  AUPR (group-weighted)   : 0.2418
+  AUC  (normal)           : 0.9234
+  AUPR (normal)           : 0.0673
+  Recall@20               : 0.4052
+  NDCG@20                 : 0.3060
+  Precision@20            : 0.0757
+
+Checkpoint
+----------
+  File : DFinder-main/code/checkpoints/lgn-unified-DFI-3-64.pth.tar
+  Date : 22/02/2026
+============================================================
