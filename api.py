@@ -17,7 +17,6 @@ Endpoints:
 
 import os
 import sys
-import threading
 from pathlib import Path
 
 # Ensure workspace root is on sys.path and is the working directory
@@ -54,38 +53,28 @@ def root():
 _dfinder = None
 _model_loading = False
 _model_error = None
-_model_lock = threading.Lock()
 
 
-def _load_model_worker():
+@app.on_event("startup")
+async def load_model():
     global _dfinder, _model_loading, _model_error
+    if _dfinder is not None:
+        return
+    _model_loading = True
     try:
         print("=" * 60)
         print("  DFinder API — loading all layers...")
         print("=" * 60)
         from predict import DFinder
-        model = DFinder(verbose=True)
-        with _model_lock:
-            _dfinder = model
-            _model_error = None
+        _dfinder = DFinder(verbose=True)
+        _model_error = None
         print("DFinder API ready.")
     except Exception as exc:
-        with _model_lock:
-            _model_error = f"{type(exc).__name__}: {exc}"
+        _model_error = f"{type(exc).__name__}: {exc}"
         print(f"DFinder API load failed: {_model_error}")
+        raise
     finally:
-        with _model_lock:
-            _model_loading = False
-
-
-@app.on_event("startup")
-async def load_model():
-    global _model_loading
-    with _model_lock:
-        if _dfinder is not None or _model_loading:
-            return
-        _model_loading = True
-    threading.Thread(target=_load_model_worker, daemon=True).start()
+        _model_loading = False
 
 
 # ── Request model ─────────────────────────────────────────────────────────────
