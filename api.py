@@ -34,10 +34,21 @@ app = FastAPI(title="DFinder API", version="1.0")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
-    allow_methods=["GET", "POST"],
+    allow_origin_regex=r"https?://(localhost|127\.0\.0\.1|.*\.onrender\.com)(:\d+)?",
+    allow_methods=["*"],
     allow_headers=["*"],
+    allow_credentials=True,
 )
+
+@app.get("/")
+def root():
+    return {
+        "status": "ok",
+        "service": "DFinder API",
+        "message": "API is running",
+        "endpoints": ["/health", "/ready", "/predict", "/docs"],
+    }
+
 
 # ── DFinder instance — loaded once at startup ─────────────────────────────────
 _dfinder = None
