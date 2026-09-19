@@ -19,6 +19,10 @@
 import type express from "express";
 import { FOODS, SUB_GROUPS, DISH_RECIPES, FOOD_TO_GROUPS, SYNERGY_RULES, FAST_TIERS } from "./nutritionist_data";
 
+const defaultDfinderApiBase =
+  process.env.NODE_ENV === "production" ? "https://healthopt-api.onrender.com" : "http://localhost:8000";
+const dfinderApiBase = (process.env.DFINDER_API_URL || defaultDfinderApiBase).replace(/\/$/, "");
+
 type Tier = "HIGH" | "MEDIUM" | "LOW" | "SAFE";
 type ProfileLite = { id: string; role: string; name?: string; specialty?: string };
 type Lang = "fr" | "en" | "ar";
@@ -183,7 +187,7 @@ export function registerNutritionistRoutes(deps: NutritionistDeps): void {
     try {
       const ctrl = new AbortController();
       const t = setTimeout(() => ctrl.abort(), 3500);
-      const r = await fetch("http://localhost:8000/predict", {
+      const r = await fetch(`${dfinderApiBase}/predict`, {
         method: "POST", headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ drug, food, language: lang }), signal: ctrl.signal,
       });

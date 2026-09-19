@@ -11,6 +11,9 @@ import { registerPharmacistRoutes } from "./pharmacist_routes";
 import { registerNutritionistRoutes } from "./nutritionist_routes";
 
 const sqliteBusyTimeoutMs = Number(process.env.SQLITE_BUSY_TIMEOUT_MS || 10000);
+const defaultDfinderApiBase =
+  process.env.NODE_ENV === "production" ? "https://healthopt-api.onrender.com" : "http://localhost:8000";
+const dfinderApiBase = (process.env.DFINDER_API_URL || defaultDfinderApiBase).replace(/\/$/, "");
 const sqlitePath = "healthopt.db";
 
 function openHealthyDatabase(): Database.Database {
@@ -2513,7 +2516,7 @@ async function startServer() {
     }
 
     try {
-      const pyRes = await fetch("http://localhost:8000/predict", {
+      const pyRes = await fetch(`${dfinderApiBase}/predict`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ drug: row.drug, food: row.food, language: "en" }),
@@ -2721,7 +2724,7 @@ async function startServer() {
             const controller = new AbortController();
             const timeoutId = setTimeout(() => controller.abort(), 5000); // 5s timeout per food
 
-            const pyRes = await fetch("http://localhost:8000/predict", {
+            const pyRes = await fetch(`${dfinderApiBase}/predict`, {
               method: "POST",
               headers: { "Content-Type": "application/json" },
               body: JSON.stringify({
@@ -3091,7 +3094,7 @@ async function startServer() {
     if (activeVirtualMeds.length > 0) {
       lines.push(`Active virtual medications: ${activeVirtualMeds.map((med) => med.public_label).join(", ")}`);
     }
-    const pyRes = await fetch("http://localhost:8000/predict", {
+    const pyRes = await fetch(`${dfinderApiBase}/predict`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ drug: row.drug, food: row.food, language: "en" }),
@@ -3115,7 +3118,7 @@ async function startServer() {
 
   app.get("/api/backend-status", async (_req, res) => {
     try {
-      const pyHealth = await fetch("http://localhost:8000/health");
+      const pyHealth = await fetch(`${dfinderApiBase}/health`);
       if (!pyHealth.ok) {
         return res.status(503).json({
           ready: false,
@@ -3536,7 +3539,7 @@ async function startServer() {
 
     // Guard against cold-start requests while Python model is still warming up.
     try {
-      const pyHealth = await fetch("http://localhost:8000/health");
+      const pyHealth = await fetch(`${dfinderApiBase}/health`);
       if (!pyHealth.ok) {
         return res.status(503).json({
           detail: "DFinder backend is warming up.",
@@ -3627,7 +3630,7 @@ async function startServer() {
     for (const testCtx of testsToRun) {
       const drug = testCtx.drug;
       try {
-        const pyRes = await fetch('http://localhost:8000/predict', {
+        const pyRes = await fetch(`${dfinderApiBase}/predict`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ drug, food, language })

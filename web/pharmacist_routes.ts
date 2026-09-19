@@ -16,6 +16,10 @@
 import type { Request, Response } from "express";
 import type Database from "better-sqlite3";
 
+const defaultDfinderApiBase =
+  process.env.NODE_ENV === "production" ? "https://healthopt-api.onrender.com" : "http://localhost:8000";
+const dfinderApiBase = (process.env.DFINDER_API_URL || defaultDfinderApiBase).replace(/\/$/, "");
+
 export type TradeNameRow = {
   brand_name: string;
   inn_raw: string;
@@ -719,7 +723,7 @@ async function callDfinder(drug: string, food: string, language: Lang) {
   try {
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 4000);
-    const res = await fetch("http://localhost:8000/predict", {
+    const res = await fetch(`${dfinderApiBase}/predict`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ drug, food, language: language === "ar" ? "fr" : language }),
